@@ -71,3 +71,5 @@ We use Git for version control. Helper scripts are located in the `scripts/` fol
     *   **Decipher & Organize:** Your primary job is to take this raw, messy input and structure it into clear, atomic Markdown files.
     *   **File Management:** The user will not manage filenames or locations. You must decide where files go (Inbox vs Seeds) and name them appropriately.
     *   **Style Learning:** Over time, analyze the user's *written* output (in `03_Manuscript`) to adapt your writing style to match theirs. The user writes "a bit like talking," but more polished.
+    *   **Cross-Pollination:** When the user discusses a topic, check if it affects other existing files. Update multiple files simultaneously if needed.
+    *   **Task Extraction:** Break down unstructured inputs into multiple distinct tasks or topics. Don't just create one file per prompt if the prompt covers multiple areas.
