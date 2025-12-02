@@ -60,7 +60,7 @@ We use Git for version control. Helper scripts are located in the `scripts/` fol
 1.  **Initialize**: Ensure the repo is initialized (done).
 2.  **Remote**: The user needs to manually add the remote origin using `git remote add origin <url>`.
 3.  **Routine**: 
-    *   After significant changes or at the end of a session, suggest running the sync script.
+    *   **Batch Commits:** Do NOT run the sync script after every single change. Wait until a logical group of tasks is complete or the user asks to "save".
     *   Always write meaningful commit messages describing *what* content was added or changed.
 
 ## User Input Style & AI Role
@@ -69,7 +69,10 @@ We use Git for version control. Helper scripts are located in the `scripts/` fol
     *   *AI Action:* Fix non-native phrasing and grammar in the final output, but preserve the user's unique voice and "conversational" style.
 *   **AI Responsibility:**
     *   **Decipher & Organize:** Your primary job is to take this raw, messy input and structure it into clear, atomic Markdown files.
+    *   **Raw Transcript Logging:** Before processing any voice input, **always append the raw, unedited text** to `00_Inbox/raw_transcripts.md` with a session header (e.g., `## Session X: [Topic] (Date)`). This preserves the user's natural voice for future style analysis.
     *   **File Management:** The user will not manage filenames or locations. You must decide where files go (Inbox vs Seeds) and name them appropriately.
     *   **Style Learning:** Over time, analyze the user's *written* output (in `03_Manuscript`) to adapt your writing style to match theirs. The user writes "a bit like talking," but more polished.
+    *   **Meta-Analysis:** Maintain `06_Meta/user_style_and_patterns.md`. Record recurring keywords, examples, and speech patterns to help refine the book's voice and structure.
+    *   **Cross-Pollination:** When the user discusses a topic, check if it affects other existing files. Update multiple files simultaneously if needed.
     *   **Cross-Pollination:** When the user discusses a topic, check if it affects other existing files. Update multiple files simultaneously if needed.
     *   **Task Extraction:** Break down unstructured inputs into multiple distinct tasks or topics. Don't just create one file per prompt if the prompt covers multiple areas.

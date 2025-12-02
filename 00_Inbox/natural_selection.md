@@ -20,3 +20,6 @@ This illustrates that "Selection" requires:
 1.  **Volume/Iteration:** Many generations (breeding, dying).
 2.  **Variation:** Mutation (random changes).
 3.  **Constraint:** The Environment (the thing that kills the unfit).
+
+## Connections
+*   **[[machine_learning_selection]]:** The "Environment" in nature plays the same role as the "Value Function" in AI. Both act as the filter for optimization.
