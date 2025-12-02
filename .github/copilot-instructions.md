@@ -62,3 +62,10 @@ We use Git for version control. Helper scripts are located in the `scripts/` fol
 3.  **Routine**: 
     *   After significant changes or at the end of a session, suggest running the sync script.
     *   Always write meaningful commit messages describing *what* content was added or changed.
+
+## User Input Style & AI Role
+*   **Input Format:** The user provides input primarily via voice-to-text. Expect run-on sentences, conversational fillers ("like", "um"), and unstructured thoughts.
+*   **AI Responsibility:**
+    *   **Decipher & Organize:** Your primary job is to take this raw, messy input and structure it into clear, atomic Markdown files.
+    *   **File Management:** The user will not manage filenames or locations. You must decide where files go (Inbox vs Seeds) and name them appropriately.
+    *   **Style Learning:** Over time, analyze the user's *written* output (in `03_Manuscript`) to adapt your writing style to match theirs. The user writes "a bit like talking," but more polished.
