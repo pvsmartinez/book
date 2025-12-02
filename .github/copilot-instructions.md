@@ -65,6 +65,8 @@ We use Git for version control. Helper scripts are located in the `scripts/` fol
 
 ## User Input Style & AI Role
 *   **Input Format:** The user provides input primarily via voice-to-text. Expect run-on sentences, conversational fillers ("like", "um"), and unstructured thoughts.
+*   **Language Context:** The user is Brazilian. English is their second language.
+    *   *AI Action:* Fix non-native phrasing and grammar in the final output, but preserve the user's unique voice and "conversational" style.
 *   **AI Responsibility:**
     *   **Decipher & Organize:** Your primary job is to take this raw, messy input and structure it into clear, atomic Markdown files.
     *   **File Management:** The user will not manage filenames or locations. You must decide where files go (Inbox vs Seeds) and name them appropriately.
