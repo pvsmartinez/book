@@ -6,11 +6,12 @@
 *   **Format:** Voice-to-text inputs.
 *   **Common Fillers:** "Like", "Right", "So", "Umm", "OK".
 *   **Sentence Structure:** Run-on sentences, conversational flow. Often corrects self mid-sentence.
-*   **Tone:** Casual, exploratory, "hands-on", **Optimistic**.
+*   **Tone:** Casual, exploratory, "hands-on", **Optimistic**, **Didactic**.
 *   **Language:** Native Portuguese speaker. English is 2nd language.
     *   *Action:* Fix grammar/phrasing but keep the "conversational" rhythm.
 *   **Raw Voice Preservation:** The user values the "raw" unpolished transcripts to maintain their unique voice.
     *   *Action:* Log raw inputs to `00_Inbox/raw_transcripts.md`.
+*   **The Teacher Persona:** The user wants to ensure the reader is never lost. When switching between varied domains (AI, Politics, Bio), explicitly bridge the context. Explain concepts simply before diving deep.
 
 ## 2. Recurring Keywords & Concepts
 *   **Selection / Natural Selection:** The primary mechanism for how things evolve/optimize.

@@ -26,6 +26,12 @@
 *   **Consequence**: Divergence. The gap between those with capital and those without doesn't just stay the same; it widens exponentially.
 *   **The "Error"**: What seems like a fair system (everyone gets 15%) becomes an impossible barrier over time. A worker starting from zero can never catch up to the exponential curve of the capital holder.
 
+## The Limit of Compounding (Oscillation vs. Extremism)
+Compounding doesn't always go up forever. It interacts with the environment.
+*   **Static Environment:** Leads to **Extremism**. (e.g., The Cheetah getting faster until it's too fragile).
+*   **Dynamic Environment:** Leads to **Oscillation**. (e.g., Fashion trends swinging back and forth).
+*   *See:* [[shifting_value_functions]] for how the environment reacts to compounding.
+
 ## Environment Feedback
 *   **Why doesn't it break?** If this continued for 500 years, one person would own everything.
 *   **Correction Mechanisms**: The environment changes.

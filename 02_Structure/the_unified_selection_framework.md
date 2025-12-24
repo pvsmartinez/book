@@ -38,7 +38,8 @@ $$ \text{Outcome} = \text{Environment}(\text{Iteration} \times \text{Variance}) 
 
 #### 4. Time (The Compounder)
 *   **Definition:** The duration over which the algorithm runs.
-*   **Rule:** **Small advantages compound.** Over enough time, a 1% advantage becomes a 100% dominance (The Pareto Distribution).
+*   **Rule:** **Small advantages compound.** Over enough time, a 1% advantage becomes a 100% dominance.
+*   **The Twist:** Time also compounds pressure on the Environment. If the Value Function doesn't shift, the system breaks (Extremism). If it does, the system oscillates. (See [[shifting_value_functions]]).
 
 ---
 

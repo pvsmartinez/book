@@ -20,6 +20,13 @@ $$ \text{Adaptation Speed} \approx \frac{\text{Iterations} \times \text{Mutation
 *   **Elephants**: Low Iteration + Low Mutation = Slow Adaptation (Vulnerable to rapid environmental change).
 *   **Startups**: "Fail fast" is an attempt to artificially increase the Iteration rate to adapt to the market before running out of money (Time).
 
+## The Trap: Over-Optimization (The Cheetah)
+Adaptation has a blind spot. If the environment is too stable for too long, agents over-optimize for a single metric.
+*   **The Cheetah:** Optimized purely for speed (Iteration on "Catch Prey").
+*   **The Result:** It became so specialized (light, fast) that it lost the ability to defend itself.
+*   **The Lesson:** Adaptation without changing constraints leads to fragility.
+*   *See:* [[shifting_value_functions]]
+
 ## Conclusion
 If you want to win against a system, you must either:
 1.  Stop it from iterating.
