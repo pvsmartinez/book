@@ -12,6 +12,8 @@
 *   **Raw Voice Preservation:** The user values the "raw" unpolished transcripts to maintain their unique voice.
     *   *Action:* Log raw inputs to `00_Inbox/raw_transcripts.md`.
 *   **The Teacher Persona:** The user wants to ensure the reader is never lost. When switching between varied domains (AI, Politics, Bio), explicitly bridge the context. Explain concepts simply before diving deep.
+*   **Visual Thinker:** Wants to "see" the whole book structure laid out (all parts/chapters) to understand the flow, even if the content is empty.
+*   **Consistency Checker:** Very attentive to discrepancies between the plan (master outline) and the reality (files).
 
 ## 2. Recurring Keywords & Concepts
 *   **Selection / Natural Selection:** The primary mechanism for how things evolve/optimize.
@@ -44,6 +46,8 @@
 *   **"Removed Competition"**: Arresting a drug dealer just opens the market for the next one. The position remains even if the person is gone.
 *   **"Buying Time"**: Symptom management isn't the solution, but it prevents the error from compounding while you redesign the system.
 *   **"The Dual Approach"**: Neither symptom-fighting alone nor system-redesign alone works. Both must operate in parallel.
+*   **"Polemic"**: Avoids purely sensational headlines; prefers substance.
+*   **"Visual Hierarchy"**: H1/H2 structure matters for readability and export (Google Docs compatibility).
 
 ## Key References
 *   *Why Nations Fail* (Acemoglu & Robinson): The gold standard for the "lens" approach.
