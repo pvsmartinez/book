@@ -37,6 +37,11 @@ We are using an organic, bottom-up approach. We do not force a table of contents
 *   **Purpose:** External input.
 *   **Content:** Quotes, articles, bibliography, reference material.
 
+### `08_Feedback`
+*   **Purpose:** Reviews and critique notes.
+*   **Content:** Notes taken while reading exported PDFs (e.g., "Fix typo in Ch 3", "Rewrite intro").
+*   **AI Role:** Read these notes and apply the requested edits to the `Manuscript`.
+
 ### `99_Compost`
 *   **Purpose:** Discarded ideas.
 *   **Content:** Old drafts, ideas that didn't fit. Nothing is ever truly deleted, just composted.

@@ -46,21 +46,26 @@
 
 ### Draft
 
-You've opened your phone and started browsing the news. There you see headlines like **"2023 confirmed as world's hottest year on record, smashing previous highs by huge margins."** — [BBC News](https://www.bbc.com/news/science-environment-67861954), **"World's five richest men have doubled their fortunes since 2020, while the poorest 5 billion people have become poorer."** — [Oxfam Inequality Report](https://www.oxfam.org/en/press-releases/wealth-five-richest-men-doubles-2020-five-billion-people-made-poorer-oxfam), **"Brazil floods: 'It's like a war scene' as cities go underwater."** — [BBC News](https://www.bbc.com/news/world-latin-america-68960000). 
+Do you remember the news in the early 2000s?
+Maybe you remember a scandal about a politician's affair. Maybe a debate about tax rates. It felt... manageable.
 
-Everywhere you look, it’s the same. More insane news, more extreme outcomes. "It's the AI bubble!", "Trump tweets some random thing and stock markets shake!", "The biggest money laundering scheme ever recorded from the PCC Brazilian cartel is busted." And the list goes on.
+Then, 2010. The headlines started getting a bit louder. "The Great Recession." "The Rise of Social Media." Things felt faster.
 
-**"The average attention span on a screen has dropped to 47 seconds."** — [Dr. Gloria Mark, UC Irvine](https://news.northeastern.edu/2024/01/16/attention-span-shrinking/). ADHD is on the rise, and our ability to focus is being shredded into 10-second TikTok clips.
+Then, 2020. "Global Pandemic." "Insurrection." "Trillion Dollar Companies."
 
-It’s exhausting. And if you’re like me, you might feel a bit of a contradiction. I am an optimist by nature. I love technology, I love progress, and I believe in the human capacity to solve problems. But even as an optimist, I can see that so many things are going wrong at the same time. It feels like the world is vibrating at a higher frequency, getting louder, faster, and more polarized every single day.
+Now, today. **"2023 confirmed as world's hottest year on record."** **"World's five richest men have doubled their fortunes while 5 billion became poorer."** **"Attention spans dropped to 47 seconds."**
+
+It feels like someone turned the volume knob on the world from a 4 to an 11, and then broke the knob.
+
+It’s exhausting. And if you’re like me, you might feel a bit of a contradiction. I am an optimist by nature. I love technology, I love progress. But even as an optimist, I can see that the world is vibrating at a higher frequency. It’s getting louder, faster, and more polarized every single day.
 
 When we see these things, our first instinct is to look for a villain. We blame "evil" politicians, "greedy" CEOs, or "unethical" algorithms. We want to believe that if we just removed the "bad people," the system would go back to being "good."
 
 But what if it’s not about evil? What if it’s just *math*?
 
-What if the world isn't "broken"? What if it's working exactly as it was designed to work, but it's optimizing for things we didn't expect? 
+What if the world isn't "broken"? What if it's working exactly as it was designed to work, but it's **selecting** for outcomes we didn't expect?
 
-Take YouTube. It’s not trying to annoy you or destroy your attention span; it’s just optimizing for **Watch Time**. The market isn’t trying to starve anyone; it’s optimizing for **Capital Efficiency**. The Cheetah in the savannah isn't "trying" to be a killer; it's just the result of millions of years of optimizing for **Catching Prey**.
+Take YouTube. It’s not trying to annoy you or destroy your attention span; it’s just optimizing for **Watch Time**. The market isn’t trying to starve anyone; it’s optimizing for **Capital Efficiency**.
 
 We are trapped in systems that are optimizing themselves into extremism. To understand why, we have to stop looking at the players and start looking at the code. We need a new lens—a way to see the "Universal Algorithm" that runs through nature, markets, and our own pockets.
 
