@@ -99,6 +99,13 @@ It is just polemic. translate the headline to english. im not happy with the sta
 ## Session 3: Deepening & Seed Audit (2025-12-25)
 I would love for you to... add the 'Traffic' (emergent behavior) and 'LEGO' (building blocks) metaphors into Chapter 15.
 
+## Session 4: Polishing and Export (2025-12-25)
+Few points here. One is it needed to create the MD and HTML file before the PDF? Just to know if we would need like all three files should always exist. And second, like as I'm just looking right now, we see 93 pages, so our appraisal was way off. It was saying about like 30 pages something like that so. Definitely something for us to check out, like the appraisal script. Probably change it. And then. Yeah, like for the book, I think it's good enough right now. Maybe we should later check. The font that's being used, if that's the most common, I love that. I don't like the. The first page itself, but yeah, it's a draft, so it works.
+
+Perfect. Now just delete all the versions because those were all for like testing the for matching and I want to keep versions. That are different in content itself, right? So this was more for debugging, not that we have a solid. Expert script just delete all and create the version one.
+
+Perfect. Now let's just finish the session. So do the unusual procedures like write down the raw transcripts. Anything else that's required for the end of the session, like the gate sync as well and so on
+
 Think about the incentive of a successful drug dealer... money without being used has no purpose... the system creates a new incentive: The need to clean the money. Dissect [the favela/police issue] as a system... how as times goes by... drug dealers get more and more money... need to clean this money up... becomes a mafia.
 
 Looking for my for my Sids. Is any of the seeds not used? (in manuscript)

@@ -14,6 +14,8 @@
 *   **The Teacher Persona:** The user wants to ensure the reader is never lost. When switching between varied domains (AI, Politics, Bio), explicitly bridge the context. Explain concepts simply before diving deep.
 *   **Visual Thinker:** Wants to "see" the whole book structure laid out (all parts/chapters) to understand the flow, even if the content is empty.
 *   **Consistency Checker:** Very attentive to discrepancies between the plan (master outline) and the reality (files).
+*   **Version Control Philosophy:** Prefers "clean" versioning. Debugging/formatting iterations should be wiped; only content-significant versions should be preserved in the `07_Exports` folder.
+*   **Physicality of the Book:** Attentive to the physical reality of the book (page count, font choice, title page layout). Values a "Best-Seller" aesthetic.
 
 ## 2. Recurring Keywords & Concepts
 *   **Selection / Natural Selection:** The primary mechanism for how things evolve/optimize.

@@ -1,15 +1,8 @@
----
-title: "The Unified Selection Framework"
-author: "Pedro Martinez"
-date: "December 2025"
----
-
-<div style="text-align: center; margin-top: 100px;">
-    <h1 style="font-size: 3em;">The Unified Selection Framework</h1>
-    <h2 style="font-size: 1.5em; color: #666;">Iteration, Selection, and the Code of the World</h2>
-    <br><br><br>
-    <p style="font-size: 1.2em;">Pedro Martinez</p>
-    <p style="font-size: 1em; color: #999;">Version 1 - 2025-12-25</p>
+<div class="title-page">
+    <h1>The Unified Selection Framework</h1>
+    <h2>Iteration, Selection, and the Code of the World</h2>
+    <p class="author">Pedro Martinez</p>
+    <p class="version">Version 1 | December 2025</p>
 </div>
 
 <div style="page-break-after: always;"></div>
@@ -17,17 +10,18 @@ date: "December 2025"
 # Table of Contents
 [TOC]
 
-<div style="page-break-after: always;"></div>
-
+<div class="part-page">
+    <h1>Part I: The Observation</h1>
+    <p>Why the world feels like it's vibrating at a higher frequency.</p>
+</div>
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 1: Does the World Feel More Extreme?
+# Chapter 1: Does the World Feel More Extreme?
 
 
----
 
-### Draft
+
 
 You've opened your phone and started browsing the news. There you see headlines like **"2023 confirmed as world's hottest year on record, smashing previous highs by huge margins."** — [BBC News](https://www.bbc.com/news/science-environment-67861954), **"World's five richest men have doubled their fortunes since 2020, while the poorest 5 billion people have become poorer."** — [Oxfam Inequality Report](https://www.oxfam.org/en/press-releases/wealth-five-richest-men-doubles-2020-five-billion-people-made-poorer-oxfam), **"Brazil floods: 'It's like a war scene' as cities go underwater."** — [BBC News](https://www.bbc.com/news/world-latin-america-68960000). 
 
@@ -52,15 +46,18 @@ In this book, I want to share that lens with you. Not to make you a pessimist, b
 To understand the machine, we first have to look at the engine. How does a system actually "learn" to get this extreme?
 
 
+<div class="part-page">
+    <h1>Part II: The Engine</h1>
+    <p>The mechanics of iteration and variance that drive all change.</p>
+</div>
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 2: The Adaptation Equation
+# Chapter 2: The Adaptation Equation
 
 
----
 
-### Draft
+
 
 We’ve all heard the "Infinite Monkey Theorem": if you give a million monkeys a million typewriters and infinite time, eventually, one of them will accidentally type out the complete works of Shakespeare. 
 
@@ -92,12 +89,11 @@ To see this engine in action, we have to look at the most classic example of all
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 3: The Giraffe & The Tree
+# Chapter 3: The Giraffe & The Tree
 
 
----
 
-### Draft
+
 
 If you look at a giraffe, it looks like a masterpiece of engineering. It has a neck perfectly suited to reach the high leaves of the acacia tree, a heart powerful enough to pump blood up that long vertical climb, and a tongue tough enough to wrap around thorns. It looks like an engineer sat down, measured the tree, and built a machine to reach it.
 
@@ -129,12 +125,11 @@ You get the virus.
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 4: The Virus
+# Chapter 4: The Virus
 
 
----
 
-### Draft
+
 
 The giraffe took millions of years to grow its neck. It’s a slow, majestic process of deep time. But if you want to see the Adaptation Equation running at the speed of light, you have to look at something much smaller. You have to look at the virus.
 
@@ -162,12 +157,11 @@ Welcome to the Arms Race.
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 5: The Arms Race (The Red Queen)
+# Chapter 5: The Arms Race (The Red Queen)
 
 
----
 
-### Draft
+
 
 In the world of *Alice in Wonderland*, the Red Queen tells Alice: "Now, here, you see, it takes all the running you can do, to keep in the same place."
 
@@ -193,12 +187,11 @@ To understand that, we have to look at the "Red Queen’s Court"—the environme
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 6: The Red Queen’s Court
+# Chapter 6: The Red Queen’s Court
 
 
----
 
-### Draft
+
 
 We have now assembled the engine of our framework. 
 
@@ -230,15 +223,18 @@ You can run as fast as you want. You can iterate a billion times a second. But i
 So, the real question isn't "How fast are we running?" 
 
 The question is: **Who built the cliff?**
+<div class="part-page">
+    <h1>Part III: The Filter</h1>
+    <p>The invisible judge that decides the direction of evolution.</p>
+</div>
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 7: The Invisible Judge
+# Chapter 7: The Invisible Judge
 
 
----
 
-### Draft
+
 
 In the world of computer science, we have a term for the "track" that the runners are on. We call it the **Value Function**. 
 
@@ -272,12 +268,11 @@ To see how a narrow rule can distort an entire system, we have to look at one of
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 8: The Exam Trap
+# Chapter 8: The Exam Trap
 
 
----
 
-### Draft
+
 
 Imagine two students. The first student loves to learn. They read deeply, they ask "why," and they want to understand how the world works. The second student doesn't care about the subject at all. They are a master of the "game." They know exactly how to memorize the formulas, how to spot the tricks in a multiple-choice question, and how to write an essay that hits all the keywords the grader is looking for.
 
@@ -303,12 +298,11 @@ If a simple test can distort the way we educate our children and divide our soci
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 9: The Algorithm's Eye
+# Chapter 9: The Algorithm's Eye
 
 
----
 
-### Draft
+
 
 To see the Invisible Judge in its most modern, high-speed form, we only have to look at the history of YouTube. 
 
@@ -332,12 +326,11 @@ But what happens when a measure becomes a target? What happens when the machine 
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 10: You Are What You Measure
+# Chapter 10: You Are What You Measure
 
 
----
 
-### Draft
+
 
 We like to believe that our systems are designed to find the "Best." We want the best students to get into university, the best products to win in the market, and the best ideas to spread through society. 
 
@@ -368,15 +361,18 @@ It is **Time**.
 What happens when you leave this machine running for fifty years? What happens when the "errors" of the system start to compound? 
 
 Welcome to Part IV: The Compounder.
+<div class="part-page">
+    <h1>Part IV: The Compounder</h1>
+    <p>The power of time and the inevitability of inequality.</p>
+</div>
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 11: The Compound Effect
+# Chapter 11: The Compound Effect
 
 
----
 
-### Draft
+
 
 There is a simple piece of math that every system designer knows, but most people ignore. 
 
@@ -406,12 +402,11 @@ To see how this looks in the digital world, we have to look at the "Whale Econom
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 12: The Whale Economy
+# Chapter 12: The Whale Economy
 
 
----
 
-### Draft
+
 
 If you want to see the most extreme version of compounding in the modern world, you don't look at the stock market. You look at a free-to-play mobile game. 
 
@@ -449,12 +444,11 @@ But there is a limit to how far a system can optimize before it breaks. To under
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 13: The Cheetah's Dilemma
+# Chapter 13: The Cheetah's Dilemma
 
 
----
 
-### Draft
+
 
 The Cheetah is the fastest land animal on Earth. It is a masterpiece of optimization. Every single part of its body—from its non-retractable claws that act like running spikes to its long tail that acts like a rudder—is designed for one thing: **Speed**. 
 
@@ -480,12 +474,11 @@ But environments *always* shift. And when they do, the system doesn't just stop.
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 14: The Pendulum
+# Chapter 14: The Pendulum
 
 
----
 
-### Draft
+
 
 If everything we’ve discussed so far were the whole story, the world would have ended a long time ago. If systems only got more extreme and more specialized, every species would eventually become a Cheetah and then go extinct the moment the weather changed. 
 
@@ -512,15 +505,18 @@ So, what do we do?
 We can't just be "players" anymore. We can't just keep running faster and faster in a race we didn't design. We have to take a step back. We have to stop looking at the runners and start looking at the track. 
 
 We have to become **System Designers**. 
+<div class="part-page">
+    <h1>Part V: The Designer</h1>
+    <p>Shifting from being a player to being an architect of systems.</p>
+</div>
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 15: The System Designer Mindset
+# Chapter 15: The System Designer Mindset
 
 
----
 
-### Draft
+
 
 There is a phrase that has become a bit of a cliché, but it contains the most important lesson of this book: **"Don't hate the player, hate the game."**
 
@@ -558,12 +554,11 @@ It starts with how we look at the small things.
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 16: Nerfs, Buffs, and Reworks
+# Chapter 16: Nerfs, Buffs, and Reworks
 
 
----
 
-### Draft
+
 
 In the world of competitive video games, there is a constant battle between the players and the developers. Players are always looking for an "exploit"—a strategy or a character that is so powerful it breaks the game. When this happens, the developer has to step in and "patch" the system. 
 
@@ -595,12 +590,11 @@ Don't just nerf the players. Rework the game.
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 17: The Micro-Lens (Personal Systems)
+# Chapter 17: The Micro-Lens (Personal Systems)
 
 
----
 
-### Draft
+
 
 The System Designer Mindset isn't just for politicians or CEOs. It is a tool you can use to debug your own life. 
 
@@ -624,12 +618,11 @@ But the System Designer Mindset truly shows its power when we turn the lens outw
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 18: The Macro-Lens (Social Systems)
+# Chapter 18: The Macro-Lens (Social Systems)
 
 
----
 
-### Draft
+
 
 When we look at the big problems of society—like crime, poverty, or political division—we tend to fall into two camps. One camp wants to "fight the symptoms" (more police, more prisons, more bans). The other camp wants to "fix the system" (more education, more opportunity, more social programs). 
 
@@ -673,12 +666,11 @@ And once you can see the rules, you can start to use the tools to change them.
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 19: The Toolkit
+# Chapter 19: The Toolkit
 
 
----
 
-### Draft
+
 
 By now, you have the lens. You can see the engines, the filters, and the compounders that shape our world. But a lens is only useful if you know how to focus it. 
 
@@ -698,7 +690,6 @@ Who feels the consequences of the system’s actions? A system breaks when the p
 #### 4. Is it Static or Dynamic?
 Is the system over-optimized for a single environment (The Cheetah), or is it capable of oscillating and adapting (The Pendulum)? If a system is too rigid, it is fragile. It will eventually snap. A healthy system "breathes"—it allows for variance and failure so that it can stay resilient.
 
----
 
 ### The Debugging Process
 
@@ -714,12 +705,11 @@ But there is one final thing you must understand about being a System Designer. 
 
 <div style="page-break-before: always;"></div>
 
-## Chapter 20: The Infinite Game
+# Chapter 20: The Infinite Game
 
 
----
 
-### Draft
+
 
 We started this journey with a feeling of exhaustion. We looked at a world that felt loud, extreme, and out of control. We looked for villains, and we found math. 
 
@@ -740,36 +730,3 @@ So, go out and design better games. Build environments that reward curiosity ove
 The engine is running. The filter is waiting. The time is compounding. 
 
 What kind of world are you going to design? 
-
-<style>
-    body {
-        font-family: "Georgia", serif;
-        line-height: 1.6;
-        font-size: 12pt;
-        color: #333;
-        max-width: 800px;
-        margin: auto;
-        text-align: justify;
-    }
-    h1, h2, h3 {
-        font-family: "Helvetica", "Arial", sans-serif;
-        text-align: left;
-        color: #111;
-    }
-    h1 { border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 50px; }
-    blockquote {
-        font-style: italic;
-        border-left: 4px solid #eee;
-        padding-left: 20px;
-        color: #666;
-    }
-    code {
-        background: #f4f4f4;
-        padding: 2px 4px;
-        border-radius: 4px;
-    }
-    @media print {
-        body { font-size: 11pt; }
-        .page-break { page-break-before: always; }
-    }
-</style>
