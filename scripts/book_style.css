@@ -58,30 +58,44 @@ body {
 .title-page {
     page: first;
     text-align: center;
-    padding-top: 2in;
+    padding-top: 2.5in;
     background-color: #fff;
+    border: 1px solid #eee; /* Subtle frame for the title page */
+    margin: 0.5in;
+    height: 7in;
 }
 
 .title-page h1 {
     font-family: "Helvetica", sans-serif;
-    font-size: 36pt;
-    margin-bottom: 0.2in;
+    font-size: 32pt;
+    margin-bottom: 0.1in;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     border: none;
+    font-weight: 900;
 }
 
 .title-page h2 {
     font-family: "Georgia", serif;
     font-style: italic;
-    font-size: 18pt;
-    color: #666;
-    margin-bottom: 2in;
+    font-size: 16pt;
+    color: #444;
+    margin-bottom: 2.5in;
+    font-weight: normal;
 }
 
 .title-page .author {
-    font-size: 16pt;
+    font-family: "Helvetica", sans-serif;
+    font-size: 14pt;
     font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.title-page .version {
+    font-size: 9pt;
+    color: #999;
+    margin-top: 0.5in;
 }
 
 /* Part Pages */
