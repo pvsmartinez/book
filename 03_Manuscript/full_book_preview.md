@@ -30,7 +30,8 @@ Open this file and use the Preview feature to read the whole book.
 
 # Part V: The Designer
 @import "Part_V/15_the_system_designer_mindset.md"
-@import "Part_V/16_the_micro_lens.md"
-@import "Part_V/17_the_macro_lens.md"
-@import "Part_V/18_the_toolkit.md"
-@import "Part_V/19_the_infinite_game.md"
+@import "Part_V/16_nerfs_buffs_and_reworks.md"
+@import "Part_V/17_the_micro_lens.md"
+@import "Part_V/18_the_macro_lens.md"
+@import "Part_V/19_the_toolkit.md"
+@import "Part_V/20_the_infinite_game.md"

@@ -22,6 +22,14 @@ echo "Structure: $(find 02_Structure -type f | wc -l) documents"
 echo "Manuscript: $(find 03_Manuscript -type f | wc -l) drafts"
 echo ""
 
+echo "--- Manuscript Content ---"
+if [ -f "scripts/appraise_manuscript.sh" ]; then
+    bash scripts/appraise_manuscript.sh | grep -E "Total Word Count|Est. Reading Time|Est. Page Count"
+else
+    echo "Manuscript appraisal script not found."
+fi
+echo ""
+
 echo "--- Todo List (if any) ---"
 # Simple grep for TODOs in markdown files
 grep -r "TODO" . --include="*.md" | cut -c 1-100

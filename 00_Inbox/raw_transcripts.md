@@ -93,3 +93,14 @@ Let's keep on the blocks OK. I will probably do the drafts myself. I ask for you
 
 ## Session 2: Structure & Consistency (2025-12-24)
 It is just polemic. translate the headline to english. im not happy with the start of the draft. but I think we can halt that. lets add some visual for part i / part ii on the .md file. check this, it all have the same visual hierarchy. And will this translate well to google docs later? nice! Now, can we write down part 3 blocks as well? no no, lets complete all parts as well, so I can "See" the whole book. are you hallucinating? the part name and chapters names dont match the master_outiline. good. I want you to double check now for consistency. yes please. there are still some wrong files! commit all this with the script please. why vscode terminal is not running? can we log this session? all raw transcriptions and other things we routinelly do?
+
+---
+
+## Session 3: Deepening & Seed Audit (2025-12-25)
+I would love for you to... add the 'Traffic' (emergent behavior) and 'LEGO' (building blocks) metaphors into Chapter 15.
+
+Think about the incentive of a successful drug dealer... money without being used has no purpose... the system creates a new incentive: The need to clean the money. Dissect [the favela/police issue] as a system... how as times goes by... drug dealers get more and more money... need to clean this money up... becomes a mafia.
+
+Looking for my for my Sids. Is any of the seeds not used? (in manuscript)
+
+Now can you also check the raw manuscripts? Actually the raw transcript, sorry. Are there raw transcripts in the manuscript like the essence of them, like in each example, and the way that I tell the storytelling
