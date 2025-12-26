@@ -46,15 +46,15 @@
 
 ### Draft
 
-We’ve established that the **Environment** acts as a filter. It decides who wins and who loses—whether it’s the charming salesman or the fast cheetah.
+In the last chapter, we saw how the **Environment** acts as a filter. It decides who wins and who loses—whether it’s the charming salesman or the rude one.
 
 But a filter is useless if everything is the same. If every single person born was exactly identical, the environment wouldn't have anything to select *from*.
 
 So, how does the system generate options? How does the salesman actually *learn* to be charming?
 
-He uses the engine that drives the entire world. I call it the **Adaptation Equation**.
+He uses a mechanism that is surprisingly simple. I call it the **Adaptation Equation**.
 
-It has two main variables: **Iteration** and **Variance**.
+It comes down to three things: How fast you try (**Iteration**), how different you try (**Variance**), and what decides if it works (**Environment**).
 
 ### Variable 1: Iteration (Action + Feedback)
 
@@ -62,8 +62,11 @@ In the tech world, "iteration" is a buzzword. But in the real world, it has a ve
 Iteration is not just repetition. It is **Action + Feedback**.
 
 Think about training a dog.
-You say "Sit." The dog looks at you.
-Eventually, the dog sits. You immediately give it a cookie.
+You say "Sit." The dog looks at you. It barks. It jumps. It spins.
+Eventually, by random chance, the dog sits.
+You immediately give it a cookie.
+
+That moment—the cookie—is the most important part.
 **Action:** Sit. **Feedback:** Cookie (Positive).
 
 The next time, the dog is more likely to sit.
@@ -75,7 +78,7 @@ You swing the racket. The ball hits the net.
 Your hands feel the vibration. Your eyes see the error.
 **Action:** Swing. **Feedback:** "Too low."
 
-Your brain takes that feedback and adjusts for the next swing. That is an iteration.
+Your brain takes that feedback and adjusts for the next swing. That is an iteration. It is the loop of doing something and finding out if it worked.
 
 ### Variable 2: Variance (The Difference)
 
@@ -95,22 +98,28 @@ But eventually, one variation will work. The ball will sail over the net and lan
 
 Your brain locks onto that specific variation. "Do that again," it says.
 
-### The Engine of the World
+### The Pattern
 
 This is how a salesman learns his pitch. He tries a joke. It lands flat (Negative Feedback). He tries a compliment. It works (Positive Feedback). He keeps the compliment (Selection) and tries a new variation next time.
 
 This is how a virus evolves. It replicates millions of times (Iteration). Most copies are identical, but some have tiny errors (Variance). Most errors break the virus, but one error makes it more contagious. That version spreads faster (Positive Feedback).
 
 It’s not magic. It’s not a conspiracy.
-It is simply **Speed of Iteration** multiplied by **Variance**, filtered by the **Environment**.
+It is simply **Iteration** multiplied by **Variance**, filtered by the **Environment**.
+
+(We will talk about the "Speed" of this multiplication in later chapters, but for now, just know that the faster you iterate, the faster you adapt).
 
 There is a famous thought experiment called the "Infinite Monkey Theorem." It says that if you give a million monkeys a million typewriters and infinite time, eventually one of them will type the complete works of Shakespeare.
 
 It’s a fun idea, but it’s useless. We don't have infinite time.
 
 But what if we added **Selection**?
-What if, every time a monkey typed a correct letter, we gave it a cookie and "locked" that letter in place?
 
-Suddenly, you don't need infinite time. You don't need a billion years. You might get Shakespeare in a few weeks.
+Imagine if the typewriter had a rule: Every time a monkey types a correct letter, the key locks in place.
+The monkey types "Q". Nothing happens.
+The monkey types "T". *Click.* The "T" is locked.
+The monkey types "O". *Click.* The "O" is locked.
+
+Suddenly, you don't need infinite time. You don't need a billion years. You might get "To be or not to be" in a few weeks.
 
 That is the power of the Adaptation Equation. It turns random chance into inevitable optimization. And it is running, right now, in everything you see.
