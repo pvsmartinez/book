@@ -73,17 +73,22 @@
 *   **Concept:** The Value Function. The environment acts as a filter.
 *   **Key Seeds:** [[natural_selection]], [[machine_learning_selection]].
 
-**Chapter 11: The Exam Trap (Deep Dive Example)**
+**Chapter 11: The Invisible Hand (Deep Dive Example)**
+*   **Story:** Small business competition vs. Monopolies.
+*   **Focus:** Market Selection. Why it works for efficiency but fails for the long-term.
+*   **Key Seeds:** [[capitalism_optimization]], [[the_invisible_hand_vs_pattern]].
+
+**Chapter 12: The Exam Trap (Deep Dive Example)**
 *   **Story:** Schools optimizing for test scores vs. life skills.
 *   **Focus:** How a specific metric creates a specific type of "winner" (The Test Taker).
 *   **Key Seeds:** [[education_and_the_exam_trap]].
 
-**Chapter 12: The Algorithm’s Eye (Deep Dive Example)**
+**Chapter 13: The Algorithm’s Eye (Deep Dive Example)**
 *   **Story:** The history of YouTube (Views $\rightarrow$ Watch Time).
 *   **Focus:** How changing the code changed the content (Pranks $\rightarrow$ Let's Plays).
 *   **Key Seeds:** [[youtube_algorithm_history]], [[fake_news_and_anger]].
 
-**Chapter 13: You Are What You Measure (Synthesis & Bridge)**
+**Chapter 14: You Are What You Measure (Synthesis & Bridge)**
 *   **Synthesis:** The "Best" is a lie. There is only "The Fittest" for the current metric.
 *   **The Bridge Question:** What happens when we optimize for the same metric for too long? (Leads to Time).
 
@@ -92,21 +97,21 @@
 ## Part IV: The Compounder (Time & Feedback Loops)
 *Goal: Explain how small advantages explode and how systems break.*
 
-**Chapter 14: The Compound Effect (Theory)**
+**Chapter 15: The Compound Effect (Theory)**
 *   **Concept:** Exponential divergence. The error compounds.
 *   **Key Seeds:** [[time_and_compounding]].
 
-**Chapter 15: The Whale Economy (Deep Dive Example)**
+**Chapter 16: The Whale Economy (Deep Dive Example)**
 *   **Story:** Wealth inequality and "Whales" in mobile games.
 *   **Focus:** How time naturally concentrates resources.
 *   **Key Seeds:** [[the_whale_economy_and_game_design]], [[capitalism_optimization]].
 
-**Chapter 16: The Cheetah’s Dilemma (Deep Dive Example)**
+**Chapter 17: The Cheetah’s Dilemma (Deep Dive Example)**
 *   **Story:** The Cheetah becoming too fast and too fragile.
 *   **Focus:** Over-optimization and the lack of oscillation.
 *   **Key Seeds:** [[shifting_value_functions]].
 
-**Chapter 17: The Pendulum (Synthesis & Bridge)**
+**Chapter 18: The Pendulum (Synthesis & Bridge)**
 *   **Synthesis:** Static systems break (Extremism); Dynamic systems breathe (Oscillation).
 *   **The Bridge Question:** If the game is broken, can we fix it? (Leads to System Design).
 
@@ -115,21 +120,21 @@
 ## Part V: The Designer (Application & Toolkit)
 *Goal: Empower the reader to stop playing and start designing. Move from Theory to Practice.*
 
-**Chapter 18: The System Designer Mindset**
+**Chapter 19: The System Designer Mindset**
 *   **Concept:** The shift from "Player" (victim of the system) to "Designer" (architect of the system).
 *   **Key Seeds:** [[the_system_designer_mindset]], [[dont_hate_the_player]].
 
-**Chapter 19: The Expert Trap**
+**Chapter 20: The Expert Trap**
 *   **Concept:** How to identify real expertise (Feedback-based) vs. fake expertise (Authority-based).
 *   **Key Seeds:** [[the_expert_trap]].
 *   **Application:** How to choose who to listen to in a noisy world.
 
-**Chapter 20: The Invisible Pattern**
+**Chapter 21: The Invisible Pattern**
 *   **Concept:** Synthesis of the entire book. The Pattern is everywhere.
 *   **Key Seeds:** [[the_invisible_hand_vs_pattern]].
 *   **Closing:** A call to action to see the invisible patterns and reshape them.
 
-**Chapter 21: The Micro-Lens (Personal Systems)**
+**Chapter 22: The Micro-Lens (Personal Systems)**
 *   **Application:** Applying the framework to your own life.
 *   **Topics:**
     *   *Habits:* Iteration vs. Goals.
@@ -137,19 +142,19 @@
     *   *Relationships:* Oscillation and balance.
 *   **Key Seeds:** [[symptoms_vs_systems_the_dual_approach]].
 
-**Chapter 22: The Macro-Lens (Social Systems)**
+**Chapter 23: The Macro-Lens (Social Systems)**
 *   **Application:** How to read the news and view politics without anger.
 *   **Topics:**
-    *   *Diagnostics:* Identifying the incentives (Value Function) behind the outrage.
+    *   *Diagnostics:** Identifying the incentives (Value Function) behind the outrage.
     *   *Action:* Where to apply pressure? (Changing the environment vs. yelling at the players).
 
-**Chapter 23: The Toolkit (How to Analyze)**
+**Chapter 24: The Toolkit (How to Analyze)**
 *   **Concept:** A practical framework/checklist for the reader.
 *   **Tools:**
     *   *The 4 Questions:* What is the Value Function? What is the Iteration Speed? Where is the Feedback Loop? Is it Static or Dynamic?
     *   *The Debugging Process:* How to fix a broken system.
 
-**Chapter 24: The Infinite Game (Conclusion)**
+**Chapter 25: The Infinite Game (Conclusion)**
 *   **Recap:** Summary of the journey.
 *   **Final Thought:** The game never ends. The goal is not to win, but to keep playing and improving the system.
 
