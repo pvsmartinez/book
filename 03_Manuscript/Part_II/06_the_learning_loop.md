@@ -42,10 +42,12 @@ The gold standard for this kind of design is the video game. In a well-designed 
 
 However, the engine only works if the feedback is clear. 
 
+Without feedback, you don't have an iteration; you just have an **attempt**. If you throw a ball in the dark, you are iterating your throwing motion, but you aren't learning how to hit the target because you can't see where the ball landed. The cycle is broken. This is a common mistake: people think they are "optimizing" their lives just because they are busy, but if they aren't measuring the results, they are just revving the engine in neutral.
+
 There are some things in life that are notoriously hard to learn, not because they are complex, but because the feedback is "noisy" or delayed. Take stock picking or geopolitical forecasting. You can make a "move" (buy a stock) and see it go up, but was it because you were right, or because the whole market went up? The feedback is so noisy that your brain can't tell which "iteration" to keep and which to delete. When the feedback loop is broken or takes years to close, the engine stalls. You can spend 10,000 hours doing it and never actually become an expert.
 
-This is the key takeaway: **Iteration speed is a choice.** 
+This leads us to the most important realization of this chapter: **The Engine is not a fixed machine. It is a variable one.**
 
-Whether you are a teacher designing a curriculum, a manager building a team, or an individual trying to learn a new skill, you are the architect of the engine. You can choose to have a slow, painful iteration cycle with one big "Selection" event at the end, or you can design a system of fast, low-stakes failures that allow you to optimize at light speed.
+Whether you are a teacher designing a curriculum, a manager building a team, or an individual trying to learn a new skill, you are the architect of the engine. You can choose to have a slow, painful iteration cycle with one big "Selection" event at the end, or you can design a system of fast, low-stakes failures that allow you to optimize at light speed. You can choose to clear the "noise" from your feedback loops so that every attempt actually counts as a lesson.
 
-The pattern is unavoidable, but the speed is up to you.
+The pattern is unavoidable, but the speed, precision, and usefulness of the engine are entirely up to you.
