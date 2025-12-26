@@ -37,18 +37,18 @@
 
 ### Draft
 
-We have now assembled the engine of our framework. 
+We have now assembled **The Engine** of our framework. 
 
 We have seen it in three distinct forms:
 1.  **Population Iteration:** Where the environment shapes a species over generations (The Giraffe and the Virus).
 2.  **Rivalry Iteration:** Where two players force each other to run faster just to stay in place (The Arms Race).
 3.  **Internal Iteration:** Where a single mind or process optimizes through trial and error (The Learning Loop).
 
-This explains the *speed* of the modern world. It explains why AI is evolving in weeks, why startups are "failing fast," and why the news cycle feels like a firehose. We have built a world where all three engines are revving at the redline.
+This explains the *speed* of the modern world. It explains why AI is evolving in weeks, why startups are "failing fast," and why the news cycle feels like a firehose. We have built a world where all three versions of the engine are revving at the redline.
 
 But there is a massive piece of the puzzle missing. 
 
-Iteration explains *change*, but it doesn't explain *direction*. It explains that the system is moving, but it doesn't explain where it is going. 
+**The Engine** explains *change*, but it doesn't explain *direction*. It explains that the system is moving, but it doesn't explain where it is going. 
 
 Think about it: 
 - Why did the Cheetah become incredibly fast, but not particularly smart? 

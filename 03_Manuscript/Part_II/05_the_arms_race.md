@@ -40,7 +40,7 @@ The result is that the next generation of cheetahs is faster because they are th
 
 This is where the trap closes. The "fast" cheetah from the previous generation—the one that was a top-tier predator yesterday—is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s relative advantage has vanished. If it doesn't get even faster, it will starve. Both populations are now running at 60 miles per hour, burning massive amounts of energy, but neither is "safer" or "more successful" than their ancestors were. They are both running as fast as they can just to maintain the status quo.
 
-There is a famous line from the novel *The Leopard* (often quoted in political documentaries) that captures this perfectly: **"If we want things to stay as they are, things will have to change."**
+There is a famous line from the novel *The Leopard* (often quoted in political documentaries, like Al Gore's 2006: An Inconvenient Truth) that captures this perfectly: **"If we want things to stay as they are, things will have to change."**
 
 In an arms race, "staying the same" is not an option. If you stay the same, you are actually falling behind, because everyone else is moving. 
 
@@ -51,5 +51,3 @@ The same logic applies to the battle between Cops and Robbers, or Hackers and Se
 In an Arms Race, iteration is no longer a solo performance. It is a duet. Every "improvement" you make is actually a change to the environment of your rival. You aren't just solving a problem; you are creating a new problem for someone else, who will then iterate to solve it, creating a new problem for you.
 
 This is why things feel so exhausting. We are all running. We are all iterating. We are all spending more and more energy just to maintain our relative position. 
-
-But there is one more type of iteration we need to discuss. It’s not about populations, and it’s not about rivals. It’s about what happens *inside* a single mind or a single process. 
