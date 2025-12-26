@@ -6,7 +6,7 @@
 ---
 
 ## Part I: The Hook
-*Goal: Validate the reader's feeling and offer a glimpse of the lens.*
+*Goal: Bring the reader to the correct mindset. Connect with the feeling that the world is "heavier" and introduce the salesman's perspective.*
 
 **Preface: The Humble Start**
 *   **Goal:** Set the tone. Move from "I have the answer" to "I found a pattern."
@@ -25,7 +25,7 @@
 ---
 
 ## Part II: The Engine (Iteration & Variance)
-*Goal: Explain how systems "learn" and evolve.*
+*Goal: Show the framework and its base. Teach the reader to spot the pattern everywhere (living/non-living, internal/external).*
 
 **Chapter 3: The Adaptation Equation (Theory)**
 *   **Concept:** How trial and error works. Quantity begets quality.
@@ -60,14 +60,15 @@
 *   **Focus:** Parallelism, Variance, Selection Pressure.
 *   **Lesson:** You aren't just a runner; you are the architect of the race.
 
-**Chapter 9: The Runners and the Track (Synthesis & Bridge)**
-*   **Synthesis:** The four types of iteration (Population, Rivalry, Internal, Informational).
-*   **The Bridge Question:** We know *how* they run, but what decides *who* wins? (Leads to The Environment).
+**Chapter 9: The Runners and the Track**
+*   **Goal:** Synthesize the four types of iteration (Population, Rivalry, Internal, Informational).
+*   **Focus:** Show how the engine turns in different contexts before moving to what defines its direction.
+*   **Key Seeds:** [[emergent_behavior]].
 
 ---
 
 ## Part III: The Filter (Environment & Value Functions)
-*Goal: Explain that the "Winner" is just the one who fits the rules best.*
+*Goal: Explain how the filter (Selection/Value Function) defines purpose, behavior, and outcomes. Show that it's not about "good" or "evil," but about "fit."*
 
 **Chapter 10: The Invisible Judge (Theory)**
 *   **Concept:** Selection and the Value Function.
@@ -94,14 +95,15 @@
 *   **Focus:** How changing the code changed the content (Pranks $\rightarrow$ Let's Plays).
 *   **Key Seeds:** [[youtube_algorithm_history]], [[fake_news_and_anger]].
 
-**Chapter 15: You Are What You Measure (Synthesis & Bridge)**
-*   **Synthesis:** The "Best" is a lie. There is only "The Fittest" for the current metric.
-*   **The Bridge Question:** What happens when we optimize for the same metric for too long? (Leads to Time).
+**Chapter 15: You Are What You Measure**
+*   **Goal:** Synthesize the concept of "The Fittest." The "Best" is a lie; there is only "The Fittest" for the current metric.
+*   **Focus:** How the filter defines the outcome.
+*   **Key Seeds:** [[shifting_value_functions]].
 
 ---
 
 ## Part IV: The Compounder (Time & Feedback Loops)
-*Goal: Explain how small advantages explode and how systems break.*
+*Goal: Understand the value function's effect over time and its consequences. Identify when a system is stable and when it "explodes." Use history as a teacher to spot how things are progressing, without treating it as absolute truth.*
 
 **Chapter 16: The Compound Effect (Theory)**
 *   **Concept:** Exponential divergence. The error compounds.
@@ -117,9 +119,10 @@
 *   **Focus:** Over-optimization and the lack of oscillation.
 *   **Key Seeds:** [[shifting_value_functions]].
 
-**Chapter 19: The Pendulum (Synthesis & Bridge)**
-*   **Synthesis:** Static systems break (Extremism); Dynamic systems breathe (Oscillation).
-*   **The Bridge Question:** If the game is broken, can we fix it? (Leads to System Design).
+**Chapter 19: The Pendulum**
+*   **Goal:** Explore oscillation and stability. Static systems break (Extremism); Dynamic systems breathe (Oscillation).
+*   **Focus:** How systems fluctuate or explode based on their feedback loops.
+*   **Key Seeds:** [[shifting_value_functions]].
 
 ---
 
