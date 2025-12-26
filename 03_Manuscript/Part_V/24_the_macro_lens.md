@@ -1,4 +1,4 @@
-## Chapter 20: The Macro-Lens (Social Systems)
+# Chapter 24: The Macro-Lens (Social Systems)
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

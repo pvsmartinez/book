@@ -1,4 +1,4 @@
-## Chapter 12: The Compound Effect
+# Chapter 16: The Compound Effect
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

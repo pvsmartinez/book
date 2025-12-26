@@ -1,4 +1,4 @@
-# Chapter 11: The Invisible Hand
+# Chapter 12: The Invisible Hand
 
 We often talk about "The Market" as if it were a conscious entity—a giant, calculating brain that decides what we should eat, where we should live, and how much our time is worth. Adam Smith famously called it the "Invisible Hand." 
 

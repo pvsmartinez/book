@@ -1,4 +1,4 @@
-## Chapter 18: The Invisible Pattern
+# Chapter 22: The Invisible Pattern
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

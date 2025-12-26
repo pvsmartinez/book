@@ -1,4 +1,4 @@
-## Chapter 17: The Expert Trap
+# Chapter 21: The Expert Trap
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

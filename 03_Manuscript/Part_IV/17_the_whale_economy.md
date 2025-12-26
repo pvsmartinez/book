@@ -1,4 +1,4 @@
-## Chapter 13: The Whale Economy
+# Chapter 17: The Whale Economy
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
