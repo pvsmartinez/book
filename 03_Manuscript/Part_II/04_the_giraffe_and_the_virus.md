@@ -57,4 +57,4 @@ The giraffe and the virus are the same story told at different speeds. One takes
 
 The payoff here is simple: the "design" we see in the world isn't the result of a plan, but the result of a filter. The giraffe didn't grow a neck to reach the tree; the tree killed every giraffe that couldn't reach it. The virus didn't "learn" to beat the vaccine; the vaccine killed every version of the virus that wasn't resistant. 
 
-So far, we have looked at this pattern in its simplest form: a population fighting against a static environment. The tree doesn't grow taller just because the giraffe gets taller. The vaccine doesn't change its formula just because the virus mutates. But what happens when the environment itself is alive? What happens when the "goal" you are trying to reach is also running away from you?
+This is the pattern in its most one-sided form: a population optimizing against a static goal. The tree and the vaccine are stationary targets. They don't change their rules just because the player gets better at the game.

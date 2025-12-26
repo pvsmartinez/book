@@ -32,13 +32,13 @@ In the world of *Alice in Wonderland*, the Red Queen tells Alice: "Now, here, yo
 
 This sounds like a nightmare, but it is the fundamental reality of any competitive system. This is what we call an **Arms Race**.
 
-Think about the Cheetah and the Gazelle. Imagine a population of both. On the cheetah side, you have some that are slightly faster and some that are slightly slower. On the gazelle side, the same. 
+Think about the Cheetah and the Gazelle. Imagine a population of both. On the cheetah side, you have some that are slightly faster and some that are slightly slower. On the gazelle side, you have the same variance.
 
-The fastest cheetahs catch the gazelles and eat. The slowest cheetahs miss their prey and starve. They die without having babies. On the other side of the fence, the slowest gazelles are caught and eaten. They die. The fastest gazelles escape, survive, and have babies. 
+The fastest cheetahs catch the gazelles and eat. The slowest cheetahs miss their prey, starve, and die without having babies. On the other side of the fence, the slowest gazelles are the ones caught and eaten. They die. The fastest gazelles escape, survive, and have babies. 
 
-The result? The next generation of cheetahs is faster because they are the children of the winners. But the next generation of gazelles is *also* faster for the same reason. 
+The result is that the next generation of cheetahs is faster because they are the children of the winners. But the next generation of gazelles is *also* faster for the same reason. 
 
-Now, the "fast" cheetah from the previous generation is suddenly the "slow" cheetah of the new generation. If it doesn't get even faster, it will starve. Both populations are now running at 60 miles per hour, burning massive amounts of energy, but neither is "safer" or "more successful" than their ancestors were. They are both running as fast as they can just to maintain the status quo.
+This is where the trap closes. The "fast" cheetah from the previous generation—the one that was a top-tier predator yesterday—is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s relative advantage has vanished. If it doesn't get even faster, it will starve. Both populations are now running at 60 miles per hour, burning massive amounts of energy, but neither is "safer" or "more successful" than their ancestors were. They are both running as fast as they can just to maintain the status quo.
 
 There is a famous line from the novel *The Leopard* (often quoted in political documentaries) that captures this perfectly: **"If we want things to stay as they are, things will have to change."**
 
