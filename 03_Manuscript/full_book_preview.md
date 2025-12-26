@@ -22,22 +22,23 @@ Open this file and use the Preview feature to read the whole book.
 
 # Part III: The Filter
 @import "Part_III/10_the_invisible_judge.md"
-@import "Part_III/11_the_invisible_hand.md"
-@import "Part_III/12_the_exam_trap.md"
-@import "Part_III/13_the_algorithms_eye.md"
-@import "Part_III/14_you_are_what_you_measure.md"
+@import "Part_III/11_the_algorithms_brain.md"
+@import "Part_III/12_the_invisible_hand.md"
+@import "Part_III/13_the_exam_trap.md"
+@import "Part_III/14_the_algorithms_eye.md"
+@import "Part_III/15_you_are_what_you_measure.md"
 
 # Part IV: The Compounder
-@import "Part_IV/15_the_compound_effect.md"
-@import "Part_IV/16_the_whale_economy.md"
-@import "Part_IV/17_the_cheetahs_dilemma.md"
-@import "Part_IV/18_the_pendulum.md"
+@import "Part_IV/16_the_compound_effect.md"
+@import "Part_IV/17_the_whale_economy.md"
+@import "Part_IV/18_the_cheetahs_dilemma.md"
+@import "Part_IV/19_the_pendulum.md"
 
 # Part V: The Designer
-@import "Part_V/19_the_system_designer_mindset.md"
-@import "Part_V/20_the_expert_trap.md"
-@import "Part_V/21_the_invisible_pattern.md"
-@import "Part_V/22_the_micro_lens.md"
-@import "Part_V/23_the_macro_lens.md"
-@import "Part_V/24_the_toolkit.md"
-@import "Part_V/25_the_infinite_game.md"
+@import "Part_V/20_the_system_designer_mindset.md"
+@import "Part_V/21_the_expert_trap.md"
+@import "Part_V/22_the_invisible_pattern.md"
+@import "Part_V/23_the_micro_lens.md"
+@import "Part_V/24_the_macro_lens.md"
+@import "Part_V/25_the_toolkit.md"
+@import "Part_V/26_the_infinite_game.md"
