@@ -38,11 +38,15 @@ The trap we fall into is that we almost never optimize for the actual goal. We o
 
 In economics, there is a principle called **Goodhart’s Law**: *"When a measure becomes a target, it ceases to be a good measure."*
 
-This happens because ideas behave like viruses—a field of study called **Memetics**. An idea doesn't need to be *true* to survive; it just needs to be *contagious*. It needs to be easy to remember, easy to repeat, and trigger a strong emotional reaction. 
+This happens because, as we saw in Part II, ideas behave like viruses. But while the "Engine" of culture provides the volume of ideas, the **Invisible Judge** of the internet provides the filter. 
+
+And the Judge of the internet has a very specific Value Function: **Contagion**.
+
+An idea doesn't need to be *true* to survive the filter; it just needs to be *sticky*. It needs to be easy to remember, easy to repeat, and trigger a strong emotional reaction. 
 
 If you tell a machine to optimize for "Engagement," the machine will eventually learn that the truth is often boring, nuanced, and slow. It will learn that **Anger** and **Fear** are much more efficient at triggering a comment or a share. 
 
-Fake news isn't a bug in the system; it is a feature. It is "hyper-optimized" for the Value Function of social media. The machine isn't trying to destroy democracy; it’s just doing exactly what we told it to do: make the engagement number go up. It has hacked the proxy.
+Fake news isn't a bug in the system; it is a feature. It is "hyper-optimized" for the Value Function of social media. The machine isn't trying to destroy democracy; it’s just doing exactly what we told it to do: make the engagement number go up. It has hacked the proxy of "Truth" by replacing it with "Outrage."
 
 This is the danger of the Filter. When we leave a selection system running, it will eventually find the most extreme, most distorted way to satisfy the metric we gave it. It will strip away everything else—nuance, ethics, long-term health—until only the metric remains.
 
