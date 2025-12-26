@@ -35,12 +35,13 @@
 *   **Key Realization:** The Savanna doesn't hate the short-necked giraffe; it's just a filter.
 *   **The Judge:** It's not evil, it's just math/rules. It doesn't care about intentions or potential, only "fit."
 *   **Examples:** IMDB ratings, GPA/Test scores, Metacritic.
+*   **Application:** Revisit the "extreme headlines" from Chapter 1 and identify the Value Functions driving them.
 *   **Terminology:** Introduce "Selection" first (easier), then "Value Function" as the framework term.
 
 ## 5. Chapter 11: The Algorithm's Brain (Deep Dive)
 *   **Concept:** AI as the purest example of a Value Function.
 *   **Focus:** No neurons, no conscience, just a goal and math.
-*   **Story:** Training a model from random noise to specific behavior (handwriting, images, LLMs).
+*   **Story:** Training a model from random noise ("dumb computer" with random math) to specific behavior (handwriting, images, LLMs).
 *   **Payoff:** Showing how a narrow rule (Value Function) creates specific, sometimes distorted, behavior.
 
 ## 6. General Principles for Future Chapters
@@ -48,7 +49,7 @@
 *   **End with Realization:** Every chapter should end with a "click" moment for the reader.
 *   **Organic Transitions:** If a bridge is needed, it should be a natural consequence of the chapter's conclusion, not a "stay tuned for Part III" announcement.
 *   **Part Conclusions:** The last chapter of every Part must be a synthesis/payoff chapter that "envelopes" the learnings.
-*   **Value Function vs. Track:** The "Track" is the environment/rules. The "Value Function" is the specific metric or "lap counter" that defines the winner.
+*   **Value Function vs. Track:** The "Track" is the environment/rules/guidelines. The "Value Function" is the specific metric or "lap counter" that defines the winner.
 
 ## 7. Part III Structure Update
 1.  **Chapter 10: The Invisible Judge (Theory)**
@@ -61,7 +62,7 @@
 ---
 **Next Steps:**
 1. [x] Rewrite Chapter 9 to be a true synthesis of Part II.
-2. [ ] Rewrite Chapter 10 to lead with the Savanna example and the "Indifferent Filter" concept.
-3. [ ] Draft Chapter 11 (AI) as the primary deep-dive for Part III.
-4. [ ] Ensure all chapter headers match their filenames and the master outline.
-5. [ ] Remove explicit bridges from all chapters.
+2. [x] Rewrite Chapter 10 to lead with the Savanna example and the "Indifferent Filter" concept.
+3. [x] Draft Chapter 11 (AI) as the primary deep-dive for Part III.
+4. [x] Ensure all chapter headers match their filenames and the master outline.
+5. [x] Remove explicit bridges from all chapters.
