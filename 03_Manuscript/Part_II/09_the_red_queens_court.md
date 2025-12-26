@@ -39,12 +39,13 @@
 
 We have now assembled **The Engine** of our framework. 
 
-We have seen it in three distinct forms:
+We have seen it in four distinct forms:
 1.  **Population Iteration:** Where the environment shapes a species over generations (The Giraffe and the Virus).
 2.  **Rivalry Iteration:** Where two players force each other to run faster just to stay in place (The Arms Race).
 3.  **Internal Iteration:** Where a single mind or process optimizes through trial and error (The Learning Loop).
+4.  **Informational Iteration:** Where ideas compete for our attention (The Viral Engine).
 
-This explains the *speed* of the modern world. It explains why AI is evolving in weeks, why startups are "failing fast," and why the news cycle feels like a firehose. We have built a world where all three versions of the engine are revving at the redline.
+This explains the *speed* of the modern world. It explains why AI is evolving in weeks, why startups are "failing fast," and why the news cycle feels like a firehose. We have built a world where all four versions of the engine are revving at the redline.
 
 But there is a massive piece of the puzzle missing. 
 
@@ -54,14 +55,15 @@ Think about it:
 - Why did the Cheetah become incredibly fast, but not particularly smart? 
 - Why did the COVID-19 virus become more contagious, but not necessarily more lethal? 
 - Why did our school systems become optimized for test scores rather than actual learning?
+- Why did the internet become a factory for outrage rather than a library of wisdom?
 
-The engine (Iteration) provided all of those options. There were smart cheetahs, lethal viruses, and brilliant students. But they didn't "win." 
+The engine (Iteration) provided all of those options. There were smart cheetahs, lethal viruses, brilliant students, and wise articles. But they didn't "win." 
 
 This is because "Better" is subjective. In nature, "Better" is whatever survives long enough to have babies. In a market, "Better" is whatever makes the most profit. In an algorithm, "Better" is whatever keeps you clicking.
 
 The engine provides the options, but the **Environment** picks the winner. 
 
-We have spent the last few chapters looking at the runners in the race. We’ve looked at the giraffes, the viruses, the hackers, and the students. But to understand why the world looks the way it does, we have to stop looking at the runners and start looking at the track. 
+We have spent the last few chapters looking at the runners in the race. We’ve looked at the giraffes, the viruses, the hackers, the students, and the memes. But to understand why the world looks the way it does, we have to stop looking at the runners and start looking at the track. 
 
 In computer science, we call this track the **Value Function**. It is the set of rules that decides who gets a "High Score" and who gets deleted. 
 
