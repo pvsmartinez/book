@@ -1,4 +1,4 @@
-## Chapter 20: The Infinite Game
+## Chapter 22: The Infinite Game
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

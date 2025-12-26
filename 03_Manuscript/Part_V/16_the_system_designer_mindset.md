@@ -1,4 +1,4 @@
-## Chapter 15: The System Designer Mindset
+## Chapter 16: The System Designer Mindset
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

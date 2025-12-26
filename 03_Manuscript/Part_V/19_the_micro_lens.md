@@ -1,4 +1,4 @@
-## Chapter 17: The Micro-Lens (Personal Systems)
+## Chapter 19: The Micro-Lens (Personal Systems)
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

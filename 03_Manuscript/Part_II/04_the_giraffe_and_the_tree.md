@@ -1,4 +1,4 @@
-## Chapter 3: The Giraffe & The Tree
+## Chapter 4: The Giraffe & The Tree
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

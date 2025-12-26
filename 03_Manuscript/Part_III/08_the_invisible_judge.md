@@ -1,4 +1,4 @@
-## Chapter 7: The Invisible Judge
+## Chapter 8: The Invisible Judge
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

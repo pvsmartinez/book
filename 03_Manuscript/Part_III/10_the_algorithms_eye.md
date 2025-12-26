@@ -1,4 +1,4 @@
-## Chapter 9: The Algorithm's Eye
+## Chapter 10: The Algorithm's Eye
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

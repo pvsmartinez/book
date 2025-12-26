@@ -1,4 +1,4 @@
-## Chapter 5: The Arms Race (The Red Queen)
+## Chapter 6: The Arms Race (The Red Queen)
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

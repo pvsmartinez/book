@@ -1,4 +1,4 @@
-## Chapter 8: The Exam Trap
+## Chapter 9: The Exam Trap
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

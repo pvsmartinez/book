@@ -1,4 +1,4 @@
-## Chapter 6: The Red Queen’s Court
+## Chapter 7: The Red Queen’s Court
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

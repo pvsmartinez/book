@@ -1,4 +1,4 @@
-## Chapter 10: You Are What You Measure
+## Chapter 11: You Are What You Measure
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
