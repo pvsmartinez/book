@@ -32,7 +32,7 @@
 
 ### Draft
 
-The engine we built in Part II is a masterpiece of efficiency. It can turn a single-celled organism into a human being, a line of code into a global platform, and a simple idea into a revolution. It explains *change*, but it doesn't explain *direction*. 
+The engine we built in Part II is unavoidable. It can turn a single-celled organism into a human being, a line of code into a global platform, and a simple idea into a revolution. It explains *change*, but it doesn't explain *direction*. 
 
 Iteration provided the options. There were smart cheetahs, lethal viruses, brilliant students, and wise articles. But they didn't always "win." 
 
@@ -46,7 +46,7 @@ The Savanna is not a brain; it is a **Filter**.
 
 In biology, we call this process **Selection**. It is the mechanism that decides which variations are "fit" for the environment and which are not. But as we build our framework for understanding the world, we need a term that works beyond biology—one that applies to markets, schools, and algorithms. 
 
-We call this filter the **Value Function**. 
+We will call this filter the **Value Function**. 
 
 If the "Engine" is what generates the options, the Value Function is the "Judge" that decides who wins. It is the set of rules that evaluates every single "runner" against a specific metric.
 
@@ -60,7 +60,7 @@ The Judge doesn't care about the "Best" outcome; it only cares about the "Fittes
 
 Think of the IMDB Top 250 list. The "Judge" is the average user rating. The system doesn't care if a movie is "artistically significant." It only cares about the number. If a movie gets a 9.2, it moves up. If it gets a 6.4, it disappears. The "Winner" isn't the "Best Movie Ever Made"—it is the movie that best fits the specific Value Function of "Mass Appeal + High User Rating."
 
-Think of a high school classroom. The "Judge" is the GPA. The system doesn't care if you are a brilliant artist or a visionary leader. It only cares about your ability to produce the specific outputs that lead to a high test score. If you fit that rule, you are labeled a "Success." 
+Think of a high school classroom. The "Judge" is the GPA. The system doesn't care if you are a brilliant artist or a visionary leader. It only cares about your ability to produce the specific outputs that lead to a high test score. If you fit that rule, you are labeled a "Success." If you don't, you might feel like a failure, even if you are simply a runner on the wrong track. You might be a brilliant designer or a natural-born leader, but if the Judge only counts math scores, you'll end up at the "bad" university, wondering why the world doesn't see your value.
 
 Think of Metacritic, a credit score, or a social media "Like" count. These are all Value Functions. They take a complex reality—a human being's financial history, a piece of art, or a person's social value—and boil it down to a single number. That number then becomes the filter for the entire environment.
 

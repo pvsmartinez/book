@@ -105,7 +105,7 @@ cat << EOM > "$HTML_FILE"
 EOM
 
 # Append Content from MD
-$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD').read(), extensions=['extra', 'toc']))" >> "$HTML_FILE"
+$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '1'}}))" >> "$HTML_FILE"
 
 cat << EOM >> "$HTML_FILE"
 </body>
