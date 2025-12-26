@@ -52,6 +52,7 @@
 *   **"Visual Hierarchy"**: H1/H2 structure matters for readability and export (Google Docs compatibility).
 *   **"No Arrogance"**: Strongly dislikes phrases like "Engine of the World" or "Prophecy." Wants to be humble and avoid sounding like a "know-it-all."
 *   **"Didactic Definitions"**: Prefers simple, relatable definitions (e.g., Iteration = Action + Feedback) over academic ones.
+*   **"The Pattern"**: Preferred terminology over "The Engine" or "The Algorithm." Feels more approachable and universal.
 
 ## Key References
 *   *Why Nations Fail* (Acemoglu & Robinson): The gold standard for the "lens" approach.

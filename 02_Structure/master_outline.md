@@ -98,6 +98,16 @@
 *   **Concept:** The shift from "Player" (victim of the system) to "Designer" (architect of the system).
 *   **Key Seeds:** [[the_system_designer_mindset]], [[dont_hate_the_player]].
 
+**Chapter 15: The Expert Trap**
+*   **Concept:** How to identify real expertise (Feedback-based) vs. fake expertise (Authority-based).
+*   **Key Seeds:** [[the_expert_trap]].
+*   **Application:** How to choose who to listen to in a noisy world.
+
+**Chapter 16: The Invisible Pattern**
+*   **Concept:** Synthesis of the entire book. The Pattern is everywhere.
+*   **Key Seeds:** [[the_invisible_hand_vs_pattern]].
+*   **Closing:** A call to action to see the invisible patterns and reshape them.
+
 **Chapter 15: The Micro-Lens (Personal Systems)**
 *   **Application:** Applying the framework to your own life.
 *   **Topics:**

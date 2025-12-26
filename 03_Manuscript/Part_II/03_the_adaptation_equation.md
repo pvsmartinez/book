@@ -48,6 +48,8 @@
 
 In the last chapter, we saw how the **Environment** acts as a filter. It decides who wins and who loses—whether it’s the charming salesman or the rude one.
 
+In later chapters, we will go deeper into the **Environment**, how it works and what are its consequences, but first, we need to understand the core mechanics about it.
+
 But a filter is useless if everything is the same. If every single person born was exactly identical, the environment wouldn't have anything to select *from*.
 
 So, how does the system generate options? How does the salesman actually *learn* to be charming?
@@ -72,6 +74,8 @@ That moment—the cookie—is the most important part.
 The next time, the dog is more likely to sit.
 
 Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog might sit, might bark, might run away. Without the feedback (the cookie), the dog isn't learning. It's just guessing.
+
+Of course we will need to give the request "Sit", wait the action, and give the cookie multiple times, until the dog does indeed learn.
 
 The same applies to learning Tennis.
 You swing the racket. The ball hits the net.
@@ -122,4 +126,6 @@ The monkey types "O". *Click.* The "O" is locked.
 
 Suddenly, you don't need infinite time. You don't need a billion years. You might get "To be or not to be" in a few weeks.
 
-That is the power of the Adaptation Equation. It turns random chance into inevitable optimization. And it is running, right now, in everything you see.
+That is the power of the Adaptation Equation. It turns random chance into inevitable optimization. In due time, a random process will start to look like something with a purpose, and will start to deliver on a result that was optimized for.
+
+And this inevitable optimization is running, right now, in everything you see.
