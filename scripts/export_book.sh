@@ -41,7 +41,7 @@ for part in Part_I Part_II Part_III Part_IV Part_V; do
     # Add Part Page
     case $part in
         Part_I)
-            TITLE="Part I: The Observation"
+            TITLE="Part I: The Hook"
             DESC="Why the world feels like it's vibrating at a higher frequency."
             ;;
         Part_II)

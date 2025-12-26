@@ -31,25 +31,26 @@
 *   **Concept:** How trial and error works. Quantity begets quality.
 *   **Key Seeds:** [[the_adaptation_equation]], [[power_of_selection]].
 
-**Chapter 4: The Giraffe & The Tree (Deep Dive Example)**
-*   **Story:** Natural Selection (The Classic Example).
-*   **Focus:** Why do Giraffes have long necks? Not because they "wanted" to, but because the short-necked ones died.
-*   **Lesson:** Iteration is slow but inevitable. It explains the "Why" of biological design.
-*   **Key Seeds:** [[natural_selection]].
+**Chapter 4: The Giraffe and the Virus (Deep Dive Example)**
+*   **Story:** Natural Selection vs. Viral Evolution.
+*   **Focus:** The Pattern is universal. Speed is the only difference.
+*   **Lesson:** Iteration + Selection = Optimization, regardless of scale.
+*   **Key Seeds:** [[natural_selection]], [[viral_evolution_and_iteration]].
 
-**Chapter 5: The Virus (Deep Dive Example)**
-*   **Story:** COVID-19 or the Common Cold.
-*   **Focus:** High iteration speed + High mutation = Instant adaptation.
-*   **Lesson:** Speed Kills. When you crank up the iteration dial, you get a monster.
-*   **Key Seeds:** [[viral_evolution_and_iteration]].
+**Chapter 5: The Arms Race (Deep Dive Example)**
+*   **Story:** Cheetah vs. Gazelle, Pesticide Treadmill, Cops vs. Robbers.
+*   **Focus:** Competitive Iteration (The Red Queen Effect).
+*   **Lesson:** Every move changes the environment for the rival.
+*   **Key Seeds:** [[evolutionary_arms_races]].
 
-**Chapter 6: The Arms Race (Deep Dive Example)**
-*   **Story:** "Fail Fast" culture and the Red Queen effect (running to stay in place).
-*   **Focus:** How competition forces constant iteration.
-*   **Key Seeds:** [[evolutionary_arms_races]], [[the_evolution_of_venture_capital]].
+**Chapter 6: The Learning Loop (Deep Dive Example)**
+*   **Story:** Learning to walk, Video Games, School vs. Real World.
+*   **Focus:** Internal Iteration (Learning).
+*   **Lesson:** Expertise is a product of iteration speed and feedback loops.
+*   **Key Seeds:** [[education_and_the_exam_trap]].
 
 **Chapter 7: The Red Queen’s Court (Synthesis & Bridge)**
-*   **Synthesis:** Systems never stop moving. If you stop iterating, you die.
+*   **Synthesis:** The three types of iteration (Population, Rivalry, Internal).
 *   **The Bridge Question:** We know *how* they run, but what decides *who* wins? (Leads to The Environment).
 
 ---

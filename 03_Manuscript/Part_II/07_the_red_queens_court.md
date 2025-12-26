@@ -3,31 +3,29 @@
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
 
-
-**Status:** Blocking
-**Goal:** Synthesis of Part II. Connect "Iteration" to the next section ("Environment").
+**Status:** Draft
+**Goal:** Synthesis of Part II. Connect the three types of iteration (Population, Rivalry, Internal) to the next section ("Environment").
 
 ---
 
-### 1. The Synthesis: The Engine is Running
+### 1. The Synthesis: The Engine is Everywhere
 *   **Recap:**
-    *   We know **Iteration** (The Engine) drives adaptation.
-    *   We know **Variance** (The Fuel) allows for new solutions.
-    *   We know **Competition** (The Red Queen) forces the engine to rev higher and higher.
-*   **The State of the World:** This explains the *speed*. This explains why things feel faster. We have built systems (AI, Global Markets, Social Media) that are Red Queen Engines.
+    *   **Population Iteration:** The Giraffe and the Virus. (Slow vs. Fast).
+    *   **Rivalry Iteration:** The Arms Race. (Action vs. Reaction).
+    *   **Internal Iteration:** The Learning Loop. (Trial vs. Error).
+*   **The State of the World:** This explains the *speed*. We have built a world where all three engines are revving at the redline.
 
 ### 2. The Missing Variable
 *   **The Problem:** Iteration explains *change*, but it doesn't explain *direction*.
-*   **The Question:**
-    *   Why did the Cheetah become fast and not smart?
-    *   Why did YouTube become "Let's Play" and not "Educational Documentaries"?
-    *   Why did the Virus become more contagious?
+*   **The Question:** Why did the Cheetah become fast and not smart? Why did the school system select for grades and not wisdom?
 *   **The Answer:** Because "Better" is subjective.
 
 ### 3. The Pivot: The Environment
 *   **The Concept:** The Engine provides the *options*, but the **Environment** picks the *winner*.
 *   **The Preview:** We need to stop looking at the runners and start looking at the track.
 *   **The Definition:** This "Track" is what we call the **Value Function**.
+
+</details>
 
 ### 4. The Bridge
 *   **Closing Thought:** "You can run as fast as you want. But if you're running towards a cliff, speed is not an advantage. Who built the cliff?"
@@ -41,9 +39,12 @@
 
 We have now assembled the engine of our framework. 
 
-We know that **Iteration** is the volume of tries. We know that **Variance** is the mutation that allows for new solutions. And we know that **Competition**—the Red Queen—is the force that makes the engine rev higher and higher until everything is moving at a breakneck speed.
+We have seen it in three distinct forms:
+1.  **Population Iteration:** Where the environment shapes a species over generations (The Giraffe and the Virus).
+2.  **Rivalry Iteration:** Where two players force each other to run faster just to stay in place (The Arms Race).
+3.  **Internal Iteration:** Where a single mind or process optimizes through trial and error (The Learning Loop).
 
-This explains the *speed* of the modern world. It explains why AI is evolving in weeks, why startups are "failing fast," and why the news cycle feels like a firehose. We have built a world of Red Queen Engines.
+This explains the *speed* of the modern world. It explains why AI is evolving in weeks, why startups are "failing fast," and why the news cycle feels like a firehose. We have built a world where all three engines are revving at the redline.
 
 But there is a massive piece of the puzzle missing. 
 
@@ -52,15 +53,15 @@ Iteration explains *change*, but it doesn't explain *direction*. It explains tha
 Think about it: 
 - Why did the Cheetah become incredibly fast, but not particularly smart? 
 - Why did the COVID-19 virus become more contagious, but not necessarily more lethal? 
-- Why did YouTube become a land of "Let's Play" gaming videos and 10-second memes, rather than a library of high-end educational documentaries?
+- Why did our school systems become optimized for test scores rather than actual learning?
 
-The engine (Iteration) provided all of those options. There were smart cheetahs, lethal viruses, and brilliant documentarians. But they didn't "win." 
+The engine (Iteration) provided all of those options. There were smart cheetahs, lethal viruses, and brilliant students. But they didn't "win." 
 
 This is because "Better" is subjective. In nature, "Better" is whatever survives long enough to have babies. In a market, "Better" is whatever makes the most profit. In an algorithm, "Better" is whatever keeps you clicking.
 
 The engine provides the options, but the **Environment** picks the winner. 
 
-We have spent the last few chapters looking at the runners in the race. We’ve looked at the giraffes, the viruses, and the hackers. But to understand why the world looks the way it does, we have to stop looking at the runners and start looking at the track. 
+We have spent the last few chapters looking at the runners in the race. We’ve looked at the giraffes, the viruses, the hackers, and the students. But to understand why the world looks the way it does, we have to stop looking at the runners and start looking at the track. 
 
 In computer science, we call this track the **Value Function**. It is the set of rules that decides who gets a "High Score" and who gets deleted. 
 
