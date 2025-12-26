@@ -4,7 +4,7 @@
 <summary><strong>Chapter Outline & Blocking</strong></summary>
 
 **Status:** Draft
-**Goal:** Define the mechanics of the "Universal Algorithm" (Iteration & Variance) using didactic examples.
+**Goal:** Define the mechanics of **The Pattern** (Iteration & Variance) using didactic examples.
 
 ---
 

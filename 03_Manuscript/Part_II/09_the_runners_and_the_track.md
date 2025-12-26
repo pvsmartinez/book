@@ -1,10 +1,10 @@
-## Chapter 7: The Red Queen’s Court
+## Chapter 9: The Runners and the Track
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
 
 **Status:** Draft
-**Goal:** Synthesis of Part II. Connect the three types of iteration (Population, Rivalry, Internal) to the next section ("Environment").
+**Goal:** Synthesis of Part II. Connect the four types of iteration (Population, Rivalry, Internal, Informational) to the next section ("Environment").
 
 ---
 
@@ -13,7 +13,8 @@
     *   **Population Iteration:** The Giraffe and the Virus. (Slow vs. Fast).
     *   **Rivalry Iteration:** The Arms Race. (Action vs. Reaction).
     *   **Internal Iteration:** The Learning Loop. (Trial vs. Error).
-*   **The State of the World:** This explains the *speed*. We have built a world where all three engines are revving at the redline.
+    *   **Informational Iteration:** The Viral Engine. (Contagion vs. Truth).
+*   **The State of the World:** This explains the *speed*. We have built a world where all four engines are revving at the redline.
 
 ### 2. The Missing Variable
 *   **The Problem:** Iteration explains *change*, but it doesn't explain *direction*.

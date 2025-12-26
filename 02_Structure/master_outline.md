@@ -60,7 +60,7 @@
 *   **Focus:** Parallelism, Variance, Selection Pressure.
 *   **Lesson:** You aren't just a runner; you are the architect of the race.
 
-**Chapter 9: The Red Queen’s Court (Synthesis & Bridge)**
+**Chapter 9: The Runners and the Track (Synthesis & Bridge)**
 *   **Synthesis:** The four types of iteration (Population, Rivalry, Internal, Informational).
 *   **The Bridge Question:** We know *how* they run, but what decides *who* wins? (Leads to The Environment).
 

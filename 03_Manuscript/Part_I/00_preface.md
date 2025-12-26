@@ -1,19 +1,17 @@
-# Preface: The Lens
+# Preface: The Pattern
 
-I am not an economist. I am not a political scientist. I am not a grandmaster of game theory.
+I’ve always been fascinated by how things work. 
 
-I am a builder. I’ve spent my life designing systems—from software to companies to games—and watching how people interact with them. And when you spend enough time building systems, you start to see the same patterns repeating everywhere.
+I’m not an economist or a scientist. I’m just someone who likes to build things—software, companies, games—and watch what happens when people start using them. When you spend enough time looking at systems, you start to notice something strange. You start to see the same shapes repeating in places that shouldn't have anything in common.
 
-You see the same mechanics that govern a viral TikTok video shaping a political election. You see the same "survival of the fittest" logic that drives biological evolution driving the collapse of your favorite local coffee shop.
+You see the same logic that makes a video go viral on TikTok also deciding who wins an election. You see the same "survival of the fittest" that shaped the giraffe’s neck also shaping the way your favorite local coffee shop has to run its business just to stay open.
 
-This book is not a textbook. It is not a rigorous academic study. It is a collection of observations—a pair of glasses, if you will.
+I call this **The Pattern**.
 
-My goal is simple: I want to show you the invisible machinery that is humming beneath the surface of our daily lives. I want to show you why the world feels like it’s getting more extreme, why everyone seems to be shouting, and why "common sense" feels increasingly uncommon.
+This book isn't a textbook or a grand theory of everything. It’s more like a pair of glasses. I want to share a lens that helped me make sense of why the world feels so loud, so fast, and so extreme right now. 
 
-It’s not because people are getting worse. It’s not because there is a secret cabal of villains pulling the strings.
+It’s easy to look at the news and think the world is "broken" or that there are "evil" people behind every problem. But once you see the pattern, you realize that most of the time, the system isn't broken at all. It’s actually working perfectly—it’s just optimizing for things we didn't expect.
 
-It’s because the systems we live in are doing exactly what they were designed to do: **Select.**
+My hope is that by the end of these chapters, you’ll stop feeling like a passenger in a chaotic world and start seeing the levers. Because once you understand the pattern, you can stop hating the players and start thinking about how to change the game.
 
-They are selecting for the loudest voices, the most addictive content, and the most ruthless efficiencies. They are optimizing us, whether we like it or not.
-
-But once you see the machine, you can stop hating the players. You can stop screaming at the symptoms. And maybe, just maybe, we can start talking about how to fix the game.
+Let’s take a look.

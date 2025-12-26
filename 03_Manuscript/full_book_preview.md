@@ -18,7 +18,7 @@ Open this file and use the Preview feature to read the whole book.
 @import "Part_II/06_the_learning_loop.md"
 @import "Part_II/07_the_viral_engine.md"
 @import "Part_II/08_the_levers_of_the_engine.md"
-@import "Part_II/09_the_red_queens_court.md"
+@import "Part_II/09_the_runners_and_the_track.md"
 
 # Part III: The Filter
 @import "Part_III/10_the_invisible_judge.md"
