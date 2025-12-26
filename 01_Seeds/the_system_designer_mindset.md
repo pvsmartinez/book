@@ -1,7 +1,7 @@
 # The System Designer Mindset (The "Solution")
 
 **Source:** Voice Transcript (Session 2)
-**Related to:** [[the_unified_selection_framework]], [[dont_hate_the_player]], [[the_whale_economy_and_game_design]]
+**Related to:** [[the_invisible_pattern]], [[dont_hate_the_player]], [[the_whale_economy_and_game_design]]
 
 ## The Core Insight
 The "Solution" is not a set of specific fixes. It is a **mindset shift**.

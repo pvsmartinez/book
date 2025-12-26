@@ -7,11 +7,11 @@
 ---
 
 ## Proposal A: The "Algorithm" Structure (Logical/Framework-First)
-*This structure builds the "Unified Selection Framework" step-by-step, introducing variables one by one and applying them to different domains.*
+*This structure builds **The Invisible Pattern** step-by-step, introducing variables one by one and applying them to different domains.*
 
 **1. The Invisible Algorithm (Introduction)**
 *   **Concept:** Introduce the "Universal Algorithm" (Outcome = Environment(Iteration × Variance)).
-*   **Key Seeds:** [[the_unified_selection_framework]], [[dont_hate_the_player]], [[symptoms_vs_systems_the_dual_approach]].
+*   **Key Seeds:** [[the_invisible_pattern]], [[dont_hate_the_player]], [[symptoms_vs_systems_the_dual_approach]].
 *   **Hook:** Why do Nature, AI, and Capitalism all look the same?
 
 **2. The Engine: Iteration & Variance**

@@ -15,4 +15,4 @@
 ## Connection to Selection Framework
 *   **Inclusive Institutions** = High **Variance** (anyone can try) + Fair **Environment** (Rule of Law).
 *   **Extractive Institutions** = Low **Variance** (Monopolies/Barriers) + Rigged **Environment** (Elites win).
-*   See: [[the_unified_selection_framework]]
+*   See: [[the_invisible_pattern]]

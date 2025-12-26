@@ -2,7 +2,7 @@
     <h1>The Unified Selection Framework</h1>
     <h2>Iteration, Selection, and the Code of the World</h2>
     <p class="author">Pedro Martinez</p>
-    <p class="version">Version 3 | December 2025</p>
+    <p class="version">Version 2 | December 2025</p>
 </div>
 
 <div style="page-break-after: always;"></div>

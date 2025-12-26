@@ -12,7 +12,7 @@ else
     VERSION=$((LAST_VERSION + 1))
 fi
 
-FILENAME="Unified_Selection_Framework_v$VERSION"
+FILENAME="manuscript_v$VERSION"
 TEMP_MD="temp_manuscript.md"
 HTML_FILE="$EXPORT_DIR/$FILENAME.html"
 
@@ -21,7 +21,7 @@ echo "Generating $FILENAME..."
 # Create Title Page and TOC placeholder
 cat << EOM > "$TEMP_MD"
 <div class="title-page">
-    <h1>The Unified Selection Framework</h1>
+    <h1>The Invisible Pattern</h1>
     <h2>Iteration, Selection, and the Code of the World</h2>
     <p class="author">Pedro Martinez</p>
     <p class="version">Version $VERSION | $(date +'%B %Y')</p>

@@ -1,4 +1,4 @@
-# Master Book Outline (Granular Structure)
+# The Invisible Pattern: Master Outline
 
 **Status:** Active Working Draft
 **Structure Strategy:** Granular, Rhythmic (Theory $\rightarrow$ Deep Dive Examples $\rightarrow$ Synthesis/Bridge).

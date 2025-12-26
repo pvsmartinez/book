@@ -32,7 +32,7 @@
 
 By now, you have the lens. You can see the engines, the filters, and the compounders that shape our world. But a lens is only useful if you know how to focus it. 
 
-To help you apply the **Unified Selection Framework** to any problem you face—whether it’s a toxic workplace, a failing habit, or a global crisis—I’ve put together a simple "System Designer’s Toolkit." 
+To help you apply **The Invisible Pattern** to any problem you face—whether it’s a toxic workplace, a failing habit, or a global crisis—I’ve put together a simple "System Designer’s Toolkit." 
 
 Whenever you encounter a system that isn't working the way you want, ask these **Four Questions**:
 

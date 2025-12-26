@@ -1,4 +1,4 @@
-# The Unified Selection Framework
+# The Invisible Pattern
 
 **Source:** Synthesis of all Seeds
 **Purpose:** To connect the dots between Nature, Tech, Politics, and Economics.
