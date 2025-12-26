@@ -48,6 +48,8 @@ There are some things in life that are notoriously hard to learn, not because th
 
 This leads us to the most important realization of this chapter: **The Engine is not a fixed machine. It is a variable one.**
 
-Whether you are a teacher designing a curriculum, a manager building a team, or an individual trying to learn a new skill, you are the architect of the engine. You can choose to have a slow, painful iteration cycle with one big "Selection" event at the end, or you can design a system of fast, low-stakes failures that allow you to optimize at light speed. You can choose to clear the "noise" from your feedback loops so that every attempt actually counts as a lesson.
+Whether you are a teacher designing a curriculum, a manager building a team, or an individual trying to learn a new skill, you are the architect of this process. Once you see **The Pattern**, you realize you have levers. You can adjust the iteration speed, you can lower the stakes of failure to encourage more attempts, and you can clear the "noise" from your feedback loops. 
+
+You aren't just a passenger in your own learning; you are the designer of the environment where that learning happens. Being aware of these levers is what allows you to move from simply "trying hard" to intentionally optimizing.
 
 The pattern is unavoidable, but the speed, precision, and usefulness of the engine are entirely up to you.

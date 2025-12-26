@@ -51,6 +51,8 @@
 *   **"Polemic"**: Avoids purely sensational headlines; prefers substance.
 *   **"Visual Hierarchy"**: H1/H2 structure matters for readability and export (Google Docs compatibility).
 *   **"No Arrogance"**: Strongly dislikes phrases like "Engine of the World" or "Prophecy." Wants to be humble and avoid sounding like a "know-it-all."
+*   **"Avoid False Dichotomies"**: Don't present choices as "the good way vs. the bad way." Instead, focus on **Awareness** and **Levers**. The user is a "designer" or "architect" who can adjust settings, not a moral agent choosing between pain and success.
+*   **"Levers and Control"**: Prefers explaining that once you see the pattern, you have "levers" to change how variation, iteration, and feedback work.
 *   **"Didactic Definitions"**: Prefers simple, relatable definitions (e.g., Iteration = Action + Feedback) over academic ones.
 *   **"The Pattern"**: Preferred terminology over "The Engine" or "The Algorithm." Feels more approachable and universal.
 
