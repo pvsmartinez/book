@@ -40,11 +40,11 @@ The second school, "The Exam Factory," has a much narrower focus. They don't car
 
 Now, ask yourself: which school would you choose for your child? 
 
-You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is one of the most important factors in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point? 
+You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is one of the most important factors in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point? Would you let them fall behind their peers, knowing the doors that might close forever?
 
 Most parents wouldn't. They choose the "Exam Factory." 
 
-This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure of the government. It is the result of millions of individual, rational choices made by parents who just want the best for their children. 
+This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure of the government. It is the result of millions of individual, rational choices made by parents who just want the best for their children. They are trapped in a game where the rules have already been set.
 
 ### The Metric is the Message
 

@@ -50,7 +50,7 @@ Imagine you want an AI to learn how to read handwritten numbers. You show it a m
 
 **Reward.**
 
-Over millions of iterations, the AI isn't "learning" what a 4 is in the way you or I do. It is simply being filtered by The Pattern. The math that leads to a penalty is discarded; the math that leads to a reward is preserved. 
+Over millions of iterations, the AI isn't "learning" what a 4 is in the way you or I do. It doesn't have an "Aha!" moment. It doesn't see the beauty of the shape. It is simply being filtered by The Pattern. The math that leads to a penalty is discarded; the math that leads to a reward is preserved. It is a cold, mechanical process of elimination.
 
 **Can you see how a simple change in a math equation—in what we choose to reward—changes the entire behavior of the machine?**
 

@@ -65,9 +65,9 @@ Consider the cheetah. For millions of years, the cheetah’s environment had a v
 
 Today, the cheetah is the fastest land animal on Earth. It is a feat of optimization. But that optimization came at a cost. To be that fast, the cheetah had to give up everything else. It has no muscle mass for fighting. It overheats after a few seconds of sprinting. If a hyena—which is slower but much stronger—shows up after a cheetah has made a kill, the cheetah has to walk away. It is too specialized to defend its own food. 
 
-By optimizing for a single metric (speed), the cheetah became fragile. 
+By optimizing for a single metric (speed), the cheetah became fragile. It is a king of the sprint, but a beggar of the savanna.
 
-We are seeing a similar pattern in our own culture. By optimizing our lives, our businesses, and our societies for narrow, digital metrics, we risk losing the broad, messy, and unmeasurable traits that make a society resilient: trust, nuance, long-term thinking, and genuine human connection. We are becoming highly efficient at hitting targets, but increasingly fragile when the environment changes.
+We are seeing a similar pattern in our own culture. By optimizing our lives, our businesses, and our societies for narrow, digital metrics, we risk losing the broad, messy, and unmeasurable traits that make a society resilient: trust, nuance, long-term thinking, and genuine human connection. We are becoming highly efficient at hitting targets, but increasingly fragile when the environment changes. We are becoming cheetahs in a world that is starting to look more like a jungle than a racetrack.
 
 ### The Mirror of the Metric
 

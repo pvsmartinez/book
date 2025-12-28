@@ -49,9 +49,17 @@ The "Invisible Hand" doesn't select for "The Best Bread in the World." It select
 
 We often treat "Capitalism" and "Socialism" as moral philosophies or grand ideologies. But from the perspective of The Pattern, they are simply different ways of designing a Value Function.
 
-In a market-based system, the primary metric is **Profit**. Now, I know "profit" can be a dirty word in some circles, but let’s look at it purely as a signal. Profit is a "Lap Counter" for value creation. It’s a signal that you have created something that someone else values more than the resources you used to make it. In this system, the ability to create value and sell it is what gets optimized. Profit is the feedback that tells the individual they are winning.
+In a market-based system, the primary metric is **Profit**. Now, I know "profit" can be a dirty word in some circles, but let’s look at it purely as a signal. 
 
-But what happens if you decide to replace that metric with a different one—say, "Equality" or "National Prosperity"?
+Imagine you are a baker. You try a new recipe for a spicy chocolate bread. You spend all day baking, you buy expensive ingredients, and you put it in the window. At the end of the day, not a single person has bought a loaf. You have lost money. 
+
+That loss is a signal. It’s the "Penalty" from the Judge. It’s the environment telling you: "The town doesn't want spicy chocolate bread." 
+
+The next day, you bake a simple, crusty sourdough. By noon, you are sold out. You have made a profit. That profit is the "Reward." It’s the signal that you have created something the environment values. 
+
+Profit is a "Lap Counter" for value creation. It’s a signal that you have created something that someone else values more than the resources you used to make it. In this system, the ability to create value and sell it is what gets optimized. 
+
+But what happens if you decide to replace that metric with a different one?
 
 Ideally, a socialist system wants to optimize for the collective good. The Value Function isn't individual profit, but perhaps the fair distribution of resources. This sounds better on paper, but the challenge lies in the **Lap Counter**. 
 

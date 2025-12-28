@@ -38,7 +38,9 @@ The fastest cheetahs catch the gazelles and eat. The slowest cheetahs miss their
 
 The result is that the next generation of cheetahs is faster because they are the children of the winners. But the next generation of gazelles is *also* faster for the same reason. 
 
-This is where the trap closes. The "fast" cheetah from the previous generation—the one that was a top-tier predator yesterday—is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s relative advantage has vanished. If it doesn't get even faster, it will starve. Both populations are now running at 60 miles per hour, burning massive amounts of energy, but neither is "safer" or "more successful" than their ancestors were. They are both running as fast as they can just to maintain the status quo. 
+This is where the trap closes. The "fast" cheetah from the previous generation—the one that was a top-tier predator yesterday—is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s relative advantage has vanished. 
+
+Imagine the exhaustion. Both populations are now running at 60 miles per hour, burning massive amounts of energy, their hearts pounding, their muscles screaming. But neither is "safer" or "more successful" than their ancestors were. They are both running as fast as they can just to maintain the status quo. 
 
 There is a famous line from the novel *The Leopard* that captures this perfectly: **"If we want things to stay as they are, things will have to change."** 
 

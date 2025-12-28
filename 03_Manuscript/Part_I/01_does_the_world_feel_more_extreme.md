@@ -64,11 +64,15 @@ And if you’re like me, you might feel a bit of a contradiction. I am an optimi
 
 When we see these things, our first instinct is to look for a villain. We want to blame "evil" politicians, "greedy" CEOs, or "unethical" algorithms. We want to believe that if we just removed the "bad people," the system would go back to being "good." 
 
-But what if it’s not about evil? What if it’s just *math*? 
+But as you look at the headlines, you start to notice something unsettling. The "bad people" change, but the outcomes stay the same. The politicians are replaced, but the polarization deepens. The CEOs are fired, but the wealth gap grows. 
+
+It’s as if there is a ghost in the machine. 
 
 What if the world isn't "broken"? What if it's working exactly as it was designed to work, but it's **selecting** for outcomes we didn't expect? 
 
-Take YouTube. It’s not trying to destroy your brain; it’s just optimizing for **Watch Time**. The market isn’t trying to starve anyone; it’s just optimizing for **Capital Efficiency**. 
+Think about YouTube for a second. We often say the algorithm is "evil" because it shows us polarizing content. But the algorithm doesn't have a political agenda. It doesn't have a soul. It only has a goal: **Watch Time**. It is a machine that has been told to find whatever keeps you on the screen for one more second. If it finds that outrage works better than nuance, it will give you outrage. Not because it wants to make you angry, but because it is a perfect student of your own attention.
+
+The market is the same. It isn't "trying" to starve anyone; it’s just a massive engine optimizing for **Capital Efficiency**. It is doing exactly what we asked it to do: find the most efficient way to turn money into more money. 
 
 We are living in systems that are optimizing themselves into extremism. To understand why, we have to stop looking at the players and start looking at the code. We need a new lens—a way to see **The Pattern** that runs through nature, markets, and the phone in your pocket. 
 

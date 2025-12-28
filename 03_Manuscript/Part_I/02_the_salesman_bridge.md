@@ -60,13 +60,15 @@ It’s the **Environment**.
 
 Imagine a world where thousands of people try to become salespeople. Some are shy. Some are rude. Some are charming. Some are aggressive. They all go out into the world and try to sell. This is the **Test**. 
 
-The "shy" person knocks on a door, mumbles, and doesn't make the sale. After a few months of no commission, they quit and become an accountant. The "rude" person insults a client, gets fired, and leaves the industry. 
+The "shy" person knocks on a door. Their heart is racing. They mumble their pitch, look at their shoes, and apologize for taking up the customer's time. The customer, sensing the lack of confidence, says "No thanks" and closes the door. After a few months of no commission and an empty bank account, the shy person quits. They aren't a "bad" person; they just weren't a fit for that specific environment. They go and become an accountant, where their quiet focus is a superpower.
 
-But the "charming" person? They make the sale. They get a commission. They get promoted. They stay in the game. 
+The "rude" person insults a client’s intelligence, gets a complaint filed against them, and is fired by noon. 
 
-Over time, the "Salesman Archetype" emerges. Not because anyone designed it, but because the environment **filtered out** everyone who didn't fit. 
+But the "charming" person? They make the sale. They get a commission. They get a pat on the back from the boss. They stay in the game. 
 
-This happens on an individual level, too. A new salesperson tries a pitch. It fails (Negative Feedback). They try a slightly different joke next time (Variance). The client laughs and buys (Positive Feedback). The salesperson learns: "Do more of that." 
+Over time, the "Salesman Archetype" emerges. Not because anyone designed it, but because the environment **filtered out** everyone who didn't fit. The charm isn't a personality trait; it's a survival mechanism. 
+
+This happens on an individual level, too. A new salesperson tries a pitch. It fails. They feel the sting of rejection. They try a slightly different joke next time. The client laughs and buys. The salesperson’s brain registers the win. "Do more of that," it says. 
 
 This is not a conspiracy. It is **Selection**. 
 

@@ -37,9 +37,11 @@ This feels right to us because it’s how we learn skills. If I practice the pia
 
 The reality of the giraffe is much more brutal. It wasn't about "trying"; it was about "dying." 
 
-Imagine a population of ancient, short-necked giraffes. Because of random genetic mutations—**Variance**—some were born with necks that were just an inch longer than the others. Then came the **Environment**. The trees were tall. The food was high up. The giraffes with the shortest necks couldn't reach the food. They didn't "learn" to be taller; they simply starved. They died before they could have babies. The ones with the slightly longer necks ate, survived, and passed those "long neck" genes to the next generation. 
+Imagine a population of ancient, short-necked giraffes. Because of random genetic mutations—**Variance**—some were born with necks that were just an inch longer than the others. Then came the **Environment**. The trees were tall. The food was high up. 
 
-Repeat this loop—this **Iteration**—for a million years. The "design" of the giraffe didn't come from the giraffe’s desire to reach the leaves. It came from the death of everything that *wasn't* that giraffe. The tree didn't "teach" the giraffe to be tall. The tree "selected" the tall giraffes by killing the short ones. 
+The giraffes with the shortest necks couldn't reach the food. They didn't "learn" to be taller; they simply starved. They felt the hunger, they grew weak, and they died before they could have babies. The ones with the slightly longer necks ate, survived, and passed those "long neck" genes to the next generation. 
+
+Repeat this loop—this **Iteration**—for a million years. The "design" of the giraffe didn't come from the giraffe’s desire to reach the leaves. It came from the systematic deletion of everything that *wasn't* that giraffe. The tree didn't "teach" the giraffe to be tall. The tree "selected" the tall giraffes by killing the short ones. 
 
 This is the pattern in slow motion. It takes millions of years to grow a neck. But if you want to see the same mechanism running at the speed of light, you have to look at something much smaller. You have to look at the virus. 
 

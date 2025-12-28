@@ -75,9 +75,9 @@ Neither is "evil." They are just different organisms evolved for different envir
 
 The most uncomfortable truth about the "Algorithm" is that it is a mirror.
 
-The YouTube algorithm doesn't "want" you to watch conspiracy theories. It just wants you to watch *something*. If you click on a video about a flat earth and watch it to the end, you are telling the system: "This is a successful iteration." You are the environment providing the selection pressure.
+The YouTube algorithm doesn't "want" you to watch conspiracy theories. It doesn't have a political agenda. It just wants you to watch *something*. If you click on a video about a flat earth and watch it to the end, you are telling the system: "This is a successful iteration." You are the environment providing the selection pressure.
 
-The algorithm is just a very fast, very obedient student of our own behavior. It is the ultimate "Invisible Judge," but we are the ones who gave it the rubric. 
+The algorithm is just a very fast, very obedient student of our own behavior. It is the ultimate "Invisible Judge," but we are the ones who gave it the rubric. Every click, every like, and every second of watch time is a vote for what the machine should produce next.
 
 **Can you see how we are the ones training the machine that then trains us?**
 

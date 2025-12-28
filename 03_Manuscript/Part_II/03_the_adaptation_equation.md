@@ -52,38 +52,27 @@ But a filter is useless if everything is the same. If every single person born w
 
 So, how does the system generate options? How does the salesman actually *learn* to be charming? 
 
-He uses a mechanism that is surprisingly simple. I call it the **Adaptation Equation**. 
+It comes down to a process that is surprisingly simple, yet incredibly powerful. It’s a loop that runs in three parts: How fast you try, how different you try, and what decides if it works. 
 
-It comes down to three things: How fast you try (**Iteration**), how different you try (**Variance**), and what decides if it works (**Selection**). 
-
-### Variable 1: Iteration (Action + Feedback)
-
-In the tech world, "iteration" is a buzzword. But in the real world, it has a very specific meaning. 
-Iteration is not just repetition. It is **Action + Feedback**. 
+### The Loop of Action and Feedback
 
 Think about training a dog. 
-You say "Sit." The dog looks at you. It barks. It jumps. It spins. Eventually, by random chance, the dog sits. You immediately give it a cookie. 
+You say "Sit." The dog looks at you. It barks. It jumps. It spins. It has no idea what you want. 
 
-That moment—the cookie—is the most important part. 
-**Action:** Sit. **Feedback:** Cookie (Positive). 
+Eventually, by random chance, the dog’s butt hits the floor. You immediately give it a cookie. 
+
+That moment—the cookie—is the most important part. It’s the signal. Without the cookie, the dog is just moving randomly. With the cookie, the dog’s brain locks onto the last thing it did. "Sitting equals cookie," it thinks. 
 
 The next time, the dog is more likely to sit. 
 
-Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog might sit, might bark, might run away. Without the feedback (the cookie), the dog isn't learning. It's just guessing. 
+Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog might sit, might bark, might run away. Without the feedback, the dog isn't learning. It's just guessing. 
 
-We need to repeat the request, wait for the action, and give the cookie multiple times before the dog truly learns. 
+We need to repeat the request, wait for the action, and give the cookie multiple times before the dog truly learns. This is **Iteration**. It is the loop of doing something and finding out if it worked. 
 
 The same applies to learning tennis. 
-You swing the racket. The ball hits the net. Your hands feel the vibration. Your eyes see the error. 
-**Action:** Swing. **Feedback:** "Too low." 
+You swing the racket. The ball hits the net. You feel the jar in your wrist. You see the ball drop. Your brain registers the error: "Too low." 
 
-Your brain takes that feedback and adjusts for the next swing. That is an iteration. It is the loop of doing something and finding out if it worked. 
-
-### Variable 2: Variance (The Difference)
-
-But here is the catch: To learn, your next swing *must* be different. 
-
-There is an old saying, often attributed to Einstein: *"Insanity is doing the same thing over and over again and expecting different results."* 
+Your brain takes that feedback and adjusts for the next swing. But here is the catch: To learn, your next swing *must* be different. 
 
 If you swing the racket exactly the same way, with the exact same force and angle, the ball will hit the net again. And again. And again. 
 

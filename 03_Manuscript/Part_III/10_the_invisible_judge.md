@@ -52,9 +52,9 @@ If the "Engine" is what generates the options, the Value Function is the "Judge"
 
 The most important thing to understand about the Judge is that it is **indifferent**. It doesn't care about "good" or "bad." It doesn't care about your intentions, your hard work, or your potential. It only cares about the score. 
 
-Think of a **Virus**. Why does it often evolve to become more contagious but less lethal? It isn't because the virus "wants" to be kind to its host. It’s because the Value Function of a virus is *Contagion*. A virus that kills its host too quickly can't spread. The "Judge" (the environment of human interaction) selects for the version that stays alive long enough to jump to the next person. 
+Think of a **Virus**. Why does it often evolve to become more contagious but less lethal? It isn't because the virus "wants" to be kind to its host. It’s because the environment of human interaction has a very specific rule: if you kill your host too fast, you can't jump to the next one. The "Judge" doesn't care if the virus is "nice"; it only cares if the virus spreads. 
 
-Think of a **Salesman**. Why do some sales environments seem to produce smooth-talkers who prioritize the "close" over the truth? It isn't necessarily because the people are evil. It’s because the Value Function of that environment is *Volume of Sales*. The "Judge" (the commission structure) rewards the person who gets the signature, regardless of whether the product was actually a good fit for the customer. Over time, the "truthful" salesmen are deleted from the system, and only the "closers" remain. 
+Think of a **Salesman**. Why do some sales environments seem to produce smooth-talkers who prioritize the "close" over the truth? It isn't necessarily because the people are evil. It’s because the commission structure—the Judge—rewards the signature on the paper, not the honesty of the pitch. Over time, the "truthful" salesmen are deleted from the system because they can't pay their bills, and only the "closers" remain. 
 
 The Judge doesn't care about the "Best" outcome; it only cares about the "Fittest" outcome for the rules it was given. 
 
