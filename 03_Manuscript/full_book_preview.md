@@ -30,7 +30,7 @@ Open this file and use the Preview feature to read the whole book.
 
 # Part IV: The Compounder
 @import "Part_IV/16_the_compound_effect.md"
-@import "Part_IV/17_the_whale_economy.md"
+@import "Part_IV/17_the_evolution_of_venture_capital.md"
 @import "Part_IV/18_the_cheetahs_dilemma.md"
 @import "Part_IV/19_the_pendulum.md"
 

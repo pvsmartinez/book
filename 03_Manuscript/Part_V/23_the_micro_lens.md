@@ -45,4 +45,6 @@ The solution isn't to "work harder" at a game you don't want to win. The solutio
 
 When you stop fighting yourself and start designing your environment, you move from being a victim of your circumstances to being the architect of your life. 
 
+**Can you see how much energy you waste fighting a current that you could simply step out of?**
+
 But the System Designer Mindset truly shows its power when we turn the lens outward, toward the big, messy problems of society that feel impossible to solve. 

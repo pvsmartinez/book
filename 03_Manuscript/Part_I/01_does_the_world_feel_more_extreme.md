@@ -46,31 +46,32 @@
 
 ### Draft
 
-Do you remember the news in the early 2000s?
-Maybe you remember a scandal about a politician's affair. Maybe a debate about tax rates. It felt... manageable.
+Do you remember the news in the early 2000s? 
 
-Then, 2010. The headlines started getting a bit louder. "The Great Recession." "The Rise of Social Media." Things felt faster.
+If you’re old enough, you might remember a scandal about a politician's affair or a debate about tax rates. It felt... manageable. The world had its problems, but they felt like they were happening at a human scale. 
 
-Then, 2020. "Global Pandemic." "Insurrection." "Trillion Dollar Companies."
+Then, something shifted. 
 
-Now, today. **"2023 confirmed as world's hottest year on record."** **"World's five richest men have doubled their fortunes while 5 billion became poorer."** **"Attention spans dropped to 47 seconds."**
+By 2010, the headlines started getting a bit louder. We had the Great Recession, the sudden rise of social media, and a feeling that things were moving faster than we could process. 
 
-It feels like someone turned the volume knob on the world from a 4 to an 11, and then broke the knob.
+By 2020, the volume was at a deafening roar. A global pandemic, trillion-dollar companies, and political divisions that felt less like "disagreements" and more like "civil wars." 
 
-It’s exhausting. And if you’re like me, you might feel a bit of a contradiction. I am an optimist by nature. I love technology, I love progress. But even as an optimist, I can see that the world is vibrating at a higher frequency. It’s getting louder, faster, and more polarized every single day.
+Now, today, it feels like someone turned the volume knob on the world from a 4 to an 11, and then broke the knob off. 
 
-When we see these things, our first instinct is to look for a villain. We blame "evil" politicians, "greedy" CEOs, or "unethical" algorithms. We want to believe that if we just removed the "bad people," the system would go back to being "good."
+Everything is more extreme. The rich are impossibly richer. The climate is hitting records we didn't want to break. Our attention spans have been sliced into 15-second clips. It’s exhausting. 
 
-But what if it’s not about evil? What if it’s just *math*?
+And if you’re like me, you might feel a bit of a contradiction. I am an optimist by nature. I love technology, I love progress, and I believe in the human spirit. But even as an optimist, I can see that the world is vibrating at a higher frequency. It’s getting louder, faster, and more polarized every single day. 
 
-What if the world isn't "broken"? What if it's working exactly as it was designed to work, but it's **selecting** for outcomes we didn't expect?
+When we see these things, our first instinct is to look for a villain. We want to blame "evil" politicians, "greedy" CEOs, or "unethical" algorithms. We want to believe that if we just removed the "bad people," the system would go back to being "good." 
 
-Take YouTube. It’s not trying to annoy you or destroy your attention span; it’s just optimizing for **Watch Time**. The market isn’t trying to starve anyone; it’s optimizing for **Capital Efficiency**.
+But what if it’s not about evil? What if it’s just *math*? 
 
-We are living in systems that are optimizing themselves into extremism. To understand why, we have to stop looking at the players and start looking at the code. We need a new lens—a way to see **The Pattern** that runs through nature, markets, and our own pockets.
+What if the world isn't "broken"? What if it's working exactly as it was designed to work, but it's **selecting** for outcomes we didn't expect? 
 
-In this book, I want to share that lens with you. Not to make you a pessimist, but to help you see the world the way a system designer sees a game. Because once you understand the rules, you can stop fighting the current and start redirecting the river.
+Take YouTube. It’s not trying to destroy your brain; it’s just optimizing for **Watch Time**. The market isn’t trying to starve anyone; it’s just optimizing for **Capital Efficiency**. 
 
-To understand the machine, we first have to look at the gears. How does a system actually "learn" to get this extreme?
+We are living in systems that are optimizing themselves into extremism. To understand why, we have to stop looking at the players and start looking at the code. We need a new lens—a way to see **The Pattern** that runs through nature, markets, and the phone in your pocket. 
+
+In this book, I want to share that lens with you. Not to make you a pessimist, but to help you see the world the way a system designer sees a game. Because once you understand the rules, you can stop fighting the current and start redirecting the river. 
 
 

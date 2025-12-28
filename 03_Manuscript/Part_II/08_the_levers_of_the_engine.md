@@ -27,11 +27,11 @@
 
 ### Draft
 
-By now, you should be starting to see **The Pattern** everywhere. You see the pattern turning in the forest, in the classroom, and on your social media feed. But understanding the mechanism is only the first step. The real power comes when you realize that the pattern has **Levers**.
+By now, you should be starting to see **The Pattern** everywhere. You see it turning in the forest, in the classroom, and on your social media feed. But understanding the mechanism is only the first step. The real power comes when you realize that the pattern has **Levers**. 
 
 If you are a manager, a teacher, a parent, or just someone trying to improve their own life, you are the architect of an environment. You can choose how the mechanism runs. 
 
-There are three primary levers you can pull to change how a system optimizes.
+There are three primary levers you can pull to change how a system optimizes. 
 
 ### Lever 1: Parallelism (The Crowd)
 
@@ -43,7 +43,7 @@ Nature doesn't try one giraffe at a time. It tries a million giraffes in paralle
 
 In our own lives, we often fail because we iterate in "Serial." We try one career path, wait five years to see if it works, and then try another. We try one marketing strategy, wait a month, and then try another. 
 
-The System Designer asks: "How can I run these experiments in parallel?" Instead of one big project, can you run five small pilots? Instead of one "perfect" hire, can you give three people a one-week trial? The more parallel your iterations, the faster you find the "winner."
+The System Designer asks: "How can I run these experiments in parallel?" Instead of one big project, can you run five small pilots? Instead of one "perfect" hire, can you give three people a one-week trial? The more parallel your iterations, the faster you find the "winner." 
 
 ### Lever 2: Variance (The Fuel)
 
@@ -53,7 +53,7 @@ If you have zero variance, you have zero learning. If every attempt is identical
 
 To find a better way of doing things, you *must* try things that are worse. You must accept the "failed" mutations to find the one that redefines the species. This is why "Safe" environments often stagnate. If the cost of failure is too high, people stop providing variance. They stick to the "standard," and the process stalls. 
 
-A System Designer intentionally creates "Safe Spaces for Variance"—low-stakes environments where people are encouraged to try things that might not work.
+A System Designer intentionally creates "Safe Spaces for Variance"—low-stakes environments where people are encouraged to try things that might not work. 
 
 ### Lever 3: Selection Pressure (The Stakes)
 
@@ -65,8 +65,6 @@ But if the selection pressure is too high—if one mistake means you are fired o
 
 The goal of a System Designer is to find the **Goldilocks Zone**. You want enough pressure to force optimization, but enough safety to allow for the "errors" that lead to breakthroughs. 
 
-Once you understand these levers, you stop being a victim of the pattern and start being its director. You stop asking "Why is this happening to me?" and start asking "How can I tune this mechanism to get a better result?"
-
-But even with a perfectly tuned mechanism, there is still one question we haven't answered. You can run as fast as you want, but who decided where the finish line is? 
+Once you understand these levers, you stop being a victim of the pattern and start being its director. You stop asking "Why is this happening to me?" and start asking "How can I tune this mechanism to get a better result?" 
 
 To answer that, we have to step out of the mechanism and look at the track. We have to look at **The Filter**.

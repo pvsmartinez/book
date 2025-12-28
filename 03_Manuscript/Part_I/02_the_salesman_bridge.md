@@ -44,42 +44,38 @@
 
 ### Draft
 
-Let’s play a game. I want you to close your eyes and picture a "Salesman." Maybe a Real Estate agent, or a Used Car dealer.
+Let’s play a game. I want you to close your eyes and picture a "Salesman." Maybe a real estate agent, or a used car dealer. 
 
-What do they look like? How do they act?
+What do they look like? How do they act? 
 
-Chances are, you’re picturing someone charming. Someone with a firm handshake, a quick smile, and a way with words. Someone who can talk to anyone about anything.
+Chances are, you’re picturing someone charming. Someone with a firm handshake, a quick smile, and a way with words. Someone who can talk to anyone about anything. 
 
-Now, ask yourself: **Why?**
+Now, ask yourself: **Why?** 
 
-Did every salesperson in the world go to the same secret university? Did they all meet in a dark room in 1950 and decide, "Okay, from now on, we will all be charming and extroverted"?
+Did every salesperson in the world go to the same secret university? Did they all meet in a dark room in 1950 and decide, "Okay, from now on, we will all be charming and extroverted"? 
 
-Of course not. That’s a conspiracy theory. The reality is much simpler, and much more powerful.
+Of course not. That’s a conspiracy theory. The reality is much simpler, and much more powerful. 
 
-It’s the **Environment**.
+It’s the **Environment**. 
 
-Imagine a world where thousands of people try to become salespeople.
-Some are shy. Some are rude. Some are charming. Some are aggressive.
+Imagine a world where thousands of people try to become salespeople. Some are shy. Some are rude. Some are charming. Some are aggressive. They all go out into the world and try to sell. This is the **Test**. 
 
-They all go out into the world and try to sell. This is the **Test**.
+The "shy" person knocks on a door, mumbles, and doesn't make the sale. After a few months of no commission, they quit and become an accountant. The "rude" person insults a client, gets fired, and leaves the industry. 
 
-The "shy" person knocks on a door, mumbles, and doesn't make the sale. After a few months of no commission, they quit and become an accountant.
-The "rude" person insults a client, gets fired, and leaves the industry.
+But the "charming" person? They make the sale. They get a commission. They get promoted. They stay in the game. 
 
-But the "charming" person? They make the sale. They get a commission. They get promoted. They stay in the game.
+Over time, the "Salesman Archetype" emerges. Not because anyone designed it, but because the environment **filtered out** everyone who didn't fit. 
 
-Over time, the "Salesman Archetype" emerges. Not because anyone designed it, but because the environment **filtered out** everyone who didn't fit.
+This happens on an individual level, too. A new salesperson tries a pitch. It fails (Negative Feedback). They try a slightly different joke next time (Variance). The client laughs and buys (Positive Feedback). The salesperson learns: "Do more of that." 
 
-This happens on an individual level, too. A new salesperson tries a pitch. It fails (Negative Feedback). They try a slightly different joke next time (Variance). The client laughs and buys (Positive Feedback). The salesperson learns: "Do more of that."
+This is not a conspiracy. It is **Selection**. 
 
-This is not a conspiracy. It is **Selection**.
+The environment (the need to sell) selects for a specific set of traits (charm, persuasion). And over time, those traits become the "standard." 
 
-The environment (the need to sell) selects for a specific set of traits (charm, persuasion). And over time, those traits become the "standard."
+Now, imagine this same process happening not just to salespeople, but to politicians. To CEOs. To viruses. To the algorithms on your phone. 
 
-Now, imagine this same process happening not just to salespeople, but to politicians. To CEOs. To viruses. To the algorithms on your phone.
+They are all being shaped by their own environments. They are all being "selected" by a judge they can't see. 
 
-They are all being shaped by their own environments. They are all being "selected."
+But how does this selection actually work? What are the gears turning inside this pattern? 
 
-But how does this selection actually work? What are the gears turning inside this engine?
-
-To understand that, we need to look at the equation.
+To understand that, we need to look at the equation. 

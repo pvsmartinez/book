@@ -32,11 +32,11 @@ The Invisible Hand only works when there is competition. Competition is the **Fi
 
 But what happens when the environment changes? What happens when the baker becomes so big that they can buy all the other bakeries? Or when they can lobby the government to pass laws that make it impossible for new bakers to start?
 
-The **Pattern**—the mechanism of iteration and selection—doesn't stop. But the outcome changes. 
+**The Pattern**—the mechanism of iteration and selection—doesn't stop. But the outcome changes. 
 
 In a monopoly, the "self-interest" of the baker no longer leads to better bread. It leads to better lobbying, better moats, and higher prices. The system is still optimizing, but it’s no longer optimizing for *you*. It’s optimizing for the survival of the monopoly.
 
-This is the **Invisible Pattern**. It is the superset of the Invisible Hand. 
+This is **The Invisible Pattern**. It is the superset of the Invisible Hand. 
 
 The Pattern is everywhere. It is in the way a virus adapts to a vaccine. It is in the way a viral tweet captures your anger. It is in the way a child learns to walk. It is the fundamental logic of the universe: **Iteration + Selection = Optimization.**
 
@@ -45,3 +45,7 @@ Once you see the Pattern, the world stops looking like a collection of random ev
 If you don't like the way the game is being played, don't waste your breath yelling at the players. They are just doing what the environment tells them to do. 
 
 If you want a different outcome, you have to change the environment. You have to change the rules. You have to become a System Designer.
+
+**Can you see how the "Hand" is just one finger of a much larger force?**
+
+The Pattern is indifferent. It doesn't care if it's building a cathedral or a cancer. It only cares about what survives. The responsibility of the human is to decide which filters we are willing to live with.

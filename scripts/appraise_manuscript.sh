@@ -51,8 +51,8 @@ if [ $READING_TIME -lt 1 ]; then READING_TIME=1; fi
 echo "Est. Reading Time: $READING_TIME min"
 echo ""
 
-# Page Estimate (approx 110 words per page for 6x9 Trade Paperback with generous spacing)
-PAGE_COUNT=$((WORD_COUNT / 110))
+# Page Estimate (approx 250 words per page for standard 6x9 Trade Paperback)
+PAGE_COUNT=$((WORD_COUNT / 250))
 echo "Est. Page Count (6x9 Book): $PAGE_COUNT pages"
 echo ""
 

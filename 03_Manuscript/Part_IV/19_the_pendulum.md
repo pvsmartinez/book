@@ -45,6 +45,10 @@ We use bailouts to stop the economy from correcting. We use censorship to stop i
 
 The further you push a pendulum away from its center, the more violently it will swing back when you finally let go. 
 
-We have built a world of high-speed patterns (Part II), narrow filters (Part III), and massive compounding errors (Part IV). We are currently holding the pendulum at its most extreme point. To change the outcome, we have to stop looking at the runners and start looking at the track. 
+We have built a world of high-speed patterns, narrow filters, and massive compounding errors. We are currently holding the pendulum at its most extreme point. To change the outcome, we have to stop looking at the runners and start looking at the track. 
 
 **The Pendulum** is the natural corrective force of a system. It is the mechanism by which a system prevents itself from over-optimizing into extinction by swinging back toward the opposite extreme when the current direction has reached its limit.
+
+**Can you see how the "fix" is often just the start of the next swing?**
+
+The goal isn't to stop the movement. The goal is to understand the rhythm, so we don't get crushed when the weight finally comes back down. 

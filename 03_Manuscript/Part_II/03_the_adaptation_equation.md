@@ -46,58 +46,72 @@
 
 ### Draft
 
-In the last chapter, we saw how the **Environment** acts as a filter. It decides who wins and who loses—whether it’s the charming salesman or the rude one.
+In the last chapter, we saw how the **Environment** acts as a filter. It decides who wins and who loses—whether it’s the charming salesman or the rude one. 
 
-In later chapters, we will go deeper into the **Environment**, how it works and what are its consequences, but first, we need to understand the core mechanics about it.
+But a filter is useless if everything is the same. If every single person born was exactly identical, the environment wouldn't have anything to select *from*. 
 
-But a filter is useless if everything is the same. If every single person born was exactly identical, the environment wouldn't have anything to select *from*.
+So, how does the system generate options? How does the salesman actually *learn* to be charming? 
 
-So, how does the system generate options? How does the salesman actually *learn* to be charming?
+He uses a mechanism that is surprisingly simple. I call it the **Adaptation Equation**. 
 
-He uses a mechanism that is surprisingly simple. I call it the **Adaptation Equation**.
-
-It comes down to three things: How fast you try (**Iteration**), how different you try (**Variance**), and what decides if it works (**Environment**).
+It comes down to three things: How fast you try (**Iteration**), how different you try (**Variance**), and what decides if it works (**Selection**). 
 
 ### Variable 1: Iteration (Action + Feedback)
 
-In the tech world, "iteration" is a buzzword. But in the real world, it has a very specific meaning.
-Iteration is not just repetition. It is **Action + Feedback**.
+In the tech world, "iteration" is a buzzword. But in the real world, it has a very specific meaning. 
+Iteration is not just repetition. It is **Action + Feedback**. 
 
-Think about training a dog.
-You say "Sit." The dog looks at you. It barks. It jumps. It spins.
-Eventually, by random chance, the dog sits.
-You immediately give it a cookie.
+Think about training a dog. 
+You say "Sit." The dog looks at you. It barks. It jumps. It spins. Eventually, by random chance, the dog sits. You immediately give it a cookie. 
 
-That moment—the cookie—is the most important part.
-**Action:** Sit. **Feedback:** Cookie (Positive).
+That moment—the cookie—is the most important part. 
+**Action:** Sit. **Feedback:** Cookie (Positive). 
 
-The next time, the dog is more likely to sit.
+The next time, the dog is more likely to sit. 
 
-Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog might sit, might bark, might run away. Without the feedback (the cookie), the dog isn't learning. It's just guessing.
+Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog might sit, might bark, might run away. Without the feedback (the cookie), the dog isn't learning. It's just guessing. 
 
-We need to repeat the request, wait for the action, and give the cookie multiple times before the dog truly learns.
+We need to repeat the request, wait for the action, and give the cookie multiple times before the dog truly learns. 
 
-The same applies to learning tennis.
-You swing the racket. The ball hits the net.
-Your hands feel the vibration. Your eyes see the error.
-**Action:** Swing. **Feedback:** "Too low."
+The same applies to learning tennis. 
+You swing the racket. The ball hits the net. Your hands feel the vibration. Your eyes see the error. 
+**Action:** Swing. **Feedback:** "Too low." 
 
-Your brain takes that feedback and adjusts for the next swing. That is an iteration. It is the loop of doing something and finding out if it worked.
+Your brain takes that feedback and adjusts for the next swing. That is an iteration. It is the loop of doing something and finding out if it worked. 
 
 ### Variable 2: Variance (The Difference)
 
-But here is the catch: To learn, your next swing *must* be different.
+But here is the catch: To learn, your next swing *must* be different. 
 
-There is an old saying, often attributed to Einstein: *"Insanity is doing the same thing over and over again and expecting different results."*
+There is an old saying, often attributed to Einstein: *"Insanity is doing the same thing over and over again and expecting different results."* 
 
-If you swing the racket exactly the same way, with the exact same force and angle, the ball will hit the net again. And again. And again.
+If you swing the racket exactly the same way, with the exact same force and angle, the ball will hit the net again. And again. And again. 
 
-You need **Variance**.
+You need **Variance**. 
 
-You need to try something slightly different. A little higher. A little harder. A little to the left.
-Most of these variations will fail. You’ll hit it too high. You’ll hit it too wide.
+You need to try something slightly different. A little higher. A little harder. A little to the left. Most of these variations will fail. You’ll hit it too high. You’ll hit it too wide. 
 
-But eventually, one variation will work. The ball will sail over the net and land in the court.
+But eventually, one variation will work. The ball will sail over the net and land in the court. 
+
+### The Infinite Monkey (and the Shortcut)
+
+You’ve probably heard the "Infinite Monkey Theorem": If you put a monkey in front of a typewriter for an infinite amount of time, it will eventually type the complete works of Shakespeare. 
+
+It’s a fun idea, but it’s also a bit depressing. We don't have an infinite amount of time. Neither does a virus, a startup, or a dog. 
+
+But the world has a shortcut. It doesn't need infinite time because it has **Selection**. 
+
+Imagine that every time the monkey types a correct letter, that letter "locks" into place. If the monkey types an "A" as the first letter of *Hamlet*, the typewriter keeps it. Now the monkey only has to guess the second letter. 
+
+Suddenly, we don't need billions of years. We need surprisingly little time. 
+
+This is how the world works. It doesn't try everything at once. It tries a few things, filters out the failures, keeps what works, and then iterates from there. 
+
+This is **The Pattern**. It is the mechanism that allows a simple set of rules to create incredible complexity. 
+
+But how fast can this pattern run? And what happens when it runs at different speeds? 
+
+To see that, we have to look at the giraffe and the virus. 
 **Feedback:** "Perfect."
 
 Your brain locks onto that specific variation. "Do that again," it says.

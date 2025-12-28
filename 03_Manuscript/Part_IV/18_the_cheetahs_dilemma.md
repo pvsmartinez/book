@@ -48,4 +48,6 @@ The error of the system compounded until the system itself became too specialize
 
 **Over-Optimization** is the point in a system’s evolution where the pursuit of efficiency has removed all the buffers, leaving the system perfectly adapted to a single environment but completely vulnerable to any change in that environment.
 
+**Can you see how the very thing that makes you a winner today can make you a victim tomorrow?**
+
 The goal isn't to be the fastest runner on the track. The goal is to be the one who can still run when the track turns into a swamp. 

@@ -60,6 +60,7 @@
 *   **"Levers and Control"**: Prefers explaining that once you see the pattern, you have "levers" to change how variation, iteration, and feedback work.
 *   **"Didactic Definitions"**: Prefers simple, relatable definitions (e.g., Iteration = Action + Feedback) over academic ones.
 *   **"The Pattern"**: Preferred terminology over "The Engine" or "The Algorithm." Feels more approachable and universal.
+*   **"Reader-Centric Emotional Pacing"**: A book is like a game; it carves emotions through words. Don't jump to conclusions or list facts. Lead the reader through a line of thought so they *feel* the weight of the argument before you state it. Let them experience the "progress" first, then the "miracle," and finally the "unease" when a trend goes too far. Mirror their thoughts back to them (e.g., "Wait, what are the other people doing?").
 
 ## Key References
 *   *Why Nations Fail* (Acemoglu & Robinson): The gold standard for the "lens" approach.

@@ -29,7 +29,7 @@ We are told that it takes 10,000 hours to become an expert. But this is a danger
 
 Expertise is not a product of time. It is a product of **Selection**.
 
-To become a real expert, you need a tight feedback loop. Think of a jazz musician or a surgeon. Every time they hit a wrong note or make a wrong cut, the environment gives them immediate, painful feedback. The "bad" iterations are selected against instantly. Over time, the only thing left is the "good" iteration. This is how the brain optimizes.
+To become a real expert, you need a tight feedback loop. Think of a jazz musician or a surgeon. Every time they hit a wrong note or make a wrong cut, the environment gives them immediate, undeniable feedback. The "bad" iterations are selected against instantly. Over time, the only thing left is the "good" iteration. This is how the brain optimizes.
 
 But what happens when the feedback loop is broken?
 
@@ -42,3 +42,7 @@ In the environment of cable news, a pundit isn't rewarded for being right; they 
 They *are* experts. They are world-class experts at capturing your attention and making you feel like they know what they are talking about. They just aren't experts at predicting the future.
 
 When you look at an "Expert," don't look at their credentials. Look at their feedback loop. If they don't feel the pain of being wrong, they aren't an expert in the field they claim to be. They are just a player who has optimized for a different game.
+
+**Can you see how the "Expert" is often just the person who survived the loudest room?**
+
+If you want to find the truth, stop looking at the person and start looking at the filter they had to pass through to get to you.

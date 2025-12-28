@@ -46,7 +46,7 @@ This one "home run" pays for all the failures and generates the profit for the e
 
 At the beginning, this system was a feat of innovation. It allowed founders to "fast-forward" the future by giving them the capital to build things that wouldn't be profitable for years. It was a system that selected for **Innovation**.
 
-But as the pattern ran for decades, the Value Function began to mutate.
+But as **The Pattern** ran for decades, the Value Function began to mutate.
 
 ### From Profit to Promise
 
@@ -74,7 +74,7 @@ Founders quickly learned the rules of this new game. To survive, you don't neces
 
 Over time, this selection pressure has become extreme. We are now seeing deals worth billions of dollars for companies that are little more than a PowerPoint presentation and a promising narrative about Artificial Intelligence. 
 
-This is the Compound Effect in action. The Value Function (Investability) has been optimized so heavily that it has become disconnected from the original goal (Innovation). 
+This is The Pattern in action. The Value Function (Investability) has been optimized so heavily that it has become disconnected from the original goal (Innovation). 
 
 ### The Self-Fulfilling Prophecy
 
@@ -82,8 +82,10 @@ When a system optimizes for "Promise" over "Reality," it creates a self-fulfilli
 
 If everyone believes a company is the "next big thing," they all pour money into it. Because the company has so much money, it can hire the best people, buy the most ads, and eventually dominate the market—even if its original business model was flawed. 
 
-The "Winners" of this system—the Magnificent 7, the giants of the AI bubble—are not just the result of great ideas. They are the result of a compounding selection process that rewards the ability to raise capital above all else. 
+The "Winners" of this system—the giants of the AI bubble—are not just the result of great ideas. They are the result of a compounding selection process that rewards the ability to raise capital above all else. 
 
 We haven't just "optimized" capitalism; we've changed the target. We are no longer selecting for efficient businesses that solve human problems; we are selecting for efficient fundraising machines that can maintain the "Promise" long enough for the early players to exit. 
+
+**Can you see how the "fittest" company is no longer the one that serves the customer, but the one that serves the investor?**
 
 In the long run, the error compounds. When a system stops measuring reality and starts measuring its own internal metrics, it becomes fragile. And as we will see, when the "Promise" finally meets the reality of the market, the crash is just as exponential as the growth.

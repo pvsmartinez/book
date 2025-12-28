@@ -50,11 +50,11 @@ This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure 
 
 In the world of education, the "Judge" is the standardized test. It is the "Lap Counter" that determines which schools are "good" and which students are "successful." 
 
-The problem isn't that testing is inherently evil. We need a way to measure progress. The problem is that the Pattern—the combination of Iteration and Selection—is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
+The problem isn't that testing is inherently evil. We need a way to measure progress. The problem is that **The Pattern**—the combination of Iteration and Selection—is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
 
 If the test measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does. No one sat down and said, "Let's make sure our children don't know how to manage a bank account." It was an **emergent behavior**. Financial literacy wasn't on the test, so it wasn't "selected" for. 
 
-Over time, the schools themselves are selected. The ones that focus on the exam thrive and expand; the ones that focus on "Life Skills" see their enrollment drop and are forced to adapt or close. The pattern, through time, selects for success or failure between all these different ways to teach.
+Over time, the schools themselves are filtered. The ones that focus on the exam thrive and expand; the ones that focus on "Life Skills" see their enrollment drop and are forced to adapt or close. The Pattern doesn't care about your intentions; it only cares about what survives the filter.
 
 ### The Elite Pivot
 
@@ -70,4 +70,6 @@ This creates a new kind of cultural divide. It isn't that the old metric is dead
 
 We see this tension everywhere. Lawmakers try to change the Value Function by adding new subjects or changing the rules of the "Judge," but they are often fighting against the current of the river. As long as the individual choice—the parent's desire for the best university spot—remains tied to a specific metric, the system will continue to optimize for that metric.
 
-It is essential to remember that there will always be a new director of a new school who will try a different thing because that is how they believe education should be. There will always be variance. But the pattern, through time, will select for success or failure between all of these different features. We think we are choosing our schools, but more often than not, the schools are being chosen for us by the Judge we all agreed to follow.
+**Can you see how the "best" education is a moving target?**
+
+There will always be a new director of a new school who will try a different thing. There will always be variance. But The Pattern, through time, will select for success or failure between all of these different features. We think we are choosing our schools, but more often than not, the schools are being chosen for us by the Judge we all agreed to follow.

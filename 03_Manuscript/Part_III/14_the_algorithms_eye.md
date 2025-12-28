@@ -29,7 +29,7 @@
 
 ### Draft
 
-We often blame "the media" or "the algorithms" for the state of the world. We talk about them as if they are sentient beings with a hidden agenda to make us angry or addicted. But if we look through the lens of the Pattern, we see something much simpler and more inevitable.
+We often blame "the media" or "the algorithms" for the state of the world. We talk about them as if they are sentient beings with a hidden agenda to make us angry or addicted. But if we look through the lens of **The Pattern**, we see something much simpler and more inevitable.
 
 The content we consume is not a reflection of what is "true" or "good." It is a reflection of the **Value Function** of the platform that delivers it. 
 
@@ -63,7 +63,7 @@ Then came the Mobile Revolution.
 
 Mobile games are usually "Free-to-Play." The Value Function here isn't the sale; it's **Lifetime Value (LTV)**. Since the game is free, the "Judge" is the player's willingness to stay and, eventually, spend small amounts of money over a long period. 
 
-This model is incredibly **Inclusive**. Anyone with a $100 smartphone can play. It has democratized gaming for billions of people in India, Brazil, and Southeast Asia. But because the filter is "Retention and Monetization," the games evolve differently. They are designed to be "sticky." They use psychological tricks—daily rewards, energy bars, and "Whale" mechanics (optimizing for the 1% of players who spend thousands of dollars)—to keep the engine running.
+This model is incredibly **Inclusive**. Anyone with a $100 smartphone can play. It has democratized gaming for billions of people in India, Brazil, and Southeast Asia. But because the filter is "Retention and Monetization," the games evolve differently. They are designed to be "sticky." They use psychological tricks—daily rewards, energy bars, and "Whale" mechanics—to keep the engine running.
 
 Is the PC model "better" than the Mobile model? 
 
@@ -78,6 +78,8 @@ The most uncomfortable truth about the "Algorithm" is that it is a mirror.
 The YouTube algorithm doesn't "want" you to watch conspiracy theories. It just wants you to watch *something*. If you click on a video about a flat earth and watch it to the end, you are telling the system: "This is a successful iteration." You are the environment providing the selection pressure.
 
 The algorithm is just a very fast, very obedient student of our own behavior. It is the ultimate "Invisible Judge," but we are the ones who gave it the rubric. 
+
+**Can you see how we are the ones training the machine that then trains us?**
 
 When we complain that the world is becoming more polarized, or that games are becoming more predatory, we are often complaining about the logical conclusion of the Value Functions we have participated in. We wanted "Free" news, so we got the Ad-Engagement filter. We wanted "Free" games, so we got the Microtransaction filter.
 

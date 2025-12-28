@@ -27,7 +27,7 @@
 
 We have seen the pattern shape the physical world—the necks of giraffes and the proteins of viruses. But the pattern is just as active in the invisible world of human thought. 
 
-Think about the sheer volume of information created every single day. Thousands of books are published, millions of tweets are sent, and billions of conversations happen over coffee or across dinner tables. Each one of these is an **Attempt**. Each one is a unique piece of "code" trying to survive in the environment of the human mind.
+Think about the sheer volume of information created every single day. Thousands of books are published, millions of tweets are sent, and billions of conversations happen over coffee or across dinner tables. Each one of these is an **Attempt**. Each one is a unique piece of "code" trying to survive in the environment of the human mind. 
 
 This is the ultimate **Variance** mechanism. 
 
@@ -44,5 +44,3 @@ The pattern doesn't need a central planner to decide which ideas are "good." It 
 We often think of culture as something we "create" intentionally, but most of it is an emergent behavior of this pattern running on autopilot. We are constantly throwing ideas at the wall, and the ones that stick are the ones that get to iterate. 
 
 But this leads us to a haunting question. If the pattern is just a mechanism that replicates what "sticks," what exactly is the "glue"? What decides which ideas get to live and which ones are deleted? 
-
-To understand that, we have to look at the difference between an idea that is **True** and an idea that is **Contagious**. We have to look at the Filter.
