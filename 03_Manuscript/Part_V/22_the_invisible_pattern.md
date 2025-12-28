@@ -32,7 +32,7 @@ The Invisible Hand only works when there is competition. Competition is the **Fi
 
 But what happens when the environment changes? What happens when the baker becomes so big that they can buy all the other bakeries? Or when they can lobby the government to pass laws that make it impossible for new bakers to start?
 
-The **Pattern**—the engine of iteration and selection—doesn't stop. But the outcome changes. 
+The **Pattern**—the mechanism of iteration and selection—doesn't stop. But the outcome changes. 
 
 In a monopoly, the "self-interest" of the baker no longer leads to better bread. It leads to better lobbying, better moats, and higher prices. The system is still optimizing, but it’s no longer optimizing for *you*. It’s optimizing for the survival of the monopoly.
 

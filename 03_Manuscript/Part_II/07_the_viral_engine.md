@@ -25,11 +25,11 @@
 
 ### Draft
 
-We have seen the engine shape the physical world—the necks of giraffes and the proteins of viruses. But the engine is just as active in the invisible world of human thought. 
+We have seen the pattern shape the physical world—the necks of giraffes and the proteins of viruses. But the pattern is just as active in the invisible world of human thought. 
 
 Think about the sheer volume of information created every single day. Thousands of books are published, millions of tweets are sent, and billions of conversations happen over coffee or across dinner tables. Each one of these is an **Attempt**. Each one is a unique piece of "code" trying to survive in the environment of the human mind.
 
-This is the ultimate **Variance** engine. 
+This is the ultimate **Variance** mechanism. 
 
 Most of these ideas are "dead ends." You hear a joke, you don't laugh, and you never tell it to anyone else. That idea has failed to replicate. It dies with you. But some ideas are different. They are "born" with a slight mutation that makes them more interesting, more useful, or more shocking. 
 
@@ -39,10 +39,10 @@ If this framework helps you see the world more clearly, you might tell a friend 
 
 This is the **Iteration** of culture. 
 
-The engine doesn't need a central planner to decide which ideas are "good." It just needs a massive amount of variance (thousands of people talking and writing) and a mechanism for reproduction (sharing). 
+The pattern doesn't need a central planner to decide which ideas are "good." It just needs a massive amount of variance (thousands of people talking and writing) and a mechanism for reproduction (sharing). 
 
-We often think of culture as something we "create" intentionally, but most of it is an emergent behavior of this engine running on autopilot. We are constantly throwing ideas at the wall, and the ones that stick are the ones that get to iterate. 
+We often think of culture as something we "create" intentionally, but most of it is an emergent behavior of this pattern running on autopilot. We are constantly throwing ideas at the wall, and the ones that stick are the ones that get to iterate. 
 
-But this leads us to a haunting question. If the engine is just a machine that replicates what "sticks," what exactly is the "glue"? What decides which ideas get to live and which ones are deleted? 
+But this leads us to a haunting question. If the pattern is just a mechanism that replicates what "sticks," what exactly is the "glue"? What decides which ideas get to live and which ones are deleted? 
 
 To understand that, we have to look at the difference between an idea that is **True** and an idea that is **Contagious**. We have to look at the Filter.

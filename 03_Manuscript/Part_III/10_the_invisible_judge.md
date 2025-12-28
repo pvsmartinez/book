@@ -32,11 +32,11 @@
 
 ### Draft
 
-The engine we built in Part II is unavoidable. It can turn a single-celled organism into a human being, a line of code into a global platform, and a simple idea into a revolution. It explains *change*, but it doesn't explain *direction*. 
+The pattern we built in Part II is unavoidable. It can turn a single-celled organism into a human being, a line of code into a global platform, and a simple idea into a revolution. It explains *change*, but it doesn't explain *direction*. 
 
 Iteration provided the options. There were smart cheetahs, lethal viruses, brilliant students, and wise articles. But they didn't always "win." 
 
-This is because there is a massive piece of the puzzle missing. The engine is the power, but it needs a track to run on. It needs a judge to decide which "runner" gets to keep going and which one gets deleted.
+This is because there is a massive piece of the puzzle missing. The pattern is the power, but it needs a track to run on. It needs a judge to decide which "runner" gets to keep going and which one gets deleted.
 
 The African Savanna does not hate the short-necked giraffe. 
 
@@ -64,7 +64,7 @@ Think of a high school classroom. The "Judge" is the GPA. The system doesn't car
 
 Think of Metacritic, a credit score, or a social media "Like" count. These are all Value Functions. They take a complex reality—a human being's financial history, a piece of art, or a person's social value—and boil it down to a single number. That number then becomes the filter for the entire environment.
 
-The problem we face in the modern world isn't that the "Judge" is evil. The problem is that we have built systems with very specific, very narrow Value Functions. We have told the machine to optimize for a single number, and the machine is doing exactly what we asked. 
+The problem we face in the modern world isn't that the "Judge" is evil. The problem is that we have built systems with very specific, very narrow Value Functions. we have told the machine to optimize for a single number, and the machine is doing exactly what we asked. 
 
 When we see a system that feels broken, we shouldn't start by yelling at the players. We should start by asking: **What is the Value Function here? What is the Judge actually measuring?** 
 

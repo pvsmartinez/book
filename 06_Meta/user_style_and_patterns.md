@@ -55,7 +55,7 @@
 *   **"Stakeholder Value Functions"**: Every player in a system (Engineers, Users, Creators, Lawmakers) has their own unique value function. Conflict or emergent behavior often arises from these competing metrics.
 *   **"Polemic"**: Avoids purely sensational headlines; prefers substance.
 *   **"Visual Hierarchy"**: H1/H2 structure matters for readability and export (Google Docs compatibility).
-*   **"No Arrogance"**: Strongly dislikes phrases like "Engine of the World" or "Prophecy." Wants to be humble and avoid sounding like a "know-it-all."
+*   **No Arrogance / No Superlatives**: Strongly dislikes phrases like "Engine of the World," "Prophecy," or "The most powerful variable in the universe." Wants to be humble and avoid sounding like a "know-it-all." Avoid superlative language.
 *   **"Avoid False Dichotomies"**: Don't present choices as "the good way vs. the bad way." Instead, focus on **Awareness** and **Levers**. The user is a "designer" or "architect" who can adjust settings, not a moral agent choosing between pain and success.
 *   **"Levers and Control"**: Prefers explaining that once you see the pattern, you have "levers" to change how variation, iteration, and feedback work.
 *   **"Didactic Definitions"**: Prefers simple, relatable definitions (e.g., Iteration = Action + Feedback) over academic ones.

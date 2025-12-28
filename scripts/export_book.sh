@@ -27,8 +27,6 @@ cat << EOM > "$TEMP_MD"
     <p class="version">Version $VERSION | $(date +'%B %Y')</p>
 </div>
 
-<div style="page-break-after: always;"></div>
-
 # Table of Contents
 [TOC]
 
@@ -71,8 +69,6 @@ EOM
 
     for file in 03_Manuscript/$part/*.md; do
         echo "Adding $(basename "$file")..."
-        # Add a page break before each chapter
-        echo -e "\n<div style=\"page-break-before: always;\"></div>\n" >> "$TEMP_MD"
         
         # Clean the file:
         # 1. Remove the <details> block (outline/blocking)

@@ -30,7 +30,7 @@ In the last chapter, we saw how a population optimizes against a static goal. Th
 
 In the world of *Alice in Wonderland*, the Red Queen tells Alice: "Now, here, you see, it takes all the running you can do, to keep in the same place."
 
-This sounds like a nightmare, but it is the fundamental reality of any competitive system. This is what we call an **Arms Race**.
+This might sound exhausting, but it is the reality of any competitive system. This is what we call an **Arms Race**.
 
 Think about the Cheetah and the Gazelle. Imagine a population of both. On the cheetah side, you have some that are slightly faster and some that are slightly slower. On the gazelle side, you have the same variance.
 
@@ -44,7 +44,7 @@ There is a famous line from the novel *The Leopard* (often quoted in political d
 
 In an arms race, "staying the same" is not an option. If you stay the same, you are actually falling behind, because everyone else is moving. 
 
-We see this "Cat and Mouse" game everywhere in human systems. Look at the "Pesticide Treadmill" in agriculture. A farmer sprays a new poison to kill insects. It works perfectly—99% of the bugs die. But that 1% that survived had a random mutation that made them resistant. They reproduce, and suddenly the farmer is facing a population of "super-bugs." The farmer has to invent a stronger poison, which only breeds a stronger bug. 
+We see this cat-and-mouse game everywhere in human systems. Look at the "Pesticide Treadmill" in agriculture. A farmer sprays a new poison to kill insects. It works perfectly—99% of the bugs die. But that 1% that survived had a random mutation that made them resistant. They reproduce, and suddenly the farmer is facing a population of "super-bugs." The farmer has to invent a stronger poison, which only breeds a stronger bug. 
 
 The same logic applies to the battle between Cops and Robbers, or Hackers and Security Experts. Better locks lead to better lockpicks. Better anti-virus software leads to more sophisticated malware. Better laws lead to more creative loopholes. 
 

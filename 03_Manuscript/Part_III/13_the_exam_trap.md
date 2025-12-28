@@ -50,7 +50,7 @@ This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure 
 
 In the world of education, the "Judge" is the standardized test. It is the "Lap Counter" that determines which schools are "good" and which students are "successful." 
 
-The problem isn't that testing is inherently evil. We need a way to measure progress. The problem is that the Engine—the combination of Iteration and Selection—is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
+The problem isn't that testing is inherently evil. We need a way to measure progress. The problem is that the Pattern—the combination of Iteration and Selection—is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
 
 If the test measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does. No one sat down and said, "Let's make sure our children don't know how to manage a bank account." It was an **emergent behavior**. Financial literacy wasn't on the test, so it wasn't "selected" for. 
 

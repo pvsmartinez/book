@@ -27,9 +27,9 @@
 
 ### Draft
 
-By now, you should be starting to see **The Pattern** everywhere. You see the engine turning in the forest, in the classroom, and on your social media feed. But understanding the engine is only the first step. The real power comes when you realize that the engine has **Levers**.
+By now, you should be starting to see **The Pattern** everywhere. You see the pattern turning in the forest, in the classroom, and on your social media feed. But understanding the mechanism is only the first step. The real power comes when you realize that the pattern has **Levers**.
 
-If you are a manager, a teacher, a parent, or just someone trying to improve their own life, you are the architect of an environment. You can choose how the engine runs. 
+If you are a manager, a teacher, a parent, or just someone trying to improve their own life, you are the architect of an environment. You can choose how the mechanism runs. 
 
 There are three primary levers you can pull to change how a system optimizes.
 
@@ -47,11 +47,11 @@ The System Designer asks: "How can I run these experiments in parallel?" Instead
 
 ### Lever 2: Variance (The Fuel)
 
-We have a natural instinct to avoid "errors." We want to do things "the right way." But in the engine of the pattern, **Variance is the fuel**. 
+We have a natural instinct to avoid "errors." We want to do things "the right way." But in the heart of the pattern, **Variance is the fuel**. 
 
 If you have zero variance, you have zero learning. If every attempt is identical to the last one, you are just repeating a habit, not optimizing a system. 
 
-To find a better way of doing things, you *must* try things that are worse. You must accept the "failed" mutations to find the one that redefines the species. This is why "Safe" environments often stagnate. If the cost of failure is too high, people stop providing variance. They stick to the "standard," and the engine stalls. 
+To find a better way of doing things, you *must* try things that are worse. You must accept the "failed" mutations to find the one that redefines the species. This is why "Safe" environments often stagnate. If the cost of failure is too high, people stop providing variance. They stick to the "standard," and the process stalls. 
 
 A System Designer intentionally creates "Safe Spaces for Variance"—low-stakes environments where people are encouraged to try things that might not work.
 
@@ -59,14 +59,14 @@ A System Designer intentionally creates "Safe Spaces for Variance"—low-stakes 
 
 The final lever is the intensity of the filter. 
 
-If the selection pressure is too low—if everyone gets a "participation trophy" and no one ever fails—the engine has no direction. There is no reason to optimize, so the system becomes bloated and inefficient. 
+If the selection pressure is too low—if everyone gets a "participation trophy" and no one ever fails—the process has no direction. There is no reason to optimize, so the system becomes bloated and inefficient. 
 
-But if the selection pressure is too high—if one mistake means you are fired or the company goes bankrupt—the system becomes fragile. People become too afraid to provide variance, and the whole engine breaks under the stress. 
+But if the selection pressure is too high—if one mistake means you are fired or the company goes bankrupt—the system becomes fragile. People become too afraid to provide variance, and the whole system breaks under the stress. 
 
 The goal of a System Designer is to find the **Goldilocks Zone**. You want enough pressure to force optimization, but enough safety to allow for the "errors" that lead to breakthroughs. 
 
-Once you understand these levers, you stop being a victim of the pattern and start being its director. You stop asking "Why is this happening to me?" and start asking "How can I tune this engine to get a better result?"
+Once you understand these levers, you stop being a victim of the pattern and start being its director. You stop asking "Why is this happening to me?" and start asking "How can I tune this mechanism to get a better result?"
 
-But even with a perfectly tuned engine, there is still one question we haven't answered. You can run as fast as you want, but who decided where the finish line is? 
+But even with a perfectly tuned mechanism, there is still one question we haven't answered. You can run as fast as you want, but who decided where the finish line is? 
 
-To answer that, we have to step out of the engine and look at the track. We have to look at **The Filter**.
+To answer that, we have to step out of the mechanism and look at the track. We have to look at **The Filter**.

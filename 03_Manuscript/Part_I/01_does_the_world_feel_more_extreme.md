@@ -67,10 +67,10 @@ What if the world isn't "broken"? What if it's working exactly as it was designe
 
 Take YouTube. It’s not trying to annoy you or destroy your attention span; it’s just optimizing for **Watch Time**. The market isn’t trying to starve anyone; it’s optimizing for **Capital Efficiency**.
 
-We are trapped in systems that are optimizing themselves into extremism. To understand why, we have to stop looking at the players and start looking at the code. We need a new lens—a way to see **The Pattern** that runs through nature, markets, and our own pockets.
+We are living in systems that are optimizing themselves into extremism. To understand why, we have to stop looking at the players and start looking at the code. We need a new lens—a way to see **The Pattern** that runs through nature, markets, and our own pockets.
 
 In this book, I want to share that lens with you. Not to make you a pessimist, but to help you see the world the way a system designer sees a game. Because once you understand the rules, you can stop fighting the current and start redirecting the river.
 
-To understand the machine, we first have to look at the engine. How does a system actually "learn" to get this extreme?
+To understand the machine, we first have to look at the gears. How does a system actually "learn" to get this extreme?
 
 

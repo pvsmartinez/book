@@ -37,10 +37,10 @@ In a finite game, the goal is to win. In an infinite game, the goal is to keep t
 
 This isn't depressing; it’s liberating. It means that the world isn't a problem to be "solved"—it is a garden to be "cultivated." You don't "win" at gardening. You just keep planting, keep weeding, and keep adapting to the seasons. 
 
-You are now a System Designer. You have the lens to see the engines of iteration, the filters of selection, and the power of compounding. You know that you don't have to fight the players to change the world. You just have to change the rules. 
+You are now a System Designer. You have the lens to see the patterns of iteration, the filters of selection, and the power of compounding. You know that you don't have to fight the players to change the world. You just have to change the rules. 
 
 So, go out and design better games. Build environments that reward curiosity over outrage. Create systems that value resilience over efficiency. Patch your own life, and then help us patch the world. 
 
-The engine is running. The filter is waiting. The time is compounding. 
+The pattern is running. The filter is waiting. The time is compounding. 
 
 What kind of world are you going to design? 

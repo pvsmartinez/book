@@ -27,7 +27,7 @@
 
 ### Draft
 
-If you look at a giraffe, it looks like a masterpiece of engineering. It has a neck perfectly suited to reach the high leaves of the acacia tree, a heart powerful enough to pump blood up that long vertical climb, and a tongue tough enough to wrap around thorns. It looks like an engineer sat down, measured the tree, and built a machine to reach it.
+If you look at a giraffe, it looks like a feat of engineering. It has a neck perfectly suited to reach the high leaves of the acacia tree, a heart powerful enough to pump blood up that long vertical climb, and a tongue tough enough to wrap around thorns. It looks like an engineer sat down, measured the tree, and built a machine to reach it.
 
 But there was no engineer.
 
@@ -53,7 +53,7 @@ The virus has a very simple "Value Function": **Spread**. When we introduced vac
 
 That’s how we got Delta. That’s how we got Omicron. The virus "learned" the weakness in our defenses simply by throwing enough random attempts at the wall until one stuck. It didn't outsmart us; it **out-iterated** us.
 
-The giraffe and the virus are the same story told at different speeds. One takes eons, the other takes days. But the logic is identical. The pattern doesn't care if you are a majestic mammal or a microscopic parasite. If you iterate, and there is a filter, you will optimize.
+The giraffe and the virus are the same story told at different speeds. One takes eons, the other takes days. But the logic is identical. The pattern doesn't care if you are a large mammal or a microscopic parasite. If you iterate, and there is a filter, you will optimize.
 
 The payoff here is simple: the "design" we see in the world isn't the result of a plan, but the result of a filter. The giraffe didn't grow a neck to reach the tree; the tree killed every giraffe that couldn't reach it. The virus didn't "learn" to beat the vaccine; the vaccine killed every version of the virus that wasn't resistant. 
 

@@ -75,9 +75,9 @@ The next time, the dog is more likely to sit.
 
 Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog might sit, might bark, might run away. Without the feedback (the cookie), the dog isn't learning. It's just guessing.
 
-Of course we will need to give the request "Sit", wait the action, and give the cookie multiple times, until the dog does indeed learn.
+We need to repeat the request, wait for the action, and give the cookie multiple times before the dog truly learns.
 
-The same applies to learning Tennis.
+The same applies to learning tennis.
 You swing the racket. The ball hits the net.
 Your hands feel the vibration. Your eyes see the error.
 **Action:** Swing. **Feedback:** "Too low."

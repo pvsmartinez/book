@@ -36,7 +36,7 @@
 
 ### Draft
 
-To understand the power of the Value Function in its purest form, we have to look at how we build artificial intelligence. 
+To understand the power of the Value Function in a clear form, we have to look at how we build artificial intelligence. 
 
 When we "train" an AI, we aren't teaching it like a human student. We don't explain concepts, and we don't give it a moral compass. Instead, we start with what is essentially a "dumb computer"—a network of millions of "neurons" (which are just simple math equations) filled with random numbers. At the start, this network does absolutely nothing useful. If you asked it to recognize a cat, it would give you random noise.
 

@@ -1,16 +1,16 @@
-# Chapter 18: The Cheetah's Dilemma
+## Chapter 18: The Cheetah's Dilemma
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
 
-**Status:** Blocking
-**Goal:** Deep Dive Example of Over-Optimization (Fragility).
+**Status:** Draft
+**Goal:** Explain the trade-off between Efficiency and Resilience.
 
 ---
 
 ### 1. The Story: The Cheetah
 *   **The Optimization:** The Cheetah is the perfect running machine.
-*   **The Cost:** It has no fat reserves. It has weak jaws. If it misses a hunt, it dies. If it gets injured, it dies.
+*   **The Cost:** It has no fat reserves. It has weak jaws. It is fragile.
 *   **The Concept:** It is **Over-Optimized**. It traded *Resilience* for *Performance*.
 
 ### 2. The Just-in-Time World
@@ -19,9 +19,8 @@
 *   **The Crash:** One boat gets stuck in the Suez Canal (or a pandemic hits), and the whole world stops.
 *   **Key Seeds:** [[shifting_value_functions]].
 
-### 3. The Bridge
-*   **Closing Thought:** "We have built a Ferrari world with no brakes. How do we stop it from crashing?"
-*   **Lead-in:** Chapter 14 (The Pendulum).
+### 3. The Definition
+*   **Closing Thought:** Defining Over-Optimization as the point where efficiency becomes fragility.
 
 </details>
 
@@ -29,7 +28,7 @@
 
 ### Draft
 
-The Cheetah is the fastest land animal on Earth. It is a masterpiece of optimization. Every single part of its body—from its non-retractable claws that act like running spikes to its long tail that acts like a rudder—is designed for one thing: **Speed**. 
+The Cheetah is the fastest land animal on Earth. It is a feat of optimization. Every single part of its body—from its non-retractable claws that act like running spikes to its long tail that acts like a rudder—is designed for one thing: **Speed**. 
 
 But there is a hidden cost to being the best. 
 
@@ -45,8 +44,8 @@ We see this in our global economy. For decades, we optimized for "Just-in-Time" 
 
 But then the environment changed. A pandemic hit. A boat got stuck in the Suez Canal. Suddenly, the "efficiency" that made us rich became the "fragility" that made us collapse. Because we had no "fat" in the system, we had no resilience. 
 
-The error of the system compounded until the system itself became too specialized to survive a change in the rules. 
+The error of the system compounded until the system itself became too specialized to survive a change in the rules. Optimization is a one-way street. The further you go down the path of specialization, the harder it is to turn back when the environment shifts. 
 
-This is the final lesson of the Compounder: optimization is a one-way street. The further you go down the path of specialization, the harder it is to turn back when the environment shifts. 
+**Over-Optimization** is the point in a system’s evolution where the pursuit of efficiency has removed all the buffers, leaving the system perfectly adapted to a single environment but completely vulnerable to any change in that environment.
 
-But environments *always* shift. And when they do, the system doesn't just stop. It swings. 
+The goal isn't to be the fastest runner on the track. The goal is to be the one who can still run when the track turns into a swamp. 

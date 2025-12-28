@@ -102,17 +102,18 @@
 
 ---
 
-## Part IV: The Compounder (Time & Feedback Loops)
-*Goal: Understand the value function's effect over time and its consequences. Identify when a system is stable and when it "explodes." Use history as a teacher to spot how things are progressing, without treating it as absolute truth.*
+## Part IV: The Compounder (Time and its Consequences)
+*Goal: Understand how time acts as a multiplier for both optimization and its side effects. Identify when a system is stable and when it "explodes."*
 
 **Chapter 16: The Compound Effect (Theory)**
 *   **Concept:** Exponential divergence. The error compounds.
 *   **Key Seeds:** [[time_and_compounding]].
 
-**Chapter 17: The Whale Economy (Deep Dive Example)**
-*   **Story:** Wealth inequality and "Whales" in mobile games.
-*   **Focus:** How time naturally concentrates resources.
-*   **Key Seeds:** [[the_whale_economy_and_game_design]], [[capitalism_optimization]].
+**Chapter 17: The Evolution of Venture Capital (Deep Dive Example)**
+*   **Story:** From funding innovation to funding narratives. The shift from Profit to Valuation.
+*   **Focus:** How the VC business model (Power Law) changed the type of entrepreneur that survives.
+*   **Lesson:** When you optimize for "Investability," you stop selecting for "Product."
+*   **Key Seeds:** [[the_evolution_of_venture_capital]].
 
 **Chapter 18: The Cheetah’s Dilemma (Deep Dive Example)**
 *   **Story:** The Cheetah becoming too fast and too fragile.
@@ -154,7 +155,7 @@
 **Chapter 24: The Macro-Lens (Social Systems)**
 *   **Application:** How to read the news and view politics without anger.
 *   **Topics:**
-    *   *Diagnostics:** Identifying the incentives (Value Function) behind the outrage.
+    *   *Diagnostics:* Identifying the incentives (Value Function) behind the outrage.
     *   *Action:* Where to apply pressure? (Changing the environment vs. yelling at the players).
 
 **Chapter 25: The Toolkit (How to Analyze)**
@@ -166,4 +167,3 @@
 **Chapter 26: The Infinite Game (Conclusion)**
 *   **Recap:** Summary of the journey.
 *   **Final Thought:** The game never ends. The goal is not to win, but to keep playing and improving the system.
-
