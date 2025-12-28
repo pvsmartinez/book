@@ -1,4 +1,4 @@
-# Chapter 24: The Macro Lens
+# Chapter 25: The Macro Lens
 
 When we look at the big problems of society—crime, poverty, political division—we usually fall into one of two camps. 
 

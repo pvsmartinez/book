@@ -213,3 +213,12 @@ In F2P, the vast majority will never pay. The game must be good for them too. Ex
 
 **Paradox on why they greenlit Cities: Skylines:**
 >"After what happened to SimCity..."
+
+---
+
+## 🎥 VIDEO REFERENCES
+
+### Extra Credits: "Depth vs. Complexity"
+*   **The Concept:** Complexity is the number of rules; Depth is the number of meaningful choices.
+*   **Breakpoints:** A key concept in game balance. Numerical changes (like +1 damage) are often invisible until they cross a "Breakpoint" (e.g., reducing the number of hits to kill an enemy).
+*   **Systemic Impact:** Small, continuous evolution can lead to sudden, disruptive changes in the environment when a threshold is crossed.

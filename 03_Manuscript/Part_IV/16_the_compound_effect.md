@@ -12,15 +12,11 @@
 *   **Concept:** We know the "Judge" sets the direction. Now we look at what happens when the engine runs in that direction for a long time.
 *   **The Cost of Efficiency:** Optimization isn't free. It always creates side effects that compound alongside the gains.
 
-### 2. The Efficiency Trap (The ENEL Example)
-*   **Concept:** Over-optimization for a single metric (like short-term profit) makes a system fragile.
-*   **Example:** A utility company cutting staff to maximize dividends, only to collapse when a storm hits because they lack the "buffer" of human labor.
-
-### 3. The 100-Year Trend
+### 2. The 100-Year Trend
 *   **Concept:** Small, consistent efficiency gains (1% per year) lead to massive structural shifts over a century.
 *   **Focus:** The trend of worker reduction in capitalism and the resulting power dynamics.
 
-### 4. The Power of the Buffer (The Money Example)
+### 3. The Power of the Buffer (The Money Example)
 *   **Concept:** "Being in front" is a structural advantage that time turns into an insurmountable gap.
 *   **Example:** Ana (with a seed) vs. Bruno (starting at zero).
 *   **Context:** The Selic rate and generational wealth.
@@ -38,27 +34,11 @@ The Filter gives the system its direction. But direction alone isn't enough to e
 
 When **The Pattern** of iteration runs in a specific direction for a long enough period, we encounter a phenomenon that is often invisible until it is too late. We call it the **Compound Effect**.
 
-### The Fragility of Perfection
-
-We often think of optimization as a purely positive thing. We want our apps to be faster, our factories to be more efficient, and our investments to grow. But optimization is never "clean." It always comes with side effects—what we might call **Systemic Errors**. 
-
-The first rule of the Compounder is simple: **Errors compound just as fast as optimizations.**
-
-Think about a large utility company, like an energy provider in a major city. The "Judge" for this company is often the quarterly profit report. To satisfy this judge, the company optimizes for efficiency. They cut "unnecessary" costs. They reduce the number of field technicians. They automate maintenance schedules. 
-
-For years, this looks like a success story. Profits go up. Dividends are paid. The system is becoming "leaner." 
-
-But then, a storm hits. A few trees fall on the power lines—something that happens every few years. In the past, the company had enough "slack" in the system—extra workers, local depots, manual overrides—to fix the problem in hours. But now, the system has been optimized to the bone. There is no buffer left. 
-
-What was a minor weather event becomes a systemic collapse. Millions of people are left without power for days, not because the storm was unprecedented, but because the company’s "efficiency" had compounded into a massive, invisible fragility. 
-
-At first, the change is so small it looks like noise. Then, it looks like a trend. Finally, it looks like an explosion.
-
 ### The 100-Year Shift
 
 We often talk about "1% improvements" as a motivational tool, but let’s look at it as a systemic force. 
 
-Imagine the history of capitalism over the last century. If we assume that companies, driven by the market filter, become just 5% more efficient every year, the results are staggering. Over 100 years, that 5% doesn't just add up; it compounds. By the end of the century, the system is more than 130 times more efficient than when it started.
+Imagine the history of capitalism over the last century. If we assume that companies, driven by the market filter, become just 1% more efficient every year, the results are staggering. Over 100 years, that 1% doesn't just add up; it compounds. By the end of the century, the system is nearly 3 times more efficient than when it started. If we look at 5% efficiency gains, the system becomes more than 130 times more efficient.
 
 Think about what that actually looks like on the ground.
 
@@ -92,7 +72,7 @@ A $400,000 gap is significant, but it’s still within the realm of human imagin
 
 If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno’s disciplined savings have grown to a respectable $86 million. But Ana’s "seed," because it had those extra decades to compound, has turned her fortune into nearly $195 million. 
 
-Ana is more than twice as wealthy as Bruno, not because she worked twice as hard, but because she was **in front** at the start. The system’s Value Function rewarded her "buffer" more than it rewarded their collective lifetime of labor. 
+The most striking part isn't just the total. It's that Ana's initial $100,000 "seed" alone grew to $108 million—more than Bruno's entire lifetime of labor and savings combined. Ana is more than twice as wealthy as Bruno, not because she worked twice as hard, but because she was **in front** at the start. The system’s Value Function rewarded her "buffer" more than it rewarded their collective lifetime of labor. 
 
 This isn't a story about good or evil. It is a story about the math of the track. When you have a buffer—whether it’s money, reputation, or even just a head start in a new technology—The Pattern takes that small advantage and turns it into a massive, structural divergence that becomes impossible to close. 
 

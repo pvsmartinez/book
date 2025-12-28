@@ -30,15 +30,16 @@ Open this file and use the Preview feature to read the whole book.
 
 # Part IV: The Compounder
 @import "Part_IV/16_the_compound_effect.md"
-@import "Part_IV/17_the_evolution_of_venture_capital.md"
-@import "Part_IV/18_the_cheetahs_dilemma.md"
-@import "Part_IV/19_the_pendulum.md"
+@import "Part_IV/17_thresholds_and_breakpoints.md"
+@import "Part_IV/18_the_evolution_of_venture_capital.md"
+@import "Part_IV/19_the_cheetahs_dilemma.md"
+@import "Part_IV/20_the_pendulum.md"
 
 # Part V: The Designer
-@import "Part_V/20_the_system_designer_mindset.md"
-@import "Part_V/21_the_expert_trap.md"
-@import "Part_V/22_the_invisible_pattern.md"
-@import "Part_V/23_the_micro_lens.md"
-@import "Part_V/24_the_macro_lens.md"
-@import "Part_V/25_the_toolkit.md"
-@import "Part_V/26_the_infinite_game.md"
+@import "Part_V/21_the_system_designer_mindset.md"
+@import "Part_V/22_the_expert_trap.md"
+@import "Part_V/23_the_invisible_pattern.md"
+@import "Part_V/24_the_micro_lens.md"
+@import "Part_V/25_the_macro_lens.md"
+@import "Part_V/26_the_toolkit.md"
+@import "Part_V/27_the_infinite_game.md"

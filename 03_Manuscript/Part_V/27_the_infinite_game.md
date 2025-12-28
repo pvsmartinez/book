@@ -1,4 +1,4 @@
-# Chapter 26: The Infinite Game
+# Chapter 27: The Infinite Game
 
 We started this journey with a feeling of exhaustion. We looked at a world that felt loud, extreme, and out of control. We looked for villains, and we found math. 
 

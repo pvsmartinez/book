@@ -1,4 +1,4 @@
-# Chapter 25: The Toolkit
+# Chapter 26: The Toolkit
 
 By now, you have the lens. You can see the patterns, the filters, and the compounders that shape our world. But a lens is only useful if you know how to focus it. 
 

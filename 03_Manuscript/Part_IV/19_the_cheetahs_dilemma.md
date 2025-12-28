@@ -1,4 +1,4 @@
-## Chapter 18: The Cheetah's Dilemma
+## Chapter 19: The Cheetah's Dilemma
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

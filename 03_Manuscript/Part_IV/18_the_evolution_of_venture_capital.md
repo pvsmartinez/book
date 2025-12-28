@@ -1,4 +1,4 @@
-## Chapter 17: The Evolution of Venture Capital
+## Chapter 18: The Evolution of Venture Capital
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

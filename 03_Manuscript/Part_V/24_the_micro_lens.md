@@ -1,4 +1,4 @@
-# Chapter 23: The Micro-Lens (Personal Systems)
+# Chapter 24: The Micro-Lens (Personal Systems)
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
