@@ -37,28 +37,12 @@ for part in Part_I Part_II Part_III Part_IV Part_V; do
     echo "Processing $part..."
     
     # Add Part Page
-    case $part in
-        Part_I)
-            TITLE="Part I: The Hook"
-            DESC="Why the world feels like it's vibrating at a higher frequency."
-            ;;
-        Part_II)
-            TITLE="Part II: The Engine"
-            DESC="The mechanics of iteration and variance that drive all change."
-            ;;
-        Part_III)
-            TITLE="Part III: The Filter"
-            DESC="The invisible judge that decides the direction of evolution."
-            ;;
-        Part_IV)
-            TITLE="Part IV: The Compounder"
-            DESC="The power of time and the inevitability of inequality."
-            ;;
-        Part_V)
-            TITLE="Part V: The Designer"
-            DESC="Shifting from being a player to being an architect of systems."
-            ;;
-    esac
+    # Read metadata from 03_Manuscript/book_metadata.md
+    METADATA_FILE="03_Manuscript/book_metadata.md"
+    
+    # Extract Title and Description using sed
+    TITLE=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Title: " | sed 's/^Title: //')
+    DESC=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Description: " | sed 's/^Description: //')
 
     cat << EOM >> "$TEMP_MD"
 <div class="part-page">

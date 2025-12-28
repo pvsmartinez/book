@@ -106,64 +106,68 @@
 *Goal: Understand how time acts as a multiplier for both optimization and its side effects. Identify when a system is stable and when it "explodes."*
 
 **Chapter 16: The Compound Effect (Theory)**
-*   **Concept:** Exponential divergence. The error compounds.
+*   **Concept:** Exponential divergence. The error compounds. Small things become big.
 *   **Key Seeds:** [[time_and_compounding]].
 
-**Chapter 17: The Evolution of Venture Capital (Deep Dive Example)**
+**Chapter 17: The Cheetah’s Dilemma (Deep Dive Example)**
+*   **Story:** The Cheetah becoming too fast and too fragile. Capitalism's over-optimization for efficiency.
+*   **Focus:** Over-optimization and the lack of oscillation.
+*   **Key Seeds:** [[shifting_value_functions]], [[capitalism_optimization]].
+
+**Chapter 18: The Evolution of Venture Capital (Deep Dive Example)**
 *   **Story:** From funding innovation to funding narratives. The shift from Profit to Valuation.
 *   **Focus:** How the VC business model (Power Law) changed the type of entrepreneur that survives.
 *   **Lesson:** When you optimize for "Investability," you stop selecting for "Product."
 *   **Key Seeds:** [[the_evolution_of_venture_capital]].
 
-**Chapter 18: The Cheetah’s Dilemma (Deep Dive Example)**
-*   **Story:** The Cheetah becoming too fast and too fragile.
-*   **Focus:** Over-optimization and the lack of oscillation.
+**Chapter 19: Thresholds and Breakpoints (Deep Dive Example)**
+*   **Concept:** Non-linear shifts. The RPG math and the invisible cliff.
+*   **Key Seeds:** [[thresholds_and_breakpoints]].
+
+**Chapter 20: The Pendulum**
+*   **Goal:** Explore oscillation and stability. Static systems break (Extremism); Dynamic systems breathe (Oscillation).
+*   **Focus:** How systems fluctuate or explode based on their feedback loops. Weather cycles and broken patterns.
 *   **Key Seeds:** [[shifting_value_functions]].
 
-**Chapter 19: The Pendulum**
-*   **Goal:** Explore oscillation and stability. Static systems break (Extremism); Dynamic systems breathe (Oscillation).
-*   **Focus:** How systems fluctuate or explode based on their feedback loops.
-*   **Key Seeds:** [[shifting_value_functions]].
+**Chapter 21: Synthesis: The Compounder**
+*   **Goal:** Summarize the consequences of time, over-optimization, and breaking points.
+*   **Focus:** Bringing the theory of Part IV together.
 
 ---
 
-## Part V: The Designer (Application & Toolkit)
+## Part V: The System Designer (Application & Toolkit)
 *Goal: Empower the reader to stop playing and start designing. Move from Theory to Practice.*
 
-**Chapter 20: The System Designer Mindset**
-*   **Concept:** The shift from "Player" (victim of the system) to "Designer" (architect of the system).
-*   **Key Seeds:** [[the_system_designer_mindset]], [[dont_hate_the_player]].
+**Chapter 22: Stop Hating the Player**
+*   **Concept:** Moving from moral judgment to systemic understanding.
+*   **Focus:** Why yelling at the "runners" doesn't change the "track."
+*   **Key Seeds:** [[dont_hate_the_player]].
 
-**Chapter 21: The Expert Trap**
-*   **Concept:** How to identify real expertise (Feedback-based) vs. fake expertise (Authority-based).
-*   **Key Seeds:** [[the_expert_trap]].
-*   **Application:** How to choose who to listen to in a noisy world.
+**Chapter 23: The System Designer**
+*   **Concept:** The shift from "Player" to "Designer."
+*   **Focus:** Identifying the levers of the engine in your own life and society.
+*   **Key Seeds:** [[the_system_designer_mindset]].
 
-**Chapter 22: The Invisible Pattern**
-*   **Concept:** Synthesis of the entire book. The Pattern is everywhere.
-*   **Key Seeds:** [[the_invisible_hand_vs_pattern]].
-*   **Closing:** A call to action to see the invisible patterns and reshape them.
-
-**Chapter 23: The Micro-Lens (Personal Systems)**
-*   **Application:** Applying the framework to your own life.
-*   **Topics:**
-    *   *Habits:* Iteration vs. Goals.
-    *   *Career:* Finding the right Environment (Value Function) for your skills.
-    *   *Relationships:* Oscillation and balance.
+**Chapter 24: Debugging the World**
+*   **Concept:** How to identify broken feedback loops.
+*   **Focus:** Symptoms vs. Systems.
 *   **Key Seeds:** [[symptoms_vs_systems_the_dual_approach]].
 
-**Chapter 24: The Macro-Lens (Social Systems)**
-*   **Application:** How to read the news and view politics without anger.
-*   **Topics:**
-    *   *Diagnostics:* Identifying the incentives (Value Function) behind the outrage.
-    *   *Action:* Where to apply pressure? (Changing the environment vs. yelling at the players).
+**Chapter 25: Patching the Code**
+*   **Concept:** Small changes to the Value Function that create large shifts over time.
+*   **Focus:** Iteration as a tool for repair.
+*   **Key Seeds:** [[iteration_is_feedback]].
 
-**Chapter 25: The Toolkit (How to Analyze)**
-*   **Concept:** A practical framework/checklist for the reader.
-*   **Tools:**
-    *   *The 4 Questions:* What is the Value Function? What is the Iteration Speed? Where is the Feedback Loop? Is it Static or Dynamic?
-    *   *The Debugging Process:* How to fix a broken system.
+**Chapter 26: The Gardener**
+*   **Concept:** The philosophy of cultivation vs. control.
+*   **Focus:** Managing complex systems without breaking them.
+*   **Key Seeds:** [[the_system_designer_mindset]].
 
-**Chapter 26: The Infinite Game (Conclusion)**
+**Chapter 27: The Final Pattern**
+*   **Concept:** Synthesis of the entire book.
+*   **Focus:** Seeing the invisible patterns everywhere.
+*   **Key Seeds:** [[the_invisible_hand_vs_pattern]].
+
+**Chapter 28: Conclusion**
 *   **Recap:** Summary of the journey.
 *   **Final Thought:** The game never ends. The goal is not to win, but to keep playing and improving the system.
