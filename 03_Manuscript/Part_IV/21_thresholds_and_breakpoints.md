@@ -1,4 +1,4 @@
-## Chapter 19: Thresholds and Breakpoints
+## Chapter 21: Thresholds and Breakpoints
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
@@ -58,10 +58,6 @@ In gaming, we call this "Scaling." A level 50 character isn't just 50 times stro
 
 This is the secret of non-linear systems. In the real world, we often optimize for the 13-damage version. We celebrate the 1% increase in efficiency, not realizing that we haven't actually changed the outcome. And then, someone else makes a tiny, almost invisible adjustment, crosses the threshold, and suddenly they are playing a completely different game.
 
-We see this in our daily lives, too. Think about your commute. If you leave the house at 7:00 AM, the drive takes 20 minutes. If you leave at 7:05 AM—just a 5-minute difference—you hit the "School Bus Threshold." Suddenly, the roads are clogged, and the drive takes 50 minutes. The input changed linearly (5 minutes), but the output changed exponentially (30 minutes). 
-
-Or think about saving for a house. Saving $10,000 vs $11,000 feels like a small difference. But if the down payment threshold for a loan is exactly $11,000, that extra $1,000 isn't just money; it is a key that unlocks an entirely new asset class. Below the threshold, you are a renter. Above it, you are an owner. The math of your life changes instantly.
-
 ### The Snap
 
 We can see this in simple materials. Take a rubber band. You can stretch it 10%, 20%, 50%. It resists, but it holds. It behaves linearly: the more you pull, the more tension it creates.
@@ -70,7 +66,7 @@ But there is a point—a specific millimeter of stretch—where the material str
 
 This concept of thresholds is what makes over-optimization so dangerous. When a system is compounding its efficiency, it often looks like it’s getting stronger and stronger, right up until the moment it hits a cliff.
 
-Think back to the energy company we discussed in Chapter 17. They were cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
+Think back to the energy company we discussed in Chapter 18. They were cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
 
 But they were approaching a **Breakpoint**. 
 
@@ -92,9 +88,9 @@ To an outside observer, the system might look stable for years. People are compl
 
 Then, a single event—a bread riot, a lost war, a single speech—acts as the final "1-point damage" upgrade. It doesn't just add to the tension; it crosses the threshold. In an instant, the fundamental math of the society changes. The rules that everyone followed yesterday are suddenly ignored. The regime that seemed secure in the morning is gone by nightfall. 
 
-It is important to remember that while we talk about this as "physics," the reality is human. These breakpoints are rarely smooth. They are often chaotic, violent, and terrifying for the people living through them. A system snapping is not a gentle transition; it is an earthquake. But understanding the math helps us see that the earthquake wasn't "random"—it was the inevitable release of pressure that had been building for decades.
-
 Revolutions are proof that the world is non-linear. You can have 99% of the pressure required for a change and see 0% of the result. But that last 1% doesn't just give you a 1% change; it gives you a new world.
+
+And we must remember: these shifts are not just lines on a graph. They are traumatic. When a system snaps, it releases all the tension it has been holding for decades in a single, violent burst.
 
 ### The Takeaway
 
@@ -103,8 +99,3 @@ The Pattern doesn't move in a straight line. It moves in plateaus and cliffs.
 When you are iterating, you have to ask more questions. It's not enough to ask "How much better is this?" You must also ask "Does this cross a breakpoint?" 
 
 Because in a compounding world, significant changes aren't the ones that happen gradually. They are the ones that happen the moment you cross the line.
-
-**Agency Check:**
-Look at the systems around you that feel "stuck." Are they really stable, or are they just building pressure? Don't just look at the surface calm; look for the tension underneath. The cliff is usually visible long before you fall off it, if you know what to look for.
-
-**Are you watching for the cliff?**

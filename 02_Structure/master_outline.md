@@ -106,30 +106,40 @@
 *Goal: Understand how time acts as a multiplier for both optimization and its side effects. Identify when a system is stable and when it "explodes."*
 
 **Chapter 16: The Compound Effect (Theory)**
-*   **Concept:** Exponential divergence. The error compounds. Small things become big.
+*   **Concept:** Exponential divergence. The 100-Year Shift.
 *   **Key Seeds:** [[time_and_compounding]].
 
-**Chapter 17: The Cheetah’s Dilemma (Deep Dive Example)**
-*   **Story:** The Cheetah becoming too fast and too fragile. Capitalism's over-optimization for efficiency.
-*   **Focus:** Over-optimization and the lack of oscillation.
-*   **Key Seeds:** [[shifting_value_functions]], [[capitalism_optimization]].
+**Chapter 17: The Head Start (Deep Dive Example)**
+*   **Story:** Ana vs. Bruno (Finance) and The Relative Age Effect (Opportunity).
+*   **Focus:** How initial advantages compound into structural inequality.
+*   **Key Seeds:** [[relative_age_effect]], [[time_and_compounding]].
 
-**Chapter 18: The Evolution of Venture Capital (Deep Dive Example)**
+**Chapter 18: The Cheetah’s Dilemma (Deep Dive Example)**
+*   **Story:** The Cheetah (Speed vs. Defense) and The Car (Mobility vs. Traffic).
+*   **Focus:** Unforeseen Consequences. How optimizing for a visible metric creates invisible side effects that eventually become the dominant problem.
+*   **Key Seeds:** [[shifting_value_functions]], [[the_feedback_loop_of_consequences]].
+
+**Chapter 19: The Evolution of Venture Capital (Deep Dive Example)**
 *   **Story:** From funding innovation to funding narratives. The shift from Profit to Valuation.
 *   **Focus:** How the VC business model (Power Law) changed the type of entrepreneur that survives.
 *   **Lesson:** When you optimize for "Investability," you stop selecting for "Product."
 *   **Key Seeds:** [[the_evolution_of_venture_capital]].
 
-**Chapter 19: Thresholds and Breakpoints (Deep Dive Example)**
+**Chapter 20: The Trap (Deep Dive Example)**
+*   **Story:** QWERTY Keyboards and Fossil Fuels.
+*   **Focus:** Lock-In and Path Dependence. Why we get stuck with sub-optimal systems.
+*   **Key Seeds:** [[the_trap_lock_in]].
+
+**Chapter 21: Thresholds and Breakpoints (Deep Dive Example)**
 *   **Concept:** Non-linear shifts. The RPG math and the invisible cliff.
 *   **Key Seeds:** [[thresholds_and_breakpoints]].
 
-**Chapter 20: The Pendulum**
+**Chapter 22: The Pendulum**
 *   **Goal:** Explore oscillation and stability. Static systems break (Extremism); Dynamic systems breathe (Oscillation).
 *   **Focus:** How systems fluctuate or explode based on their feedback loops. Weather cycles and broken patterns.
 *   **Key Seeds:** [[shifting_value_functions]].
 
-**Chapter 21: Synthesis: The Compounder**
+**Chapter 23: Synthesis: The Compounder**
 *   **Goal:** Summarize the consequences of time, over-optimization, and breaking points.
 *   **Focus:** Bringing the theory of Part IV together.
 
@@ -138,12 +148,12 @@
 ## Part V: The System Designer (Application & Toolkit)
 *Goal: Empower the reader to stop playing and start designing. Move from Theory to Practice.*
 
-**Chapter 22: Stop Hating the Player**
+**Chapter 24: Stop Hating the Player**
 *   **Concept:** Moving from moral judgment to systemic understanding.
 *   **Focus:** Why yelling at the "runners" doesn't change the "track."
 *   **Key Seeds:** [[dont_hate_the_player]].
 
-**Chapter 23: The System Designer**
+**Chapter 25: The System Designer**
 *   **Concept:** The shift from "Player" to "Designer."
 *   **Focus:** Identifying the levers of the engine in your own life and society.
 *   **Key Seeds:** [[the_system_designer_mindset]].

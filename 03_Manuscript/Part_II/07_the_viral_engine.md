@@ -39,8 +39,6 @@ If this framework helps you see the world more clearly, you might tell a friend 
 
 This is the **Iteration** of culture. 
 
-The biologist Richard Dawkins coined a term for this in his 1976 book *The Selfish Gene*. He called these replicating ideas **Memes**. Just as a gene is a unit of biological information that wants to replicate, a meme is a unit of cultural information that wants to spread.
-
 The pattern doesn't need a central planner to decide which ideas are "good." It just needs a massive amount of variance (thousands of people talking and writing) and a mechanism for reproduction (sharing). 
 
 We often think of culture as something we "create" intentionally, but most of it is an emergent behavior of this pattern running on autopilot. We are constantly throwing ideas at the wall, and the ones that stick are the ones that get to iterate. 

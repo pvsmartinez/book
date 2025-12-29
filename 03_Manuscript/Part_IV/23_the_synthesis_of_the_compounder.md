@@ -27,7 +27,9 @@
 
 We have spent the last few chapters looking at a powerful force: **Time**. 
 
-We saw how the **Compound Effect** takes the small, invisible choices of the "Judge" and turns them into the structural laws of our world. We saw how a 1% efficiency gain can lead to a 100-year shift that leaves thousands of people behind. We saw how the **Cheetah’s Dilemma** forces us to trade our resilience for performance, right up until the moment we hit the **Invisible Cliff**. 
+We saw how the **Compound Effect** takes the small, invisible choices of the "Judge" and turns them into the structural laws of our world. We saw how the **Head Start** creates canyons of inequality from small initial advantages.
+
+We saw how the **Cheetah’s Dilemma** blinds us to the side effects of our own optimizations, and how the **Trap** locks us into sub-optimal paths just because they are familiar.
 
 We looked at the **Venture Capital** machine, where the "math of the track" has replaced the reality of the product with the narrative of the promise. And we looked at the **Pendulum**, the corrective force that we are currently trying to hold still. 
 
@@ -44,7 +46,7 @@ We are living in the "Synthesis of the Compounder." We are at the point in the c
 But now you have the lens to see it. 
 
 You can see that the "100-year shift" isn't a conspiracy; it's math. 
-You can see that the "Cheetah" isn't stupid; it's just over-optimized. 
+You can see that the "Cheetah" isn't stupid; it's just blind to the consequences. 
 You can see that the "Breakpoint" isn't random; it's a threshold crossed by a thousand tiny steps. 
 And you can see that the "Pendulum" isn't chaos; it's a correction.
 
@@ -60,6 +62,4 @@ The Pattern is invisible, but it is not immutable. It was built by choices—cho
 
 In the final part of this book, we are going to stop looking at how to play the game and start looking at how to **design** it. We are going to move from being the victims of the pattern to being its architects. 
 
-Because the only way to survive a compounding world is to stop being a runner and start being a **System Designer**. 
-
-**Are you ready to stop playing and start building?**
+Because the only way to survive a compounding world is to stop being a runner and start being a **System Designer**.

@@ -49,7 +49,7 @@ The "Invisible Hand" doesn't select for "The Best Bread in the World." It select
 
 We often treat "Capitalism" and "Socialism" as moral philosophies or grand ideologies. But from the perspective of The Pattern, they are simply different ways of designing a Value Function.
 
-In a market-based system, the primary metric is **Profit**. Now, I know "profit" can be a dirty word in some circles, but let’s look at it purely as a signal. And let's acknowledge the results: this signal has driven the greatest reduction in global poverty in human history. It has filled our grocery stores with food from around the world and put a supercomputer in your pocket.
+In a market-based system, the primary metric is **Profit**. Now, I know "profit" can be a dirty word in some circles, but let’s look at it purely as a signal. 
 
 Imagine you are a baker. You try a new recipe for a spicy chocolate bread. You spend all day baking, you buy expensive ingredients, and you put it in the window. At the end of the day, not a single person has bought a loaf. You have lost money. 
 
@@ -67,7 +67,7 @@ Remember our engine: iteration and adaptability require feedback at the individu
 
 Because the macro-goal is so hard to measure at the micro-level, these systems often drift toward a different, easier-to-measure Value Function: **Political Loyalty** or **Bureaucratic Compliance**. 
 
-It’s not that the goal of equality is wrong; it’s that the feedback loop is broken. Without the granular signal of the coin, the system relies on the "clipboard." To "win," you don't need to make better bread; you need to make the bureaucrat happy. 
+If the "Judge" is no longer a customer with a coin, but a bureaucrat with a clipboard, the selection pressure shifts. To "win," you don't need to make better bread; you need to make the bureaucrat happy. 
 
 This is why many large-scale socialist experiments eventually became "extractive." As Daron Acemoglu and James A. Robinson explain in *Why Nations Fail*, institutions act as the ultimate filters. **Inclusive institutions** create a Value Function that rewards innovation and hard work. **Extractive institutions** create a Value Function that rewards those who can best serve the interests of a small elite. 
 

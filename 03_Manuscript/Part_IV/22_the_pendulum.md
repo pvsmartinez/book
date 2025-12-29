@@ -73,7 +73,4 @@ We have built a world of high-speed patterns, narrow filters, and compounding er
 
 **Can you see how the "fix" is often just the start of the next swing?**
 
-The goal isn't to stop the movement. The goal is to understand the rhythm, so we don't get crushed when the weight finally comes back down.
-
-**Agency Check:**
-When you feel the world swinging to an extreme—whether in politics, markets, or culture—don't panic. Ask yourself: "What is the opposite of this?" If the world is becoming too chaotic, the swing will be toward order. If it is too rigid, the swing will be toward freedom. By anticipating the swing, you can position yourself to be ready for the correction, rather than being swept away by it. 
+The goal isn't to stop the movement. The goal is to understand the rhythm, so we don't get crushed when the weight finally comes back down. 

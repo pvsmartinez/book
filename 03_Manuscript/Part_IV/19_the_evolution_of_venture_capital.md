@@ -1,9 +1,9 @@
-## Chapter 18: The Evolution of Venture Capital
+## Chapter 19: The Evolution of Venture Capital
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
 
-**Status:** Refactored (Session 6)
+**Status:** Refactored (Session 7)
 **Goal:** Explain how the Venture Capital system evolved from an innovation engine into a game-fied valuation machine through compounding selection pressures.
 
 ---
@@ -32,7 +32,11 @@
 
 ### Draft
 
-To understand how the Compound Effect shapes our modern economy, we have to look at one of the most influential systems in the world: **Venture Capital (VC)**.
+We have seen how systems optimize for speed (The Cheetah) and how they remove resilience. But there is one more way the Compound Effect twists the world. It doesn't just make us fragile; it sometimes changes the goal of the game entirely. 
+
+It takes a system designed for innovation and turns it into a casino.
+
+Let's look at **Venture Capital**.
 
 Most people have heard the term, but few understand the specific "math of the track" that governs it. At its core, Venture Capital is a system designed to fund ideas that are too risky for traditional banks. If you want to open a bakery, you go to a bank. If you want to build a rocket ship or a new way for the entire world to communicate, you go to a Venture Capitalist.
 
@@ -120,7 +124,4 @@ We haven't just "optimized" capitalism; we've changed the target. We are no long
 
 **Can you see how the "fittest" company is no longer the one that serves the customer, but the one that serves the investor?**
 
-In the long run, the error compounds. When a system stops measuring reality and starts measuring its own internal metrics, it becomes fragile. And as we will see, when the "Narrative" finally meets the reality of the market, the crash is just as exponential as the growth.
-
-**Agency Check:**
-As you look at the companies in your own life—the ones you work for or the ones you invest in—ask yourself: What is their Value Function? Are they optimizing for a customer who pays them money, or for an investor who gives them capital? The answer will tell you if they are built to last, or built to exit.
+In the long run, the error compounds. When a system stops measuring reality and starts measuring its own internal metrics, it becomes fragile. And when the "Narrative" finally meets the reality of the market, the crash is just as exponential as the growth.
