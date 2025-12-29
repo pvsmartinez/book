@@ -30,11 +30,9 @@
 
 In the previous chapter, we saw how a system can shift over 100 years simply by becoming more efficient. But that was looking at the system as a whole. Now, let's look at the individuals inside it.
 
-When we talk about "The Pattern"—Iteration, Variance, Selection—we often assume it's a fair race. We assume that if you iterate harder, or if you have better variance, you will be selected.
+When we talk about "The Pattern"—Iteration, Variance, Selection—we usually focus on the *process*. We look at who is running the fastest *right now*.
 
-But Time introduces a new variable: **Position**.
-
-In a compounding world, *where* you start matters almost as much as *who* you are.
+But in a compounding world, the race doesn't reset every lap. History accumulates. And because history accumulates, *where* you start matters almost as much as *who* you are.
 
 ### The Power of the Buffer
 
@@ -82,14 +80,14 @@ We attribute the success to talent, but a huge part of it was just the **Compoun
 
 ### The Takeaway
 
-This isn't a story about good or evil. It is a story about the math of the track. 
+This is the hidden power of the Head Start.
 
-When you have a buffer—whether it’s money, reputation, or even just a birthday that aligns with the system's rules—The Pattern takes that small advantage and turns it into a structural divergence.
+When you have a buffer—whether it’s money, reputation, or even just a birthday that aligns with the system's rules—The Pattern takes that small advantage and multiplies it.
 
-The "Judge" (the market, the coach) isn't trying to be unfair. They are just selecting the "fittest" option right now. But over time, that selection creates a world where the winners keep winning, not because they are still the best, but because they have the most momentum.
+The "Judge" (the market, the coach) is just selecting the "fittest" option right now. They pick the kid who is bigger *today*. They reward the account that has more money *today*. But that selection gives the winner the resources to be even fitter *tomorrow*.
 
-**The Error Compounds.**
+The January kid gets better coaching. The wealthy account generates its own income. The advantage feeds itself.
+
+Over time, this creates a world where the winners keep winning, not necessarily because they are working harder, but because they have the most momentum. The initial signal—that small difference in skill or capital—has been amplified until it drowns out everything else.
 
 In a system driven by time, the past is not just a memory; it is the foundation of the future.
-
-It is crucial to recognize these small advantages at the beginning. A 1% difference in the first iteration might look like noise, but if you let the clock run long enough, it can have huge consequences, even if they are unwanted. The error doesn't just stay an error; it grows until it becomes the rule.
