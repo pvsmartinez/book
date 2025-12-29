@@ -9,23 +9,24 @@
 
 ---
 
-### 1. The Equation (Part I & II)
-*   **Formula:** Iteration x Variance x Selection = Adaptation.
-*   **Mechanism:** It requires Action and Feedback.
-*   **Speed:** Depends on Population Size, Variance, and Iteration Speed.
+### 1. The Engine (Part I & II)
+*   **Formula:** Adaptation = (Iteration x Variance) / Time.
+*   **Role:** Explains *Change* and *Speed*.
+*   **Variables:** Population Size, Variance, and Iteration Speed.
 
 ### 2. The Judge (Part III)
-*   **Role:** The "Why." It explains the *direction* of the adaptation.
-*   **Nature:** It is not evil; it is just selecting. It can be survival, scoring, or profit.
+*   **Role:** The "Why." It explains the *Direction* of the adaptation.
+*   **Concept:** The Value Function (Selection).
+*   **Nature:** Indifferent. It optimizes for the metric, not the intent.
 
 ### 3. The Compounder (Part IV)
-*   **Role:** The "Extreme." It explains the *magnitude*.
-*   **Head Start:** History accumulates. Starting positions matter.
-*   **Systemic Drift:** The output of one cycle becomes the input of the next. The Value Function itself changes over time.
-*   **Breakpoints:** Optimization is not linear. Pressure builds invisibly until it explodes.
+*   **Role:** The "Extreme." It explains the *Magnitude*.
+*   **Head Start:** History accumulates.
+*   **Systemic Drift:** Output becomes Input. The Value Function changes.
+*   **Breakpoints:** Non-linear consequences.
 
 ### 4. The Transition
-*   **Shift:** From Runner (Playing the Game) to Architect (Designing the Game).
+*   **Shift:** From Runner to Architect.
 
 </details>
 
@@ -42,48 +43,41 @@ If you want to understand why the world feels the way it does—why it feels ext
 ### Part I & II: The Engine
 
 First, we saw the **Engine**.
-The fundamental mechanism of change in the universe is simple:
+The fundamental mechanism of change in the universe is defined by the **Adaptation Equation**:
 
-**Iteration x Variance x Selection = Adaptation**
+**Adaptation = (Iteration x Variance) / Time**
 
-But let's break down what that actually means.
+This equation explains the **Speed** of change.
 
-**Iteration requires Action and Feedback.**
-You cannot iterate by thinking. You have to *do* something, and then you have to see what happens. The "Action" is the attempt. The "Feedback" is the reality check.
+*   **Iteration:** You need action and feedback. You cannot learn by thinking; you have to *do*.
+*   **Variance:** You need difference. If everyone does the same thing, the system cannot find a better way.
+*   **Time:** The denominator. The faster you can close the loop, the faster you adapt.
 
-**The Speed of Adaptation depends on the Scale.**
-This is why the world feels faster today. The speed of the engine is proportional to three things:
-1.  **Population Size:** How many people (or things) are trying?
-2.  **Variance:** How different are their attempts?
-3.  **Iteration Speed:** How fast is the feedback loop?
+This is why the modern world "screams." We have increased the **Population** (more people iterating), we have increased the **Variance** (more ideas colliding), and we have drastically reduced the **Time** per iteration (feedback in seconds, not years).
 
-If you have a small population iterating once every generation (like humans 10,000 years ago), adaptation takes millennia. But if you have billions of people connected by the internet, creating a ton of content with massive variance, and getting feedback in seconds... the engine screams. 
-
-This explains the *speed* of the modern world. But it doesn't explain the *direction*.
+But the Engine only explains *change*. It doesn't explain *direction*.
 
 ### Part III: The Judge
 
 For that, we looked at the **Judge** (The Value Function).
 
-The Judge is the feedback mechanism. It is the "Filter" that decides which iterations survive and which ones are deleted.
+The Judge is the **Filter**. It explains the **Direction** of the adaptation.
+The Engine generates the options, but the Judge decides which ones survive.
+
 *   In the jungle, the Judge is **Survival**.
 *   In the market, the Judge is **Profit**.
 *   In the election, the Judge is **Votes**.
 
 The most important lesson from Part III was that the Judge is **Indifferent**. It is not evil. It is not trying to destroy the world or save it. It is simply selecting. 
 
-Selection can come in many flavors. It can be **Survival** (you die or you live). It can be **Scarring** (you survive, but you learn to avoid that pain). It can be **Scoring** (you get a like, a dollar, or a grade).
-
-But regardless of the flavor, the Judge is just a mechanism. If you tell the algorithm to optimize for "Time Spent," it will feed you anger, not because it hates you, but because anger keeps you watching. It is just doing its job.
+If you tell the algorithm to optimize for "Time Spent," it will feed you anger, not because it hates you, but because anger keeps you watching. It is just doing its job. It is optimizing for the metric you gave it.
 
 ### Part IV: The Compounder
 
-Finally, we looked at **Time**.
+Finally, we looked at **Time** again, but this time as a multiplier of consequences.
 This is the force that turns "Adaptation" into "Extremism."
 
-The Pattern doesn't just happen once. It happens over and over again. That is the definition of Iteration: doing the same cycle of action and feedback, repeatedly.
-
-And because it repeats, it **Compounds**.
+The Pattern doesn't just happen once. It happens over and over again. And because it repeats, it **Compounds**.
 
 #### 1. The Head Start (History Accumulates)
 We saw that where you start matters. A small advantage in the first lap becomes a canyon by the hundredth lap. The "Judge" selects the fittest *right now*, but that selection gives the winner the resources to be even fitter *tomorrow*.
@@ -94,7 +88,7 @@ This is the most subtle and dangerous part. The output of one cycle becomes the 
 As the cheetah gets faster, the gazelle *must* get faster. As the politician gets more extreme, the voters adapt. The Value Function itself changes over time. The "Goal" isn't static. It moves because the players move.
 
 #### 3. The Trap (Dependency)
-Sometimes, it becomes hard to change the Value Function because the system becomes dependent on it. We get locked in. The "Trap" isn't just a mistake; it's a structural dependency. We can't stop using the car because the city is built for cars. We can't stop the algorithm because the economy is built on attention.
+Sometimes, it becomes hard to change the Value Function because the system becomes dependent on it. We get locked in. The "Trap" isn't just a mistake; it's a structural dependency. We can't stop using the car because the city is built for cars.
 
 #### 4. Breakpoints (The Pressure Cooker)
 Finally, we learned that optimization isn't linear. 
@@ -103,7 +97,7 @@ Finally, we learned that optimization isn't linear.
 
 You can optimize a system for years with no visible consequences. You can keep turning up the heat, and the water just gets hotter. It looks fine. It looks stable. And then, suddenly, it boils.
 
-This is the **Breakpoint**. Pressure builds invisibly until it explodes. Just like cooking, you can add heat for ten minutes and see nothing, and then in one second, the state changes completely.
+This is the **Breakpoint**. Pressure builds invisibly until it explodes.
 
 ### The Synthesis
 
