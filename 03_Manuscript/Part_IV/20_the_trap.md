@@ -30,7 +30,7 @@
 
 ### Draft
 
-We have seen how the system can distort the goal, turning innovation into a valuation game. But sometimes, the problem isn't that the goal changes. Sometimes, the problem is that we can't move at all.
+The system can distort the goal, turning innovation into a valuation game. But sometimes, the problem isn't that the goal changes. Sometimes, the problem is that we can't move at all.
 
 We are using tools that we *know* are inefficient, but we can't seem to stop. Why? Because of the **Trap**.
 

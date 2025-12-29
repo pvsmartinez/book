@@ -1,6 +1,6 @@
 # Chapter 22: Stop Hating the Player
 
-We have spent the last twenty chapters building a lens. We have looked at giraffes, viruses, algorithms, and economies. We have seen how the engine of **Iteration** and **Variance**, guided by the filter of a **Value Function**, creates the world we live in.
+We have spent the last twenty chapters building a lens. We have looked at giraffes, viruses, algorithms, and economies. The engine of **Iteration** and **Variance**, guided by the filter of a **Value Function**, creates the world we live in.
 
 But now, we have to do something difficult. We have to turn that lens on the things that make us angry.
 

@@ -26,7 +26,7 @@
 
 ### Draft
 
-We’ve seen how **The Pattern** shapes populations over millions of years, and how it drives rivals to race against each other. But the most intimate version of this mechanism is the one running inside your own head right now. 
+**The Pattern** shapes populations over millions of years and drives rivals to race against each other. But the most intimate version of this mechanism is the one running inside your own head right now. 
 
 We call it **Learning**. 
 

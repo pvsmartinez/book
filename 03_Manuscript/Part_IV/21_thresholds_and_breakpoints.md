@@ -27,7 +27,7 @@
 
 ### Draft
 
-In the previous chapters, we looked at the smooth, exponential curves of compounding interest and efficiency. We saw how time turns small advantages into significant gaps. But the world doesn't always move in smooth curves. Sometimes, it moves in jumps. 
+Compounding interest and efficiency create smooth, exponential curves. Time turns small advantages into significant gaps. But the world doesn't always move in smooth curves. Sometimes, it moves in jumps. 
 
 To understand why systems suddenly break or suddenly become dominant, we have to look at a concept from game design: **Breakpoints**.
 

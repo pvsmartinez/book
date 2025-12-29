@@ -70,7 +70,7 @@ The goal of the System Designer is not to be right. The goal is to find the set 
 
 ### The Final Code
 
-We are almost at the end of our journey. We have seen the Pattern. We have learned to stop hating the players. We have learned to debug the system and patch the code.
+We are almost at the end of our journey. We have identified the Pattern. We have learned to stop hating the players. We have learned to debug the system and patch the code.
 
 But there is one final role we need to discuss.
 

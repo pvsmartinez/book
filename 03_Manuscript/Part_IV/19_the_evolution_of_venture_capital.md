@@ -56,7 +56,7 @@ But why did this model emerge? It wasn't just a random invention. It was a conse
 
 In a small village, it doesn't make sense to make a "multimedia investment" because there isn't a multimedia audience. The ceiling for success is low. But as we connected the world—through trains, then planes, then the internet—the potential impact of a single idea grew exponentially. A single software company today can serve billions of users. 
 
-Because the potential reward became so massive, it made mathematical sense to take bigger risks. The "Buffer" of capital that had accumulated in the system (as we saw with Ana and Bruno) needed a place to go. It flowed into these high-risk, high-reward bets.
+Because the potential reward became so massive, it made mathematical sense to take bigger risks. The "Buffer" of capital that had accumulated in the system (recall Ana and Bruno) needed a place to go. It flowed into these high-risk, high-reward bets.
 
 At the beginning, this system was an innovation engine. It allowed founders to "fast-forward" the future by giving them the capital to build things that wouldn't be profitable for years. It was a system that selected for **Innovation**.
 

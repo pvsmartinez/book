@@ -25,7 +25,7 @@
 
 ### Draft
 
-We have seen the pattern shape the physical world—the necks of giraffes and the proteins of viruses. But the pattern is just as active in the invisible world of human thought. 
+The pattern shapes the physical world—the necks of giraffes and the proteins of viruses. But it is just as active in the invisible world of human thought. 
 
 Think about the sheer volume of information created every single day. Thousands of books are published, millions of tweets are sent, and billions of conversations happen over coffee or across dinner tables. Each one of these is an **Attempt**. Each one is a unique piece of "code" trying to survive in the environment of the human mind. 
 

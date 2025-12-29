@@ -50,7 +50,7 @@ If you want to stop checking your phone in the morning, don't rely on willpower.
 #### 3. Feedback Loops (The Scoreboard)
 This is the "Lap Counter." How does the person know if they are winning?
 
-We saw in the "Exam Trap" chapter that people optimize for what is measured. If you want to change behavior, change the metric.
+The "Exam Trap" chapter showed that people optimize for what is measured. If you want to change behavior, change the metric.
 
 If you are a manager and you want your team to focus on quality instead of speed, stop measuring "Tickets Closed per Hour." Start measuring "Customer Satisfaction Score." The team will immediately shift their behavior to optimize for the new scoreboard. They aren't doing it to be nice; they are doing it because they want to win.
 

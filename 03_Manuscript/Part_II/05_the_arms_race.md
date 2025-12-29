@@ -26,7 +26,7 @@
 
 ### Draft
 
-In the last chapter, we saw how a population optimizes against a static goal. The giraffe reaches for the tree, and the virus reaches for the host. But in the real world, the "goal" is rarely a stationary target. Most of the time, the environment you are trying to beat is made of other players who are trying to beat you. 
+Previously, we explored how a population optimizes against a static goal. The giraffe reaches for the tree, and the virus reaches for the host. But in the real world, the "goal" is rarely a stationary target. Most of the time, the environment you are trying to beat is made of other players who are trying to beat you. 
 
 In the world of *Alice in Wonderland*, the Red Queen tells Alice: "Now, here, you see, it takes all the running you can do, to keep in the same place." 
 

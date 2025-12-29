@@ -10,9 +10,9 @@ We found a simple, elegant, and terrifying mechanism that runs through everythin
 
 **Iteration x Variance x Selection = Adaptation.**
 
-We saw how this mechanism shaped the neck of the giraffe and the protein spike of the virus. We saw how it shaped the algorithm that feeds you news and the market that sets the price of your bread.
+This mechanism shaped the neck of the giraffe and the protein spike of the virus. It shaped the algorithm that feeds you news and the market that sets the price of your bread.
 
-We saw that the world isn't broken. It is just **Optimizing**.
+The world isn't broken. It is just **Optimizing**.
 
 It is optimizing for the goals we gave it, using the filters we built, at a speed we can barely comprehend.
 

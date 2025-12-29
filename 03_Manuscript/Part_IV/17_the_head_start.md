@@ -28,7 +28,7 @@
 
 ### Draft
 
-In the previous chapter, we saw how a system can shift over 100 years simply by becoming more efficient. But that was looking at the system as a whole. Now, let's look at the individuals inside it.
+We have looked at the system as a whole—how it shifts over 100 years simply by becoming more efficient. Now, let's look at the individuals inside it.
 
 When we talk about "The Pattern"—Iteration, Variance, Selection—we usually focus on the *process*. We look at who is running the fastest *right now*.
 
