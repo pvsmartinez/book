@@ -25,13 +25,13 @@
 
 ### Draft
 
-We have spent the last few chapters looking at a powerful force: **Time**. 
+The last few chapters focused on a powerful force: **Time**.
 
-We saw how the **Compound Effect** takes the small, invisible choices of the "Judge" and turns them into the structural laws of our world. We saw how the **Head Start** creates canyons of inequality from small initial advantages.
+The **Compound Effect** takes the small, invisible choices of the "Judge" and turns them into the structural laws of our world. The **Head Start** creates canyons of inequality from small initial advantages.
 
-We saw how the **Cheetah’s Dilemma** blinds us to the side effects of our own optimizations, and how the **Trap** locks us into sub-optimal paths just because they are familiar.
+The **Cheetah’s Dilemma** blinds us to the side effects of our own optimizations, and the **Trap** locks us into sub-optimal paths just because they are familiar.
 
-We looked at the **Venture Capital** machine, where the "math of the track" has replaced the reality of the product with the narrative of the promise. And we looked at the **Pendulum**, the corrective force that we are currently trying to hold still. 
+The **Venture Capital** machine shows how the "math of the track" has replaced the reality of the product with the narrative of the promise. And the **Pendulum** is the corrective force that we are currently trying to hold still. 
 
 ### The Engine of Extremism
 

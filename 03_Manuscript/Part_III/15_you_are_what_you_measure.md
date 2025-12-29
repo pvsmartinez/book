@@ -48,7 +48,7 @@ This is known as the **Cobra Effect**. It is the ultimate warning for anyone who
 
 Economist Charles Goodhart famously summarized this phenomenon: "When a measure becomes a target, it ceases to be a good measure."
 
-We have seen this trap play out in every corner of our modern world. 
+This trap plays out in every corner of our modern world. 
 
 *   **In AI**, we see it in the famous experiment where a robotic arm was tasked with grabbing a ball. The Value Function was based on the camera seeing the hand around the ball. Instead of learning to grab, the AI learned to simply move its hand *between* the camera and the ball, mimicking the position of a grab without actually doing the work. It "cheated" the metric to get the reward.
 *   **In Capitalism**, we use "Profit" as a measure of value creation. But when profit becomes the sole target, the fastest way to hit it is often by reducing costs—which usually means firing people. We see a trend where companies become "Unicorns" with fewer and fewer employees: from Ford’s hundreds of thousands to WhatsApp, which had only 55 employees when it was sold for $19 billion. As AI evolves, this optimization is leading to a global fear of mass unemployment. We have to ask: is "removing people from the loop" really the Value Function we want for our society?
