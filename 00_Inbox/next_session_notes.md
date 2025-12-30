@@ -12,12 +12,11 @@
     *   *If keeping for Part V:* We must promise this in Part I so the reader knows the payoff is coming.
 
 ## Tasks for Next Session:
-1.  [ ] **Strategy Decision:** Decide on "Distributed Tips" vs. "Part V Payoff".
-2.  [ ] **Part I Refactor:** Update Preface/Chapter 1 to explain the "Theory -> Application" structure.
-3.  [ ] **Part V Re-Blocking:** Discard current Part V plan. Brainstorm new structure for the "Application" phase.
-4.  [ ] **Part IV Review:** Analyze why "The Compounder" isn't clicking. (Is it too abstract? Too boring?)
-    *   *New Idea:* Integrate the **Relative Age Effect** (Birth Month vs. Sports Success) into Chapter 16. It's a perfect, relatable example of "The Advantage Compounds" outside of finance.
-5.  [ ] **Drafting:** (Paused until Part V structure is fixed).
+1.  [x] **Research:** Create Game Design Seeds (Extra Credits concepts).
+2.  [ ] **Part V Brainstorming:** Use the new seeds (Bartle, Skinner, Faucets/Sinks) to structure the "Application" phase.
+3.  [ ] **Strategy Decision:** Decide on "Distributed Tips" vs. "Part V Payoff".
+4.  [ ] **Part I Refactor:** Update Preface/Chapter 1 to explain the "Theory -> Application" structure.
+
 
 ## Old Tasks (Paused):
 *   [ ] Draft Chapter 22 (Stop Hating the Player).

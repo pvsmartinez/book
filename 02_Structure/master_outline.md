@@ -65,6 +65,12 @@
 *   **Focus:** Show how the engine turns in different contexts before moving to what defines its direction.
 *   **Key Seeds:** [[emergent_behavior]].
 
+**Interlude: Tuning Your Engine**
+*   **Goal:** A "Hands-on" workshop to apply the theory immediately.
+*   **Tool 1: The Audit.** How to spot the "Guru Trap" (Optimizing for Persuasion vs. Truth).
+*   **Tool 2: The Accelerator.** How to speed up learning by shrinking the feedback loop (The Game Dev Example).
+*   **Focus:** Moving from passive observer to active mechanic.
+
 ---
 
 ## Part III: The Filter (Environment & Value Functions)
@@ -99,6 +105,11 @@
 *   **Goal:** Synthesize the concept of "The Fittest." The "Best" is a lie; there is only "The Fittest" for the current metric.
 *   **Focus:** How the filter defines the outcome.
 *   **Key Seeds:** [[shifting_value_functions]].
+
+**Interlude: Auditing the Filter**
+*   **Goal:** A workshop on identifying and changing Value Functions.
+*   **Tool 1: The Lie Detector.** Spotting the true metric (The Guru Trap).
+*   **Tool 2: The Lever.** Changing the metric to change behavior (The Call Center).
 
 ---
 
@@ -143,41 +154,48 @@
 *   **Goal:** Summarize the consequences of time, over-optimization, and breaking points.
 *   **Focus:** Bringing the theory of Part IV together.
 
+**Interlude: The Time Machine**
+*   **Goal:** A workshop on predicting exponential growth and breaking lock-in.
+*   **Tool 1: The Future Cast.** Predicting the explosion (The Lily Pad).
+*   **Tool 2: The Lock-in Breaker.** Escaping the trap (The Excel Tax).
+
 ---
 
 ## Part V: The System Designer (Application & Toolkit)
 *Goal: Empower the reader to stop playing and start designing. Move from Theory to Practice.*
 
-**Chapter 24: Stop Hating the Player**
+**Chapter 24: The Shift (Stop Hating the Player)**
 *   **Concept:** Moving from moral judgment to systemic understanding.
-*   **Focus:** Why yelling at the "runners" doesn't change the "track."
-*   **Key Seeds:** [[dont_hate_the_player]].
+*   **Focus:** Stop yelling at the "runners" (Person A vs. Person B). Start identifying the "Rule Sets" (Direct vs. Indirect Impact).
+*   **Key Concepts:** The Hydro Effect, The Trap of Moralizing.
+*   **Key Seeds:** [[dont_hate_the_player]], [[symptoms_vs_systems_the_dual_approach]].
 
-**Chapter 25: The System Designer**
-*   **Concept:** The shift from "Player" to "Designer."
-*   **Focus:** Identifying the levers of the engine in your own life and society.
-*   **Key Seeds:** [[the_system_designer_mindset]].
+**Chapter 25: The Game Designer's Toolkit (Deep Dive Example)**
+*   **Concept:** What does a Game Designer actually do?
+*   **Story:** Crafting Emotions (Survival vs. Power Fantasy), Fixing Broken Metas (Overwatch GOATS), and Managing Inflation (MMO Economies).
+*   **Focus:** Game Designers are the ultimate "System Designers." They don't force behavior; they shape the environment to make behavior emerge.
+*   **Key Seeds:** [[the_game_designer_role]], [[faucets_and_sinks]], [[perfect_imbalance]].
 
-**Chapter 24: Debugging the World**
-*   **Concept:** How to identify broken feedback loops.
+**Chapter 26: Debugging the World**
+*   **Concept:** How to identify broken feedback loops in real life.
 *   **Focus:** Symptoms vs. Systems.
 *   **Key Seeds:** [[symptoms_vs_systems_the_dual_approach]].
 
-**Chapter 25: Patching the Code**
+**Chapter 27: Patching the Code**
 *   **Concept:** Small changes to the Value Function that create large shifts over time.
 *   **Focus:** Iteration as a tool for repair.
 *   **Key Seeds:** [[iteration_is_feedback]].
 
-**Chapter 26: The Gardener**
+**Chapter 28: The Gardener**
 *   **Concept:** The philosophy of cultivation vs. control.
 *   **Focus:** Managing complex systems without breaking them.
 *   **Key Seeds:** [[the_system_designer_mindset]].
 
-**Chapter 27: The Final Pattern**
+**Chapter 29: The Final Pattern**
 *   **Concept:** Synthesis of the entire book.
 *   **Focus:** Seeing the invisible patterns everywhere.
 *   **Key Seeds:** [[the_invisible_hand_vs_pattern]].
 
-**Chapter 28: Conclusion**
+**Chapter 30: Conclusion**
 *   **Recap:** Summary of the journey.
 *   **Final Thought:** The game never ends. The goal is not to win, but to keep playing and improving the system.

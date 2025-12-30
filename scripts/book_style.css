@@ -219,3 +219,51 @@ img {
     display: block;
     margin: 1em auto;
 }
+
+/* Interludes - Special formatting for workshop sections */
+.interlude {
+    break-before: recto;
+    page-break-inside: avoid;
+    padding: 0.5in;
+    margin: 0.5in 0;
+    background-color: #f9f9f9;
+    border-left: 4px solid #999;
+    border-right: 1px solid #ddd;
+}
+
+.interlude h1 {
+    border-bottom: 1px solid #999;
+    padding-bottom: 8px;
+    font-size: 20pt;
+    margin-top: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #444;
+}
+
+.interlude h2 {
+    font-size: 16pt;
+    margin-top: 0.3in;
+    margin-bottom: 0.2in;
+    color: #555;
+    font-weight: bold;
+}
+
+.interlude p {
+    font-size: 10.5pt;
+    line-height: 1.35;
+    color: #333;
+}
+
+.interlude ul,
+.interlude ol {
+    margin-left: 0.3in;
+    margin-right: 0.2in;
+}
+
+.interlude li {
+    font-size: 10.5pt;
+    line-height: 1.3;
+    margin-bottom: 4px;
+}
+

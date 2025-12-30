@@ -1,4 +1,3 @@
-```markdown
 ## Chapter 23: The Synthesis
 
 <details>
@@ -125,4 +124,3 @@ The Pattern is invisible, but it is not immutable. It was built by choices—cho
 In the final part of this book, we are going to stop looking at how to play the game and start looking at how to **design** it. We are going to move from being the victims of the pattern to being its architects. 
 
 Because the only way to survive a compounding world is to stop being a runner and start being a **System Designer**.
-```

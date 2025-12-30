@@ -1,4 +1,3 @@
-```markdown
 ## Chapter 16: The Compound Effect
 
 <details>
@@ -122,5 +121,3 @@ It turns a game into a job.
 It turns a community into a spreadsheet.
 
 We are living in a world that has been compounding for a very long time. If things feel extreme, it is because we are living in the "Meta." We are the Pugs.
-
-```

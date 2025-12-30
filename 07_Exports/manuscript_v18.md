@@ -2,7 +2,7 @@
     <h1>The Invisible Pattern</h1>
     <h2>Iteration, Selection, and the Code of the World</h2>
     <p class="author">Pedro Martinez</p>
-    <p class="version">Version 20 | December 2025</p>
+    <p class="version">Version 18 | December 2025</p>
 </div>
 
 # Table of Contents
@@ -773,6 +773,7 @@ Because whatever we measure, The Pattern will eventually produce—with an indif
     <h1>Part IV: The Compounder</h1>
     <p>Time and its Consequences.</p>
 </div>
+```markdown
 # Chapter 16: The Compound Effect
 
 
@@ -863,6 +864,8 @@ It turns a game into a job.
 It turns a community into a spreadsheet.
 
 We are living in a world that has been compounding for a very long time. If things feel extreme, it is because we are living in the "Meta." We are the Pugs.
+
+```
 # Chapter 17: The Head Start
 
 
@@ -981,22 +984,6 @@ We got **Pollution** (microplastics).
 In every case, we focused on a single, visible metric—something we could measure and improve. We ignored the complex, invisible side effects because they weren't on the dashboard. 
 
 At first, the side effects were small. A little bit of traffic. A little bit of loneliness. A few plastic bottles. But as the system scaled, the side effects compounded. Eventually, the "Solution" became the "Problem."
-
-### The Efficiency Trap
-
-We see this most clearly in the corporate world.
-
-Imagine a large energy company that provides electricity to a major city. For years, they have been well-regarded by the stock market. Every year, they find a way to be 1% more efficient. They’ve automated their billing, they’ve outsourced their call centers, and they’ve reduced their emergency repair crews to the minimum required for a "normal" year.
-
-In a competitive market, the "Judge" (the shareholder) filters for the most efficient iteration. If Company A has 100 maintenance workers and Company B has 90, and both provide the same service, Company B is "fitter." It has lower costs and higher margins. The Pattern selects Company B.
-
-For years, this looks like a model of efficiency. The lights stay on, and the profits go up. The system has optimized away the "fat."
-
-But that "fat" was actually a buffer.
-
-Then, a once-in-a-century storm hits. The grid goes down. In the old system, the 100 maintenance workers could have fixed it in a day. But the new, optimized system only has 10 workers. They are overwhelmed. The city stays dark for weeks.
-
-The company optimized for **Profit Efficiency** (the visible metric) and sacrificed **Resilience** (the invisible metric). They didn't know they were fragile until the storm hit.
 
 ### The Blind Spot
 
@@ -1246,7 +1233,7 @@ The Pattern doesn't move in a straight line. It moves in plateaus and cliffs.
 When you are iterating, you have to ask more questions. It's not enough to ask "How much better is this?" You must also ask "Does this cross a breakpoint?" 
 
 Because in a compounding world, significant changes aren't the ones that happen gradually. They are the ones that happen the moment you cross the line.
-# Chapter 22: The Pendulum
+# Chapter 20: The Pendulum
 
 
 
@@ -1299,6 +1286,7 @@ We have built a world of high-speed patterns, narrow filters, and compounding er
 **Can you see how the "fix" is often just the start of the next swing?**
 
 The goal isn't to stop the movement. The goal is to understand the rhythm, so we don't get crushed when the weight finally comes back down. 
+```markdown
 # Chapter 23: The Synthesis
 
 
@@ -1396,6 +1384,7 @@ The Pattern is invisible, but it is not immutable. It was built by choices—cho
 In the final part of this book, we are going to stop looking at how to play the game and start looking at how to **design** it. We are going to move from being the victims of the pattern to being its architects. 
 
 Because the only way to survive a compounding world is to stop being a runner and start being a **System Designer**.
+```
 <div class="part-page">
     <h1>Part V: The System Designer</h1>
     <p>Shifting from being a player to being an architect of systems.</p>

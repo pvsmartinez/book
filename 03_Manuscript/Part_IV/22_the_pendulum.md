@@ -1,4 +1,4 @@
-## Chapter 20: The Pendulum
+## Chapter 22: The Pendulum
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

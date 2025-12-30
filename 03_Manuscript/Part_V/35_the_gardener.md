@@ -1,4 +1,4 @@
-# Chapter 26: The Gardener
+# Chapter 28: The Gardener
 
 We have spent a lot of time in this book using words like "Engine," "Code," "Algorithm," and "Machine." These are useful metaphors because they help us see the logic of the system.
 

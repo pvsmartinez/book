@@ -72,6 +72,22 @@ In every case, we focused on a single, visible metric—something we could measu
 
 At first, the side effects were small. A little bit of traffic. A little bit of loneliness. A few plastic bottles. But as the system scaled, the side effects compounded. Eventually, the "Solution" became the "Problem."
 
+### The Efficiency Trap
+
+We see this most clearly in the corporate world.
+
+Imagine a large energy company that provides electricity to a major city. For years, they have been well-regarded by the stock market. Every year, they find a way to be 1% more efficient. They’ve automated their billing, they’ve outsourced their call centers, and they’ve reduced their emergency repair crews to the minimum required for a "normal" year.
+
+In a competitive market, the "Judge" (the shareholder) filters for the most efficient iteration. If Company A has 100 maintenance workers and Company B has 90, and both provide the same service, Company B is "fitter." It has lower costs and higher margins. The Pattern selects Company B.
+
+For years, this looks like a model of efficiency. The lights stay on, and the profits go up. The system has optimized away the "fat."
+
+But that "fat" was actually a buffer.
+
+Then, a once-in-a-century storm hits. The grid goes down. In the old system, the 100 maintenance workers could have fixed it in a day. But the new, optimized system only has 10 workers. They are overwhelmed. The city stays dark for weeks.
+
+The company optimized for **Profit Efficiency** (the visible metric) and sacrificed **Resilience** (the invisible metric). They didn't know they were fragile until the storm hit.
+
 ### The Blind Spot
 
 The Pattern is an optimization engine. It will always push you to be more efficient at whatever you are measuring. 

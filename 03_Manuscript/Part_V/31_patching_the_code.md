@@ -1,4 +1,4 @@
-# Chapter 25: Patching the Code
+# Chapter 27: Patching the Code
 
 When a software engineer finds a bug, they rarely rewrite the entire operating system. That would be dangerous, expensive, and likely to cause even more problems.
 

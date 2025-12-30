@@ -54,6 +54,11 @@ EOM
     for file in 03_Manuscript/$part/*.md; do
         echo "Adding $(basename "$file")..."
         
+        # Check if file is an interlude
+        if [[ "$(basename "$file")" == *"interlude"* ]]; then
+            echo "<div class=\"interlude\">" >> "$TEMP_MD"
+        fi
+        
         # Clean the file:
         # 1. Remove the <details> block (outline/blocking)
         # 2. Remove "### Draft" headers
@@ -63,6 +68,11 @@ EOM
             -e 's/### Draft//g' \
             -e '/^---$/d' \
             -e 's/^## Chapter/# Chapter/g' "$file" >> "$TEMP_MD"
+        
+        # Close interlude div if applicable
+        if [[ "$(basename "$file")" == *"interlude"* ]]; then
+            echo "</div>" >> "$TEMP_MD"
+        fi
     done
 done
 
