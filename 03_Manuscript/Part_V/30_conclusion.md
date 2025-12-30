@@ -1,4 +1,4 @@
-# Conclusion: The Infinite Game
+## Chapter 30: Conclusion
 
 There is no final chapter to this story.
 

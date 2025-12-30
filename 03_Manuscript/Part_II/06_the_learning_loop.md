@@ -40,7 +40,7 @@ This is why teachers use homework, in-class exercises, and group projects. These
 
 The gold standard for this kind of design is the video game. In a well-designed game, the iteration rate is near-instant. You jump, you miss the platform, you die, and you restart—all within seconds. Your brain is getting thousands of "Selection" events per hour. This is why a teenager can master a complex system of mechanics in a weekend that would take months to learn in a classroom. It’s not that they are smarter; it’s that the game designer has revved their mechanism to the redline. 
 
-However, the mechanism only works if the feedback is clear. 
+However, there is a catch. The mechanism only works if the feedback is clear. 
 
 Without feedback, you don't have an iteration; you just have an **attempt**. If you throw a ball in the dark, you are iterating your throwing motion, but you aren't learning how to hit the target because you can't see where the ball landed. The cycle is broken. This is a common mistake: people think they are "optimizing" their lives just because they are busy, but if they aren't measuring the results, they are just revving the mechanism in neutral. 
 

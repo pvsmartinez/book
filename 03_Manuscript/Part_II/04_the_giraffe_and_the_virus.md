@@ -33,7 +33,7 @@ But there was no engineer.
 
 For a long time, we had a very intuitive—but wrong—idea of how this happened. We thought giraffes got long necks because they *tried* really hard. A short-necked giraffe would stretch and stretch to reach the leaves, and its neck would get a little longer. Then it would have a baby, and that baby would inherit that slightly longer neck. 
 
-This feels right to us because it’s how we learn skills. If I practice the piano, I get better. But biology is colder than that. If you spend your whole life lifting weights, your baby isn't born with huge muscles. 
+This feels right to us because it’s how we learn skills. If I practice the piano, I get better. But biology is colder than that. It doesn't care about your effort. If you spend your whole life lifting weights, your baby isn't born with huge muscles. 
 
 The reality of the giraffe is much more brutal. It wasn't about "trying"; it was about "dying." 
 

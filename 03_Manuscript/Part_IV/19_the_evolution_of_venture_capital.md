@@ -120,8 +120,10 @@ If everyone believes a company is the "next big thing," they all pour money into
 
 The "Winners" of this system—the giants of the AI bubble or the "Magnificent 7"—are not just the result of great ideas. They are the result of a compounding selection process that rewards the ability to raise capital and maintain a narrative. 
 
-We haven't just "optimized" capitalism; we've changed the target. We are no longer selecting for efficient businesses that solve human problems; we are selecting for efficient fundraising machines that can maintain the "Promise" long enough for the early players to exit. 
+We haven't just "optimized" capitalism; we've changed the target. We are no longer selecting for efficient businesses that solve human problems; we are selecting for efficient fundraising machines that can maintain the "Promise" long enough for the early players to exit.
 
 **Can you see how the "fittest" company is no longer the one that serves the customer, but the one that serves the investor?**
 
 In the long run, the error compounds. When a system stops measuring reality and starts measuring its own internal metrics, it becomes fragile. And when the "Narrative" finally meets the reality of the market, the crash is just as exponential as the growth.
+
+This isn't a moral failure. It's a design failure. We built a track that rewards the wrong runner.

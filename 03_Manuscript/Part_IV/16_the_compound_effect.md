@@ -104,15 +104,17 @@ Then, with automation and AI, it becomes 10.
 
 Today, we have software companies with a dozen employees generating more value than industrial giants with armies of workers. 
 
-This is the **Economic Meta**. 
+This is the **Economic Meta**.
 
 We have optimized the system so thoroughly that we have squeezed out the "inefficiency" of human labor. Just like the *Overwatch* players squeezed out the "inefficiency" of the fun characters.
 
 The result is a system that is incredibly productive (the Pug is very cute; the GOATS team wins every game; the Factory produces cheap radios), but it has lost its resilience and diversity.
 
+**Can you see how the drive for perfection eventually destroys the character of the system?**
+
 ### The Takeaway
 
-The Compound Effect is not just about numbers getting bigger. It is about the **Systemic Drift**.
+The Compound Effect is not just about numbers getting bigger. It is about **Systemic Drift**.
 
 When you let a Value Function run for a long time, it doesn't just give you *more* of what you asked for; it changes the fundamental nature of the thing itself.
 
@@ -120,4 +122,4 @@ It turns a predator into a pet.
 It turns a game into a job.
 It turns a community into a spreadsheet.
 
-We are living in a world that has been compounding for a very long time. If things feel extreme, it is because we are living in the "Meta." We are the Pugs.
+We are living in a world that has been compounding for a very long time. If things feel extreme, it is because we are living in the "Meta." We are the Pugs. But unlike the dog, we can choose to change the breeding program.

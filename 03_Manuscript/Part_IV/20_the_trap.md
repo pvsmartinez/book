@@ -76,10 +76,12 @@ The Pattern *hates* going down. A company that tries to "switch" to a better sys
 
 So, we stay on the lower peak. We keep optimizing the horse carriage instead of inventing the car. We keep typing on QWERTY. We keep patching the legacy code.
 
+**Can you see where you are doing this in your own life? Where are you paying a daily tax just to avoid the cost of changing?**
+
 ### The Takeaway
 
-Compounding doesn't just make things bigger (Accumulation) or faster (Cheetah). It also makes them **Harder**. 
+Compounding doesn't just make things bigger (Accumulation) or faster (Cheetah). It also makes them **Harder**.
 
-The longer a system runs in one direction, the more it hardens into place. The "Standard" becomes a gravity well that pulls everything towards it. 
+The longer a system runs in one direction, the more it hardens into place. The "Standard" becomes a gravity well that pulls everything towards it.
 
 This is why "Disruption" is so rare and so violent. You can't just politely ask a Locked-In system to change. You usually have to wait for it to break.

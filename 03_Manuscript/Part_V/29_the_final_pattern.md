@@ -1,4 +1,4 @@
-# Chapter 29: The Final Pattern
+## Chapter 29: The Final Pattern
 
 We began this book with a question: Why does the world feel like it is vibrating at a higher frequency? Why does everything feel more extreme, more polarized, and more fragile?
 

@@ -1,4 +1,4 @@
-## Chapter 29: The Game Designer's Toolkit
+## Chapter 25: The Game Designer's Toolkit
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
@@ -73,6 +73,8 @@ A speed bump is a physical constraint. It changes the environment. Now, if a dri
 
 The Designer didn't have to convince anyone. They didn't have to change the drivers' hearts. They changed the **Game**, and the behavior followed automatically.
 
+**Can you see how a simple physical constraint is more powerful than a thousand moral arguments?**
+
 ### The Designer's Toolkit
 
 When you start thinking like a System Designer, you stop relying on willpower and start relying on **Mechanics**. You realize that you have a toolkit of levers you can pull to shape behavior.
@@ -130,6 +132,8 @@ Did the developers ban the players? Did they call them "evil" for using the best
 They released a **Balance Patch**. They changed the rules. They forced a "2-2-2" composition (2 Tanks, 2 Damage, 2 Healers).
 
 They didn't hate the player. They fixed the game.
+
+**Can you see how the solution wasn't to punish the behavior, but to make the unwanted behavior impossible?**
 
 ### Mapping the System
 

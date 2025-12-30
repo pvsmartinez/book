@@ -60,13 +60,15 @@ The Judge doesn't care about the "Best" outcome; it only cares about the "Fittes
 
 Think of the IMDB Top 250 list. The "Judge" is the average user rating. The system doesn't care if a movie is "artistically significant." It only cares about the number. If a movie gets a 9.2, it moves up. If it gets a 6.4, it disappears. The "Winner" isn't the "Best Movie Ever Made"—it is the movie that best fits the specific Value Function of "Mass Appeal + High User Rating." 
 
-Think of a high school classroom. The "Judge" is the GPA. The system doesn't care if you are a brilliant artist or a visionary leader. It only cares about your ability to produce the specific outputs that lead to a high test score. If you fit that rule, you are labeled a "Success." If you don't, you might feel like a failure, even if you are simply a runner on the wrong track. You might be a brilliant designer or a natural-born leader, but if the Judge only counts math scores, you'll end up at the "bad" university, wondering why the world doesn't see your value. 
+Think of a high school classroom. The "Judge" is the GPA. The system doesn't care if you are a brilliant artist or a visionary leader. It only cares about your ability to produce the specific outputs that lead to a high test score. If you fit that rule, you are labeled a "Success." If you don't, you might feel like a failure, even if you are simply a runner on the wrong track.
 
-Think of Metacritic, a credit score, or a social media "Like" count. These are all Value Functions. They take a complex reality—a human being's financial history, a piece of art, or a person's social value—and boil it down to a single number. That number then becomes the filter for the entire environment. 
+You might be a brilliant designer or a natural-born leader, but if the Judge only counts math scores, the system will filter you out. You end up wondering why the world doesn't see your value, not realizing that the world isn't looking for value—it's looking for a specific score.
 
-The problem we face in the modern world isn't that the "Judge" is evil. The problem is that we have built systems with very specific, very narrow Value Functions. We have told the machine to optimize for a single number, and the machine is doing exactly what we asked. 
+Think of Metacritic, a credit score, or a social media "Like" count. These are all Value Functions. They take a complex reality—a human being's financial history, a piece of art, or a person's social value—and boil it down to a single number. That number then becomes the filter for the entire environment.
 
-When we see a system that feels broken, we shouldn't start by yelling at the players. We should start by asking: **What is the Value Function here? What is the Judge actually measuring?** 
+The problem we face in the modern world isn't that the "Judge" is evil. The problem is that we have built systems with very specific, very narrow Value Functions. We have told the machine to optimize for a single number, and the machine is doing exactly what we asked.
+
+When we see a system that feels broken, we shouldn't start by yelling at the players. We should start by asking: **What is the Value Function here? What is the Judge actually measuring?**
 
 Because the Judge is indifferent, but the rules we give it change everything. 
 

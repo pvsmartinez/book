@@ -43,7 +43,7 @@ Nature doesn't try one giraffe at a time. It tries a million giraffes in paralle
 
 In our own lives, we often fail because we iterate in "Serial." We try one career path, wait five years to see if it works, and then try another. We try one marketing strategy, wait a month, and then try another. 
 
-The System Designer asks: "How can I run these experiments in parallel?" Instead of one big project, can you run five small pilots? Instead of one "perfect" hire, can you give three people a one-week trial? The more parallel your iterations, the faster you find the "winner." 
+The System Designer asks a different question: "How can I run these experiments in parallel?" Instead of one big project, can you run five small pilots? Instead of one "perfect" hire, can you give three people a one-week trial? The more parallel your iterations, the faster you find the "winner." 
 
 ### Lever 2: Variance (The Fuel)
 

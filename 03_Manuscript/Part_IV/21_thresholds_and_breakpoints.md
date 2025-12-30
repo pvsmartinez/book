@@ -16,7 +16,7 @@
 ### 2. The Invisible Cliff
 *   **Concept:** Systems that look stable until they hit a breaking point.
 *   **Focus:** Why systems feel like they "suddenly" break.
-*   **Context:** Tying back to the energy company from Chapter 17.
+*   **Context:** Tying back to the energy company from Chapter 19.
 
 ### 3. The Takeaway
 *   **Closing Thought:** The world isn't linear. It's a series of plateaus and cliffs.
@@ -66,7 +66,7 @@ But there is a point—a specific millimeter of stretch—where the material str
 
 This concept of thresholds is what makes over-optimization so dangerous. When a system is compounding its efficiency, it often looks like it’s getting stronger and stronger, right up until the moment it hits a cliff.
 
-Think back to the energy company we discussed in Chapter 18. They were cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
+Think back to the energy company we discussed in Chapter 19. They were cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
 
 But they were approaching a **Breakpoint**. 
 
@@ -92,10 +92,12 @@ Revolutions are proof that the world is non-linear. You can have 99% of the pres
 
 And we must remember: these shifts are not just lines on a graph. They are traumatic. When a system snaps, it releases all the tension it has been holding for decades in a single, violent burst.
 
+**Can you see how "stability" can actually be a warning sign?**
+
 ### The Takeaway
 
-The Pattern doesn't move in a straight line. It moves in plateaus and cliffs. 
+The Pattern doesn't move in a straight line. It moves in plateaus and cliffs.
 
-When you are iterating, you have to ask more questions. It's not enough to ask "How much better is this?" You must also ask "Does this cross a breakpoint?" 
+When you are iterating, you have to ask more questions. It's not enough to ask "How much better is this?" You must also ask "Does this cross a breakpoint?"
 
 Because in a compounding world, significant changes aren't the ones that happen gradually. They are the ones that happen the moment you cross the line.

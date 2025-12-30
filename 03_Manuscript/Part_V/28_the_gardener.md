@@ -1,4 +1,4 @@
-# Chapter 28: The Gardener
+## Chapter 28: The Gardener
 
 We have spent a lot of time in this book using words like "Engine," "Code," "Algorithm," and "Machine." These are useful metaphors because they help us see the logic of the system.
 
@@ -35,7 +35,7 @@ The work of the System Designer is really the work of a Gardener. It comes down 
 #### 1. Weeding (Symptom Management)
 Weeds are inevitable. In any system, there will be "bad" iterations—behaviors that are harmful or parasitic.
 The Gardener doesn't get angry at the weeds. They don't take it personally. They just pull them out.
-They know that pulling a weed today doesn't mean there won't be another one tomorrow. It is a maintenance task. It is the "Symptom Management" we talked about in Chapter 24. You have to keep the garden clean so the good plants have room to grow.
+They know that pulling a weed today doesn't mean there won't be another one tomorrow. It is a maintenance task. It is the "Symptom Management" we talked about in Chapter 28. You have to keep the garden clean so the good plants have room to grow.
 
 #### 2. Fertilizing (Incentives)
 This is about providing the resources for the things you *want* to grow.

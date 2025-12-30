@@ -66,7 +66,7 @@ They start looking for something else. They look for "leadership," "community se
 
 Suddenly, a new Value Function begins to emerge. The wealthiest schools—the ones that have already mastered the "Exam Factory" model—start re-introducing the very things they cut decades ago. They start teaching "Soft Skills" and "Global Citizenship." 
 
-This creates a new kind of cultural divide. It isn't that the old metric is dead; it’s that a new one has been layered on top of it. The working class remains focused on the "Exam Factory" because it is their only ticket to survival. Meanwhile, the elite are being selected by a more complex Value Function that rewards specific cultural markers. 
+This creates a new kind of cultural divide. It isn't that the old metric is dead; it’s that a new one has been layered on top of it. Families with fewer resources often remain focused on the "Exam Factory" because it is the most visible, reliable path to stability. Meanwhile, the elite are being selected by a more complex Value Function that rewards specific cultural markers.
 
 We see this tension everywhere. Lawmakers try to change the Value Function by adding new subjects or changing the rules of the "Judge," but they are often fighting against the current of the river. As long as the individual choice—the parent's desire for the best university spot—remains tied to a specific metric, the system will continue to optimize for that metric.
 

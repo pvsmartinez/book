@@ -86,7 +86,7 @@ But eventually, one variation will work. The ball will sail over the net and lan
 
 You’ve probably heard the "Infinite Monkey Theorem": If you put a monkey in front of a typewriter for an infinite amount of time, it will eventually type the complete works of Shakespeare. 
 
-It’s a fun idea, but it’s also a bit depressing. We don't have an infinite amount of time. Neither does a virus, a startup, or a dog. 
+It’s a fun idea, but let's be honest: it’s also a bit depressing. We don't have an infinite amount of time. Neither does a virus, a startup, or a dog. 
 
 But the world has a shortcut. It doesn't need infinite time because it has **Selection**. 
 

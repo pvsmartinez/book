@@ -70,4 +70,4 @@ The pattern is unavoidable. It is the reason we have gone from stone tools to sp
 
 In this first part of our journey, we have spent the last few chapters looking at the runners in the race—from giraffes and viruses to hackers, students, and memes. Living and non-living things alike, they all iterate with variation, through countless attempts and constant feedback. They adapt. They learn. They change. 
 
-We now know how to spot the pattern. We know its power and the levers that affect its speed and effectiveness. 
+We now know how to spot the pattern. We know the runners. We know its power and the levers that affect its speed and effectiveness. 

@@ -1,4 +1,4 @@
-## Chapter 23: The Synthesis
+## Chapter 23: Synthesis: The Compounder
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

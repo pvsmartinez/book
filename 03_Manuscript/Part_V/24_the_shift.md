@@ -1,4 +1,4 @@
-## Chapter 28: The Shift (The Hydra)
+## Chapter 24: The Shift (The Hydra)
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
@@ -90,6 +90,8 @@ You see this everywhere:
 
 When you try to fight the current, you are playing on Hard Mode. You are swimming upstream against the gravity of the system.
 
+**Can you see how the system punishes the very behavior we claim to value?**
+
 The System Designer doesn't swim upstream. They redirect the river.
 
 ### The Designer's Framework
@@ -122,4 +124,4 @@ This is the Shift. It is the transition from moralizing to mapping.
 
 It is less satisfying than being a hero. You don't get to slay the monster and hear the applause. But it is the only way to actually kill the Hydra.
 
-You don't cut off the heads. You starve the beast.
+You don't cut off the heads. You starve the beast. Let's look at the tools we need to do that.

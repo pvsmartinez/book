@@ -73,7 +73,7 @@ Neither is "evil." They are just different organisms evolved for different envir
 
 ### The Mirror in the Machine
 
-The most uncomfortable truth about the "Algorithm" is that it is a mirror.
+The most powerful realization about the "Algorithm" is that it is a mirror.
 
 The YouTube algorithm doesn't "want" you to watch conspiracy theories. It doesn't have a political agenda. It just wants you to watch *something*. If you click on a video about a flat earth and watch it to the end, you are telling the system: "This is a successful iteration." You are the environment providing the selection pressure.
 

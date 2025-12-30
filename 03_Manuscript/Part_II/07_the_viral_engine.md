@@ -43,4 +43,4 @@ The pattern doesn't need a central planner to decide which ideas are "good." It 
 
 We often think of culture as something we "create" intentionally, but most of it is an emergent behavior of this pattern running on autopilot. We are constantly throwing ideas at the wall, and the ones that stick are the ones that get to iterate. 
 
-But this leads us to a haunting question. If the pattern is just a mechanism that replicates what "sticks," what exactly is the "glue"? What decides which ideas get to live and which ones are deleted? 
+But this leads us to a haunting question, doesn't it? If the pattern is just a mechanism that replicates what "sticks," what exactly is the "glue"? What decides which ideas get to live and which ones are deleted? 

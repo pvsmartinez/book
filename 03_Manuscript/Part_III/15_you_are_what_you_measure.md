@@ -81,4 +81,4 @@ If we don't like the world we see in the mirror, we cannot just ask the "agents"
 
 **Can you see how the goal we set defines the person we become?**
 
-Because whatever we measure, The Pattern will eventually produce—with an indifferent, cold-blooded efficiency.
+Because whatever we measure, The Pattern will eventually produce—with an indifferent, cold-blooded efficiency. But unlike the cheetah, we have the power to choose the metric. We can redesign the track.

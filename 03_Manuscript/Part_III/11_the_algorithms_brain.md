@@ -66,25 +66,25 @@ We often wonder why a multi-billion dollar system would confidently lie about a 
 
 Most AI models are judged on "Benchmarks"—standardized tests where they have to get the highest score possible. In many of these tests, the AI is rewarded for a correct answer, but it isn't heavily penalized for a wrong one. Crucially, saying "I don't know" usually gives the AI the same score as a wrong answer: zero. 
 
-If you are a runner in a race where a correct guess gives you a point and a wrong guess (or silence) gives you nothing, what is the most efficient strategy? 
+If you are a runner in a race where a correct guess gives you a point and a wrong guess (or silence) gives you nothing, what is the most efficient strategy?
 
-**You guess.** 
+**You guess.**
 
-It’s the same behavior we see in students taking university entrance exams. If there is no penalty for a wrong answer, the optimal strategy is to fill in every bubble on the multiple-choice sheet, even if you have no idea what the question is asking. 
+It’s the same behavior we see in students taking university entrance exams. If there is no penalty for a wrong answer, the optimal strategy is to fill in every bubble on the multiple-choice sheet, even if you have no idea what the question is asking.
 
 The AI isn't "trying" to lie to you. It is simply a student that has been trained to never leave a blank page. It has been selected to prioritize "The Answer" over "The Truth" because that is what the Judge rewarded.
 
 ### The Power of the Filter
 
-Think about the power of this shift. 
-*   By rewarding the identification of digits, we created systems that can process checks and mail automatically. 
-*   By rewarding the identification of faces, we created the security systems in our phones. 
+Think about the power of this shift.
+*   By rewarding the identification of digits, we created systems that can process checks and mail automatically.
+*   By rewarding the identification of faces, we created the security systems in our phones.
 *   By rewarding "Engagement Time," we created the social media algorithms that now shape global politics.
 
-The "Brain" of the algorithm isn't evil. It's just doing exactly what the Judge rewarded it for. It found that anger, outrage, and shock are the most efficient ways to keep you scrolling, so it "learned" to give you more of them. 
+The "Brain" of the algorithm isn't evil. It's just doing exactly what the Judge rewarded it for. It found that anger, outrage, and shock are the most efficient ways to keep you scrolling, so it "learned" to give you more of them.
 
-The AI didn't choose to be polarizing. It was simply the fittest runner for the track we built. 
+The AI didn't choose to be polarizing. It was simply the fittest runner for the track we built.
 
-AI is the purest example of behavior shaping because there is no conscience and no "common sense" to get in the way. There is only math and a goal. If the Value Function is slightly off, the AI will optimize for the wrong thing with absolute, cold-blooded precision. 
+AI is the purest example of behavior shaping because there is no conscience and no "common sense" to get in the way. There is only math and a goal. If the Value Function is slightly off, the AI will optimize for the wrong thing with absolute, cold-blooded precision.
 
-If we want to understand why our social systems feel like they are spinning out of control, we have to look at the goals we've given our "Invisible Judges." Because once you set a Value Function and turn on the Engine of iteration, the system will reach the goal—whether you actually wanted to go there or not.
+If we want to understand why our social systems feel like they are spinning out of control, we have to look at the goals we've given our "Invisible Judges." Because once you set a Value Function and turn on the Engine of iteration, the system will reach the goal—regardless of our original intent.

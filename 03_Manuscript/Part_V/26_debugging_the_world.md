@@ -1,4 +1,4 @@
-# Chapter 26: Debugging the World
+## Chapter 26: Debugging the World
 
 Every programmer knows the feeling. 
 

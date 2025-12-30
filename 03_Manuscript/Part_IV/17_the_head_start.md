@@ -90,4 +90,6 @@ The January kid gets better coaching. The wealthy account generates its own inco
 
 Over time, this creates a world where the winners keep winning, not necessarily because they are working harder, but because they have the most momentum. The initial signal—that small difference in skill or capital—has been amplified until it drowns out everything else.
 
-In a system driven by time, the past is not just a memory; it is the foundation of the future.
+**Can you see how the "Judge" stops measuring the runner and starts measuring the head start?**
+
+In a system driven by time, the past is not just a memory; it is the foundation of the future. The error compounds. But once we see this, we stop looking for villains and start looking for the levers that reset the track.

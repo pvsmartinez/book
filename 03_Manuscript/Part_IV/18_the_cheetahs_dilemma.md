@@ -97,6 +97,8 @@ If you measure Mobility, it will give you a Car. But it won't tell you about the
 
 The danger of optimization isn't that it fails. The danger is that it **succeeds** at the wrong thing. It gives you exactly what you asked for, but it hides the cost until the bill comes due.
 
-**The issue isn't the optimization itself. It's not seeing the issues with the optimization at first until they just become a problem.**
+**The issue isn't the optimization itself. It's that we are blind to the side effects until they become the main effect.**
 
-We are often so focused on the metric we are chasing that we don't notice the cliff we are running towards. And by the time we do, we are often moving too fast to stop. 
+We are often so focused on the metric we are chasing that we don't notice the cliff we are running towards. And by the time we do, we are often moving too fast to stop.
+
+As System Designers, we have to ask: "If I succeed at this, what becomes fragile?" 
