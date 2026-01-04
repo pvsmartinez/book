@@ -4,7 +4,7 @@
 <summary><strong>Chapter Outline & Blocking</strong></summary>
 
 **Status:** Refactored (Session 7)
-**Goal:** Explain how the Venture Capital system evolved from an innovation engine into a game-fied valuation machine through compounding selection pressures.
+**Goal:** Explain how the Venture Capital system evolved from an innovation engine into a gamified valuation machine through compounding selection pressures.
 
 ---
 
@@ -17,7 +17,7 @@
 *   **Phase 2: Growth.** The shift to "Burn Rate" and market share.
 *   **Phase 3: Valuation.** The current state. Optimizing for the next round of funding rather than the customer.
 
-### 3. The Game-fication of Startups
+### 3. The Gamification of Startups
 *   **The Metric:** Fundraising ability.
 *   **The Selection:** The system now selects for "Marketing-First" founders who can sell a narrative to investors.
 *   **The Compounding Effect:** High valuations lead to more funding, creating a self-fulfilling prophecy.
@@ -76,21 +76,21 @@ Founders realized that they didn't need to please the customer to survive; they 
 
 The loop closed on itself. The "Judge" was no longer the market reality; it was the ability to raise capital.
 
-### The Game-fication of Startups
+### The Gamification of Startups
 
-Today, we see the result of this evolution. We have companies that are "Unicorns" on paper but have never made a dollar of profit. We have an "AI Bubble" where valuations are detaching from revenue because the system is betting on the *potential* of the next breakpoint rather than the reality of the current product. 
+Today, we see the result of this evolution. We have companies that are "Unicorns" on paper but have never made a dollar of profit. We see valuations in sectors like AI detaching from current revenue because the system is betting on the *potential* of the next breakpoint rather than the reality of the current product. Whether this bet pays off is unknown, but the mechanism is clear: the metric has shifted.
 
-The system stopped selecting for "Product-First" entrepreneurs and started selecting for **"Fundraising-First"** entrepreneurs.
+The system began to favor **"Fundraising-First"** entrepreneurs over "Product-First" ones. This doesn't mean product-focused founders don't exist, but they are swimming upstream against the current of the Value Function.
 
-### The Game-fied Startup
+### The Gamified Startup
 
-This is where the "game-fication" of the startup ecosystem happens. 
+This is where the "gamification" of the startup ecosystem happens. 
 
 Because it is difficult to measure the long-term success of a revolutionary idea, investors start looking for proxies. They look at growth numbers. They look at who else is investing. They look at the "narrative." 
 
 Founders quickly learned the rules of this new game. To survive, you don't necessarily need the best product; you need the right **connections**. You need to be recommended by the right people. You need to show "Growth" at any cost, even if that growth is bought with the very investment money you just raised. 
 
-Over time, this selection pressure has become significant. We are now seeing deals worth billions of dollars for companies that are little more than a PowerPoint presentation and a promising narrative about Artificial Intelligence. 
+Over time, this selection pressure has become significant. We are now seeing deals worth billions of dollars for companies that are primarily built on a promising narrative about Artificial Intelligence. Some will succeed, but many are optimized for the fundraising game rather than the market game.
 
 This is The Pattern in action. The Value Function (Investability) has been optimized so heavily that it has become disconnected from the original goal (Innovation). 
 

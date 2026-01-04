@@ -77,7 +77,7 @@ Their thesis is that nations fail not because of geography or culture, but becau
 
 **Read this to understand:** How the rules of the game determine the fate of nations, and why "good people" cannot fix a broken system without changing the rules.
 
-Also the Venesian section in this book is a perfect example of the compounding effect of a system, which created inclusive institutions that slowly became extractive through compounding of power concentration.
+Also, the Venetian section in this book is a perfect example of the compounding effect of a system, which created inclusive institutions that slowly became extractive through the compounding of power concentration.
 
 ### 3. The Personal Loop: *Atomic Habits*
 **By James Clear**

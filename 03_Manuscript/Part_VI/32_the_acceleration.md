@@ -88,7 +88,9 @@ But speed isn't the only problem. The problem is that we are running this Hyper-
 This creates a **Mismatch**.
 
 Consider Democracy.
-Modern democracy was designed in the 18th century. It was built for a world where information traveled at the speed of a horse. It was designed with "buffers"—representatives, long election cycles, deliberative bodies—to handle the slow pace of debate.
+Democracy is a powerful engine. By allowing more people to participate, it increases the **Variance** of ideas and ensures that the system serves the many rather than the few. It is, fundamentally, a good design for a complex society.
+
+However, the specific *institutions* of modern democracy were designed in the 18th century. They were built for a world where information traveled at the speed of a horse. They were designed with "buffers"—representatives, long election cycles, deliberative bodies—to handle the slow pace of debate.
 
 Today, information travels at the speed of light. The "buffers" are gone. A tweet from a leader reaches every citizen instantly. The reaction is instant. The outrage is instant.
 
@@ -99,7 +101,7 @@ Because the environment has changed, the "bugs" in the code—polarization, popu
 *   A small lie used to fade away. Now, the algorithm amplifies it into a conspiracy theory that topples a government.
 *   A small wealth gap used to be tolerable. Now, the market compounds capital so efficiently that the gap becomes a chasm.
 
-The world feels broken not because it is "evil," but because the **Value Functions** of our old institutions are no longer aligned with the reality of our new environment.
+The world feels broken not because democracy is failing, but because the specific mechanisms we use to run it have not been patched. The **Value Functions** of our old institutions are no longer aligned with the reality of our new environment. The system has compounded, and the metric being optimized (Engagement/Outrage) is often not the one we originally designed (Consensus/Progress).
 
 We are trying to run a 21st-century simulation on 18th-century hardware. The fan is spinning. The CPU is overheating. That heat?
 

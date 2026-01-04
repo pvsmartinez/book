@@ -162,40 +162,47 @@ As Energy drops, you become less efficient. You have to work *longer* to get the
 The map reveals the trap.
 
 ```mermaid
-flowchart TD
-    %% Layout
-    subgraph External["External World (Demands)"]
+flowchart TB
+    %% Layout: Define Subgraphs first
+    subgraph External ["External World (Demands)"]
+        direction TB
+        Income((Inflow: Income))
         Money[Stock: Bank Account]
         Expenses((Outflow: Bills))
+        
+        Income -->|Adds to| Money
+        Money -->|Subtracts| Expenses
     end
 
-    subgraph Internal["Internal World (Resources)"]
+    subgraph Internal ["Internal World (Resources)"]
+        direction TB
+        Rest((Inflow: Rest))
         Energy[Stock: Personal Energy]
         Purpose[Stock: Sense of Purpose]
+        Meaning((Inflow: Meaningful Results))
+        
+        Rest -->|Regenerates| Energy
+        Meaning -->|Regenerates| Purpose
     end
 
-    %% The Engine
+    %% Central Engine
+    Anxiety[Variable: Anxiety]
     WorkEffort((Outflow: Work Effort))
-    Income((Inflow: Income))
-    Rest((Inflow: Rest))
-    Meaning((Inflow: Meaningful Results))
+    Efficiency[Variable: Efficiency]
+    Burnout[State: Burnout]
 
     %% Survival Loop (The Driver)
-    Money -->|Subtracts| Expenses
-    Money -.->|Low Balance triggers| Anxiety[Variable: Anxiety]
+    Money -.->|Low Balance triggers| Anxiety
     Anxiety ==>|Drives| WorkEffort
     WorkEffort ==>|Generates| Income
-    Income -->|Adds to| Money
 
     %% Energy Loop (The Cost)
-    Rest -->|Regenerates| Energy
     WorkEffort -->|Depletes| Energy
-    Energy -.->|Determines| Efficiency[Variable: Efficiency]
+    Energy -.->|Determines| Efficiency
     Efficiency -.->|Multiplies| WorkEffort
 
     %% Purpose Loop (The Fuel)
     WorkEffort -->|If aligned| Meaning
-    Meaning -->|Regenerates| Purpose
     Purpose -.->|Boosts| Efficiency
 
     %% The Trap (Feedback Malfunction)
@@ -203,7 +210,7 @@ flowchart TD
     Anxiety -.->|Drains| Purpose
 
     %% The Breakpoint
-    Energy -->|Empty| Burnout[State: Burnout]
+    Energy -->|Empty| Burnout
 
     %% Styling
     style Money fill:#e8f5e9,stroke:#2e7d32

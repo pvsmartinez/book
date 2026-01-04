@@ -6,6 +6,8 @@
 **Status:** Draft (Revised)
 **Goal:** Introduce the "System Designer" mindset. Move from fighting the Current (Symptoms) to redirecting the River (Systems).
 
+</details>
+
 ---
 
 ### 1. The Trap

@@ -16,7 +16,7 @@ I want to show you how things seemingly unrelated all behave in similar ways. Fr
 
 This book isn't a textbook or a grand academic theory. It’s more like a pair of glasses. I want to share a lens that helped me make sense of why the world feels so loud, so fast, and so extreme right now. 
 
-My goal here is not to give you the definitive truth of everything. I will raise more questions than I answer. But my hope is that by the end of these chapters, you’ll stop feeling like a passenger in a chaotic world and start seeing the levers. 
+My goal here is not to give you the definitive truth of everything. Throughout this book, I will use simplified models and examples—like "The Cheetah" or "The Judge"—to build a line of thought. These are tools for understanding, not perfect representations of reality. As in any system design process, we must simplify the complex to see the structure. I will raise more questions than I answer. But my hope is that by the end of these chapters, you’ll stop feeling like a passenger in a chaotic world and start seeing the levers. 
 
 I want to give you some theory as to how this system works, and some tools to dive deeper. Because once you understand the pattern, you can stop hating the players and start thinking about how to change the game. 
 

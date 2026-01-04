@@ -62,9 +62,9 @@ Consider a 15-year-old boy growing up in this environment. He is smart, ambitiou
 
 **Option B:** You can walk to the corner and work for the local drug trade. You will make ten times the minimum wage. You will have money for new clothes. You will have status. You will be "someone." 
 
-The system has created a **Value Function** where the "Illegal Path" often feels like the only rational choice for that individual in the short term. 
+The system has created a **Value Function** where the "Illegal Path"—despite its violence and high risk of death—often feels like the most attractive choice for that individual in the short term. 
 
-So, the boy chooses Option B. Not because he is "evil," but because he is responding to the incentives.
+So, the boy chooses Option B. This is a tragedy. He enters a world of violence that destroys his community and often ends his own life prematurely. But he chooses it not necessarily because he is "evil," but because the incentives of his environment are screaming at him to do so.
 
 ### The Compounding (The Monster)
 
