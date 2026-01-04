@@ -33,7 +33,7 @@ cat << EOM > "$TEMP_MD"
 EOM
 
 # Append all chapters in order, cleaning them up for the book format
-for part in Part_I Part_II Part_III Part_IV Part_V; do
+for part in Part_I Part_II Part_III Part_IV Part_V Part_VI; do
     echo "Processing $part..."
     
     # Add Part Page
@@ -56,7 +56,7 @@ EOM
         
         # Check if file is an interlude
         if [[ "$(basename "$file")" == *"interlude"* ]]; then
-            echo "<div class=\"interlude\">" >> "$TEMP_MD"
+            echo "<div class=\"interlude\" markdown=\"1\">" >> "$TEMP_MD"
         fi
         
         # Clean the file:
@@ -76,11 +76,18 @@ EOM
     done
 done
 
-# Convert MD to HTML body using Python's markdown library
-echo "Converting Markdown to HTML..."
+# Define Python and WeasyPrint paths
 PYTHON_BIN="/Users/pedromartinez/Dev/book/.venv/bin/python"
 WEASYPRINT_BIN="/Users/pedromartinez/Dev/book/.venv/bin/weasyprint"
 CSS_FILE="scripts/book_style.css"
+
+# Process Mermaid Diagrams
+echo "Processing Mermaid Diagrams..."
+TEMP_MD_PROCESSED="temp_manuscript_processed.md"
+$PYTHON_BIN scripts/process_mermaid.py "$TEMP_MD" > "$TEMP_MD_PROCESSED"
+
+# Convert MD to HTML body using Python's markdown library
+echo "Converting Markdown to HTML..."
 
 # Generate the full HTML with the professional CSS linked
 cat << EOM > "$HTML_FILE"
@@ -95,7 +102,7 @@ cat << EOM > "$HTML_FILE"
 EOM
 
 # Append Content from MD
-$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '1'}}))" >> "$HTML_FILE"
+$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD_PROCESSED').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '1'}}))" >> "$HTML_FILE"
 
 cat << EOM >> "$HTML_FILE"
 </body>
@@ -103,13 +110,14 @@ cat << EOM >> "$HTML_FILE"
 EOM
 
 # Save the MD version for reference
-cp "$TEMP_MD" "$EXPORT_DIR/$FILENAME.md"
+cp "$TEMP_MD_PROCESSED" "$EXPORT_DIR/$FILENAME.md"
 
 echo "Generating Professional PDF with WeasyPrint..."
 $WEASYPRINT_BIN "$HTML_FILE" "$EXPORT_DIR/$FILENAME.pdf"
 
 # Cleanup
 rm "$TEMP_MD"
+rm "$TEMP_MD_PROCESSED"
 
 echo "------------------------------------------------"
 echo "Success! Professional Book Exported to:"

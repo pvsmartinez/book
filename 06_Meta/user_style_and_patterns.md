@@ -12,6 +12,7 @@
 *   **Raw Voice Preservation:** The user values the "raw" unpolished transcripts to maintain their unique voice.
     *   *Action:* Log raw inputs to `00_Inbox/raw_transcripts.md`.
 *   **The Teacher Persona:** The user wants to ensure the reader is never lost. When switching between varied domains (AI, Politics, Bio), explicitly bridge the context. Explain concepts simply before diving deep.
+    *   **Rule:** When introducing a technical term (e.g., "Debugging", "Latency", "Throughput"), always provide a universal analogy (e.g., "Like a doctor diagnosing a patient") to ground the concept for non-technical readers.
 *   **Visual Thinker:** Wants to "see" the whole book structure laid out (all parts/chapters) to understand the flow, even if the content is empty.
 *   **Consistency Checker:** Very attentive to discrepancies between the plan (master outline) and the reality (files).
 *   **Version Control Philosophy:** Prefers "clean" versioning. Debugging/formatting iterations should be wiped; only content-significant versions should be preserved in the `07_Exports` folder.
@@ -48,6 +49,13 @@
 *   **"Removed Competition"**: Arresting a drug dealer just opens the market for the next one. The position remains even if the person is gone.
 *   **"Buying Time"**: Symptom management isn't the solution, but it prevents the error from compounding while you redesign the system.
 *   **"The Dual Approach"**: Neither symptom-fighting alone nor system-redesign alone works. Both must operate in parallel.
+
+## 3. Writing Style "Don'ts"
+*   **Avoid Formulaic Bridges:** Do not use phrases like "To answer that, we need to look at...", "I'm not talking about X, I'm talking about Y", or "We need to stop doing X and start doing Y."
+*   **Avoid Condescending Instructions:** Do not lecture the reader with "To understand this, we must..." or "Let's look at...".
+*   **Preferred Flow:** Use narrative transitions. Ask the questions the reader is thinking. Connect ideas directly without announcing the connection.
+    *   *Bad:* "To fix this, we need to use a speed bump."
+    *   *Good:* "A System Designer looks at the problem differently. They don't care about intentions... So, they build a Speed Bump."
 *   **"History as a Teacher, Not Truth"**: Look at history to spot patterns and progress, but don't assume it's the absolute truth or that it will repeat exactly. It's a diagnostic tool.
 *   **"Stability vs. Explosion"**: Systems either oscillate (stable) or compound until they break (explosion). The goal is to identify which path a system is on.
 *   **"Emotional Punctuation"**: Use punchy questions in the middle of paragraphs to guide the reader to an epiphany (e.g., "Can you see how...?").

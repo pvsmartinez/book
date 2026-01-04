@@ -164,38 +164,65 @@
 ## Part V: The System Designer (Application & Toolkit)
 *Goal: Empower the reader to stop playing and start designing. Move from Theory to Practice.*
 
-**Chapter 24: The Shift (Stop Hating the Player)**
-*   **Concept:** Moving from moral judgment to systemic understanding.
-*   **Focus:** Stop yelling at the "runners" (Person A vs. Person B). Start identifying the "Rule Sets" (Direct vs. Indirect Impact).
-*   **Key Concepts:** The Hydro Effect, The Trap of Moralizing.
-*   **Key Seeds:** [[dont_hate_the_player]], [[symptoms_vs_systems_the_dual_approach]].
+**Chapter 24: The Shift**
+*   **Concept:** Moving from "Hero Mode" (fighting players) to "Designer Mode" (fixing games).
+*   **Focus:** Why changing the player never works (The Politician Example). The realization that we are swimming upstream against the system's incentives.
+*   **Key Seeds:** [[dont_hate_the_player]].
 
-**Chapter 25: The Game Designer's Toolkit (Deep Dive Example)**
-*   **Concept:** What does a Game Designer actually do?
-*   **Story:** Crafting Emotions (Survival vs. Power Fantasy), Fixing Broken Metas (Overwatch GOATS), and Managing Inflation (MMO Economies).
-*   **Focus:** Game Designers are the ultimate "System Designers." They don't force behavior; they shape the environment to make behavior emerge.
-*   **Key Seeds:** [[the_game_designer_role]], [[faucets_and_sinks]], [[perfect_imbalance]].
-
-**Chapter 26: Debugging the World**
-*   **Concept:** How to identify broken feedback loops in real life.
-*   **Focus:** Symptoms vs. Systems.
+**Chapter 25: The Hydra (The Dual Approach)**
+*   **Concept:** The danger of compounding symptoms (Gangs $\rightarrow$ Mafias).
+*   **Focus:** The "Dual Approach": Using Tylenol (Symptom Management) to buy time for Antibiotics (System Repair). Why the Left/Right political debate is often a false dichotomy.
 *   **Key Seeds:** [[symptoms_vs_systems_the_dual_approach]].
 
-**Chapter 27: Patching the Code**
-*   **Concept:** Small changes to the Value Function that create large shifts over time.
-*   **Focus:** Iteration as a tool for repair.
+**Chapter 26: Mapping the Machine**
+*   **Concept:** Systems Theory 101 (Donella Meadows).
+*   **Focus:** Understanding the anatomy of the system before trying to fix it. Stocks, Flows, Feedback Loops (Reinforcing/Balancing), and Leverage Points.
+*   **Key Seeds:** [[mapping_systems]].
+
+**Chapter 27: The Game Designer's Toolkit**
+*   **Concept:** How to edit the system once mapped.
+*   **Focus:** The specific levers a designer can pull: Incentives (Carrots), Constraints (Speed Bumps), and Feedback Loops (Scoreboards).
+*   **Key Seeds:** [[the_game_designer_role]], [[faucets_and_sinks]].
+
+**Chapter 28: Debugging the World**
+*   **Concept:** Applying the Map and Tools to real problems.
+*   **Focus:** Case Studies: Social Media (The Engagement Trap), Climate (Externalities), and Personal Burnout (Engineering Constraints).
+*   **Key Seeds:** [[symptoms_vs_systems_the_dual_approach]].
+
+**Chapter 29: Patching the Code**
+*   **Concept:** How to implement the fix without breaking the system.
+*   **Focus:** Iteration as a tool for repair. Small patches vs. Big rewrites. Avoiding "Policy Resistance."
 *   **Key Seeds:** [[iteration_is_feedback]].
 
-**Chapter 28: The Gardener**
+**Chapter 30: The Gardener**
 *   **Concept:** The philosophy of cultivation vs. control.
 *   **Focus:** Managing complex systems without breaking them.
 *   **Key Seeds:** [[the_system_designer_mindset]].
 
-**Chapter 29: The Final Pattern**
+---
+
+## Part VI: Final Thoughts
+*Goal: Synthesis, Connection, and Conclusion.*
+
+**Chapter 31: The Final Pattern**
+*   **Concept:** Summarizing the core thesis.
+*   **Focus:** The world is not broken; it is optimizing. The shift from victim to designer.
+*   **Key Seeds:** [[the_invisible_pattern]].
+
+**Chapter 32: The Library of Patterns (References)**
+*   **Concept:** Connecting the book to the giants.
+*   **Focus:** The Selfish Gene (Selection), Why Nations Fail (Filter), Atomic Habits (Iteration), Thinking in Systems (Gardener).
+
+**Chapter 33: Conclusion**
+*   **Concept:** The infinite game.
+*   **Focus:** Keep playing. Keep iterating.
+
+
+**Chapter 31: The Final Pattern**
 *   **Concept:** Synthesis of the entire book.
 *   **Focus:** Seeing the invisible patterns everywhere.
 *   **Key Seeds:** [[the_invisible_hand_vs_pattern]].
 
-**Chapter 30: Conclusion**
+**Chapter 32: Conclusion**
 *   **Recap:** Summary of the journey.
 *   **Final Thought:** The game never ends. The goal is not to win, but to keep playing and improving the system.

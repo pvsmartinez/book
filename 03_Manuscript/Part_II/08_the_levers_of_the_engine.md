@@ -65,6 +65,8 @@ But if the selection pressure is too high—if one mistake means you are fired o
 
 The goal of a System Designer is to find the **Goldilocks Zone**. You want enough pressure to force optimization, but enough safety to allow for the "errors" that lead to breakthroughs. 
 
-Once you understand these levers, you stop being a victim of the pattern and start being its director. You stop asking "Why is this happening to me?" and start asking "How can I tune this mechanism to get a better result?" 
+Once you understand these levers, you stop being a victim of the pattern and start being its director. The question shifts from "Why is this happening to me?" to "How can I tune this mechanism to get a better result?" 
 
-To answer that, we have to step out of the mechanism and look at the track. We have to look at **The Filter**.
+But tuning the engine is only half the battle. You can have the fastest car in the world, but if the road is leading off a cliff, speed doesn't matter. 
+
+We need to look at the track. We need to look at **The Filter**.

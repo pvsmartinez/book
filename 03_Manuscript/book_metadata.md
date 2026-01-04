@@ -22,3 +22,7 @@ Description: Time and its Consequences.
 ## Part_V
 Title: Part V: The System Designer
 Description: Shifting from being a player to being an architect of systems.
+
+## Part_VI
+Title: Part VI: Final Thoughts
+Description: Connecting the dots. References, further reading, and the final synthesis of the pattern.

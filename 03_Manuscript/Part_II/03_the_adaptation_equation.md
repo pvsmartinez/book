@@ -69,6 +69,8 @@ Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog 
 
 We need to repeat the request, wait for the action, and give the cookie multiple times before the dog truly learns. This is **Iteration**. It is the loop of doing something and finding out if it worked. 
 
+In Systems Theory—a field brilliantly explored by Donella Meadows in *Thinking in Systems*—this is known as a **Feedback Loop**. It is the fundamental building block of how systems change. The dog acts, the system (you) provides feedback (cookie), and that feedback changes the dog's future actions. Without this loop, there is no adaptation. There is only noise.
+
 The same applies to learning tennis. 
 You swing the racket. The ball hits the net. You feel the jar in your wrist. You see the ball drop. Your brain registers the error: "Too low." 
 
