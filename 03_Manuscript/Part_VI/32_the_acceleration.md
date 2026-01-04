@@ -71,7 +71,7 @@ We have cranked the "Iteration" variable to infinity.
 ### The Hyper-Adaptation
 
 Feeding a machine learning algorithm more data makes it learn faster.
-Feeding the Engine of the World more iterations makes it **Adapt** faster.
+Feeding the global engine more iterations makes it **Adapt** faster.
 
 The reason you feel exhausted is that the system is evolving faster than you are.
 

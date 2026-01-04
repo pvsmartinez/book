@@ -82,7 +82,7 @@ This is why systems feel like they break "all at once." It’s not that the stor
 
 History follows the same math. It isn't just a slow, continuous crawl of progress; it is a series of long plateaus interrupted by sudden shifts. We call these **Revolutions**.
 
-Think about the French Revolution, the Russian Revolution, or the Chinese Revolution. For decades, the pressure in these systems builds up. The "runners" (the citizens) are unhappy, the "track" (the economy) is failing, and the "Judge" (the power structure) is becoming disconnected from reality. 
+Think about the French Revolution, the Russian Revolution, or the Chinese Revolution. For decades, the pressure in these systems builds up. The citizens are unhappy, the economy is failing, and the "Judge" (the power structure) is becoming disconnected from reality. 
 
 To an outside observer, the system might look stable for years. People are complaining, but they are still following the rules. The regime is still in power. But underneath the surface, the system is approaching a breakpoint. 
 

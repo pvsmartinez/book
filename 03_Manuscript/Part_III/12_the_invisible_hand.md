@@ -29,7 +29,7 @@
 
 ### Draft
 
-Imagine a small town in the 1800s with three bakers. 
+Consider a small town in the 1800s with three bakers. 
 
 The first baker sells massive loaves of bread, so large that only a family of ten can finish one. The second baker sells tiny, expensive portions of artisanal sourdough, targeting the few wealthy families on the hill. The third baker sells small, cheap rolls that a worker can grab on the way to the factory. 
 
@@ -75,7 +75,7 @@ Extractive systems can actually grow very fast in the beginning by forcing resou
 
 This doesn't mean that collective systems are inherently "worse." We see small communities, like the Kibbutzim in Israel, that have successfully used socialist principles for decades. But these work because the population is small enough that the feedback loop is still visible. Everyone knows everyone; the "Judge" is the community itself. But as you add hierarchy and millions of people, it becomes harder and harder to align the individual's Value Function with the system's original goal.
 
-It is also important to note that Capitalism is not always inclusive or fair. Market systems can also become extractive when a few players gain enough power to silence the Judge—through monopolies or by capturing the government to change the rules in their favor.
+However, Capitalism is not always inclusive or fair. Market systems can also become extractive when a few players gain enough power to silence the Judge—through monopolies or by capturing the government to change the rules in their favor.
 
 I am not here to tell you which system is "right." I am here to show you the pattern. Both systems are just different tracks for the same engine. One optimizes for individual profit and decentralized value creation; the other tries to optimize for collective outcomes but often struggles with the alignment of its filters. 
 

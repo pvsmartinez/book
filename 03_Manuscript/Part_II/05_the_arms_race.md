@@ -32,7 +32,7 @@ In the world of *Alice in Wonderland*, the Red Queen tells Alice: "Now, here, yo
 
 This might sound exhausting, but it is the reality of any competitive system. This is what we call an **Arms Race**. 
 
-Think about the Cheetah and the Gazelle. Imagine a population of both. On the cheetah side, you have some that are slightly faster and some that are slightly slower. On the gazelle side, you have the same variance. 
+Consider the Cheetah and the Gazelle. In a population of both, you have some that are slightly faster and some that are slightly slower. On the gazelle side, you have the same variance. 
 
 The fastest cheetahs catch the gazelles and eat. The slowest cheetahs miss their prey, starve, and die without having babies. On the other side of the fence, the slowest gazelles are the ones caught and eaten. They die. The fastest gazelles escape, survive, and have babies. 
 

@@ -46,7 +46,7 @@ But to see it clearly, let's understand what "Iteration" actually means. It isn'
 
 True iteration is **Action + Concrete Feedback**. 
 
-Without concrete feedback, you aren't iterating; you're just spinning your wheels. Imagine a writer who spends ten years writing a novel in total isolation, never showing a single page to anyone. They might write a million words, but they aren't iterating. They are just repeating. Without the feedback of a reader's reaction, there is no filter to tell them what works and what doesn't. They are practicing in a vacuum. They are playing a game with the monitor turned off.
+Without concrete feedback, you aren't iterating; you're just spinning your wheels. Consider a writer who spends ten years writing a novel in total isolation, never showing a single page to anyone. They might write a million words, but they aren't iterating. They are just repeating. Without the feedback of a reader's reaction, there is no filter to tell them what works and what doesn't. They are practicing in a vacuum. They are playing a game with the monitor turned off.
 
 We have seen this pattern in four distinct forms, each a different way for a system to "learn" through trial and error: 
 

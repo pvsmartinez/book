@@ -74,7 +74,7 @@ At first, the side effects were small. A little bit of traffic. A little bit of 
 
 The corporate world offers a stark example.
 
-Imagine a large energy company that provides electricity to a major city. For years, they have been well-regarded by the stock market. Every year, they find a way to be 1% more efficient. They’ve automated their billing, they’ve outsourced their call centers, and they’ve reduced their emergency repair crews to the minimum required for a "normal" year.
+Consider a large energy company that provides electricity to a major city. For years, they have been well-regarded by the stock market. Every year, they find a way to be 1% more efficient. They’ve automated their billing, they’ve outsourced their call centers, and they’ve reduced their emergency repair crews to the minimum required for a "normal" year.
 
 In a competitive market, the "Judge" (the shareholder) filters for the most efficient iteration. If Company A has 100 maintenance workers and Company B has 90, and both provide the same service, Company B is "fitter." It has lower costs and higher margins. The Pattern selects Company B.
 

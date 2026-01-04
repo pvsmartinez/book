@@ -89,7 +89,7 @@ We often look at the market and ask, "Why is everything so efficient but so frag
 
 It is the same story. It is the Wolf becoming the Pug. It is the Playground becoming GOATS.
 
-Imagine a factory in the early 1900s. It employs 10,000 people to make radios. It is inefficient, noisy, and full of redundancy. 
+Consider a factory in the early 1900s. It employs 10,000 people to make radios. It is inefficient, noisy, and full of redundancy. 
 
 But the Market has a Value Function: **Profit Efficiency**.
 
