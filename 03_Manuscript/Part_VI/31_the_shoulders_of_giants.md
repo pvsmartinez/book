@@ -64,9 +64,11 @@ They classify all political and economic systems into two categories: **Inclusiv
 *   **Inclusive Institutions** allow participation, protect property rights, and create a level playing field (a fair Game).
 *   **Extractive Institutions** concentrate power and wealth in the hands of a few (a rigged Game).
 
-Their thesis is that nations fail not because of geography or culture, but because of their institutions—their *rules*. This is the "Invisible Judge" on a global scale.
+Their thesis is that nations fail not because of geography or culture, but because of their institutions—their *rules*. This is the "Invisible Judge" on a global scale. And the inclusive institution is better at optimizing the pattern then the extractive one. More players independently trying to grow as they are included by the policies will invariably deliver more iteration and variety, which in turn results in more adaptability, and economy-wise, growth.
 
 **Read this to understand:** How the rules of the game determine the fate of nations, and why "good people" cannot fix a broken system without changing the rules.
+
+Also the Venesian section in this book is a perfect example of the compounding effect of a system, which created inclusive institutions that slowly became extractive through compounding of power concentration.
 
 ### 3. The Personal Loop: *Atomic Habits*
 **By James Clear**
@@ -86,7 +88,7 @@ If you want to change your life, you don't need more discipline; you need to des
 
 If you want to understand **The Gardener**, read this.
 
-This is the bible. If you only read one book from this list, make it this one.
+This is the bible. If you only read one book from this list, make it this one. But its also the most techinical, so be aware of that.
 
 Donella Meadows gives you the vocabulary to see the invisible structures we’ve been pointing at. She explains stocks, flows, feedback loops, and delays. She explains why systems surprise us, why well-intentioned policies fail, and where the "Leverage Points" are to intervene.
 
