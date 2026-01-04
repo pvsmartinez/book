@@ -31,17 +31,17 @@ If you look at a giraffe, it looks like a feat of engineering. It has a neck per
 
 But there was no engineer. It was procedural generation.
 
-For a long time, we had a very intuitive—but wrong—idea of how this happened. We thought giraffes got long necks because they *tried* really hard. A short-necked giraffe would stretch and stretch to reach the leaves, and its neck would get a little longer. Then it would have a baby, and that baby would inherit that slightly longer neck. 
+For a long time, we had a very intuitive, but wrong, idea of how this happened. We thought giraffes got long necks because they *tried* really hard. A short-necked giraffe would stretch and stretch to reach the leaves, and its neck would get a little longer. Then it would have a baby, and that baby would inherit that slightly longer neck. 
 
 This feels right to us because it’s how we learn skills. If I practice the piano, I get better. But biology is colder than that. It doesn't care about your effort. If you spend your whole life lifting weights, your baby isn't born with huge muscles. 
 
 The reality of the giraffe is much more brutal. It wasn't about "trying"; it was about "dying." 
 
-Imagine a population of ancient, short-necked giraffes. Because of random genetic mutations—**Variance**—some were born with necks that were just an inch longer than the others. Then came the **Environment**. The trees were tall. The food was high up. 
+Imagine a population of ancient, short-necked giraffes. Because of random genetic mutations, or **Variance**, some were born with necks that were just an inch longer than the others. Then came the **Environment**. The trees were tall. The food was high up. 
 
 The giraffes with the shortest necks couldn't reach the food. They didn't "learn" to be taller; they simply starved. They felt the hunger, they grew weak, and they died before they could have babies. The ones with the slightly longer necks ate, survived, and passed those "long neck" genes to the next generation. 
 
-Repeat this loop—this **Iteration**—for a million years. The "design" of the giraffe didn't come from the giraffe’s desire to reach the leaves. It came from the systematic deletion of everything that *wasn't* that giraffe. The tree didn't "teach" the giraffe to be tall. The tree "selected" the tall giraffes by killing the short ones. 
+Repeat this loop, this **Iteration**, for a million years. The "design" of the giraffe didn't come from the giraffe’s desire to reach the leaves. It came from the systematic deletion of everything that *wasn't* that giraffe. The tree didn't "teach" the giraffe to be tall. The tree "selected" the tall giraffes by killing the short ones. 
 
 This is the pattern in slow motion. It takes millions of years to grow a neck. But if you want to see the same mechanism running at the speed of light, you have to look at something much smaller. You have to look at the virus. 
 

@@ -33,7 +33,7 @@
 
 ### Draft
 
-We have reached the summit. We have spent the last twenty-two chapters looking at individual trees—giraffes, viruses, algorithms, economies, and traffic jams. Now, it is time to look at the forest.
+We have reached the summit. We have spent the last twenty-two chapters looking at individual trees: giraffes, viruses, algorithms, economies, and traffic jams. Now, it is time to look at the forest.
 
 This chapter is the **Synthesis**. It is the explanation of everything we have discussed so far, tied together into a single framework.
 
@@ -119,7 +119,7 @@ We’ve been trying to figure out how to run faster, how to "fit" the filter bet
 
 But as we have seen, the problem isn't the runners. The problem is the **Track**. 
 
-The Pattern is invisible, but it is not immutable. It was built by choices—choices about what to measure, what to reward, and what to ignore. And if it was built by choices, it can be rebuilt by choices. 
+The Pattern is invisible, but it is not immutable. It was built by choices, specifically choices about what to measure, what to reward, and what to ignore. And if it was built by choices, it can be rebuilt by choices. 
 
 In the final part of this book, we are going to stop looking at how to play the game and start looking at how to **design** it. We are going to move from being the victims of the pattern to being its architects. 
 

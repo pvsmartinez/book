@@ -61,7 +61,7 @@ They are wrong because they are looking at the parts, not the whole. They are an
 
 This is how most of us look at the world. We see "Inflation" and think it’s a greedy shopkeeper. We see "Polarization" and think it’s a loud politician. We treat these as isolated problems to be solved one by one. 
 
-But a Game Designer—and a Systems Thinker—knows that these are not isolated events. They are connected parts of a single machine. And you cannot fix the machine until you have the blueprint.
+But a Game Designer (and a Systems Thinker) knows that these are not isolated events. They are connected parts of a single machine. And you cannot fix the machine until you have the blueprint.
 
 To draw that blueprint, we can borrow from the work of **Donella Meadows**, the pioneer of Systems Thinking. In her seminal book *Thinking in Systems*, she gives us a language to describe how things work. 
 
@@ -71,7 +71,7 @@ It starts with a bathtub.
 
 Consider a bathtub. 
 
-The water inside is the **Stock**. This is the accumulation of something—money in a bank account, trust in a relationship, carbon in the atmosphere, or anger in a population. 
+The water inside is the **Stock**. This is the accumulation of something: money in a bank account, trust in a relationship, carbon in the atmosphere, or anger in a population. 
 
 The faucet is the **Inflow**. It adds to the stock. 
 The drain is the **Outflow**. It subtracts from the stock. 

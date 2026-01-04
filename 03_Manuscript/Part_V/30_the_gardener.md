@@ -35,7 +35,7 @@ The Gardener doesn't try to stop the engine. They try to guide it.
 The work of the System Designer is really the work of a Gardener. It comes down to three simple, endless tasks:
 
 #### 1. Weeding (Symptom Management)
-Weeds are inevitable. In any system, there will be "bad" iterations—behaviors that are harmful or parasitic.
+Weeds are inevitable. In any system, there will be "bad" iterations, behaviors that are harmful or parasitic.
 The Gardener doesn't get angry at the weeds. They don't take it personally. They just pull them out.
 They know that pulling a weed today doesn't mean there won't be another one tomorrow. It is a maintenance task. It is the "Symptom Management" we talked about in Chapter 25 (The Hydra). You have to keep the garden clean so the good plants have room to grow.
 

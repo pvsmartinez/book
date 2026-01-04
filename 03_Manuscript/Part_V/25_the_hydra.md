@@ -62,7 +62,7 @@ Consider a 15-year-old boy growing up in this environment. He is smart, ambitiou
 
 **Option B:** You can walk to the corner and work for the local drug trade. You will make ten times the minimum wage. You will have money for new clothes. You will have status. You will be "someone." 
 
-The system has created a **Value Function** where the "Illegal Path"—despite its violence and high risk of death—often feels like the most attractive choice for that individual in the short term. 
+The system has created a **Value Function** where the "Illegal Path," despite its violence and high risk of death, often feels like the most attractive choice for that individual in the short term. 
 
 So, the boy chooses Option B. This is a tragedy. He enters a world of violence that destroys his community and often ends his own life prematurely. But he chooses it not necessarily because he is "evil," but because the incentives of his environment are screaming at him to do so.
 
@@ -132,8 +132,8 @@ In the context of crime, the **"Right"** often focuses on the **Symptoms**. They
 The **"Left"** often focuses on the **Systems**. They want to build schools, improve wages, and fix the inequality. They are the "Antibiotics." They can cure the infection, but it takes years. If you only focus on the long term, the patient (the community) might die from the fever (violence) before the cure takes effect. Or worse, the Mafia will burn down the new school or tax the construction workers.
 
 Interestingly, if you look at the economy, the roles often flip.
-The **"Left"** tends to focus on the **Symptoms**—giving direct aid to those who are struggling right now (The Tylenol).
-The **"Right"** tends to focus on the **System**—creating jobs and strengthening the economy so that fewer people need aid in the future (The Antibiotics).
+The **"Left"** tends to focus on the **Symptoms**: giving direct aid to those who are struggling right now (The Tylenol).
+The **"Right"** tends to focus on the **System**: creating jobs and strengthening the economy so that fewer people need aid in the future (The Antibiotics).
 
 This suggests that neither side has a monopoly on the truth. Both sides are trying to solve the same problems, but they are often looking at different parts of the timeline.
 

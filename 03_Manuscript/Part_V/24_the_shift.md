@@ -93,7 +93,7 @@ Why? Because in an evolutionary system, the Hero is the **Variance**.
 
 The Hero is the mutation. They are the proof that a different way is possible. Without the Hero, the system would never see an alternative. If everyone just followed the current, we would never discover a better path.
 
-Most of the time, the current crushes the swimmer. That is the tragedy of selection. But sometimes, the swimmer is strong enough—or the idea is contagious enough—that they change the flow.
+Most of the time, the current crushes the swimmer. That is the tragedy of selection. But sometimes, the swimmer is strong enough (or the idea is contagious enough) that they change the flow.
 
 The danger isn't in being a Hero. The danger is in *relying* on Heroes to fix the system for us.
 

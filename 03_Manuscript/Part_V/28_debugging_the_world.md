@@ -57,7 +57,7 @@ A patient enters an emergency room. They are sweating, shaking, and screaming in
 Doctor A treats the **Symptom**. They make the patient quiet, but the appendix bursts, and the patient dies.
 Doctor B treats the **System**. They ignore the noise to find the signal.
 
-When we look at the world—at our failing companies, our polarized politics, or our own unhappy lives—we usually act like Doctor A. We see the "Pain" (the symptom) and we want to make it stop. We ban the angry tweets. We fire the underperforming employee. We force ourselves to "work harder."
+When we look at the world (at our failing companies, our polarized politics, or our own unhappy lives), we usually act like Doctor A. We see the "Pain" (the symptom) and we want to make it stop. We ban the angry tweets. We fire the underperforming employee. We force ourselves to "work harder."
 
 But the pain is not the problem. The pain is the *messenger*.
 
@@ -138,7 +138,7 @@ Stay in the diagnosis phase longer than you think you need to.
 Map the flows. Find the loops. Identify the incentives.
 
 If you patch the wrong bug, you introduce new errors.
-But if you find the *true* bug—the invisible incentive that is driving the behavior—the fix is often simple.
+But if you find the *true* bug, the invisible incentive that is driving the behavior, the fix is often simple.
 
 You don't need to fight the patient. You just need to treat the infection.
 

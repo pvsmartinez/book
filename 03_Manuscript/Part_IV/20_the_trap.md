@@ -62,7 +62,7 @@ The cost of fixing the error becomes higher than the cost of living with it.
 
 This happens with physical infrastructure too. 
 
-In the mid-20th century, many countries (especially the US and parts of Brazil) optimized their cities for the automobile. It was the "Cheetah" of transportation—fast, personal, efficient. We built suburbs, highways, and parking lots. 
+In the mid-20th century, many countries (especially the US and parts of Brazil) optimized their cities for the automobile. It was the "Cheetah" of transportation: fast, personal, efficient. We built suburbs, highways, and parking lots. 
 
 Today, we know that this design has massive side effects: traffic, pollution, isolation. We might want to switch to a "Public Transport" model. 
 

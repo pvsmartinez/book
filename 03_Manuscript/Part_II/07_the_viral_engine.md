@@ -9,7 +9,7 @@
 ---
 
 ### 1. The Idea Factory
-*   **The Concept:** Every day, thousands of new ideas are born—books, tweets, memes, conversations.
+*   **The Concept:** Every day, thousands of new ideas are born: books, tweets, memes, conversations.
 *   **Variance:** Each one is a slightly different "code." Some are brand new; others are mutations of old ideas.
 
 ### 2. The Replication Loop
@@ -25,7 +25,7 @@
 
 ### Draft
 
-The pattern shapes the physical world—the necks of giraffes and the proteins of viruses. But it is just as active in the invisible world of human thought. 
+The pattern shapes the physical world, such as the necks of giraffes and the proteins of viruses. But it is just as active in the invisible world of human thought. 
 
 Think about the sheer volume of information created every single day. Thousands of books are published, millions of tweets are sent, and billions of conversations happen over coffee or across dinner tables. Each one of these is an **Attempt**. Each one is a unique piece of "code" trying to survive in the environment of the human mind. 
 
@@ -35,7 +35,7 @@ Most of these ideas are "dead ends." You hear a joke, you don't laugh, and you n
 
 We call these successful mutations **Memes**. Not just the funny pictures with text on the internet, but the original definition by Richard Dawkins: a unit of cultural transmission. A tune, a catchphrase, a fashion trend. These are the viruses of the mind.
 
-Ideas are rarely created from scratch. They are almost always "mutations" of what came before. This book you are reading right now is a perfect example. I didn't invent the concept of Natural Selection, and I didn't invent the concept of an Algorithm. I am taking existing "code" from biology, computer science, and game design, and I am mutating them—combining them in a new way to see if they "fit" your mind. 
+Ideas are rarely created from scratch. They are almost always "mutations" of what came before. This book you are reading right now is a perfect example. I didn't invent the concept of Natural Selection, and I didn't invent the concept of an Algorithm. I am taking existing "code" from biology, computer science, and game design, and I am mutating them, combining them in a new way to see if they "fit" your mind. 
 
 If this framework helps you see the world more clearly, you might tell a friend about it. You might use the term "Value Function" in a meeting. In that moment, the idea has **replicated**. It has moved from my mind to yours, and now it is moving to a third person. The "Share" button is the replication mechanism.
 

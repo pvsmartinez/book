@@ -44,7 +44,7 @@ But when you go back to the fight, something strange happens. The enemy still ha
 - Hit 2: 13 damage (4 left)
 - Hit 3: 13 damage (Dead)
 
-It still takes you **three hits** to win. In terms of actual efficiency—the time it takes to end the fight—your 30% increase in power resulted in a **0% increase in results**. You are working harder, but you are still hitting the same wall.
+It still takes you **three hits** to win. In terms of actual efficiency (the time it takes to end the fight), your 30% increase in power resulted in a **0% increase in results**. You are working harder, but you are still hitting the same wall.
 
 But then, you find one more small upgrade. Just a tiny shift. Now you deal 16 damage. 
 - Hit 1: 16 damage (14 left)
@@ -62,7 +62,7 @@ This is the secret of non-linear systems. In the real world, we often optimize f
 
 We can see this in simple materials. Take a rubber band. You can stretch it 10%, 20%, 50%. It resists, but it holds. It behaves linearly: the more you pull, the more tension it creates.
 
-But there is a point—a specific millimeter of stretch—where the material structure fails. It doesn't just stretch a little more; it snaps. The system undergoes a catastrophic failure. 
+But there is a point, a specific millimeter of stretch, where the material structure fails. It doesn't just stretch a little more; it snaps. The system undergoes a catastrophic failure. 
 
 This concept of thresholds is what makes over-optimization so dangerous. When a system is compounding its efficiency, it often looks like it’s getting stronger and stronger, right up until the moment it hits a cliff.
 
@@ -70,7 +70,7 @@ Recall the energy company we discussed in Chapter 19. They were cutting their ma
 
 But they were approaching a **Breakpoint**. 
 
-Every system has a "minimum viable response" threshold. As long as the weather was good, the reduced crews were enough. But the moment the environment shifted—the moment the storm hit—the system didn't just slow down. It hit the cliff. 
+Every system has a "minimum viable response" threshold. As long as the weather was good, the reduced crews were enough. But the moment the environment shifted, the moment the storm hit, the system didn't just slow down. It hit the cliff. 
 
 In physics, this is known as a **Phase Transition**. Water can get hotter and hotter (1 degree, 10 degrees, 90 degrees) and it still behaves like water. But the moment it hits 100 degrees, it undergoes a phase transition and becomes steam. The rules change instantly.
 

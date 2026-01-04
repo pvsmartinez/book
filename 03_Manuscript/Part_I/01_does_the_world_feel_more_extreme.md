@@ -74,7 +74,7 @@ Look at YouTube. We often say the algorithm is "evil" because it shows us polari
 
 The market is the same. It isn't "trying" to starve anyone; it’s just a massive engine optimizing for **Capital Efficiency**. It is doing exactly what we asked it to do: find the most efficient way to turn money into more money. 
 
-We are living in systems that are optimizing themselves into extremism. To understand why, we stop looking at the players and start looking at the code. We need a new lens—a way to see **The Pattern** that runs through nature, markets, and the phone in your pocket. 
+We are living in systems that are optimizing themselves into extremism. To understand why, we stop looking at the players and start looking at the code. We need a new lens, a way to see **The Pattern** that runs through nature, markets, and the phone in your pocket. 
 
 In this book, I want to share that lens with you. Not to make you a pessimist, but to help you see the world the way a system designer sees a game. Because once you understand the rules, you can stop fighting the current and start redirecting the river. 
 

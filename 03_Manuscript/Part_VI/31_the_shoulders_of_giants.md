@@ -56,7 +56,7 @@ If you want to understand **Selection**, start here.
 
 We have discussed giraffes, viruses, and algorithms. Richard Dawkins wrote the definitive guide to the mechanism behind them all.
 
-*The Selfish Gene* introduced the world to the idea that the "unit of selection" isn't the species, or even the individual—it is the gene. The gene is the replicator. The organism is just the survival machine the gene builds to protect itself.
+*The Selfish Gene* introduced the world to the idea that the "unit of selection" isn't the species, or even the individual; it is the gene. The gene is the replicator. The organism is just the survival machine the gene builds to protect itself.
 
 This is the exact same logic we applied to ideas. When we talked about "The Arms Race" or "The Viral Engine," we were applying Dawkins’ logic to information. He even coined the term "meme" in this book to describe a unit of cultural transmission that evolves just like a gene.
 
@@ -73,7 +73,7 @@ They classify all political and economic systems into two categories: **Inclusiv
 *   **Inclusive Institutions** allow participation, protect property rights, and create a level playing field (a fair Game).
 *   **Extractive Institutions** concentrate power and wealth in the hands of a few (a rigged Game).
 
-Their thesis is that nations fail not because of geography or culture, but because of their institutions—their *rules*. This is the "Invisible Judge" on a global scale. And the inclusive institution is better at optimizing the pattern than the extractive one. More players independently trying to grow (Variance) results in more adaptability and growth.
+Their thesis is that nations fail not because of geography or culture, but because of their institutions, their *rules*. This is the "Invisible Judge" on a global scale. And the inclusive institution is better at optimizing the pattern than the extractive one. More players independently trying to grow (Variance) results in more adaptability and growth.
 
 **Read this to understand:** How the rules of the game determine the fate of nations, and why "good people" cannot fix a broken system without changing the rules.
 

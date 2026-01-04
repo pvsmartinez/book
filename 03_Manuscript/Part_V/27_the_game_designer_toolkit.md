@@ -59,9 +59,9 @@ A Game Designer is an architect of behavior. Their job is to craft a specific **
 
 When you start thinking like a System Designer, you realize that you have a toolkit of levers you can pull to shape behavior.
 
-We can organize these tools by their **Leverage**—how much power they have to change the system.
+We can organize these tools by their **Leverage**: how much power they have to change the system.
 
-*   **Level 1: Parameters (The Numbers):** Changing the variables (Taxes, Damage, Prices). This is the easiest lever to pull, but often the least effective. Because the structure of the system remains the same, the system usually "absorbs" the change—players or markets simply adjust their math and continue doing the same behavior.
+*   **Level 1: Parameters (The Numbers):** Changing the variables (Taxes, Damage, Prices). This is the easiest lever to pull, but often the least effective. Because the structure of the system remains the same, the system usually "absorbs" the change; players or markets simply adjust their math and continue doing the same behavior.
 *   **Level 2: Feedback Loops (The Structure):** Changing how the system learns (New information, new constraints). By adding a new feedback loop (like a speed bump or a reputation system), you change the information the player receives, which forces them to adapt their behavior.
 *   **Level 3: The Goal (The Value Function):** Changing what the system optimizes for. This is the hardest lever to pull, but the most powerful. If you change the definition of "Winning", for example from GDP to Happiness or from Kills to Captures, every single part of the system will reorganize itself to meet the new goal.
 

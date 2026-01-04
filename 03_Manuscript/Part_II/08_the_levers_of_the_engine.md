@@ -59,9 +59,9 @@ A System Designer intentionally creates "Safe Spaces for Variance"—low-stakes 
 
 The final lever is the intensity of the filter. 
 
-If the selection pressure is too low—if everyone gets a "participation trophy" and no one ever fails—the process has no direction. There is no reason to optimize, so the system becomes bloated and inefficient. 
+If the selection pressure is too low, meaning everyone gets a "participation trophy" and no one ever fails, the process has no direction. There is no reason to optimize, so the system becomes bloated and inefficient. 
 
-But if the selection pressure is too high—if one mistake means you are fired or the company goes bankrupt—the system becomes fragile. People become too afraid to provide variance, and the whole system breaks under the stress. 
+But if the selection pressure is too high, where one mistake means you are fired or the company goes bankrupt, the system becomes fragile. People become too afraid to provide variance, and the whole system breaks under the stress. 
 
 The goal of a System Designer is to find the **Goldilocks Zone**. You want enough pressure to force optimization, but enough safety to allow for the "errors" that lead to breakthroughs. 
 

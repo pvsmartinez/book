@@ -38,7 +38,7 @@ Think about the traditional education system. If a school only had one big exam 
 
 This is why teachers use homework, in-class exercises, and group projects. These aren't just "extra work"; they are intentional design choices to create smaller, faster cycles of iteration. A homework assignment is a low-stakes "Selection" event. It tells the student (and the teacher) exactly what isn't working while there is still time to change the "code." The more homework and exercises you have, the more chances your brain has to iterate before the final "Filter" of the exam. 
 
-The gold standard for this kind of design is the video game. In a well-designed game, the iteration rate is near-instant. You jump, you miss the platform, you die, and you restart—all within seconds. Your brain is getting thousands of "Selection" events per hour. This is why a teenager can master a complex system of mechanics in a weekend that would take months to learn in a classroom. It’s not that they are smarter; it’s that the game designer has revved their mechanism to the redline. The cost of failure is zero because the respawn time is instant.
+The gold standard for this kind of design is the video game. In a well-designed game, the iteration rate is near-instant. You jump, you miss the platform, you die, and you restart, all within seconds. Your brain is getting thousands of "Selection" events per hour. This is why a teenager can master a complex system of mechanics in a weekend that would take months to learn in a classroom. It’s not that they are smarter; it’s that the game designer has revved their mechanism to the redline. The cost of failure is zero because the respawn time is instant.
 
 However, there is a catch. The mechanism only works if the feedback is clear. 
 

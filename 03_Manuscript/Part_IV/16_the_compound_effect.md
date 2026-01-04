@@ -63,7 +63,7 @@ Time took a functional, resilient predator and turned it into a specialized, fra
 
 This doesn't just happen in biology. It happens in every system where a Value Function exists. A perfect example comes from the world of video games.
 
-In 2016, a game called *Overwatch* was released. It was a "Hero Shooter," designed to be a colorful, chaotic playground where players could choose from dozens of characters—ninjas, cowboys, robots, and scientists. The designers wanted diversity. They wanted creativity.
+In 2016, a game called *Overwatch* was released. It was a "Hero Shooter," designed to be a colorful, chaotic playground where players could choose from dozens of characters: ninjas, cowboys, robots, and scientists. The designers wanted diversity. They wanted creativity.
 
 At first, the game was exactly that. Matches were wild. People tried everything. It was fun.
 

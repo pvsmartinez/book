@@ -44,7 +44,7 @@ Most people have heard the term, but few understand the specific "math of the tr
 
 The business model of VC is built on a mathematical reality called the **Power Law**. 
 
-In a traditional business, you want all your investments to be moderately successful. But in VC, the "Judge" doesn't care about averages. A VC fund might invest in 100 companies. They expect 90 of them to fail. They expect 9 of them to do "okay." But they are searching for the **one**—the single company that will return 100 times their initial investment. 
+In a traditional business, you want all your investments to be moderately successful. But in VC, the "Judge" doesn't care about averages. A VC fund might invest in 100 companies. They expect 90 of them to fail. They expect 9 of them to do "okay." But they are searching for the **one**: the single company that will return 100 times their initial investment. 
 
 Think of it like planting an oak forest. You might plant a thousand acorns. You know that the squirrels will eat most of them, and some will die in the shade. But you only need one of them to grow into a giant, ancient oak to reshape the entire landscape.
 
@@ -98,9 +98,9 @@ This is The Pattern in action. The Value Function (Investability) has been optim
 
 When a system optimizes for "Narrative" over "Reality," it creates a self-fulfilling prophecy. 
 
-If everyone believes a company is the "next big thing," they all pour money into it. Because the company has so much money, it can hire talented people, buy ads, and eventually dominate the market—even if its original business model was flawed. 
+If everyone believes a company is the "next big thing," they all pour money into it. Because the company has so much money, it can hire talented people, buy ads, and eventually dominate the market, even if its original business model was flawed. 
 
-The "Winners" of this system—the giants of the AI bubble or the "Magnificent 7"—are not just the result of great ideas. They are the result of a compounding selection process that rewards the ability to raise capital and maintain a narrative. 
+The "Winners" of this system, such as the giants of the AI bubble or the "Magnificent 7," are not just the result of great ideas. They are the result of a compounding selection process that rewards the ability to raise capital and maintain a narrative. 
 
 We haven't just "optimized" capitalism; we've changed the target. We are no longer selecting for efficient businesses that solve human problems; we are selecting for efficient fundraising machines that can maintain the "Promise" long enough for the early players to exit.
 

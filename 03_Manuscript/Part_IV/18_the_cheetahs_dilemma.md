@@ -66,7 +66,7 @@ We got **Isolation** (the loss of community).
 We optimized for **Convenience** (plastic).
 We got **Pollution** (microplastics).
 
-In every case, we focused on a single, visible metric—something we could measure and improve. We ignored the complex, invisible side effects because they weren't on the dashboard. 
+In every case, we focused on a single, visible metric, something we could measure and improve. We ignored the complex, invisible side effects because they weren't on the dashboard. 
 
 At first, the side effects were small. A little bit of traffic. A little bit of loneliness. A few plastic bottles. But as the system scaled, the side effects compounded. Eventually, the "Solution" became the "Problem."
 

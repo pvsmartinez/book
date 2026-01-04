@@ -71,7 +71,7 @@ If the "Judge" is no longer a customer with a coin, but a bureaucrat with a clip
 
 This is why many large-scale socialist experiments eventually became "extractive." As Daron Acemoglu and James A. Robinson explain in *Why Nations Fail*, institutions act as the ultimate filters. **Inclusive institutions** create a Value Function that rewards innovation and hard work. **Extractive institutions** create a Value Function that rewards those who can best serve the interests of a small elite. 
 
-Extractive systems can actually grow very fast in the beginning—by forcing resources into a single direction—but they eventually stall because they kill the variance and iteration that drive long-term progress. 
+Extractive systems can actually grow very fast in the beginning by forcing resources into a single direction, but they eventually stall because they kill the variance and iteration that drive long-term progress. 
 
 This doesn't mean that collective systems are inherently "worse." We see small communities, like the Kibbutzim in Israel, that have successfully used socialist principles for decades. But these work because the population is small enough that the feedback loop is still visible. Everyone knows everyone; the "Judge" is the community itself. But as you add hierarchy and millions of people, it becomes harder and harder to align the individual's Value Function with the system's original goal.
 
@@ -87,6 +87,6 @@ The "Profit" Value Function is incredibly good at making bread, but it doesn't s
 
 The "Equality" Value Function might be great at distributing bread, but it might not see the lack of innovation if no one has an incentive to try a new recipe. 
 
-When we see a system that feels broken—whether it's a company that fires its workers to hit a quarterly profit target or a government that prioritizes compliance over competence—we are seeing the result of a Value Function that has become too narrow. 
+When we see a system that feels broken, whether it's a company that fires its workers to hit a quarterly profit target or a government that prioritizes compliance over competence, we are seeing the result of a Value Function that has become too narrow. 
 
 The Invisible Hand is a powerful engine, but it is not a universal compass. It is a tool for optimization, and like any tool, it is only as good as the instructions we give it. To understand the world we live in, we have to stop looking at the "isms" and start looking at the trade-offs. We have to ask: what are we measuring, and what are we ignoring?

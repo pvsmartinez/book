@@ -46,13 +46,13 @@ Now that we have the lens of **The Pattern**, we can finally answer that questio
 
 It is not just a feeling. It is math.
 
-If we look at our core equation—**Iteration x Variance x Selection = Adaptation**—we can see exactly what has happened to our world in the last twenty years.
+If we look at our core equation (**Iteration x Variance x Selection = Adaptation**), we can see exactly what has happened to our world in the last twenty years.
 
 ### The Explosion of Iteration
 
 Consider the inputs.
 
-We currently have the largest population in human history—8 billion players in the game. That alone means more **Variance**. More mutations. More ideas. More outliers.
+We currently have the largest population in human history: 8 billion players in the game. That alone means more **Variance**. More mutations. More ideas. More outliers.
 
 But population alone isn't the story. The story is **Connection**.
 

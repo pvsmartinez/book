@@ -55,11 +55,11 @@ This oscillation is natural. It’s how the planet "breathes" over geological ti
 
 But what happens when you break the cycle? 
 
-Today, we are in a unique situation. Human activity has acted as a "Breakpoint" (from the previous chapter). We have pushed the system so hard in one direction—warming—that we might have broken the pendulum mechanism itself. We aren't just in a "warm phase"; we are potentially entering a new state entirely, where the old rules of oscillation no longer apply. 
+Today, we are in a unique situation. Human activity has acted as a "Breakpoint" (from the previous chapter). We have pushed the system so hard in one direction, warming, that we might have broken the pendulum mechanism itself. We aren't just in a "warm phase"; we are potentially entering a new state entirely, where the old rules of oscillation no longer apply. 
 
 When the "Pattern" of weather breaks, the result isn't just a hotter summer. It is a fundamental shift in the stability of the entire system. The potential energy that used to be released in slow cycles is now being released in violent, unpredictable bursts.
 
-The further you push a pendulum away from its center, the more violently it will swing back when you finally let go—or, worse, the string snaps.
+The further you push a pendulum away from its center, the more violently it will swing back when you finally let go, or worse, the string snaps.
 
 ### The Warning Sign
 

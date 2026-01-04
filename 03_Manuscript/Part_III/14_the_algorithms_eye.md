@@ -33,7 +33,7 @@ We often blame "the media" or "the algorithms" for the state of the world. We ta
 
 The content we consume is not a reflection of what is "true" or "good." It is a reflection of the **Value Function** of the platform that delivers it. 
 
-In the world of information, the medium isn't just the message—the medium is the filter.
+In the world of information, the medium isn't just the message; the medium is the filter.
 
 ### The Frequency Trap
 
@@ -45,7 +45,7 @@ Then came 24-hour cable news. Suddenly, the Value Function shifted from "What ha
 
 If nothing is happening, you still have to fill the airtime. The "Judge" in this environment is the viewer's attention span, measured in minutes. To keep you from changing the channel, the system began to optimize for **Urgency**. Everything became a "Breaking News" alert. The filter started selecting for the loudest voices and the most dramatic conflicts, because "nuance" is the enemy of retention.
 
-Then came the internet and social media. Now, the Value Function is measured in milliseconds. The "Judge" is an algorithm optimizing for **Engagement**—clicks, likes, and shares. 
+Then came the internet and social media. Now, the Value Function is measured in milliseconds. The "Judge" is an algorithm optimizing for **Engagement**: clicks, likes, and shares. 
 
 In this environment, the most "successful" iteration of a news story isn't the one that is most accurate; it's the one that triggers the strongest emotional response. Anger and fear are the most effective metrics in the digital age. The journalists haven't necessarily become "worse" people; they are simply working within a system where the selection pressure has shifted from "Truth" to "Viral Potential." 
 
@@ -69,7 +69,7 @@ Is the Cinema model "better" than the Streaming model?
 
 From an artistic standpoint, many prefer the focus and closure of a film. But from an accessibility standpoint, Streaming is a masterpiece of reach. One optimizes for a "Event Experience" for the weekend; the other optimizes for "Habitual Engagement" for every day. 
 
-Neither is "evil." They are just different organisms evolved for different environments. The Cinema movie is a lion—majestic, expensive to produce, and king of its specific jungle. The Viral Video is a swarm of locusts—everywhere, highly efficient, and impossible to ignore.
+Neither is "evil." They are just different organisms evolved for different environments. The Cinema movie is a lion: majestic, expensive to produce, and king of its specific jungle. The Viral Video is a swarm of locusts: everywhere, highly efficient, and impossible to ignore.
 
 ### The Mirror in the Machine
 

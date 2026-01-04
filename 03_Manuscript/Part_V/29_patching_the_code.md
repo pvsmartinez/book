@@ -151,7 +151,7 @@ When you are debugging the world, *you* are the Engine.
 *   Your "Observation" is the **Feedback**.
 *   Your "Next Patch" is the **Adaptation**.
 
-You will not get it right the first time. You will introduce bugs. You will create Cobras. But if you keep spinning the loop—if you keep listening to the feedback and adjusting your code—you will eventually converge on a solution.
+You will not get it right the first time. You will introduce bugs. You will create Cobras. But if you keep spinning the loop, listening to the feedback and adjusting your code, you will eventually converge on a solution.
 
 You are not just designing the system. The system is teaching you how to design it.
 

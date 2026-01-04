@@ -64,7 +64,7 @@ We need you to be the Architects.
 
 ### To Everyone
 
-And to everyone else—to the parents, the students, the workers, and the dreamers—I invite you to take a breath.
+And to everyone else, to the parents, the students, the workers, and the dreamers, I invite you to take a breath.
 
 Do not let the scale of the world crush you.
 Do not let the exhaustion paralyze you.
