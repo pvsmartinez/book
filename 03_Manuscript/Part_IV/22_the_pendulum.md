@@ -31,7 +31,7 @@ If everything we’ve discussed so far were the whole story, the world would hav
 
 But there is a counter-force. Systems don't just move in straight lines; they **Oscillate**. 
 
-Think about fashion. It is a visible example of a pendulum in our daily lives. The "Value Function" of fashion is complex—it’s about attractiveness, self-expression, and status—but at its core, it is often about **differentiation**. 
+Fashion offers a visible example. The "Value Function" of fashion is complex—it’s about attractiveness, self-expression, and status—but at its core, it is often about **differentiation**. 
 
 In one decade, the "fittest" iteration might be baggy clothes and muted colors. It starts with a few people trying to express themselves by being different from the previous generation. But because the Pattern is efficient, that style soon becomes the norm. It becomes "boring." It becomes the very thing the next generation wants to differentiate themselves *from*. 
 
@@ -49,7 +49,7 @@ The danger we face today is that we have become very good at trying to build **S
 
 We use bailouts to stop the economy from correcting. We use censorship to stop ideas from oscillating. We use "symptom-fighting" to keep a broken system running just a little bit longer. But when you stop a pendulum from swinging, you don't solve the problem; you just build up potential energy. 
 
-Think about the weather. For millions of years, the Earth has oscillated between Ice Ages and Warm Periods. It’s a massive, slow pendulum. The environment gets cold, life adapts to the cold. Then, feedback loops (like CO2 levels or solar cycles) trigger a warming phase, and life adapts to the heat. 
+Consider the climate. For millions of years, the Earth has oscillated between Ice Ages and Warm Periods. It’s a massive, slow pendulum. The environment gets cold, life adapts to the cold. Then, feedback loops (like CO2 levels or solar cycles) trigger a warming phase, and life adapts to the heat. 
 
 This oscillation is natural. It’s how the planet "breathes" over geological time. 
 

@@ -36,7 +36,7 @@ We have seen how systems optimize for speed (The Cheetah) and how they remove re
 
 It takes a system designed for innovation and turns it into a casino.
 
-Let's look at **Venture Capital**.
+**Venture Capital** offers a perfect case study.
 
 Most people have heard the term, but few understand the specific "math of the track" that governs it. At its core, Venture Capital is a system designed to fund ideas that are too risky for traditional banks. If you want to open a bakery, you go to a bank. If you want to build a rocket ship or a new way for the entire world to communicate, you go to a Venture Capitalist.
 
@@ -52,7 +52,7 @@ This one "home run" pays for all the failures and generates the profit for the e
 
 ### The Scale of Impact
 
-But why did this model emerge? It wasn't just a random invention. It was a consequence of the compounding scale of society itself.
+This model wasn't a random invention. It was a consequence of the compounding scale of society itself.
 
 In a small village, it doesn't make sense to make a "multimedia investment" because there isn't a multimedia audience. The ceiling for success is low. But as we connected the world—through trains, then planes, then the internet—the potential impact of a single idea grew exponentially. A single software company today can serve billions of users. 
 
@@ -78,25 +78,7 @@ The loop closed on itself. The "Judge" was no longer the market reality; it was 
 
 ### The Game-fication of Startups
 
-Today, we see the result of this evolution. We have companies that are "Unicorns" on paper but have never made a dollar of profit. We have an "AI Bubble" where valuations are detaching from revenue because the system is betting on the *potential* of the next breakpoint rather than the reality of the current product.
-
-This isn't because the people involved are evil or stupid. It's because the Value Function—investability—has been optimized so heavily that it has become disconnected from the original goal. 
-
-The winners of this system are often the ones who are best at playing the valuation game, not necessarily the ones building the most sustainable value. The "Invisible Hand" is still working, but it's not selecting for efficiency anymore; it's selecting for **Narrative**.
-
-### From Profit to Promise
-
-In the early days of Silicon Valley, the goal was still eventually to build a profitable company. But as more capital poured into the system, the "Filter" shifted. 
-
-We moved from the **Profit Era** to the **Growth Era**. 
-
-Suddenly, it didn't matter if your company was losing money, as long as it was growing its user base. The "Burn Rate"—the amount of money you spent every month just to stay alive—became a badge of honor. The logic was simple: if you own the market, you can figure out how to make money later. 
-
-But then, the Compound Effect took it a step further. We entered the **Valuation Era**.
-
-In this phase, the "Judge" is no longer the customer or even the eventual profit. The Judge is the **next investor**. 
-
-If I am an early investor in your company, I don't need your company to ever make a cent of profit. I just need to convince a *later* investor that your company is worth ten times what I paid for it. If I can do that, I can sell my shares and walk away with a massive profit. 
+Today, we see the result of this evolution. We have companies that are "Unicorns" on paper but have never made a dollar of profit. We have an "AI Bubble" where valuations are detaching from revenue because the system is betting on the *potential* of the next breakpoint rather than the reality of the current product. 
 
 The system stopped selecting for "Product-First" entrepreneurs and started selecting for **"Fundraising-First"** entrepreneurs.
 

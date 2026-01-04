@@ -45,7 +45,7 @@ When **The Pattern** runs in a specific direction for a long enough period, we e
 
 ### The Wolf and the Pug
 
-To understand this, let’s look at a dog. Specifically, a Pug.
+Consider the Pug.
 
 If you look at a Pug—with its flat face, labored breathing, and curly tail—it is hard to believe that it shares 99.9% of its DNA with a Gray Wolf. 
 
@@ -83,9 +83,9 @@ It is the state a system reaches when the Value Function has been solved. The ex
 
 ### The Economic Meta
 
-Now, let’s apply "The Meta" to the real world.
+The same logic applies to the economy.
 
-We often look at the economy and ask, "Why is everything so efficient but so fragile? Why does one company own everything? Why are there fewer jobs?"
+We often look at the market and ask, "Why is everything so efficient but so fragile? Why does one company own everything? Why are there fewer jobs?"
 
 It is the same story. It is the Wolf becoming the Pug. It is the Playground becoming GOATS.
 

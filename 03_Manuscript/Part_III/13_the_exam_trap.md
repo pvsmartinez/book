@@ -32,13 +32,13 @@
 
 ### Draft
 
-Imagine you are a parent. You have two schools in your neighborhood. 
+You are a parent. You have two schools in your neighborhood. 
 
 The first school, "The Academy of Life," believes in a holistic education. They teach students how to manage their finances, how to resolve conflicts, and how to think critically. They are building "well-rounded citizens."
 
 The second school, "The Exam Factory," has a much narrower focus. They don't care about cooking or conflict resolution. They spend every hour of every day drilling students on the specific types of math and grammar problems that appear on the National University Entrance Exam. 
 
-Now, ask yourself: which school would you choose for your child? 
+Which school would you choose for your child? 
 
 You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is one of the most important factors in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point? Would you let them fall behind their peers, knowing the doors that might close forever?
 
@@ -48,7 +48,7 @@ This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure 
 
 ### The Metric is the Message
 
-In the world of education, the "Judge" is the standardized test. It is the "Lap Counter" that determines which schools are "good" and which students are "successful." 
+In the world of education, the "Judge" is the standardized test. It is the metric that determines which schools are "good" and which students are "successful." 
 
 The problem isn't that testing is inherently evil. We need a way to measure progress. The problem is that **The Pattern**—the combination of Iteration and Selection—is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
 
@@ -70,6 +70,6 @@ This creates a new kind of cultural divide. It isn't that the old metric is dead
 
 We see this tension everywhere. Lawmakers try to change the Value Function by adding new subjects or changing the rules of the "Judge," but they are often fighting against the current of the river. As long as the individual choice—the parent's desire for the best university spot—remains tied to a specific metric, the system will continue to optimize for that metric.
 
-**Can you see how the "best" education is a moving target?**
+The definition of "best" is a moving target, but the mechanism of selection is constant.
 
-There will always be a new director of a new school who will try a different thing. There will always be variance. But The Pattern, through time, will select for success or failure between all of these different features. We think we are choosing our schools, but more often than not, the schools are being chosen for us by the Judge we all agreed to follow.
+There will always be a new director of a new school who will try a different thing. There will always be variance. But The Pattern, through time, will select for success or failure between all of these different features. We think we are choosing our schools, but more often than not, the schools are being chosen for us by the Judge we all agreed to follow. The test doesn't just measure the student; it shapes the entire system.

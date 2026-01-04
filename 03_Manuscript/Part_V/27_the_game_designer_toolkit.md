@@ -65,7 +65,7 @@ We can organize these tools by their **Leverage**—how much power they have to 
 *   **Level 2: Feedback Loops (The Structure):** Changing how the system learns (New information, new constraints). By adding a new feedback loop (like a speed bump or a reputation system), you change the information the player receives, which forces them to adapt their behavior.
 *   **Level 3: The Goal (The Value Function):** Changing what the system optimizes for. This is the hardest lever to pull, but the most powerful. If you change the definition of "Winning"—from GDP to Happiness, or from Kills to Captures—every single part of the system will reorganize itself to meet the new goal.
 
-Let's look at the specific tools Game Designers use to pull these levers.
+The tools are specific.
 
 #### 1. Incentives (Carrots and Sticks)
 This is the most basic tool for a reason. It works directly on the Value Function.
@@ -123,7 +123,7 @@ These are tiny changes. But because the system is so interconnected, that tiny s
 
 ### Applying the Toolkit (Patching the Work-Life Balance)
 
-Let's go back to the map we drew in the last chapter.
+Returning to the map we drew in the last chapter.
 
 **The System:** The Work-Life Balance Machine.
 **The Bug:** The "Survival Loop" (Work for Money) is cannibalizing the "Energy Stock," leading to Burnout.

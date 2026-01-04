@@ -33,9 +33,11 @@ This is the ultimate **Variance** mechanism.
 
 Most of these ideas are "dead ends." You hear a joke, you don't laugh, and you never tell it to anyone else. That idea has failed to replicate. It dies with you. But some ideas are different. They are "born" with a slight mutation that makes them more interesting, more useful, or more shocking. 
 
+We call these successful mutations **Memes**. Not just the funny pictures with text on the internet, but the original definition by Richard Dawkins: a unit of cultural transmission. A tune, a catchphrase, a fashion trend. These are the viruses of the mind.
+
 Ideas are rarely created from scratch. They are almost always "mutations" of what came before. This book you are reading right now is a perfect example. I didn't invent the concept of Natural Selection, and I didn't invent the concept of an Algorithm. I am taking existing "code" from biology, computer science, and game design, and I am mutating them—combining them in a new way to see if they "fit" your mind. 
 
-If this framework helps you see the world more clearly, you might tell a friend about it. You might use the term "Value Function" in a meeting. In that moment, the idea has **replicated**. It has moved from my mind to yours, and now it is moving to a third person. 
+If this framework helps you see the world more clearly, you might tell a friend about it. You might use the term "Value Function" in a meeting. In that moment, the idea has **replicated**. It has moved from my mind to yours, and now it is moving to a third person. The "Share" button is the replication mechanism.
 
 This is the **Iteration** of culture. 
 

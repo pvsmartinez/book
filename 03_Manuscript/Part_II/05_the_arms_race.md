@@ -38,7 +38,7 @@ The fastest cheetahs catch the gazelles and eat. The slowest cheetahs miss their
 
 The result is that the next generation of cheetahs is faster because they are the children of the winners. But the next generation of gazelles is *also* faster for the same reason. 
 
-This is where the trap closes. The "fast" cheetah from the previous generation—the one that was a top-tier predator yesterday—is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s relative advantage has vanished. 
+This is where the trap closes. The "fast" cheetah from the previous generation—the one that was a top-tier predator yesterday—is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s relative advantage has vanished. The standard has shifted.
 
 Imagine the exhaustion. Both populations are now running at 60 miles per hour, burning massive amounts of energy, their hearts pounding, their muscles screaming. But neither is "safer" or "more successful" than their ancestors were. They are both running as fast as they can just to maintain the status quo. 
 
@@ -46,7 +46,7 @@ There is a famous line from the novel *The Leopard* that captures this perfectly
 
 In an arms race, "staying the same" is not an option. If you stay the same, you are actually falling behind, because everyone else is moving. 
 
-We see this cat-and-mouse game everywhere in human systems. Look at the "Pesticide Treadmill" in agriculture. A farmer sprays a new poison to kill insects. It works perfectly—99% of the bugs die. But that 1% that survived had a random mutation that made them resistant. They reproduce, and suddenly the farmer is facing a population of "super-bugs." The farmer has to invent a stronger poison, which only breeds a stronger bug. 
+We see this cat-and-mouse game everywhere in human systems. Look at the "Pesticide Treadmill" in agriculture. A farmer sprays a new poison to kill insects. It works perfectly—99% of the bugs die. But that 1% that survived had a random mutation that made them resistant. They reproduce, and suddenly the farmer is facing a population of "super-bugs." The farmer has to invent a stronger poison, which only breeds a stronger bug. It's like fixing a leak in a dam, only for the water to burst through a new crack the next day.
 
 The same logic applies to the battle between Cops and Robbers, or Hackers and Security Experts. Better locks lead to better lockpicks. Better anti-virus software leads to more sophisticated malware. Better laws lead to more creative loopholes. 
 

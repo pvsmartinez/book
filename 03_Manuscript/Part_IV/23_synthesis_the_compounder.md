@@ -33,7 +33,7 @@
 
 ### Draft
 
-We have reached the top of the mountain. We have spent the last twenty-two chapters looking at individual trees—giraffes, viruses, algorithms, economies, and traffic jams. Now, it is time to look at the forest.
+We have reached the summit. We have spent the last twenty-two chapters looking at individual trees—giraffes, viruses, algorithms, economies, and traffic jams. Now, it is time to look at the forest.
 
 This chapter is the **Synthesis**. It is the explanation of everything we have discussed so far, tied together into a single framework.
 
@@ -41,7 +41,7 @@ If you want to understand why the world feels the way it does—why it feels ext
 
 ### Part I & II: The Engine
 
-First, we saw the **Engine**.
+We began with the **Engine**.
 The fundamental mechanism of change in the universe is defined by the **Adaptation Equation**:
 
 **Adaptation = (Iteration x Variance) / Time**

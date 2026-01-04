@@ -37,7 +37,7 @@ In this town, there is no "Bread Committee" deciding who gets to stay in busines
 
 Adam Smith famously called this the "Invisible Hand." But if we look closer, we can see it for what it really is: **The Pattern in action.**
 
-The "Judge" in this scenario is the collective choice of the townspeople. They are the environment. Every time a neighbor walks into a shop and hands over a coin, they are "counting a lap." They are providing the selection pressure that tells the system which iteration—which baker—is a "winner."
+The "Judge" in this scenario is the collective choice of the townspeople. They are the environment. Every time a neighbor walks into a shop and hands over a coin, they are casting a vote. They are providing the selection pressure that tells the system which iteration—which baker—is a "winner."
 
 But here is the key: the "Winner" is relative to the Judge. 
 
@@ -49,7 +49,7 @@ The "Invisible Hand" doesn't select for "The Best Bread in the World." It select
 
 We often treat "Capitalism" and "Socialism" as moral philosophies or grand ideologies. But from the perspective of The Pattern, they are simply different ways of designing a Value Function.
 
-In a market-based system, the primary metric is **Profit**. Now, I know "profit" can be a dirty word in some circles, but let’s look at it purely as a signal. 
+In a market-based system, the primary metric is **Profit**. 
 
 Imagine you are a baker. You try a new recipe for a spicy chocolate bread. You spend all day baking, you buy expensive ingredients, and you put it in the window. At the end of the day, not a single person has bought a loaf. You have lost money. 
 
@@ -57,11 +57,11 @@ That loss is a signal. It’s the "Penalty" from the Judge. It’s the environme
 
 The next day, you bake a simple, crusty sourdough. By noon, you are sold out. You have made a profit. That profit is the "Reward." It’s the signal that you have created something the environment values. 
 
-Profit is a "Lap Counter" for value creation. It’s a signal that you have created something that someone else values more than the resources you used to make it. In this system, the ability to create value and sell it is what gets optimized. 
+Profit is a metric for value creation. It’s a signal that you have created something that someone else values more than the resources you used to make it. In this system, the ability to create value and sell it is what gets optimized. 
 
 But what happens if you decide to replace that metric with a different one?
 
-Ideally, a socialist system wants to optimize for the collective good. The Value Function isn't individual profit, but perhaps the fair distribution of resources. This sounds better on paper, but the challenge lies in the **Lap Counter**. 
+Ideally, a planned economy wants to optimize for the collective good. The Value Function isn't individual profit, but perhaps the fair distribution of resources. This sounds better on paper, but the challenge lies in the **feedback mechanism**. 
 
 Remember our engine: iteration and adaptability require feedback at the individual level. Every action needs a signal. In a profit-based system, that signal is the coin. In a system trying to optimize for "Equality," it is incredibly hard to provide that same granular, daily feedback to every individual. How does a baker know if their specific loaf of bread helped reduce national inequality today?
 

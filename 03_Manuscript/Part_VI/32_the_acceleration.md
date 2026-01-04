@@ -36,7 +36,7 @@
 
 ### Draft
 
-We began this book with a question. A feeling.
+The book began with a question. A feeling.
 
 *Why does the world feel like it is vibrating at a higher frequency?*
 *Why does everything feel more extreme, more polarized, and more fragile?*
@@ -50,7 +50,7 @@ If we look at our core equation—**Iteration x Variance x Selection = Adaptatio
 
 ### The Explosion of Iteration
 
-First, look at the inputs.
+Consider the inputs.
 
 We currently have the largest population in human history—8 billion players in the game. That alone means more **Variance**. More mutations. More ideas. More outliers.
 
@@ -70,8 +70,8 @@ We have cranked the "Iteration" variable to infinity.
 
 ### The Hyper-Adaptation
 
-When you feed a machine learning algorithm more data, what happens? It learns faster.
-When you feed the Engine of the World more iterations, what happens? It **Adapts** faster.
+Feeding a machine learning algorithm more data makes it learn faster.
+Feeding the Engine of the World more iterations makes it **Adapt** faster.
 
 The reason you feel exhausted is that the system is evolving faster than you are.
 
@@ -87,7 +87,7 @@ But speed isn't the only problem. The problem is that we are running this Hyper-
 
 This creates a **Mismatch**.
 
-Look at **Democracy**.
+Consider Democracy.
 Modern democracy was designed in the 18th century. It was built for a world where information traveled at the speed of a horse. It was designed with "buffers"—representatives, long election cycles, deliberative bodies—to handle the slow pace of debate.
 
 Today, information travels at the speed of light. The "buffers" are gone. A tweet from a leader reaches every citizen instantly. The reaction is instant. The outrage is instant.

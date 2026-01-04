@@ -15,7 +15,7 @@ We look at a problem—a bad habit, a small debt, a new technology—and say, "I
 **The Rule:** Stop looking at the *current state*. Look at the *rate of change*.
 
 ### Case Study: The Lily Pad
-Imagine a pond with a single lily pad. Every day, the number of lily pads doubles. If the pond will be completely full on Day 30, on which day is the pond only half full?
+Consider the Lily Pad riddle. A pond has a single lily pad. Every day, the number of lily pads doubles. If the pond will be completely full on Day 30, on which day is the pond only half full?
 
 **Answer:** Day 29.
 
@@ -46,7 +46,7 @@ We are trapped by the **Switching Cost**.
 **The Rule:** The Switching Cost is a one-time fee. The Inefficiency Tax is a recurring fee that compounds forever.
 
 ### Case Study: The Excel Trap
-Imagine you run a business using a giant, messy Excel spreadsheet. It crashes once a week. It takes you 2 hours to generate a report.
+Consider a business running on a messy spreadsheet. It crashes once a week. It takes you 2 hours to generate a report.
 
 *   **The Switch:** Moving to a proper database would take 2 weeks of hard work. (High Switching Cost).
 *   **The Tax:** Staying on Excel costs you 2 hours every week, forever.

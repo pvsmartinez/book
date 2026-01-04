@@ -40,13 +40,13 @@ The answer lies in a specific type of compounding called **Lock-In**.
 
 ### The QWERTY Trap
 
-Look at the keyboard in front of you. The first six letters spell Q-W-E-R-T-Y. 
+Consider the keyboard in front of you. The first six letters spell Q-W-E-R-T-Y. 
 
 This layout was invented in the 1870s for mechanical typewriters. Back then, if you typed too fast, the metal arms of the typewriter would jam together. To fix this, the designers analyzed the English language and intentionally placed common letter pairs far apart. They designed the keyboard to be **inefficient**. They wanted to slow you down so the machine wouldn't break.
 
 Fast forward 150 years. We are typing on touchscreens and lasers. There are no metal arms to jam. We have invented keyboard layouts (like Dvorak) that are proven to be faster and more ergonomic. 
 
-So why are we still using QWERTY?
+Why do we persist?
 
 Because of **Path Dependence**. 
 
@@ -70,7 +70,7 @@ But we can't just flip a switch. The concrete is already poured. The houses are 
 
 We are trapped in a **Local Maximum**. 
 
-Imagine you are climbing a mountain. You reach a peak. You look across the valley and see a much higher peak (a better system). But to get there, you have to walk all the way down into the valley first. You have to lose altitude (efficiency/money) before you can climb again.
+Picture a mountain climber. You reach a peak. You look across the valley and see a much higher peak (a better system). But to get there, you have to walk all the way down into the valley first. You have to lose altitude (efficiency/money) before you can climb again.
 
 The Pattern *hates* going down. A company that tries to "switch" to a better system often goes bankrupt during the transition. A politician who tries to "rebuild" the city gets voted out because of the construction noise. 
 

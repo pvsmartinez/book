@@ -40,13 +40,13 @@ If you want to understand why some things survive and others vanish, why some id
 
 **Iteration x Variation = Adaptation**
 
-This mechanism is unavoidable. It just happens. It doesn't care if the "runners" are living or non-living. It doesn't care if it's a virus, a piece of software, a business, or a political ideology. Whenever there is iteration and variation with feedback, the pattern emerges. It is a law of the universe as indifferent as gravity. 
+This mechanism is unavoidable. It doesn't care if the "runners" are living or non-living. It doesn't care if it's a virus, a piece of software, a business, or a political ideology. Whenever there is iteration and variation with feedback, the pattern emerges. It just happens. 
 
-But to see it clearly, we have to understand what "Iteration" actually is. It isn't just doing the same thing over and over. That’s insanity. 
+But to see it clearly, let's understand what "Iteration" actually means. It isn't just doing the same thing over and over. That’s insanity. 
 
 True iteration is **Action + Concrete Feedback**. 
 
-Without concrete feedback, you aren't iterating; you're just spinning your wheels. Imagine a writer who spends ten years writing a novel in total isolation, never showing a single page to anyone. They might write a million words, but they aren't iterating. They are just repeating. Without the feedback of a reader's reaction, there is no filter to tell them what works and what doesn't. They are practicing in a vacuum. 
+Without concrete feedback, you aren't iterating; you're just spinning your wheels. Imagine a writer who spends ten years writing a novel in total isolation, never showing a single page to anyone. They might write a million words, but they aren't iterating. They are just repeating. Without the feedback of a reader's reaction, there is no filter to tell them what works and what doesn't. They are practicing in a vacuum. They are playing a game with the monitor turned off.
 
 We have seen this pattern in four distinct forms, each a different way for a system to "learn" through trial and error: 
 

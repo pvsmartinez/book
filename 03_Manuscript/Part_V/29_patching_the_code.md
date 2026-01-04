@@ -78,7 +78,7 @@ The protocol for patching the world is a loop:
 3.  **Observe:** Watch the feedback. Did the behavior change? Did a new bug appear?
 4.  **Revert or Commit:** If it failed, undo it *immediately*. If it worked, keep it.
 
-Let’s go back to our "Toxic Sales Floor" from the last chapter to see this in action.
+Returning to the "Toxic Sales Floor" from the last chapter allows us to see this in action.
 
 ### Case Study: Fixing the Shark Tank
 

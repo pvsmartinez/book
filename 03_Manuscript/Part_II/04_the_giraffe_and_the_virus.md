@@ -29,7 +29,7 @@
 
 If you look at a giraffe, it looks like a feat of engineering. It has a neck perfectly suited to reach the high leaves of the acacia tree, a heart powerful enough to pump blood up that long vertical climb, and a tongue tough enough to wrap around thorns. It looks like an engineer sat down, measured the tree, and built a machine to reach it. 
 
-But there was no engineer. 
+But there was no engineer. It was procedural generation.
 
 For a long time, we had a very intuitive—but wrong—idea of how this happened. We thought giraffes got long necks because they *tried* really hard. A short-necked giraffe would stretch and stretch to reach the leaves, and its neck would get a little longer. Then it would have a baby, and that baby would inherit that slightly longer neck. 
 
@@ -49,9 +49,9 @@ Think back to the COVID-19 pandemic. We had the best scientists in the world, gl
 
 And yet, the virus kept winning. Why? 
 
-It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks—processes that take weeks or months—the virus was replicating billions of times per hour. 
+It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks—processes that take weeks or months—the virus was replicating billions of times per hour. It was evolution on fast-forward.
 
-The virus has a very simple "Value Function": **Spread**. When we introduced vaccines, we changed the environment. We built a wall. But the virus didn't stop. It just kept hitting the "Iteration" button. Most mutations failed. They were "dead ends." But when you try a billion random keys, eventually, one of them is going to fit the lock. 
+The virus has a very simple "Value Function": **Spread**. When we introduced vaccines, we changed the environment. We built a wall. But the virus didn't stop. It just kept trying again. Most mutations failed. They were "dead ends." But when you try a billion random keys, eventually, one of them is going to fit the lock. 
 
 That’s how we got Delta. That’s how we got Omicron. The virus "learned" the weakness in our defenses simply by throwing enough random attempts at the wall until one stuck. It didn't outsmart us; it **out-iterated** us. 
 

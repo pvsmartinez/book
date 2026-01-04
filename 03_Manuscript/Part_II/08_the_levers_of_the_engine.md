@@ -41,9 +41,9 @@ Part of the answer is the replication speed, but the other part is **Parallelism
 
 Nature doesn't try one giraffe at a time. It tries a million giraffes in parallel. If one giraffe dies, the "experiment" doesn't stop; the other 999,999 are still running. This is the secret of AI, too. When a computer learns to play Chess, it doesn't play one game at a time. It runs thousands of simulations simultaneously. 
 
-In our own lives, we often fail because we iterate in "Serial." We try one career path, wait five years to see if it works, and then try another. We try one marketing strategy, wait a month, and then try another. 
+In our own lives, we often fail because we iterate in "Serial." We are single-threaded. We try one career path, wait five years to see if it works, and then try another. We try one marketing strategy, wait a month, and then try another. 
 
-The System Designer asks a different question: "How can I run these experiments in parallel?" Instead of one big project, can you run five small pilots? Instead of one "perfect" hire, can you give three people a one-week trial? The more parallel your iterations, the faster you find the "winner." 
+The System Designer asks a different question: "How can I run these experiments in parallel?" Instead of one big project, can you run five small pilots? Instead of one "perfect" hire, can you give three people a one-week trial? This is the scientific method applied to life. The more parallel your iterations, the faster you find the "winner." 
 
 ### Lever 2: Variance (The Fuel)
 

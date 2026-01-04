@@ -40,13 +40,13 @@ If you want to see the Value Function in its purest, most naked form, you have t
 
 When we "train" an AI, we aren't teaching it like a human student. We don't sit it down and explain the concept of a "cat" or the rules of grammar. We don't give it a moral compass or a sense of history. Instead, we start with what is essentially a "dumb computer"—a network of millions of "neurons" (which are just simple math equations) filled with random numbers. 
 
-At the start, this network is just static. It’s random noise. If you asked it to recognize a cat, it would give you a digital shrug.
+At the start, this network is just static. It’s random noise. If you asked it to recognize a cat, it would output static.
 
 Then, we introduce the Judge.
 
 We define a **Value Function**: a scoring system that tells the computer exactly what we want. It’s a mathematical rule that gives the computer a "High Score" when it gets closer to the goal and a "Penalty" when it moves away. 
 
-Imagine you want an AI to learn how to read handwritten numbers. You show it a messy, hand-drawn "4." At first, the AI guesses "9." The Judge gives it a penalty. The AI then makes a tiny, random adjustment to its internal math—a bit of variance—and tries again. It guesses "7." Another penalty. It adjusts again. It guesses "4." 
+You show it a messy, hand-drawn "4." At first, the AI guesses "9." The Judge gives it a penalty. The AI then makes a tiny, random adjustment to its internal math—a bit of variance—and tries again. It guesses "7." Another penalty. It adjusts again. It guesses "4." 
 
 **Reward.**
 
@@ -72,7 +72,7 @@ If you are a runner in a race where a correct guess gives you a point and a wron
 
 It’s the same behavior we see in students taking university entrance exams. If there is no penalty for a wrong answer, the optimal strategy is to fill in every bubble on the multiple-choice sheet, even if you have no idea what the question is asking.
 
-The AI isn't "trying" to lie to you. It is simply a student that has been trained to never leave a blank page. It has been selected to prioritize "The Answer" over "The Truth" because that is what the Judge rewarded.
+The AI isn't "trying" to lie to you. It is simply a student that has been trained that *any* answer is better than silence. It has been selected to prioritize "The Answer" over "The Truth" because that is what the Judge rewarded.
 
 ### The Power of the Filter
 

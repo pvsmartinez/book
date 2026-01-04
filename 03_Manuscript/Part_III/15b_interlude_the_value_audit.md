@@ -1,8 +1,8 @@
 # Workshop: Auditing the Filter
 
-In Part III, we learned that the "Judge" (the Value Function) determines who wins the race. If you change the judge, you change the winner.
+The "Judge" (the Value Function) determines who wins the race. If you change the judge, you change the winner.
 
-Here are two tools to help you identify what is actually being measured and how to change the outcome.
+Here are two tools to help identify what is actually being measured and how to change the outcome.
 
 ---
 
@@ -14,7 +14,7 @@ To find the truth, you must ignore the label and audit the feedback.
 
 ### Case Study: The Stock Market Guru
 
-Imagine a famous financial "Guru" on YouTube. He is loud, confident, and predicts a market crash every Tuesday.
+Take the example of a famous financial "Guru" on YouTube. He is loud, confident, and predicts a market crash every Tuesday.
 
 *   **The Label:** "Market Expert."
 *   **The Stated Goal:** Accuracy.
@@ -56,8 +56,8 @@ A company wants to improve customer service.
 *   **Outcome:** Call times go up, but customer satisfaction soars.
 
 **The Application:**
-Look at your own life or business.
-*   If you measure **Lines of Code**, you might get bloated software.
+This applies to any system.
+*   If you measure **Lines of Code**, you get bloated software.
 *   If you measure **Hours Worked**, you might get slower employees.
 *   If you measure **Test Scores**, you will get students who are experts at taking tests, but not necessarily prepared for the open-ended problems of real life.
 

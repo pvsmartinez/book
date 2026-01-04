@@ -49,7 +49,7 @@ To be a System Designer, you need to learn the art of **Diagnosis**. You need to
 
 ### The Doctor's Mindset
 
-Imagine a patient walks into an emergency room. They are sweating, shaking, and screaming in pain.
+A patient enters an emergency room. They are sweating, shaking, and screaming in pain.
 
 **Doctor A (The Amateur):** "Oh my god, they are in pain! Give them painkillers! Make the screaming stop!"
 **Doctor B (The Professional):** "The pain is information. Where is it? When did it start? What did you eat?"
@@ -103,7 +103,7 @@ Once you find the reward, you have found the bug.
 
 ### The Walkthrough: The Toxic Sales Floor
 
-Let’s run a full diagnosis on a classic scenario.
+We can run a diagnosis on a classic scenario.
 
 **The Intake:**
 You are hired to fix a Sales Department. The culture is toxic. People are stealing clients from each other. They are hiding leads. They are sabotaging their colleagues. The manager is screaming, "We need to be a team!"

@@ -33,7 +33,7 @@ To understand why systems suddenly break or suddenly become dominant, we have to
 
 ### The RPG Math
 
-Imagine you are playing a role-playing game. Your character deals 10 points of damage with every swing of their sword. You are fighting an enemy with 30 hit points. 
+Consider the math of a Role-Playing Game (RPG). Your character deals 10 points of damage with every swing of their sword. You are fighting an enemy with 30 hit points. 
 
 The math is simple: it takes you **three hits** to win the fight.
 
@@ -66,7 +66,7 @@ But there is a point—a specific millimeter of stretch—where the material str
 
 This concept of thresholds is what makes over-optimization so dangerous. When a system is compounding its efficiency, it often looks like it’s getting stronger and stronger, right up until the moment it hits a cliff.
 
-Think back to the energy company we discussed in Chapter 19. They were cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
+Recall the energy company we discussed in Chapter 19. They were cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
 
 But they were approaching a **Breakpoint**. 
 
@@ -80,7 +80,7 @@ This is why systems feel like they break "all at once." It’s not that the stor
 
 ### The Political Breakpoint
 
-We see this same math in the history of human societies. History isn't just a slow, continuous crawl of progress; it is a series of long plateaus interrupted by sudden shifts. We call these **Revolutions**.
+History follows the same math. It isn't just a slow, continuous crawl of progress; it is a series of long plateaus interrupted by sudden shifts. We call these **Revolutions**.
 
 Think about the French Revolution, the Russian Revolution, or the Chinese Revolution. For decades, the pressure in these systems builds up. The "runners" (the citizens) are unhappy, the "track" (the economy) is failing, and the "Judge" (the power structure) is becoming disconnected from reality. 
 

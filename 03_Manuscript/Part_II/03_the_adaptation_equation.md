@@ -52,12 +52,12 @@ But a filter is useless if everything is the same. If every single person born w
 
 So, how does the system generate options? How does the salesman actually *learn* to be charming? 
 
-It comes down to a process that is surprisingly simple, yet incredibly powerful. It’s a loop that runs in three parts: How fast you try, how different you try, and what decides if it works. 
+It comes down to a loop. A simple, relentless loop that runs in three parts: How fast you try, how different you try, and what decides if it works. 
 
 ### The Loop of Action and Feedback
 
 Think about training a dog. 
-You say "Sit." The dog looks at you. It barks. It jumps. It spins. It has no idea what you want. 
+You say "Sit." The dog looks at you. It barks. It jumps. It spins. It has no idea what you want. It is just pressing random buttons on the controller.
 
 Eventually, by random chance, the dog’s butt hits the floor. You immediately give it a cookie. 
 
@@ -94,7 +94,7 @@ But the world has a shortcut. It doesn't need infinite time because it has **Sel
 
 Imagine that every time the monkey types a correct letter, that letter "locks" into place. If the monkey types an "A" as the first letter of *Hamlet*, the typewriter keeps it. Now the monkey only has to guess the second letter. 
 
-Suddenly, we don't need billions of years. We need surprisingly little time. 
+Suddenly, we don't need billions of years. We need surprisingly little time. It's like brute-forcing a password, but the system tells you when you get the first character right.
 
 This is how the world works. It doesn't try everything at once. It tries a few things, filters out the failures, keeps what works, and then iterates from there. 
 

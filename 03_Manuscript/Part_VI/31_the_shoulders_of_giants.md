@@ -54,7 +54,7 @@ Here are the four essential books that form the foundation of the framework we�
 
 If you want to understand **Selection**, start here.
 
-We spent a lot of time talking about giraffes, viruses, and algorithms. Richard Dawkins wrote the definitive guide to the mechanism behind them all.
+We have discussed giraffes, viruses, and algorithms. Richard Dawkins wrote the definitive guide to the mechanism behind them all.
 
 *The Selfish Gene* introduced the world to the idea that the "unit of selection" isn't the species, or even the individual—it is the gene. The gene is the replicator. The organism is just the survival machine the gene builds to protect itself.
 
@@ -67,7 +67,7 @@ This is the exact same logic we applied to ideas. When we talked about "The Arms
 
 If you want to understand **The Filter**, read this.
 
-We asked why some systems produce prosperity while others produce poverty. We talked about "The Game" and how the rules determine the outcome. Acemoglu and Robinson provide the historical receipts.
+We explored why some systems produce prosperity while others produce poverty. We talked about "The Game" and how the rules determine the outcome. Acemoglu and Robinson provide the historical receipts.
 
 They classify all political and economic systems into two categories: **Inclusive** and **Extractive**.
 *   **Inclusive Institutions** allow participation, protect property rights, and create a level playing field (a fair Game).
@@ -77,12 +77,14 @@ Their thesis is that nations fail not because of geography or culture, but becau
 
 **Read this to understand:** How the rules of the game determine the fate of nations, and why "good people" cannot fix a broken system without changing the rules.
 
+Also the Venesian section in this book is a perfect example of the compounding effect of a system, which created inclusive institutions that slowly became extractive through compounding of power concentration.
+
 ### 3. The Personal Loop: *Atomic Habits*
 **By James Clear**
 
 If you want to understand **Iteration**, read this.
 
-We talked about the "Core Loop" in game design: Action -> Feedback -> Update. James Clear applies this exact logic to human behavior.
+We examined the "Core Loop" in game design: Action -> Feedback -> Update. James Clear applies this exact logic to human behavior.
 
 His model of the habit loop—**Cue, Craving, Response, Reward**—is a description of the feedback loops that run our lives. He doesn't talk about "willpower" or "motivation" as magical forces; he talks about them as system outputs.
 
@@ -99,6 +101,6 @@ This is the bible. If you only read one book from this list, make it this one.
 
 Donella Meadows gives you the vocabulary to see the invisible structures we’ve been pointing at. She explains stocks, flows, feedback loops, and delays. She explains why systems surprise us, why well-intentioned policies fail, and where the "Leverage Points" are to intervene.
 
-When we talked about "The Hydra" (policy resistance) or "The Shift" (moving from linear to systemic thinking), we were walking in her footsteps. She teaches you that you cannot control a system, but you can dance with it.
+When we analyzed "The Hydra" (policy resistance) or "The Shift" (moving from linear to systemic thinking), we were walking in her footsteps. She teaches you that you cannot control a system, but you can dance with it.
 
 **Read this to understand:** How to stop fighting the world and start gardening it.

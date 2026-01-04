@@ -29,11 +29,11 @@
 
 ### Draft
 
-So, what do we do?
+What is the path forward?
 
 We are living in a Hyper-Adapting machine that is running too hot. The loops are tightening. The errors are compounding.
 
-It is easy to look at this acceleration and feel small. It is easy to feel like a passenger in a car with no driver.
+Looking at this acceleration, it is easy to feel small. It is easy to feel like a passenger in a car with no driver.
 
 But you are not a passenger. You are a part of the code.
 

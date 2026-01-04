@@ -9,36 +9,8 @@
 ---
 
 ### 1. The Trap
-*   **The Scenario:** A corrupt politician is voted out. We celebrate.
-*   **The Reality:** The next politician is exactly the same.
-*   **The Reason:** The "Filter" (the election system) selects for specific traits (fundraising, favor-trading).
-*   **The Lesson:** You cannot change the outcome by changing the player. You must change the game.
 
-### 2. The Shift
-*   **The Realization:** We are not just players in the game; we can be the designers of it.
-*   **The Difference:**
-    *   *The Player* asks: "How do I win?"
-    *   *The Hero* asks: "How do I defeat the bad guy?"
-    *   *The Designer* asks: "Why does the bad guy exist?"
-
-### 3. Fighting the Current
-*   **The Personal Story:** Trying to build a "Good" game in a "Bad" market.
-*   **The Result:** Swimming upstream is exhausting. The system punishes you for being "good" if the incentives are aligned with "bad."
-*   **The Solution:** Don't swim upstream. Redirect the river.
-
-### 4. The Designer's Framework
-*   **The Toolkit:** We need a new way to see.
-*   **The Questions:**
-    1.  What is the Value Function? (The Judge)
-    2.  How fast is the Iteration? (The Engine)
-    3.  Where are the Boundaries? (The Map)
-    4.  How is it Compounding? (The History)
-
-</details>
-
----
-
-Imagine a corrupt politician. Let’s call him "The Player."
+Consider the corrupt politician. Let’s call him "The Player."
 
 He takes bribes. He favors his friends. He ignores the needs of his constituents. Finally, after years of scandals, the public gets angry enough. They vote him out. They celebrate. "Ding dong, the witch is dead."
 
@@ -91,9 +63,7 @@ The System Designer doesn't swim upstream. They redirect the river.
 
 ### The Speed Bump vs. The Sign
 
-Let’s look at a simple example.
-
-Imagine a residential street where cars are driving too fast. It’s dangerous for the children playing nearby.
+Consider a residential street where cars are driving too fast. It’s dangerous for the children playing nearby.
 
 A **Player** mindset tries to solve this by appealing to the drivers. They put up a sign that says "Please Drive Slowly." They might stand on the corner and yell at speeding cars. They might petition the police to put a patrol car there once a week.
 

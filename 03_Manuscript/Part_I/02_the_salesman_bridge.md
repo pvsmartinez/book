@@ -44,29 +44,27 @@
 
 ### Draft
 
-Let’s play a game. I want you to close your eyes and picture a "Salesman." Maybe a real estate agent, or a used car dealer. 
-
-What do they look like? How do they act? 
+When you picture a "Salesman," you likely see a specific archetype. Maybe a real estate agent, or a used car dealer. 
 
 Chances are, you’re picturing someone charming. Someone with a firm handshake, a quick smile, and a way with words. Someone who can talk to anyone about anything. 
 
-Now, ask yourself: **Why?** 
+Why? 
 
 Did every salesperson in the world go to the same secret university? Did they all meet in a dark room in 1950 and decide, "Okay, from now on, we will all be charming and extroverted"? 
 
-Of course not. That’s a conspiracy theory. The reality is much simpler, and much more powerful. 
+Of course not. That’s a conspiracy theory. The reality is much simpler. And much more powerful.
 
 It’s the **Environment**. 
 
-Imagine a world where thousands of people try to become salespeople. Some are shy. Some are rude. Some are charming. Some are aggressive. They all go out into the world and try to sell. This is the **Test**. 
+Thousands of people try to become salespeople. Some are shy. Some are rude. Some are charming. Some are aggressive. They all go out into the world and try to sell. This is the **Test**. 
 
-The "shy" person knocks on a door. Their heart is racing. They mumble their pitch, look at their shoes, and apologize for taking up the customer's time. The customer, sensing the lack of confidence, says "No thanks" and closes the door. After a few months of no commission and an empty bank account, the shy person quits. They aren't a "bad" person; they just weren't a fit for that specific environment. They go and become an accountant, where their quiet focus is a superpower.
+The "shy" person knocks on a door. Their heart is racing. They mumble their pitch, look at their shoes, and apologize for taking up the customer's time. The customer, sensing the lack of confidence, says "No thanks" and closes the door. After a few months of no commission and an empty bank account, the shy person quits. They aren't a "bad" person; they just weren't a fit for that specific environment. They were like a fish trying to climb a tree. They go and become an accountant, where their quiet focus is a superpower.
 
 The "rude" person insults a client’s intelligence, gets a complaint filed against them, and is fired by noon. 
 
 But the "charming" person? They make the sale. They get a commission. They get a pat on the back from the boss. They stay in the game. 
 
-Over time, the "Salesman Archetype" emerges. Not because anyone designed it, but because the environment **filtered out** everyone who didn't fit. The charm isn't a personality trait; it's a survival mechanism. 
+Over time, the "Salesman Archetype" emerges. Not because anyone designed it, but because the environment **filtered out** everyone who didn't fit. The charm isn't a personality trait; it's a survival mechanism. It is the standard.
 
 This happens on an individual level, too. A new salesperson tries a pitch. It fails. They feel the sting of rejection. They try a slightly different joke next time. The client laughs and buys. The salesperson’s brain registers the win. "Do more of that," it says. 
 
@@ -80,4 +78,4 @@ They are all being shaped by their own environments. They are all being "selecte
 
 But how does this selection actually work? What are the gears turning inside this pattern? 
 
-To understand that, we need to look at the equation. 
+We need to look at the code. 

@@ -47,15 +47,15 @@ The speed of evolution is mathematically linked to the speed of the feedback loo
 Two friends, Alice and Bob, decide to learn game design.
 
 1.  **Alice (The Architect):**
-    *   **Strategy:** She wants to build her "Dream Game." A massive RPG with a complex story.
+    *   **Strategy:** She wants to build her "Dream Game." A massive story-driven adventure.
     *   **Process:** She spends 12 months coding the engine, writing the lore, and designing the art in isolation.
     *   **Loop Speed:** 1 Year.
     *   **Total Iterations:** 1.
     *   **Result:** She releases the game. It has a critical bug in level 1, and the combat isn't fun. She is crushed.
 
 2.  **Bob (The Iterator):**
-    *   **Strategy:** He wants to make games, but he starts with "Pong."
-    *   **Process:** He spends 1 week making a clone and sends it to friends. They say "it's too slow." He fixes it. Then he makes a platformer. They say "the jump is floaty." He fixes it.
+    *   **Strategy:** He wants to make games, but he starts with "Pong." He treats his life like a series of rapid experiments.
+    *   **Process:** He spends 1 week making a clone and sends it to friends. They say "it's too slow." He fixes it. Then he makes a simple jumping game. They say "the jump feels heavy." He fixes it.
     *   **Loop Speed:** 1 Week.
     *   **Total Iterations:** 50+.
     *   **Result:** By the end of the year, Bob has shipped 10 small games. He has "touched reality" 50 times. He knows exactly what makes a game fun.

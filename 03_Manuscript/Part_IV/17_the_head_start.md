@@ -36,7 +36,7 @@ But in a compounding world, the race doesn't reset every lap. History accumulate
 
 ### The Power of the Buffer
 
-To see how this works, we have to look at the concept of the **Buffer**. 
+This is the power of the **Buffer**. 
 
 Imagine two people, Ana and Bruno. Both are equally talented, equally hard-working, and both manage to save $1,000 every month. The only difference is that Ana starts with a "seed"—a small inheritance or a gift of $100,000. Bruno starts at zero. 
 
@@ -54,9 +54,7 @@ It is important to remember that the "Selic Rate" isn't a law of physics like gr
 
 ### The Relative Age Effect
 
-You might be thinking: "Well, that's just money. Money is math. Life isn't like that."
-
-But life *is* like that. The Compound Effect applies to opportunity just as much as it applies to capital.
+But the Compound Effect applies to opportunity just as much as it applies to capital.
 
 Let’s look at professional sports. If you look at the rosters of elite Canadian hockey teams, or top-tier Brazilian soccer academies, you will find a strange anomaly. A huge percentage of the players—often 40% or more—are born in the first three months of the year (January, February, March). 
 

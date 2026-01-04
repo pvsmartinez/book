@@ -56,9 +56,9 @@ In these vacuums, a new system emerges. And if you look closely, you can see the
 
 ### The Incentive (The Seed)
 
-Imagine you are a 15-year-old boy growing up in this environment. You are smart, ambitious, and you want to help your family. You look at your options.
+Consider a 15-year-old boy growing up in this environment. He is smart, ambitious, and wants to help his family. He looks at his options.
 
-**Option A:** You can try to find a legal job. You will wake up at 4:00 AM, take a crowded bus for two hours to the wealthy part of the city, and work for minimum wage. You will be invisible. You will be tired. And at the end of the month, you will barely have enough to buy food.
+**Option A:** He can try to find a legal job. He will wake up at 4:00 AM, take a crowded bus for two hours to the wealthy part of the city, and work for minimum wage. He will be invisible. He will be tired. And at the end of the month, he will barely have enough to buy food.
 
 **Option B:** You can walk to the corner and work for the local drug trade. You will make ten times the minimum wage. You will have money for new clothes. You will have status. You will be "someone." 
 
@@ -98,11 +98,11 @@ A Mafia is just a gang that was allowed to compound. It has become part of the s
 
 This brings us to the paralysis of modern politics. We are stuck in a false debate because we are confusing **Symptoms** with **Systems**.
 
-Let's go back to the doctor analogy.
+Recall the doctor analogy.
 
-Imagine you go to the hospital with a raging fever caused by a bacterial infection. You are shaking, sweating, and in pain.
+A patient goes to the hospital with a raging fever caused by a bacterial infection. They are shaking, sweating, and in pain.
 
-You see two doctors arguing over your bed.
+You see two doctors arguing over the bed.
 
 **Doctor A (The Symptom Specialist):** "Look at this fever! It's dangerous. We need to give him Tylenol immediately to bring the temperature down. If we don't, he could have a seizure."
 

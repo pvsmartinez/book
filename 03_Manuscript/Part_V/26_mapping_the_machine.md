@@ -69,7 +69,7 @@ It starts with a bathtub.
 
 ### The Bathtub (Stocks and Flows)
 
-Imagine a bathtub. 
+Consider a bathtub. 
 
 The water inside is the **Stock**. This is the accumulation of something—money in a bank account, trust in a relationship, carbon in the atmosphere, or anger in a population. 
 
@@ -159,7 +159,7 @@ Here is where the system breaks. To satisfy the **Survival Goal** (Pay Rent), yo
 
 As Energy drops, you become less efficient. You have to work *longer* to get the same result. This leaves less time for **Rest**.
 
-Let's look at the map.
+The map reveals the trap.
 
 ```mermaid
 flowchart TD

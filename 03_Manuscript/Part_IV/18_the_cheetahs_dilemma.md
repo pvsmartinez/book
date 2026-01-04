@@ -44,8 +44,6 @@ The Cheetah didn't "choose" to be weak. It simply followed the feedback loop of 
 
 ### The Traffic Paradox
 
-We see this same blindness in our own tools. 
-
 Consider the automobile. When the car was first introduced, it was the ultimate optimization for **Individual Mobility**. It promised freedom. It promised speed. It promised that you could live in a quiet suburb and work in a bustling city, and the car would bridge the gap in minutes.
 
 For the first few users, this was true. The optimization worked.
@@ -74,7 +72,7 @@ At first, the side effects were small. A little bit of traffic. A little bit of 
 
 ### The Efficiency Trap
 
-We see this most clearly in the corporate world.
+The corporate world offers a stark example.
 
 Imagine a large energy company that provides electricity to a major city. For years, they have been well-regarded by the stock market. Every year, they find a way to be 1% more efficient. They’ve automated their billing, they’ve outsourced their call centers, and they’ve reduced their emergency repair crews to the minimum required for a "normal" year.
 
