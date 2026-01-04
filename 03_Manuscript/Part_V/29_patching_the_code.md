@@ -54,7 +54,7 @@ In the last chapter, we diagnosed the patient. We found the bug.
 
 Now comes the dangerous part. We have to operate.
 
-In software engineering, when you find a bug in a critical system—like a bank's database or an airplane's autopilot—you do not delete the entire operating system and start over. That is called a **Rewrite**, and it is a disaster. Rewrites take years, cost millions, and usually introduce more bugs than they fix.
+In software engineering, when you find a bug in a critical system, like a bank's database or an airplane's autopilot, you do not delete the entire operating system and start over. That is called a **Rewrite**, and it is a disaster. Rewrites take years, cost millions, and usually introduce more bugs than they fix.
 
 Instead, you issue a **Patch**.
 

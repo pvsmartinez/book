@@ -64,7 +64,7 @@ In a high school classroom, the "Judge" is the GPA. The system doesn't care if y
 
 You might be a brilliant designer or a natural-born leader, but if the Judge only counts math scores, the system will filter you out. You end up wondering why the world doesn't see your value, not realizing that the world isn't looking for value—it's looking for a specific score.
 
-Metacritic, a credit score, or a social media "Like" count. These are all Value Functions. They take a complex reality—a human being's financial history, a piece of art, or a person's social value—and boil it down to a single number. That number then becomes the filter for the entire environment.
+Metacritic, a credit score, or a social media "Like" count. These are all Value Functions. They take a complex reality, such as a human being's financial history, a piece of art, or a person's social value, and boil it down to a single number. That number then becomes the filter for the entire environment.
 
 The problem we face in the modern world isn't that the "Judge" is evil. The problem is that we have built systems with very specific, very narrow Value Functions. We have told the machine to optimize for a single number, and the machine is doing exactly what we asked.
 

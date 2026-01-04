@@ -54,7 +54,7 @@ In the early days, QWERTY became the standard. Secretaries learned it. Companies
 
 So, we just kept the old layout. We paved over the cow path. 
 
-This is the trap. The Pattern optimizes for the "fittest" option *at that moment*. In 1870, QWERTY was the fittest because it prevented jams. But once a system gains enough momentum—once it has enough users, enough infrastructure, enough habit—it becomes **Locked In**. 
+This is the trap. The Pattern optimizes for the "fittest" option *at that moment*. In 1870, QWERTY was the fittest because it prevented jams. But once a system gains enough momentum, it becomes **Locked In**. It has too many users, too much infrastructure, and too much habit.
 
 The cost of fixing the error becomes higher than the cost of living with it.
 

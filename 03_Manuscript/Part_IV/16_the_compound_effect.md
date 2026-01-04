@@ -37,7 +37,7 @@
 
 ### Draft
 
-The **Filter** gives the system its direction. The "Invisible Judge"—whether it’s a customer with a coin, a teacher with a red pen, or an algorithm with a millisecond of your attention—decides which iterations survive and which ones disappear. 
+The **Filter** gives the system its direction. The "Invisible Judge" decides which iterations survive and which ones disappear. It might be a customer with a coin, a teacher with a red pen, or an algorithm with a millisecond of your attention. 
 
 But direction alone isn't enough to explain why the world feels so extreme today. To understand that, we have to look at what happens when that direction is maintained over **Time**.
 
@@ -47,7 +47,7 @@ When **The Pattern** runs in a specific direction for a long enough period, we e
 
 Consider the Pug.
 
-If you look at a Pug—with its flat face, labored breathing, and curly tail—it is hard to believe that it shares 99.9% of its DNA with a Gray Wolf. 
+If you look at a Pug, with its flat face, labored breathing, and curly tail, it is hard to believe that it shares 99.9% of its DNA with a Gray Wolf. 
 
 Nature did not design the Pug. The Wolf was designed by the Savanna (the environment), which selected for speed, pack coordination, and hunting ability. But then, a new Judge entered the picture: Humans.
 

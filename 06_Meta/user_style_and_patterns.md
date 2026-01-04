@@ -39,6 +39,10 @@
 4.  **No Arrogance / Superlatives:**
     *   *Ban:* "The most powerful variable in the universe," "The Prophecy," "Engine of the World."
     *   *Why:* It sounds like a "know-it-all." Be humble.
+5.  **No "AI-Like" Parentheticals:**
+    *   *Ban:* "I’m just someone who likes to build things—software, companies, games—and watch what happens."
+    *   *Why:* Using em dashes to insert a list in the middle of a sentence feels artificial and robotic.
+    *   *Fix:* Break it into two sentences or use simple commas if the list is short. "I like to build things like software, companies, and games. I watch what happens..."
 
 ### ✅ CRITICAL DO'S
 1.  **Narrative Transitions:**

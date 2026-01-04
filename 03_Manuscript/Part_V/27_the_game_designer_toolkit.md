@@ -51,7 +51,7 @@ That is the question Game Designers ask themselves every day.
 
 Most people think a Game Designer's job is to "make things fun." They imagine a guy sitting on a beanbag chair coming up with cool ideas for swords and monsters. But that is not what a Game Designer does.
 
-A Game Designer is an architect of behavior. Their job is to craft a specific **emotion**—fear, power, curiosity, camaraderie—and then build a mathematical system that forces that emotion to emerge.
+A Game Designer is an architect of behavior. Their job is to craft a specific **emotion**, such as fear, power, curiosity, or camaraderie, and then build a mathematical system that forces that emotion to emerge.
 
 (Note: For those who want to dive deeper into this craft, I highly recommend the older episodes (2015~2019) of the YouTube channel *Extra Credits*. They explain these concepts with brilliant simplicity.)
 
@@ -63,7 +63,7 @@ We can organize these tools by their **Leverage**—how much power they have to 
 
 *   **Level 1: Parameters (The Numbers):** Changing the variables (Taxes, Damage, Prices). This is the easiest lever to pull, but often the least effective. Because the structure of the system remains the same, the system usually "absorbs" the change—players or markets simply adjust their math and continue doing the same behavior.
 *   **Level 2: Feedback Loops (The Structure):** Changing how the system learns (New information, new constraints). By adding a new feedback loop (like a speed bump or a reputation system), you change the information the player receives, which forces them to adapt their behavior.
-*   **Level 3: The Goal (The Value Function):** Changing what the system optimizes for. This is the hardest lever to pull, but the most powerful. If you change the definition of "Winning"—from GDP to Happiness, or from Kills to Captures—every single part of the system will reorganize itself to meet the new goal.
+*   **Level 3: The Goal (The Value Function):** Changing what the system optimizes for. This is the hardest lever to pull, but the most powerful. If you change the definition of "Winning", for example from GDP to Happiness or from Kills to Captures, every single part of the system will reorganize itself to meet the new goal.
 
 The tools are specific.
 

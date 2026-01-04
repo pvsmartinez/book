@@ -31,7 +31,7 @@ If everything we’ve discussed so far were the whole story, the world would hav
 
 But there is a counter-force. Systems don't just move in straight lines; they **Oscillate**. 
 
-Fashion offers a visible example. The "Value Function" of fashion is complex—it’s about attractiveness, self-expression, and status—but at its core, it is often about **differentiation**. 
+Fashion offers a visible example. The "Value Function" of fashion is complex. It’s about attractiveness, self-expression, and status. But at its core, it is often about **differentiation**. 
 
 In one decade, the "fittest" iteration might be baggy clothes and muted colors. It starts with a few people trying to express themselves by being different from the previous generation. But because the Pattern is efficient, that style soon becomes the norm. It becomes "boring." It becomes the very thing the next generation wants to differentiate themselves *from*. 
 

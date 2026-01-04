@@ -86,7 +86,7 @@ Think about the French Revolution, the Russian Revolution, or the Chinese Revolu
 
 To an outside observer, the system might look stable for years. People are complaining, but they are still following the rules. The regime is still in power. But underneath the surface, the system is approaching a breakpoint. 
 
-Then, a single event—a bread riot, a lost war, a single speech—acts as the final "1-point damage" upgrade. It doesn't just add to the tension; it crosses the threshold. In an instant, the fundamental math of the society changes. The rules that everyone followed yesterday are suddenly ignored. The regime that seemed secure in the morning is gone by nightfall. 
+Then, a single event acts as the final "1-point damage" upgrade. It could be a bread riot, a lost war, or a single speech. It doesn't just add to the tension; it crosses the threshold. In an instant, the fundamental math of the society changes. The rules that everyone followed yesterday are suddenly ignored. The regime that seemed secure in the morning is gone by nightfall. 
 
 Revolutions are proof that the world is non-linear. You can have 99% of the pressure required for a change and see 0% of the result. But that last 1% doesn't just give you a 1% change; it gives you a new world.
 

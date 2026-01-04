@@ -28,7 +28,7 @@
 
 ### Draft
 
-The Cheetah is the fastest land animal on Earth. It is a study in optimization. Every single part of its body—from its non-retractable claws that act like running spikes to its long tail that acts like a rudder—is designed for one thing: **Speed**. 
+The Cheetah is the fastest land animal on Earth. It is a study in optimization. Every single part of its body is designed for one thing: **Speed**. Its non-retractable claws act like running spikes. Its long tail acts like a rudder.
 
 But there is a hidden cost to being the best. 
 

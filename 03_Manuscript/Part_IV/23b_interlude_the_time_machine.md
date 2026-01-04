@@ -10,7 +10,7 @@ Here are two tools to help you see the future and escape the past.
 
 Our brains are wired for linear thinking (1, 2, 3, 4). The Pattern works in exponential curves (2, 4, 8, 16). This mismatch makes us blind to coming disasters.
 
-We look at a problem—a bad habit, a small debt, a new technology—and say, "It's not that bad right now."
+We look at a problem, like a bad habit, a small debt, or a new technology, and say, "It's not that bad right now."
 
 **The Rule:** Stop looking at the *current state*. Look at the *rate of change*.
 

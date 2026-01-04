@@ -37,7 +37,7 @@ We have reached the summit. We have spent the last twenty-two chapters looking a
 
 This chapter is the **Synthesis**. It is the explanation of everything we have discussed so far, tied together into a single framework.
 
-If you want to understand why the world feels the way it does—why it feels extreme, fast, and often unfair—you have to look at the whole equation.
+If you want to understand why the world feels the way it does, why it feels extreme, fast, and often unfair, you have to look at the whole equation.
 
 ### Part I & II: The Engine
 
