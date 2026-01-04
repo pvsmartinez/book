@@ -54,4 +54,4 @@ In an Arms Race, iteration is no longer a solo performance. It is a duet. Every 
 
 This is why things feel so exhausting. We are all running. We are all iterating. We are all spending more and more energy just to maintain our relative position. 
 
-But what if the competition isn't with someone else? What if the competition is with yourself?
+We are running faster and faster, only to find that we haven't moved an inch.

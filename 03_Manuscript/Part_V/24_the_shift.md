@@ -132,4 +132,4 @@ This is the Shift. It is the transition from moralizing to mapping.
 
 It is less satisfying than being a hero. You don't get to slay the monster and hear the applause. But it is the only way to actually kill the Hydra.
 
-You don't cut off the heads. You starve the beast. We need specific tools to do that.
+You don't cut off the heads. You starve the beast.
