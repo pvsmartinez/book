@@ -49,7 +49,7 @@ I invite the experts.
 
 I invite the Climate Scientists, the Economists, the Teachers, the Urban Planners, and the Politicians.
 
-I do not know your fields as well as you do. But I know that you are stuck. I know that you are fighting symptoms—rising temperatures, failing schools, gridlocked parliaments—and you are exhausted.
+I do not know your fields as well as you do. But I know that you are stuck. I know that you are fighting symptoms, such as rising temperatures, failing schools, or gridlocked parliaments, and you are exhausted.
 
 I invite you to use this lens.
 Stop looking at the "Bad Players" in your field. Start looking at the **Game**.

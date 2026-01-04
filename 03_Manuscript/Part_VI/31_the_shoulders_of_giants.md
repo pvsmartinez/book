@@ -86,7 +86,7 @@ If you want to understand **Iteration**, read this.
 
 We examined the "Core Loop" in game design: Action -> Feedback -> Update. James Clear applies this exact logic to human behavior.
 
-His model of the habit loop—**Cue, Craving, Response, Reward**—is a description of the feedback loops that run our lives. He doesn't talk about "willpower" or "motivation" as magical forces; he talks about them as system outputs.
+His model of the habit loop (**Cue, Craving, Response, Reward**) is a description of the feedback loops that run our lives. He doesn't talk about "willpower" or "motivation" as magical forces; he talks about them as system outputs.
 
 If you want to change your life, you don't need more discipline; you need to design a better system. You need to tweak the friction (Variance) and the reward (Selection) to guide your own behavior.
 
