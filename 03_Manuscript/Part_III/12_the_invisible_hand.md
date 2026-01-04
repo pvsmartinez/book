@@ -37,7 +37,7 @@ In this town, there is no "Bread Committee" deciding who gets to stay in busines
 
 Adam Smith famously called this the "Invisible Hand." But if we look closer, we can see it for what it really is: **The Pattern in action.**
 
-The "Judge" in this scenario is the collective choice of the townspeople. They are the environment. Every time a neighbor walks into a shop and hands over a coin, they are casting a vote. They are providing the selection pressure that tells the system which iteration—which baker—is a "winner."
+The "Judge" in this scenario is the collective choice of the townspeople. They are the environment. Every time a neighbor walks into a shop and hands over a coin, they are casting a vote. They are providing the selection pressure that tells the system which iteration (which baker) is a "winner."
 
 But here is the key: the "Winner" is relative to the Judge. 
 

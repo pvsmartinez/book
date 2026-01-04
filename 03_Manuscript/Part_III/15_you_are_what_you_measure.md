@@ -40,7 +40,7 @@ At first, the system worked perfectly. The cobra population in the city dropped.
 
 The people of Delhi had iterated. They realized that if the "Judge" only cared about skins, the most efficient way to get skins wasn't to hunt dangerous wild snakes; it was to breed them in their backyards. 
 
-When the government realized they were paying people to farm cobras, they scrapped the bounty. In response, the breeders—now stuck with thousands of worthless snakes—simply released them into the city. The cobra population ended up higher than it was before the program started.
+When the government realized they were paying people to farm cobras, they scrapped the bounty. In response, the breeders, now stuck with thousands of worthless snakes, simply released them into the city. The cobra population ended up higher than it was before the program started.
 
 The **Cobra Effect** is the ultimate warning for anyone who thinks they can control a complex system with a simple metric.
 
@@ -55,7 +55,7 @@ This trap plays out in every corner of our modern world.
 *   **In Education**, we use "Test Scores" as a measure of intelligence, but when they become the target, we end up with "Exam Factories" that produce students who can solve equations but can't manage their own lives.
 *   **In Social Media**, we use "Engagement" as a measure of connection, but when it becomes the target, we end up with algorithms that feed us anger because it’s the fastest way to get a click.
 
-In every case, **The Pattern**—Iteration and Selection—did exactly what it was supposed to do. It optimized for the metric. The problem isn't that the system is "broken"; the problem is that the system is working perfectly on a flawed set of instructions.
+In every case, **The Pattern** (Iteration and Selection) did exactly what it was supposed to do. It optimized for the metric. The problem isn't that the system is "broken"; the problem is that the system is working perfectly on a flawed set of instructions.
 
 ### The Cheetah Paradox
 
@@ -63,7 +63,7 @@ There is a deeper danger to this kind of hyper-optimization: **Fragility.**
 
 The cheetah is nature's lesson in trade-offs. For millions of years, the cheetah’s environment had a very specific Value Function: **Speed.** To survive, the cheetah had to be faster than the gazelle. The Pattern iterated on the cheetah’s body, selecting for lighter bones, larger lungs, and a flexible spine. 
 
-Today, the cheetah is the fastest land animal on Earth. It is a feat of optimization. But that optimization came at a cost. To be that fast, the cheetah had to give up everything else. It has no muscle mass for fighting. It overheats after a few seconds of sprinting. If a hyena—which is slower but much stronger—shows up after a cheetah has made a kill, the cheetah has to walk away. It is too specialized to defend its own food. 
+Today, the cheetah is the fastest land animal on Earth. It is a feat of optimization. But that optimization came at a cost. To be that fast, the cheetah had to give up everything else. It has no muscle mass for fighting. It overheats after a few seconds of sprinting. If a hyena, which is slower but much stronger, shows up after a cheetah has made a kill, the cheetah has to walk away. It is too specialized to defend its own food. 
 
 By optimizing for a single metric (speed), the cheetah became fragile. It is a king of the sprint, but a beggar of the savanna.
 
@@ -81,4 +81,4 @@ If we don't like the world we see in the mirror, we cannot just ask the "agents"
 
 The goal we set defines the person we become.
 
-Whatever we measure, The Pattern will eventually produce—with an indifferent, cold-blooded efficiency. But unlike the cheetah, we have the power to choose the metric. We can redesign the track.
+Whatever we measure, The Pattern will eventually produce, with an indifferent, cold-blooded efficiency. But unlike the cheetah, we have the power to choose the metric. We can redesign the track.
