@@ -46,7 +46,9 @@ Without feedback, you don't have an iteration; you just have an **attempt**. If 
 
 There are some things in life that are notoriously hard to learn, not because they are complex, but because the feedback is "noisy" or delayed. It's like playing a game with a five-second delay. You press the button, and the character jumps five seconds later. Your brain can't connect the action to the result.
 
-Take stock picking or geopolitical forecasting. You can make a "move" (buy a stock) and see it go up, but was it because you were right, or because the whole market went up? The feedback is so noisy that your brain can't tell which "iteration" to keep and which to delete. When the feedback loop is broken or takes years to close, the mechanism stalls. You can spend 10,000 hours doing it and never actually become an expert. 
+Take stock picking or geopolitical forecasting. You can make a "move" (buy a stock) and see it go up, but was it because you were right, or because the whole market went up? The feedback is so noisy that your brain can't tell which "iteration" to keep and which to delete.
+
+When the feedback loop is broken or takes years to close, the mechanism stalls. You can spend 10,000 hours doing it and never actually become an expert. You are just spinning the wheels.
 
 This leads us to the most important realization of this chapter: **The Pattern is not a fixed machine. It is a variable one.** 
 
