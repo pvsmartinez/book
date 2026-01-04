@@ -80,7 +80,7 @@ We attribute the success to talent, but a huge part of it was just the **Compoun
 
 This is the hidden power of the Head Start.
 
-When you have a buffer—whether it’s money, reputation, or even just a birthday that aligns with the system's rules—The Pattern takes that small advantage and multiplies it.
+When you have a buffer, whether it’s money, reputation, or even just a birthday that aligns with the system's rules, The Pattern takes that small advantage and multiplies it.
 
 The "Judge" (the market, the coach) is just selecting the "fittest" option right now. They pick the kid who is bigger *today*. They reward the account that has more money *today*. But that selection gives the winner the resources to be even fitter *tomorrow*.
 

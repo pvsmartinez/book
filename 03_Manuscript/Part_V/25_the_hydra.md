@@ -48,7 +48,7 @@ If you want to see why we fail to fix the world, look at a place where the syste
 
 Look at the favelas of Brazil.
 
-For the international reader, a *favela* is often translated as a "slum," but that word doesn't capture the reality. A favela is a city within a city. They form on the hillsides and edges of major metropolises like Rio de Janeiro or São Paulo. They exist because the city needs workers—cleaners, cooks, construction laborers—but the city refuses to build affordable housing for them. 
+For the international reader, a *favela* is often translated as a "slum," but that word doesn't capture the reality. A favela is a city within a city. They form on the hillsides and edges of major metropolises like Rio de Janeiro or São Paulo. They exist because the city needs workers, such as cleaners, cooks, and construction laborers, but the city refuses to build affordable housing for them. 
 
 So, the people build it themselves. They build brick houses on land they don't own, with no sewage, no paved roads, and crucially, no state presence. 
 

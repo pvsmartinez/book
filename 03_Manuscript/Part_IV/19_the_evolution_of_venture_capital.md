@@ -54,7 +54,7 @@ This one "home run" pays for all the failures and generates the profit for the e
 
 This model wasn't a random invention. It was a consequence of the compounding scale of society itself.
 
-In a small village, it doesn't make sense to make a "multimedia investment" because there isn't a multimedia audience. The ceiling for success is low. But as we connected the world—through trains, then planes, then the internet—the potential impact of a single idea grew exponentially. A single software company today can serve billions of users. 
+In a small village, it doesn't make sense to make a "multimedia investment" because there isn't a multimedia audience. The ceiling for success is low. But as we connected the world, through trains, then planes, then the internet, the potential impact of a single idea grew exponentially. A single software company today can serve billions of users. 
 
 Because the potential reward became so massive, it made mathematical sense to take bigger risks. The "Buffer" of capital that had accumulated in the system (recall Ana and Bruno) needed a place to go. It flowed into these high-risk, high-reward bets.
 
