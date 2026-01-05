@@ -58,6 +58,8 @@ But the Compound Effect applies to opportunity just as much as it applies to cap
 
 Let’s look at professional sports. If you look at the rosters of elite Canadian hockey teams, or top-tier Brazilian soccer academies, you will find a strange anomaly. A huge percentage of the players, often 40% or more, are born in the first three months of the year (January, February, March). 
 
+This phenomenon, popularized by Malcolm Gladwell in *Outliers*, is known as the **Relative Age Effect**.
+
 Why? Are Capricorns and Aquarians naturally better at soccer? Of course not.
 
 The reason is the **Cutoff Date**. 

@@ -2575,7 +2575,7 @@ Now that we have the lens of **The Pattern**, we can finally answer that questio
 
 It is not just a feeling. It is math.
 
-If we look at our core equation—**Iteration x Variance x Selection = Adaptation**—we can see exactly what has happened to our world in the last twenty years.
+If we look at our core equation—**Adaptation = (Iteration x Variance) / Time**—we can see exactly what has happened to our world in the last twenty years.
 
 ### The Explosion of Iteration
 

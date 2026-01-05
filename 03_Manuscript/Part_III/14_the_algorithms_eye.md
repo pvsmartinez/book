@@ -47,6 +47,8 @@ If nothing is happening, you still have to fill the airtime. The "Judge" in this
 
 Then came the internet and social media. Now, the Value Function is measured in milliseconds. The "Judge" is an algorithm optimizing for **Engagement**: clicks, likes, and shares. 
 
+As Johann Hari argues in *Stolen Focus*, this shift has fundamentally altered our ability to pay attention. The system isn't designed to inform us; it is designed to interrupt us. The algorithm has learned that the most effective way to keep you scrolling is not to show you something true, but to show you something that triggers a "fight or flight" response.
+
 In this environment, the most "successful" iteration of a news story isn't the one that is most accurate; it's the one that triggers the strongest emotional response. Anger and fear are the most effective metrics in the digital age. The journalists haven't necessarily become "worse" people; they are simply working within a system where the selection pressure has shifted from "Truth" to "Viral Potential." 
 
 The medium changed the filter, and the filter changed the world.

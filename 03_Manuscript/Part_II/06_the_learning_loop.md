@@ -50,6 +50,8 @@ Take stock picking or geopolitical forecasting. You can make a "move" (buy a sto
 
 When the feedback loop is broken or takes years to close, the mechanism stalls. You can spend 10,000 hours doing it and never actually become an expert.
 
+This is a crucial distinction made by psychologist **Anders Ericsson**, the father of the "10,000 Hour Rule." He argued that simply doing something for a long time isn't enough. You need **Deliberate Practice**—which is just another name for a tight, high-quality feedback loop. Without it, you aren't learning; you're just reinforcing bad habits.
+
 This creates a dangerous illusion. We think we are iterating because we are busy, but if the feedback is delayed or noisy, we are flying blind. 
 
 A stock picker might spend ten years "learning" the market, but if the feedback loop is too loose, they aren't actually adapting to the reality of asset prices. They are adapting to something else—perhaps the ability to sound confident in client meetings. 

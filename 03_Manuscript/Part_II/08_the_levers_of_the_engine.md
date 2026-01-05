@@ -65,7 +65,23 @@ But if the selection pressure is too high, where one mistake means you are fired
 
 The goal of a System Designer is to find the **Goldilocks Zone**. You want enough pressure to force optimization, but enough safety to allow for the "errors" that lead to breakthroughs. 
 
-Once you understand these levers, you stop being a victim of the pattern and start being its director. The question shifts from "Why is this happening to me?" to "How can I tune this mechanism to get a better result?" 
+### The Friction (Limits & Failure Modes)
+
+However, even with the levers set perfectly, the engine can still break. Just as a car engine can seize up from bad oil or a clogged filter, the Pattern has its own failure modes.
+
+**1. Noise vs. Signal:**
+If the feedback is random, the system cannot learn. Imagine playing tennis in a hurricane. The wind moves the ball so unpredictably that you can't tell if your swing was good or bad. When the "Signal" (the result of your action) is drowned out by "Noise" (random luck), adaptation stalls. As Daniel Kahneman explores in his work on *Noise*, when the feedback mechanism is inconsistent—when two judges give different sentences for the same crime—the system loses its ability to optimize for justice.
+
+**2. Delayed Feedback:**
+Speed matters. If you tell a dog to "Sit," wait three days, and then give it a cookie, it will learn nothing. The connection between the action and the result is broken. In complex systems (like climate change or corporate strategy), the feedback loop is often so long that by the time the pain arrives, we have forgotten what caused it.
+
+**3. Multi-Objective Chaos:**
+What happens when you try to optimize for two opposing things at once? "Be fast, but be careful." "Make more profit, but be ethical." When the Value Function is split, the system often oscillates wildly or freezes, unable to find a path that satisfies both masters.
+
+**4. Adversarial Gaming:**
+As we will see later, smart agents eventually learn to hack the feedback loop itself. Instead of getting better at the task, they get better at faking the metric. (We will explore this deeply in Chapter 15).
+
+Once you understand these levers and these traps, you stop being a victim of the pattern and start being its director. The question shifts from "Why is this happening to me?" to "How can I tune this mechanism to get a better result?" 
 
 But tuning the engine is only half the battle. You can have the fastest car in the world, but if the road is leading off a cliff, speed doesn't matter. 
 
