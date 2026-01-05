@@ -48,7 +48,7 @@ Without concrete feedback, you aren't iterating; you're just spinning your wheel
 
 We have seen this pattern in four distinct forms, each a different way for a system to "learn" through trial and error:
 
-*   **Population Iteration:** The slow, steady grind of biology. Each individual, whether a giraffe or a startup, is just trying to do its own thing. But there is an external force—the environment, the market, or the government—that acts as a filter. It doesn't care about the individual's "will"; it only cares if they fit the criteria for survival.
+*   **Population Iteration:** The slow, steady grind of biology. Each individual, whether a giraffe or a startup, is just trying to do its own thing. But there is an external force, such as the environment, the market, or the government, that acts as a filter. It doesn't care about the individual's "will"; it only cares if they fit the criteria for survival.
 *   **Rivalry Iteration:** The arms race. Here, the feedback is another player. The Cheetah is the feedback for the Gazelle. If you don't run faster than your rival, you are deleted. This is why hackers and security experts are in a never-ending dance of complexity.
 *   **Internal Iteration:** The loop of the mind. The feedback is internal or immediate. The gamer mastering a level or the scientist failing a thousand times to find one truth. You don't need to wait for a new generation to learn; you just need to try again.
 *   **Informational Iteration:** The evolution of ideas. In the digital age, the feedback is our attention. A meme that gets shared survives; a boring article dies. Because information now travels at the speed of light, ideas can iterate millions of times in a single day.

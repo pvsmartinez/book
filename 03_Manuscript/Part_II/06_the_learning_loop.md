@@ -13,9 +13,9 @@
 *   **The Mechanic:** Trial and error. You try a thought/action, the environment gives feedback, you keep the "good" ones.
 
 ### 2. Designing the Speed
-*   **Education:** Why teachers use homework and projects—to create smaller iteration cycles than just the final exam.
+*   **Education:** Why teachers use homework and projects to create smaller iteration cycles than just the final exam.
 *   **Video Games:** The gold standard of high-speed iteration.
-*   **The Non-Learnable:** Why some things (like stock picking) are hard to learn—noisy or delayed feedback.
+*   **The Non-Learnable:** Why some things (like stock picking) are hard to learn due to noisy or delayed feedback.
 
 ### 3. The Lesson
 *   **The Insight:** Iteration speed is a design choice. We can control how fast we learn by changing the environment.
@@ -52,11 +52,11 @@ Take stock picking or geopolitical forecasting. You can make a "move" (buy a sto
 
 When the feedback loop is broken or takes years to close, the mechanism stalls. You can spend 10,000 hours doing it and never actually become an expert.
 
-This is a crucial distinction made by psychologist **Anders Ericsson**, the father of the "10,000 Hour Rule." He argued that simply doing something for a long time isn't enough. You need **Deliberate Practice**—which is just another name for a tight, high-quality feedback loop. Without it, you aren't learning; you're just reinforcing bad habits.
+This is a crucial distinction made by psychologist **Anders Ericsson**, the father of the "10,000 Hour Rule." He argued that simply doing something for a long time isn't enough. You need **Deliberate Practice**. This is just another name for a tight, high-quality feedback loop. Without it, you aren't learning; you're just reinforcing bad habits.
 
 This creates a dangerous illusion. We think we are iterating because we are busy, but if the feedback is delayed or noisy, we are flying blind.
 
-A stock picker might spend ten years "learning" the market, but if the feedback loop is too loose, they aren't actually adapting to the reality of asset prices. They are adapting to something else—perhaps the ability to sound confident in client meetings.
+A stock picker might spend ten years "learning" the market, but if the feedback loop is too loose, they aren't actually adapting to the reality of asset prices. They are adapting to something else, perhaps the ability to sound confident in client meetings.
 
 The system is still running. It is still selecting winners. But it is optimizing for **Persuasion**, not **Performance**. Without clear, immediate feedback, the mechanism drifts, and we end up becoming experts in the wrong game.
 

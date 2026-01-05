@@ -4,7 +4,7 @@
 <summary><strong>Chapter Outline & Blocking</strong></summary>
 
 **Status:** Refactored (Session 6)
-**Goal:** Introduce the concept of non-linear systemic shifts—where linear changes in a variable lead to sudden, disruptive changes in the outcome.
+**Goal:** Introduce the concept of non-linear systemic shifts, where linear changes in a variable lead to sudden, disruptive changes in the outcome.
 
 ---
 

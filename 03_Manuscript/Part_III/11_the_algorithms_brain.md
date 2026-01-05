@@ -52,7 +52,7 @@ You show it a messy, hand-drawn "4." At first, the AI guesses "9." The Judge giv
 
 Over millions of iterations, the AI isn't "learning" what a 4 is in the way you or I do. It doesn't have an "Aha!" moment. It doesn't see the beauty of the shape. It is simply being filtered by The Pattern. The math that leads to a penalty is discarded; the math that leads to a reward is preserved. It is a cold, mechanical process of elimination.
 
-**A simple change in a math equation—in what we choose to reward—changes the entire behavior of the machine.**
+**A simple change in a math equation, specifically in what we choose to reward, changes the entire behavior of the machine.**
 
 If we change the Judge to reward the AI for identifying an animal, it becomes a vision model. If we reward it for predicting the next word in a sentence, it becomes a Large Language Model (LLM) like ChatGPT. If we reward it for winning a game of Go, it becomes a grandmaster.
 

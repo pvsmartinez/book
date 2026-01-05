@@ -59,7 +59,7 @@ The dog looks at you. It barks. It jumps. It spins. It has no idea what you want
 
 Eventually, by random chance, the dog’s butt hits the floor. You immediately give it a cookie.
 
-That moment—the cookie—is the signal. Without it, the dog is just moving randomly. With the cookie, the dog’s brain locks onto the last thing it did. "Sitting equals cookie."
+That moment, the cookie, is the signal. Without it, the dog is just moving randomly. With the cookie, the dog’s brain locks onto the last thing it did. "Sitting equals cookie."
 
 The next time, the dog is more likely to sit.
 

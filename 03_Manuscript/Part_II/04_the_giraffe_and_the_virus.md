@@ -51,7 +51,7 @@ During the COVID-19 pandemic, we had the best scientists in the world, global lo
 
 And yet, the virus kept winning.
 
-It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks—processes that take weeks or months—the virus was replicating billions of times per hour. It was evolution on fast-forward.
+It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks, processes that take weeks or months, the virus was replicating billions of times per hour. It was evolution on fast-forward.
 
 The virus has a very simple "Value Function": **Spread**. When we introduced vaccines, we changed the environment. We built a wall. But the virus didn't stop. It just kept trying again. Most mutations failed. They were "dead ends." But when you try a billion random keys, eventually, one of them is going to fit the lock.
 

@@ -53,15 +53,15 @@ If you have zero variance, you have zero learning. If every attempt is identical
 
 To find a better way of doing things, you *must* try things that are worse. You must accept the "failed" mutations to find the one that redefines the species. This is why "Safe" environments often stagnate. If the cost of failure is too high, people stop providing variance. They stick to the "standard," and the process stalls.
 
-A System Designer intentionally creates "Safe Spaces for Variance"—low-stakes environments where people are encouraged to try things that might not work.
+A System Designer intentionally creates "Safe Spaces for Variance". These are low-stakes environments where people are encouraged to try things that might not work.
 
 ### Lever 3: Selection Pressure (The Stakes)
 
 The final lever is the intensity of the filter.
 
-If the selection pressure is too low—meaning everyone gets a "participation trophy" and no one ever fails—the process has no direction. There is no reason to optimize, so the system becomes bloated and inefficient.
+If the selection pressure is too low, meaning everyone gets a "participation trophy" and no one ever fails, the process has no direction. There is no reason to optimize, so the system becomes bloated and inefficient.
 
-But if the selection pressure is too high—where one mistake means you are fired or the company goes bankrupt—the system becomes fragile. People become too afraid to provide variance, and the whole system breaks under the stress.
+But if the selection pressure is too high, where one mistake means you are fired or the company goes bankrupt, the system becomes fragile. People become too afraid to provide variance, and the whole system breaks under the stress.
 
 The goal of a System Designer is to find the **Goldilocks Zone**. You want enough pressure to force optimization, but enough safety to allow for the "errors" that lead to breakthroughs.
 
@@ -74,7 +74,7 @@ The **Immune System** is the perfect example. It is constantly iterating, creati
 However, even with the levers set perfectly, the engine can still break. Just as a car engine can seize up from bad oil or a clogged filter, the Pattern has its own failure modes.
 
 **1. Noise vs. Signal:**
-If the feedback is random, the system cannot learn. Imagine playing tennis in a hurricane. The wind moves the ball so unpredictably that you can't tell if your swing was good or bad. When the "Signal" (the result of your action) is drowned out by "Noise" (random luck), adaptation stalls. As Daniel Kahneman explores in his work on *Noise*, when the feedback mechanism is inconsistent—when two judges give different sentences for the same crime—the system loses its ability to optimize for justice.
+If the feedback is random, the system cannot learn. Imagine playing tennis in a hurricane. The wind moves the ball so unpredictably that you can't tell if your swing was good or bad. When the "Signal" (the result of your action) is drowned out by "Noise" (random luck), adaptation stalls. As Daniel Kahneman explores in his work on *Noise*, when the feedback mechanism is inconsistent, such as when two judges give different sentences for the same crime, the system loses its ability to optimize for justice.
 
 **2. Delayed Feedback:**
 Speed matters. If you tell a dog to "Sit," wait three days, and then give it a cookie, it will learn nothing. The connection between the action and the result is broken. In complex systems (like climate change or corporate strategy), the feedback loop is often so long that by the time the pain arrives, we have forgotten what caused it.
