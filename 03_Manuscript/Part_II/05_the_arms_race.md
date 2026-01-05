@@ -38,6 +38,12 @@ The fastest cheetahs catch the gazelles and eat. The slowest cheetahs miss their
 
 The result is that the next generation of cheetahs is faster because they are the children of the winners. But the next generation of gazelles is *also* faster for the same reason. 
 
+But there is a hidden cost here. 
+
+When the first cheetah started optimizing for speed, it was just one of many possible strategies. It could have evolved to be stealthy like a leopard, or strong like a lion, or cooperative like a wolf. But once the "Speed" path was chosen, the door to those other strategies began to close. 
+
+As the cheetah became faster, its body changed. It lost muscle mass to become lighter. Its claws became non-retractable for traction. It became a specialized machine. Now, millions of years later, even if "Stealth" were a better strategy, the cheetah cannot switch. It is locked in. It has climbed a specific hill (Speed) and cannot go back down to climb another one.
+
 This is where the trap closes. The "fast" cheetah from the previous generation, the one that was a top-tier predator yesterday, is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s relative advantage has vanished. The standard has shifted.
 
 Imagine the exhaustion. Both populations are now running at 60 miles per hour, burning massive amounts of energy, their hearts pounding, their muscles screaming. But neither is "safer" or "more successful" than their ancestors were. They are both running as fast as they can just to maintain the status quo. 

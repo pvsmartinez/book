@@ -46,9 +46,15 @@ Without feedback, you don't have an iteration; you just have an **attempt**. If 
 
 There are some things in life that are notoriously hard to learn, not because they are complex, but because the feedback is "noisy" or delayed. It's like playing a game with a five-second delay. You press the button, and the character jumps five seconds later. Your brain can't connect the action to the result.
 
-Take stock picking or geopolitical forecasting. You can make a "move" (buy a stock) and see it go up, but was it because you were right, or because the whole market went up? The feedback is so noisy that your brain can't tell which "iteration" to keep and which to delete.
+Take stock picking or geopolitical forecasting. You can make a "move" (buy a stock) and see it go up, but was it because you were right, or because the whole market went up? The feedback is so noisy that your brain can't tell which "iteration" to keep and which to delete. 
 
-When the feedback loop is broken or takes years to close, the mechanism stalls. You can spend 10,000 hours doing it and never actually become an expert. You are just spinning the wheels.
+When the feedback loop is broken or takes years to close, the mechanism stalls. You can spend 10,000 hours doing it and never actually become an expert.
+
+This creates a dangerous illusion. We think we are iterating because we are busy, but if the feedback is delayed or noisy, we are flying blind. 
+
+A stock picker might spend ten years "learning" the market, but if the feedback loop is too loose, they aren't actually adapting to the reality of asset prices. They are adapting to something else—perhaps the ability to sound confident in client meetings. 
+
+The system is still running. It is still selecting winners. But it is optimizing for **Persuasion**, not **Performance**. Without clear, immediate feedback, the mechanism drifts, and we end up becoming experts in the wrong game.
 
 This leads us to the most important realization of this chapter: **The Pattern is not a fixed machine. It is a variable one.** 
 

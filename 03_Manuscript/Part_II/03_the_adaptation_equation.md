@@ -96,25 +96,8 @@ Imagine that every time the monkey types a correct letter, that letter "locks" i
 
 Suddenly, we don't need billions of years. We need surprisingly little time. It's like brute-forcing a password, but the system tells you when you get the first character right.
 
-This is how the world works. It doesn't try everything at once. It tries a few things, filters out the failures, keeps what works, and then iterates from there.
+This is how the world works. It doesn't try everything at once. It tries a few things, filters out the failures, keeps what works, and then iterates from there. 
 
-But we must be very careful with the word "Works."
-
-When we say the system selects what "works," we do not mean it selects what is "Good," "Moral," or even "Optimal." We simply mean it selects what **Survives**.
-
-A cockroach is just as much a "winner" of this equation as a peacock. A virus that kills its host is a "winner" as long as it spreads before the host dies. The equation does not care about beauty, justice, or long-term stability. It only cares about one binary state: Did you pass the filter? Yes or No.
-
-This is why we see systems that persist despite being objectively terrible. They aren't "broken"; they are just optimized for a filter we might not like. Persistence does not equal Optimality. It only means "Not Dead Yet."
-
-Before we move on, we must address a common trap. It is easy to look at this equation and assume that because something survived, it must be "good" or "optimal."
-
-This is false.
-
-**Persistence does not mean Optimality. It only means it hasn't been selected out *yet*.**
-
-A system can optimize itself into a corner. A keyboard layout can persist for 150 years not because it is the best, but because it is "locked in." A dictator can survive not because they are leading the country well, but because they have suppressed the mechanism of selection.
-
-The Pattern explains *how* things survive, not *why* they are morally or objectively good. As we will see, the system often selects for outcomes that are efficient for the filter but disastrous for the world.
 This is **The Pattern**. It is the mechanism that allows a simple set of rules to create incredible complexity. 
 
 But how fast can this pattern run? And what happens when it runs at different speeds? 

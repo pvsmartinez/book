@@ -75,13 +75,13 @@ Extractive systems can actually grow very fast in the beginning by forcing resou
 
 This doesn't mean that collective systems are inherently "worse." We see small communities, like the Kibbutzim in Israel, that have successfully used socialist principles for decades. But these work because the population is small enough that the feedback loop is still visible. Everyone knows everyone; the "Judge" is the community itself. But as you add hierarchy and millions of people, it becomes harder and harder to align the individual's Value Function with the system's original goal.
 
-However, there is a third way to win, and it is the most dangerous one.
+However, this mechanism relies on a fragile assumption: that the power is balanced.
 
-If the "Judge" is the one deciding who wins, then the most efficient strategy isn't always to make better bread. Sometimes, the most efficient strategy is to **capture the Judge**.
+When a single player becomes dominant enough to form a monopoly, the physics of the market change. The competition ceases to be about who has the best product and becomes about who has the deepest pockets. A monopoly doesn't need to bake better bread; they just need to buy the flour mill or undercut prices until the other bakers starve.
 
-If a baker becomes powerful enough, they might realize that it is cheaper to bribe the Mayor to ban all other bakeries than it is to actually bake better bread. They stop adapting to the filter and start *becoming* the filter.
+In this environment, the Value Function shifts. It is no longer filtering for "Quality" or "Innovation." It is filtering for **Dominance**. 
 
-This is where the "Invisible Hand" stops working. The mechanism relies on the Judge being neutral and the feedback being honest. When a player gains enough power to change the rules of the game—through monopolies, regulatory capture, or silencing the competition—the feedback loop breaks. The system stops optimizing for value and starts optimizing for power.
+The system is still optimizing, but it is optimizing for the ability to suppress rivals rather than the ability to serve customers. The "Truth" of the market has shifted, and the Invisible Hand begins to push in a direction we never intended.
 
 I am not here to tell you which system is "right." I am here to show you the pattern. Both systems are just different tracks for the same engine. One optimizes for individual profit and decentralized value creation; the other tries to optimize for collective outcomes but often struggles with the alignment of its filters. 
 

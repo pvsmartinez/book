@@ -70,7 +70,9 @@ But we can't just flip a switch. The concrete is already poured. The houses are 
 
 We are trapped in a **Local Maximum**. 
 
-Picture a mountain climber. You reach a peak. You look across the valley and see a much higher peak (a better system). But to get there, you have to walk all the way down into the valley first. You have to lose altitude (efficiency/money) before you can climb again.
+Remember the blind climber from Chapter 16? We have climbed to the top of the "Car City" hill. It is a peak of efficiency for that specific model. But we can see (or at least imagine) a much higher peak across the valley: a "Walkable City" model that is cleaner, healthier, and more social.
+
+But to get there, we have to walk down. We have to go through the valley of construction, debt, and inconvenience. We have to lose altitude (efficiency/money) before we can climb again.
 
 The Pattern *hates* going down. A company that tries to "switch" to a better system often goes bankrupt during the transition. A politician who tries to "rebuild" the city gets voted out because of the construction noise. 
 
