@@ -28,6 +28,14 @@ Capitalism is an optimization algorithm, but the "Value Function" (what it optim
     *   Early investors don't need the company to profit; they need a *later* investor to buy them out at a higher price.
     *   **Result:** A system that selects for "Marketing-First" entrepreneurs (like politicians) rather than "Product-First" entrepreneurs.
 
+### Phase 4: The Crowding Effect (The "Recession" Filter)
+*   **The Problem:** When the market is flooded with VC money, "Fundraising-First" startups can outspend "Product-First" startups on marketing and distribution.
+*   **The Death of the Middle:** A sustainable, product-led company might die simply because it cannot compete with the *noise* and *ad spend* of a VC-backed competitor, even if the competitor has a worse product.
+*   **The "Recession" Counter-Argument:**
+    *   However, when the bubble bursts (or funding dries up), the "Fundraising-First" companies die.
+    *   The *truly* exceptional product companies survive (like strong species during a drought).
+    *   **Result:** This is good for the consumer in the long run (only good products remain), but the process is brutal and kills many "good enough" sustainable businesses in the crossfire.
+
 ## Emergent Behavior: The Concentration
 *   **The Feedback Loop:**
     *   If you raise a lot of money, you are "validated."

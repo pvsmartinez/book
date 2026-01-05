@@ -70,4 +70,4 @@ The problem we face in the modern world isn't that the "Judge" is evil. The prob
 
 When we see a system that feels broken, we shouldn't start by yelling at the players. We should start by asking: **What is the Value Function here? What is the Judge actually measuring?**
 
-Because the Judge is indifferent, but the rules we give it change everything. 
+Because the Judge is indifferent, but the rules we give it change everything. A system will always optimize for its metric, even if that metric leads it off a cliff. To understand the outcome, we must first understand the scorecard. 

@@ -99,4 +99,6 @@ The danger of optimization isn't that it fails. The danger is that it **succeeds
 
 We are often so focused on the metric we are chasing that we don't notice the cliff we are running towards. And by the time we do, we are often moving too fast to stop.
 
+This is the paradox of efficiency: The more optimized a system becomes for a specific environment, the less resilient it becomes to a change in that environment. The Cheetah is perfect for the chase, but helpless in the fight.
+
 As System Designers, we have to ask: "If I succeed at this, what becomes fragile?" 

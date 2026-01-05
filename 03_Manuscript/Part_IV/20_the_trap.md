@@ -78,11 +78,9 @@ The Pattern *hates* going down. A company that tries to "switch" to a better sys
 
 So, we stay on the lower peak. We keep optimizing the horse carriage instead of inventing the car. We keep typing on QWERTY. We keep patching the legacy code.
 
-**Can you see where you are doing this in your own life? Where are you paying a daily tax just to avoid the cost of changing?**
+This is the ultimate danger of Lock-In. As systems specialize, they harden. They become incredibly efficient at doing one thing, but they lose the flexibility to do anything else.
 
-### The Takeaway
-
-Compounding doesn't just make things bigger (Accumulation) or faster (Cheetah). It also makes them **Harder**.
+If we map these effects over time, we see a clear pattern: The longer a system runs, the harder it is to change. The "Switching Cost" compounds alongside the efficiency. This means that to keep our outcomes flexible, we have to be willing to pay that cost early and often, before the concrete sets.
 
 The longer a system runs in one direction, the more it hardens into place. The "Standard" becomes a gravity well that pulls everything towards it.
 

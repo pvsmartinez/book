@@ -132,4 +132,6 @@ It turns a predator into a pet.
 It turns a game into a job.
 It turns a community into a spreadsheet.
 
-We are living in a world that has been compounding for a very long time. If things feel extreme, it is because we are living in the "Meta." We are the Pugs. But unlike the dog, we can choose to change the breeding program.
+We are living in a world that has been compounding for a very long time. If things feel extreme, it is because we are living in the "Meta." 
+
+But optimization does not always end in the desired place. It brings baggage with it. The Pug got cuteness, but it also got asthma. The economy got efficiency, but it also got fragility. This is why we must always step back and ask where the compounding is leading us. We have to look for what is hidden in the shadow of the curve.

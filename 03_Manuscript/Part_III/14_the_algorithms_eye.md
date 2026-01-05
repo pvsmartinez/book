@@ -84,3 +84,5 @@ The algorithm is just a very fast, very obedient student of our own behavior. It
 When we complain that the world is becoming more polarized, or that games are becoming more predatory, we are often complaining about the logical conclusion of the Value Functions we have participated in. We wanted "Free" news, so we got the Ad-Engagement filter. We wanted "Free" games, so we got the Microtransaction filter.
 
 To change the output, we have to change the filter. And to change the filter, we have to understand that the medium we choose to support is the one that will eventually define the reality we see.
+
+The algorithm is not a window into the world. It is a feedback loop. It shows us what we are, and if we don't like the reflection, we cannot blame the mirror. We have to change the face we present to it.

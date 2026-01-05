@@ -88,3 +88,5 @@ The AI didn't choose to be polarizing. It was simply the fittest runner for the 
 AI is the purest example of behavior shaping because there is no conscience and no "common sense" to get in the way. There is only math and a goal. If the Value Function is slightly off, the AI will optimize for the wrong thing with absolute, cold-blooded precision.
 
 If we want to understand why our social systems feel like they are spinning out of control, we have to look at the goals we've given our "Invisible Judges." Because once you set a Value Function and turn on the Engine of iteration, the system will reach the goal, regardless of our original intent.
+
+The machine is not broken. It is simply obedient. And an obedient machine with the wrong instructions is a catastrophe by design.

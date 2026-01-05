@@ -77,8 +77,8 @@ We think we are the ones using the metrics, but the metrics are the ones selecti
 
 We are not just the builders of the system; we are the organisms living inside it. And like the giraffe on the savanna, we are being shaped by the filters we pass through.
 
-If we don't like the world we see in the mirror, we cannot just ask the "agents" to be better. We cannot ask the cheetah to be stronger or the student to be more curious. We have to look at the metric. We have to ask: **What are we actually measuring?** 
+If we don't like the world we see in the mirror, we cannot just ask the "agents" to be better. We cannot ask the cheetah to be stronger or the student to be more curious. We have to look at the metric. 
 
-The goal we set defines the person we become.
+A system cannot change its output unless its input metric is altered.
 
-Whatever we measure, The Pattern will eventually produce, with an indifferent, cold-blooded efficiency. But unlike the cheetah, we have the power to choose the metric. We can redesign the track.
+Whatever we measure, The Pattern will eventually produce, with an indifferent, cold-blooded efficiency. The goal we set defines the outcome we get.

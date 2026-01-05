@@ -90,4 +90,6 @@ Over time, this creates a world where the winners keep winning, not necessarily 
 
 **Can you see how the "Judge" stops measuring the runner and starts measuring the head start?**
 
-In a system driven by time, the past is not just a memory; it is the foundation of the future. The error compounds. But once we see this, we stop looking for villains and start looking for the levers that reset the track.
+It is crucial to understand that **no system exists in a vacuum.** When we analyze a system, we must always check for the Head Start because every system inherits the results of previous iterations or external systems. The inequality we see isn't necessarily "created" by the current game; it might be the accumulated score of the previous one.
+
+The Head Start is not a bug; it is a feature of compounding. Without a mechanism to redistribute the momentum, the system will naturally drift towards inequality, not because it is evil, but because it is mathematical.

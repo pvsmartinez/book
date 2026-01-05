@@ -88,7 +88,9 @@ To an outside observer, the system might look stable for years. People are compl
 
 Then, a single event acts as the final "1-point damage" upgrade. It could be a bread riot, a lost war, or a single speech. It doesn't just add to the tension; it crosses the threshold. In an instant, the fundamental math of the society changes. The rules that everyone followed yesterday are suddenly ignored. The regime that seemed secure in the morning is gone by nightfall. 
 
-Revolutions are proof that the world is non-linear. You can have 99% of the pressure required for a change and see 0% of the result. But that last 1% doesn't just give you a 1% change; it gives you a new world.
+Revolutions are proof that the world is non-linear. You can have 99% of the pressure required for a change and see 0% of the result. You might feel nothing. The system might feel completely stable, even boring.
+
+But that last 1% doesn't just give you a 1% change; it gives you a new world.
 
 And we must remember: these shifts are not just lines on a graph. They are traumatic. When a system snaps, it releases all the tension it has been holding for decades in a single, violent burst.
 
@@ -97,6 +99,8 @@ And we must remember: these shifts are not just lines on a graph. They are traum
 ### The Takeaway
 
 The Pattern doesn't move in a straight line. It moves in plateaus and cliffs.
+
+We often mistake the plateau for permanence. We think that because a system hasn't broken yet, it never will. But in a non-linear world, silence is not safety. It is often just the sound of the rubber band stretching before the snap.
 
 When you are iterating, you have to ask more questions. It's not enough to ask "How much better is this?" You must also ask "Does this cross a breakpoint?"
 

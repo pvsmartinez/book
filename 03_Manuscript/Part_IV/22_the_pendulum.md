@@ -65,12 +65,14 @@ The further you push a pendulum away from its center, the more violently it will
 
 When a system stops oscillating, it is a sign of potential collapse.
 
-If you see a market that only goes up, or a political discourse that only moves in one direction, or a corporate culture that never questions its own assumptions, you are looking at a system that has traded its **Dynamic Stability** for **Static Fragility**.
+If you see a market that only goes up, or a political discourse that only moves in one direction, or a corporate culture that never questions its own assumptions, you are looking at a system that may have traded its **Dynamic Stability** for **Static Fragility**.
 
 We have built a world of high-speed patterns, narrow filters, and compounding errors. We are currently holding the pendulum at a point of high tension. To change the outcome, we have to stop looking at the runners and start looking at the track.
 
+### The Design Challenge
+
 **The Pendulum** is a corrective force of a system. It is the mechanism by which a system prevents itself from over-optimizing into extinction by swinging back toward the opposite extreme when the current direction has reached its limit.
 
-**Can you see how the "fix" is often just the start of the next swing?**
+Sometimes, for a system to survive long-term, it must retain the capacity to oscillate.
 
 The goal isn't to stop the movement. The goal is to understand the rhythm, so we don't get crushed when the weight finally comes back down. We need to design systems that can breathe. 

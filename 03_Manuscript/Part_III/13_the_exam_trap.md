@@ -73,3 +73,5 @@ We see this tension everywhere. Lawmakers try to change the Value Function by ad
 The definition of "best" is a moving target, but the mechanism of selection is constant.
 
 There will always be a new director of a new school who will try a different thing. There will always be variance. But The Pattern, through time, will select for success or failure between all of these different features. We think we are choosing our schools, but more often than not, the schools are being chosen for us by the Judge we all agreed to follow. The test doesn't just measure the student; it shapes the entire system.
+
+This is the trap of the single metric. It simplifies the world to make it measurable, but in doing so, it deletes the complexity that makes the system resilient. We get exactly what we measured, and lose everything we didn't.
