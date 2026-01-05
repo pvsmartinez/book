@@ -38,9 +38,9 @@ Iteration provided the options. There were smart cheetahs, lethal viruses, brill
 
 This is because there is a massive piece of the puzzle missing. The pattern is the power, but it needs a direction. It needs a filter to decide which variation survives and which one gets deleted. 
 
-The African Savanna does not hate the short-necked giraffe. 
+Remember the Giraffe from Chapter 4?
 
-It doesn't have a personal vendetta against the ones that can't reach the high leaves. It doesn't feel joy when they starve, and it doesn't feel pride when the long-necked ones survive. The Savanna is simply an environment with a specific set of constraints: the food is high up, and there isn't enough of it for everyone. 
+The African Savanna does not hate the short-necked giraffe. It doesn't have a personal vendetta against the ones that can't reach the high leaves. The Savanna is simply an environment with a specific set of constraints: the food is high up, and there isn't enough of it for everyone. 
 
 The Savanna is not a conscious decision-maker; it is a **Filter**. 
 

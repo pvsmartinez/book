@@ -30,7 +30,7 @@
 
 We have looked at the system as a whole, seeing how it shifts over 100 years simply by becoming more efficient. But we must also look at the individuals inside it.
 
-When we talk about "The Pattern" (Iteration, Variance, Selection), we usually focus on the *process*. We look at who is running the fastest *right now*.
+So far, we have focused on the *process*—who is running the fastest *right now*.
 
 But in a compounding world, the race doesn't reset every lap. History accumulates. And because history accumulates, *where* you start matters almost as much as *who* you are.
 

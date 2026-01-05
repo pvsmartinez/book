@@ -37,11 +37,9 @@
 
 ### Draft
 
-The **Filter** gives the system its direction. The "Invisible Judge" decides which iterations survive and which ones disappear. It might be a customer with a coin, a teacher with a red pen, or an algorithm with a millisecond of your attention. 
+We have seen how the **Filter** gives the system its direction. But direction alone isn't enough to explain why the world feels so extreme today. To understand that, we have to look at what happens when that direction is maintained over **Time**.
 
-But direction alone isn't enough to explain why the world feels so extreme today. To understand that, we have to look at what happens when that direction is maintained over **Time**.
-
-When **The Pattern** runs in a specific direction for a long enough period, we encounter a phenomenon that is often invisible until it is too late. We call it the **Compound Effect**.
+When the pattern runs without interruption for a long enough period, we encounter a phenomenon that is often invisible until it is too late. We call it the **Compound Effect**.
 
 ### The Wolf and the Pug
 

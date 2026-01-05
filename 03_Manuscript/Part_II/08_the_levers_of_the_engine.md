@@ -65,6 +65,10 @@ But if the selection pressure is too high, where one mistake means you are fired
 
 The goal of a System Designer is to find the **Goldilocks Zone**. You want enough pressure to force optimization, but enough safety to allow for the "errors" that lead to breakthroughs. 
 
+When this balance is struck, the system doesn't become extreme; it becomes **Robust**. 
+
+Consider your own **Immune System**. It is constantly iterating, creating billions of different antibodies (Variance) to see which ones lock onto a virus (Selection). It is a ruthless optimization engine, but it doesn't make you fragile. It makes you adaptable. It is a system designed to survive the unknown. Optimization, when directed at resilience rather than just speed, creates a shield, not a glass cannon.
+
 ### The Friction (Limits & Failure Modes)
 
 However, even with the levers set perfectly, the engine can still break. Just as a car engine can seize up from bad oil or a clogged filter, the Pattern has its own failure modes.

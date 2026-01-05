@@ -28,7 +28,7 @@
 
 ### Draft
 
-The Cheetah is the fastest land animal on Earth. It is a study in optimization. Every single part of its body is designed for one thing: **Speed**. Its non-retractable claws act like running spikes. Its long tail acts like a rudder.
+In Chapter 5, we met the Cheetah. We saw how it was locked in an arms race with the gazelle, optimizing relentlessly for speed.
 
 But there is a hidden cost to being the best. 
 
@@ -39,6 +39,8 @@ And that is when the **Hyenas** arrive.
 Hyenas aren't as fast as Cheetahs, but they are social, strong, and resilient. They wait for the Cheetah to do the hard work of catching the prey, and then they simply walk up and take it. The Cheetah, exhausted and fragile, can't fight back. It has to watch its meal be stolen because it optimized so hard for the "Catch" that it forgot to optimize for the "Keep."
 
 This is the **Cheetah’s Dilemma**. It’s not just about being fragile. It’s about being **blind**. 
+
+Contrast this with the **Wolf**. A wolf is not the fastest runner. It is not the strongest fighter. If you optimized purely for "Speed," you would delete the wolf. But the wolf optimized for something else: **Cooperation**. By hunting in a pack, wolves created a system that is robust. If one wolf is sick, the pack still eats. If the prey is large, the pack can take it down. The Cheetah optimized for a single metric (Speed) and became fragile. The Wolf optimized for a complex system (The Pack) and became robust.
 
 The Cheetah didn't "choose" to be weak. It simply followed the feedback loop of "Catching Prey." It optimized for the metric it could feel (Hunger/Speed) and ignored the metric it couldn't see (Defense/Cooling) until it became a crisis.
 
