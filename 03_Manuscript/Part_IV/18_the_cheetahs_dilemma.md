@@ -28,7 +28,7 @@
 
 ### Draft
 
-In Chapter 5, we met the Cheetah. We saw how it was locked in an arms race with the gazelle, optimizing relentlessly for speed.
+The Cheetah is locked in an arms race with the gazelle, optimizing relentlessly for speed.
 
 But there is a hidden cost to being the best. 
 
@@ -46,7 +46,7 @@ The Cheetah didn't "choose" to be weak. It simply followed the feedback loop of 
 
 ### The Traffic Paradox
 
-Consider the automobile. When the car was first introduced, it was the ultimate optimization for **Individual Mobility**. It promised freedom. It promised speed. It promised that you could live in a quiet suburb and work in a bustling city, and the car would bridge the gap in minutes.
+When the car was first introduced, it was the ultimate optimization for **Individual Mobility**. It promised freedom. It promised speed. It promised that you could live in a quiet suburb and work in a bustling city, and the car would bridge the gap in minutes.
 
 For the first few users, this was true. The optimization worked.
 
@@ -76,7 +76,7 @@ At first, the side effects were small. A little bit of traffic. A little bit of 
 
 The corporate world offers a stark example.
 
-Consider a large energy company that provides electricity to a major city. For years, they have been well-regarded by the stock market. Every year, they find a way to be 1% more efficient. They’ve automated their billing, they’ve outsourced their call centers, and they’ve reduced their emergency repair crews to the minimum required for a "normal" year.
+Take a large energy company that provides electricity to a major city. For years, they have been well-regarded by the stock market. Every year, they find a way to be 1% more efficient. They’ve automated their billing, they’ve outsourced their call centers, and they’ve reduced their emergency repair crews to the minimum required for a "normal" year.
 
 In a competitive market, the "Judge" (the shareholder) filters for the most efficient iteration. If Company A has 100 maintenance workers and Company B has 90, and both provide the same service, Company B is "fitter." It has lower costs and higher margins. The Pattern selects Company B.
 
@@ -103,4 +103,4 @@ We are often so focused on the metric we are chasing that we don't notice the cl
 
 This is the paradox of efficiency: The more optimized a system becomes for a specific environment, the less resilient it becomes to a change in that environment. The Cheetah is perfect for the chase, but helpless in the fight.
 
-As System Designers, we have to ask: "If I succeed at this, what becomes fragile?" 
+If I succeed at this, what becomes fragile? 

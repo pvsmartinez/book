@@ -103,7 +103,7 @@ Once you find the reward, you have found the bug.
 
 ### The Walkthrough: The Toxic Sales Floor
 
-We can run a diagnosis on a classic scenario.
+Consider a classic scenario.
 
 **The Intake:**
 You are hired to fix a Sales Department. The culture is toxic. People are stealing clients from each other. They are hiding leads. They are sabotaging their colleagues. The manager is screaming, "We need to be a team!"

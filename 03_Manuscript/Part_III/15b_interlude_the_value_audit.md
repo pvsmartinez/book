@@ -1,6 +1,6 @@
 # Workshop: Auditing the Filter
 
-The "Judge" (the Value Function) determines who wins the race. If you change the judge, you change the winner.
+The "Judge" (the Value Function) determines who wins the race. Changing the judge changes the winner.
 
 Here are two tools to help identify what is actually being measured and how to change the outcome.
 
@@ -10,11 +10,11 @@ Here are two tools to help identify what is actually being measured and how to c
 
 We often assume systems are optimized for their stated goals (Truth, Justice, Quality). But the pattern only optimizes for the **Feedback Loop**.
 
-To find the truth, you must ignore the label and audit the feedback.
+To find the truth, one must ignore the label and audit the feedback.
 
 ### Case Study: The Stock Market Guru
 
-Take the example of a famous financial "Guru" on YouTube. He is loud, confident, and predicts a market crash every Tuesday.
+Consider the example of a famous financial "Guru" on YouTube. He is loud, confident, and predicts a market crash every Tuesday.
 
 *   **The Label:** "Market Expert."
 *   **The Stated Goal:** Accuracy.
@@ -37,7 +37,7 @@ The Guru is not optimized for **Accuracy**. He is optimized for **Persuasion**.
 
 ## Tool 2: The Lever (Changing the Outcome)
 
-If you don't like the behavior of a system, don't yell at the people inside it. They are just adapting to the metric. To change the behavior, you must change the metric.
+When the behavior of a system is undesirable, don't yell at the people inside it. They are just adapting to the metric. To change the behavior, you must change the metric.
 
 ### Case Study: The Call Center
 
@@ -57,8 +57,8 @@ A company wants to improve customer service.
 
 **The Application:**
 This applies to any system.
-*   If you measure **Lines of Code**, you get bloated software.
-*   If you measure **Hours Worked**, you might get slower employees.
-*   If you measure **Test Scores**, you will get students who are experts at taking tests, but not necessarily prepared for the open-ended problems of real life.
+*   Measuring **Lines of Code** creates bloated software.
+*   Measuring **Hours Worked** often results in slower employees.
+*   Measuring **Test Scores** produces students who are experts at taking tests, but not necessarily prepared for the open-ended problems of real life.
 
 **The Rule:** You get what you measure, not what you want. Choose your metric carefully.

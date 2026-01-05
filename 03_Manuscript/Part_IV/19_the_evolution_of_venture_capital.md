@@ -41,7 +41,7 @@ It takes a system designed for innovation and turns it into a casino.
 
 **Venture Capital** offers a perfect case study.
 
-Most people have heard the term, but few understand the specific "math of the track" that governs it. At its core, Venture Capital is a system designed to fund ideas that are too risky for traditional banks. If you want to open a bakery, you go to a bank. If you want to build a rocket ship or a new way for the entire world to communicate, you go to a Venture Capitalist.
+At its core, Venture Capital is a system designed to fund ideas that are too risky for traditional banks. If you want to open a bakery, you go to a bank. If you want to build a rocket ship or a new way for the entire world to communicate, you go to a Venture Capitalist.
 
 ### The Power Law
 
@@ -49,7 +49,7 @@ The business model of VC is built on a mathematical reality called the **Power L
 
 In a traditional business, you want all your investments to be moderately successful. But in VC, the "Judge" doesn't care about averages. A VC fund might invest in 100 companies. They expect 90 of them to fail. They expect 9 of them to do "okay." But they are searching for the **one**: the single company that will return 100 times their initial investment. 
 
-Think of it like planting an oak forest. You might plant a thousand acorns. You know that the squirrels will eat most of them, and some will die in the shade. But you only need one of them to grow into a giant, ancient oak to reshape the entire landscape.
+It is like planting an oak forest. You might plant a thousand acorns. You know that the squirrels will eat most of them, and some will die in the shade. But you only need one of them to grow into a giant, ancient oak to reshape the entire landscape.
 
 This one "home run" pays for all the failures and generates the profit for the entire fund. 
 
@@ -95,7 +95,7 @@ But the process is brutal. The fire doesn't just burn the weeds; it burns everyt
 
 ### The Drift
 
-This brings us back to the core lesson of this chapter. We are not looking at a "broken" system. We are looking at a system that has **drifted**.
+We are not looking at a "broken" system. We are looking at a system that has **drifted**.
 
 When critics say the system is "disconnected from reality," they are missing the point. To the actors inside the system, the valuation *is* the reality. The ability to raise the next round *is* survival. The system is not hallucinating; it is simply optimizing for a different set of constraints than it was fifty years ago.
 
@@ -107,7 +107,7 @@ The evolution of Venture Capital is not a story about greed or malice. It is a s
 
 Every system, if left unchecked, can drift away from its original purpose and towards the metric that is easiest to measure and reward. In the beginning, profit was the metric. But profit is hard and takes years. Valuation is immediate. Fundraising is visible. So the system drifted towards the signal that was faster and louder.
 
-The lesson here is not to hate the VC industry. The lesson is to understand that **initial intent does not guarantee final outcome.**
+**Initial intent does not guarantee final outcome.**
 
 You can build a system to foster innovation, but if the incentives shift, you might end up building a system that fosters salesmanship. The "Judge" is blind. It doesn't care about your original mission statement. It only cares about what is being rewarded *right now*.
 

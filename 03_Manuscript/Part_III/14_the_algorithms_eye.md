@@ -39,11 +39,11 @@ In the world of information, the medium isn't just the message; the medium is th
 
 The evolution of news is a story of changing filters.
 
-In the era of the daily newspaper, the Value Function was relatively slow. You had twenty-four hours to gather facts, edit them, and print them. The "Judge" was the subscriber who paid for a bundle of information. If the paper was consistently wrong or boring, they stopped paying. The selection pressure favored a mix of local relevance and general credibility.
+In the era of the daily newspaper, the Value Function was relatively slow. Editors had twenty-four hours to gather facts, edit them, and print them. The "Judge" was the subscriber who paid for a bundle of information. If the paper was consistently wrong or boring, they stopped paying. The selection pressure favored a mix of local relevance and general credibility.
 
-Then came 24-hour cable news. Suddenly, the Value Function shifted from "What happened today?" to "What is happening *right now*?" 
+Then came 24-hour cable news. Suddenly, the Value Function shifted from "What happened today?" to "What is happening *right now*?"
 
-If nothing is happening, you still have to fill the airtime. The "Judge" in this environment is the viewer's attention span, measured in minutes. To keep you from changing the channel, the system began to optimize for **Urgency**. Everything became a "Breaking News" alert. The filter started selecting for the loudest voices and the most dramatic conflicts, because "nuance" is the enemy of retention.
+If nothing is happening, you still have to fill the airtime. The "Judge" in this environment is the viewer's attention span, measured in minutes. To keep the viewer from changing the channel, the system began to optimize for **Urgency**. Everything became a "Breaking News" alert. The filter started selecting for the loudest voices and the most dramatic conflicts, because "nuance" is the enemy of retention.
 
 Then came the internet and social media. Now, the Value Function is measured in milliseconds. The "Judge" is an algorithm optimizing for **Engagement**: clicks, likes, and shares. 
 
@@ -57,13 +57,13 @@ The medium changed the filter, and the filter changed the world.
 
 We see the exact same pattern in the world of entertainment.
 
-For decades, the "Gold Standard" of movies was the Cinema experience. You paid $15 for a ticket, and you got a complete story. In this model, the Value Function is **The Sale**. To win, a studio needs to convince you to buy the ticket *before* you see the movie. This creates a selection pressure that favors massive marketing budgets, famous actors, and explosive trailers. It is a hype-led filter. 
+For decades, the "Gold Standard" of movies was the Cinema experience. The audience paid $15 for a ticket, and they got a complete story. In this model, the Value Function is **The Sale**. To win, a studio needs to convince you to buy the ticket *before* you see the movie. This creates a selection pressure that favors massive marketing budgets, famous actors, and explosive trailers. It is a hype-led filter.
 
 The downside? It favors "safe" bets. We get endless sequels and remakes because the risk of a flop is too high.
 
-Then came the Streaming Revolution. 
+Then came the Streaming Revolution.
 
-On a platform like Netflix or YouTube, the Value Function isn't the ticket sale; it's **Retention**. Since you've already paid your subscription (or are watching ads), the "Judge" is your willingness to keep watching. 
+On a platform like Netflix or YouTube, the Value Function isn't the ticket sale; it's **Retention**. Since the subscription is already paid (or ads are being watched), the "Judge" is the willingness to keep watching. 
 
 This model is incredibly **Accessible**. You don't need to drive to a theater or pay for each story. But because the filter is "Time Spent," the content evolves differently. Shows are designed to be "binge-able." They use cliffhangers at the end of every episode to keep the engine running. On social video platforms, the content becomes shorter, louder, and more repetitive to grab your attention in the first three seconds.
 
@@ -81,7 +81,7 @@ The YouTube algorithm doesn't "want" you to watch conspiracy theories. It doesn'
 
 The algorithm is just a very fast, very obedient student of our own behavior. It is the ultimate "Invisible Judge," but we are the ones who gave it the rubric. Every click, every like, and every second of watch time is a vote for what the machine should produce next.
 
-**Can you see how we are the ones training the machine that then trains us?**
+**We are the ones training the machine that then trains us.**
 
 When we complain that the world is becoming more polarized, or that games are becoming more predatory, we are often complaining about the logical conclusion of the Value Functions we have participated in. We wanted "Free" news, so we got the Ad-Engagement filter. We wanted "Free" games, so we got the Microtransaction filter.
 

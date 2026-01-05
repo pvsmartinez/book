@@ -44,93 +44,62 @@
 
 ---
 
-### Draft
+The Environment is a filter. It decides who wins and who loses, whether it’s the charming salesman or the rude one.
 
-In the last chapter, we saw how the **Environment** acts as a filter. It decides who wins and who loses, whether it’s the charming salesman or the rude one. 
+But a filter is useless if everything is the same. If every single person born was exactly identical, the environment wouldn't have anything to select *from*.
 
-But a filter is useless if everything is the same. If every single person born was exactly identical, the environment wouldn't have anything to select *from*. 
+How does the system generate options? How does the salesman actually *learn* to be charming?
 
-So, how does the system generate options? How does the salesman actually *learn* to be charming? 
-
-It comes down to a loop. A simple, relentless loop that runs in three parts: How fast you try, how different you try, and what decides if it works. 
+It comes down to a loop. A simple, relentless loop that runs in three parts: Action, Feedback, and Variance.
 
 ### The Loop of Action and Feedback
 
-Think about training a dog. 
-You say "Sit." The dog looks at you. It barks. It jumps. It spins. It has no idea what you want. It is just pressing random buttons on the controller.
+When you train a dog, you say "Sit."
+The dog looks at you. It barks. It jumps. It spins. It has no idea what you want. It is just pressing random buttons on the controller.
 
-Eventually, by random chance, the dog’s butt hits the floor. You immediately give it a cookie. 
+Eventually, by random chance, the dog’s butt hits the floor. You immediately give it a cookie.
 
-That moment, the cookie, is the most important part. It’s the signal. Without the cookie, the dog is just moving randomly. With the cookie, the dog’s brain locks onto the last thing it did. "Sitting equals cookie," it thinks. 
+That moment—the cookie—is the signal. Without it, the dog is just moving randomly. With the cookie, the dog’s brain locks onto the last thing it did. "Sitting equals cookie."
 
-The next time, the dog is more likely to sit. 
+The next time, the dog is more likely to sit.
 
-Now, imagine you never gave the cookie. You just said "Sit" and stared. The dog might sit, might bark, might run away. Without the feedback, the dog isn't learning. It's just guessing. 
+If you never gave the cookie, the dog would never learn. It would just guess. We need to repeat the request, wait for the action, and give the cookie multiple times. This is **Iteration**. It is the loop of doing something and finding out if it worked.
 
-We need to repeat the request, wait for the action, and give the cookie multiple times before the dog truly learns. This is **Iteration**. It is the loop of doing something and finding out if it worked. 
+Systems thinkers call this a **Feedback Loop**. It is the fundamental building block of how systems change. The dog acts, the system (you) provides feedback (cookie), and that feedback changes the dog's future actions. Without this loop, there is no adaptation. There is only noise.
 
-In Systems Theory, a field brilliantly explored by Donella Meadows in *Thinking in Systems*, this is known as a **Feedback Loop**. It is the fundamental building block of how systems change. The dog acts, the system (you) provides feedback (cookie), and that feedback changes the dog's future actions. Without this loop, there is no adaptation. There is only noise.
+### The Necessity of Variance
 
-The same applies to learning tennis. 
-You swing the racket. The ball hits the net. You feel the jar in your wrist. You see the ball drop. Your brain registers the error: "Too low." 
+The same applies to tennis.
+You swing the racket. The ball hits the net. You feel the jar in your wrist. You see the ball drop. Your brain registers the error: "Too low."
 
-Your brain takes that feedback and adjusts for the next swing. But here is the catch: To learn, your next swing *must* be different. 
+Your brain takes that feedback and adjusts for the next swing. But here is the catch: To learn, your next swing *must* be different.
 
-If you swing the racket exactly the same way, with the exact same force and angle, the ball will hit the net again. And again. And again. 
+If you swing the racket exactly the same way, with the exact same force and angle, the ball will hit the net again. And again.
 
-You need **Variance**. 
+You need **Variance**.
 
-You need to try something slightly different. A little higher. A little harder. A little to the left. Most of these variations will fail. You’ll hit it too high. You’ll hit it too wide. 
+You need to try something slightly different. A little higher. A little harder. A little to the left. Most of these variations will fail. You’ll hit it too high. You’ll hit it too wide.
 
-But eventually, one variation will work. The ball will sail over the net and land in the court. 
+But eventually, one variation will work. The ball will sail over the net and land in the court.
+"Perfect," your brain says. "Do that again."
 
-### The Infinite Monkey (and the Shortcut)
+### The Infinite Monkey and the Lock
 
-You’ve probably heard the "Infinite Monkey Theorem": If you put a monkey in front of a typewriter for an infinite amount of time, it will eventually type the complete works of Shakespeare. 
+The Infinite Monkey Theorem claims that if you put a monkey in front of a typewriter for an infinite amount of time, it will eventually type the complete works of Shakespeare.
 
-It’s a fun idea, but let's be honest: it’s also a bit depressing. We don't have an infinite amount of time. Neither does a virus, a startup, or a dog. 
+It is a fun idea, but it is useless. We don't have infinite time. Neither does a virus, a startup, or a dog.
 
-But the world has a shortcut. It doesn't need infinite time because it has **Selection**. 
+But the world has a shortcut. It doesn't need infinite time because it has **Selection**.
 
-Imagine that every time the monkey types a correct letter, that letter "locks" into place. If the monkey types an "A" as the first letter of *Hamlet*, the typewriter keeps it. Now the monkey only has to guess the second letter. 
-
-Suddenly, we don't need billions of years. We need surprisingly little time. It's like brute-forcing a password, but the system tells you when you get the first character right.
-
-This is how the world works. It doesn't try everything at once. It tries a few things, filters out the failures, keeps what works, and then iterates from there. 
-
-This is **The Pattern**. It is the mechanism that allows a simple set of rules to create incredible complexity. 
-
-But how fast can this pattern run? And what happens when it runs at different speeds? 
-
-To see that, we have to look at the giraffe and the virus. 
-**Feedback:** "Perfect."
-
-Your brain locks onto that specific variation. "Do that again," it says.
-
-### The Pattern
-
-This is how a salesman learns his pitch. He tries a joke. It lands flat (Negative Feedback). He tries a compliment. It works (Positive Feedback). He keeps the compliment (Selection) and tries a new variation next time.
-
-This is how a virus evolves. It replicates millions of times (Iteration). Most copies are identical, but some have tiny errors (Variance). Most errors break the virus, but one error makes it more contagious. That version spreads faster (Positive Feedback).
-
-It’s not magic. It’s not a conspiracy.
-It is simply **Iteration** multiplied by **Variance**, filtered by the **Environment**.
-
-(We will talk about the "Speed" of this multiplication in later chapters, but for now, just know that the faster you iterate, the faster you adapt).
-
-There is a famous thought experiment called the "Infinite Monkey Theorem." It says that if you give a million monkeys a million typewriters and infinite time, eventually one of them will type the complete works of Shakespeare.
-
-It’s a fun idea, but it’s useless. We don't have infinite time.
-
-But what if we added **Selection**?
-
-Imagine if the typewriter had a rule: Every time a monkey types a correct letter, the key locks in place.
+Imagine that every time the monkey types a correct letter, that letter "locks" into place.
 The monkey types "Q". Nothing happens.
 The monkey types "T". *Click.* The "T" is locked.
 The monkey types "O". *Click.* The "O" is locked.
 
-Suddenly, you don't need infinite time. You don't need a billion years. You might get "To be or not to be" in a few weeks.
+Suddenly, you don't need billions of years. You might get "To be or not to be" in a few weeks. It is like brute-forcing a password, but the system tells you when you get the first character right.
 
-That is the power of the Adaptation Equation. It turns random chance into inevitable optimization. In due time, a random process will start to look like something with a purpose, and will start to deliver on a result that was optimized for.
+This is how the world works. It doesn't try everything at once. It tries a few things, filters out the failures, keeps what works, and iterates from there.
 
-And this inevitable optimization is running, right now, in everything you see.
+This is **The Pattern**. It is the mechanism that allows a simple set of rules to create incredible complexity. It is simply **Iteration** multiplied by **Variance**, filtered by the **Environment**.
+
+But this engine doesn't always run at the same speed. Sometimes it crawls, and sometimes it explodes. To understand why, we have to look at the difference between a giraffe and a virus.

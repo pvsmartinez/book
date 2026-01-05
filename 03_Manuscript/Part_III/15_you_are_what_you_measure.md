@@ -73,7 +73,7 @@ We are seeing a similar pattern in our own culture. By optimizing our lives, our
 
 The Invisible Judge doesn't just filter the world; it filters **us.**
 
-We think we are the ones using the metrics, but the metrics are the ones selecting us. If you live in a world where the only way to "win" is to be loud and polarizing, you will eventually become loud and polarizing. If you work in a company where the only way to get promoted is to hit a short-term KPI, you will eventually stop caring about the long-term health of the business.
+We think we are the ones using the metrics, but the metrics are the ones selecting us. Living in a world where the only way to "win" is to be loud and polarizing eventually makes a person loud and polarizing. Working in a company where the only way to get promoted is to hit a short-term KPI eventually erodes care for the long-term health of the business.
 
 We are not just the builders of the system; we are the organisms living inside it. And like the giraffe on the savanna, we are being shaped by the filters we pass through.
 

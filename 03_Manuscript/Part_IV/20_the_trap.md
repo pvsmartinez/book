@@ -40,7 +40,7 @@ The answer lies in a specific type of compounding called **Lock-In**.
 
 ### The QWERTY Trap
 
-Consider the keyboard in front of you. The first six letters spell Q-W-E-R-T-Y. 
+Look at the keyboard in front of you. The first six letters spell Q-W-E-R-T-Y. 
 
 This layout was invented in the 1870s for mechanical typewriters. Back then, if you typed too fast, the metal arms of the typewriter would jam together. To fix this, the designers analyzed the English language and intentionally placed common letter pairs far apart. They designed the keyboard to be **inefficient**. They wanted to slow you down so the machine wouldn't break.
 
@@ -70,7 +70,7 @@ But we can't just flip a switch. The concrete is already poured. The houses are 
 
 We are trapped in a **Local Maximum**. 
 
-Remember the blind climber from Chapter 16? We have climbed to the top of the "Car City" hill. It is a peak of efficiency for that specific model. But we can see (or at least imagine) a much higher peak across the valley: a "Walkable City" model that is cleaner, healthier, and more social.
+We have climbed to the top of the "Car City" hill. It is a peak of efficiency for that specific model. But we can see (or at least imagine) a much higher peak across the valley: a "Walkable City" model that is cleaner, healthier, and more social.
 
 But to get there, we have to walk down. We have to go through the valley of construction, debt, and inconvenience. We have to lose altitude (efficiency/money) before we can climb again.
 

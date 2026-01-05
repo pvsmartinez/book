@@ -50,7 +50,7 @@
 
 ### Draft
 
-In the last chapter, we diagnosed the patient. We found the bug.
+We have diagnosed the patient. We found the bug.
 
 Now comes the dangerous part. We have to operate.
 
@@ -78,7 +78,7 @@ The protocol for patching the world is a loop:
 3.  **Observe:** Watch the feedback. Did the behavior change? Did a new bug appear?
 4.  **Revert or Commit:** If it failed, undo it *immediately*. If it worked, keep it.
 
-Returning to the "Toxic Sales Floor" from the last chapter allows us to see this in action.
+Let's return to the "Toxic Sales Floor" from the last chapter to see this in action.
 
 ### Case Study: Fixing the Shark Tank
 
@@ -103,7 +103,7 @@ You add one small rule: *"The Team Bonus only unlocks if you hit a minimum indiv
 *   **The Result:** The Free Riders are forced to work. The Sharks are happy because everyone is pulling their weight. The culture is collaborative but driven.
 *   **The Verdict:** **Commit.**
 
-Do you see what happened? We didn't solve the problem in one magical stroke. We **Iterated**. We treated the culture like code. We patched, we debugged, and we patched again.
+Notice the pattern. We didn't solve the problem in one magical stroke. We **Iterated**. We treated the culture like code. We patched, we debugged, and we patched again.
 
 ### The Cobra Effect (Policy Resistance)
 
@@ -143,8 +143,7 @@ There is one final layer to this.
 
 Notice the pattern of the protocol: **Hypothesis $\rightarrow$ Patch $\rightarrow$ Observe $\rightarrow$ Adapt.**
 
-Does this look familiar?
-It is the **Adaptation Equation** from Chapter 3: `(Iteration * Variance) / Time`.
+This is the **Adaptation Equation** from Chapter 3: `(Iteration * Variance) / Time`.
 
 When you are debugging the world, *you* are the Engine.
 *   Your "Patch" is the **Variance**.

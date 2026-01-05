@@ -25,24 +25,24 @@
 
 ### Draft
 
-The pattern shapes the physical world, such as the necks of giraffes and the proteins of viruses. But it is just as active in the invisible world of human thought. 
+The pattern shapes the physical world, from the necks of giraffes to the proteins of viruses. But it is just as active in the invisible world of human thought.
 
-Think about the sheer volume of information created every single day. Thousands of books are published, millions of tweets are sent, and billions of conversations happen over coffee or across dinner tables. Each one of these is an **Attempt**. Each one is a unique piece of "code" trying to survive in the environment of the human mind. 
+Every day, thousands of books are published, millions of tweets are sent, and billions of conversations happen over coffee. Each one of these is an **Attempt**. Each one is a unique piece of "code" trying to survive in the environment of the human mind.
 
-This is the ultimate **Variance** mechanism. 
+This is the ultimate **Variance** mechanism.
 
-Most of these ideas are "dead ends." You hear a joke, you don't laugh, and you never tell it to anyone else. That idea has failed to replicate. It dies with you. But some ideas are different. They are "born" with a slight mutation that makes them more interesting, more useful, or more shocking. 
+Most of these ideas are "dead ends." You hear a joke, you don't laugh, and you never tell it to anyone else. That idea has failed to replicate. It dies with you. But some ideas are different. They are "born" with a slight mutation that makes them more interesting, more useful, or more shocking.
 
-We call these successful mutations **Memes**. Not just the funny pictures with text on the internet, but the original definition by Richard Dawkins: a unit of cultural transmission. A tune, a catchphrase, a fashion trend. These are the viruses of the mind.
+We call these successful mutations **Memes**. Not just the funny pictures on the internet, but the original definition by Richard Dawkins: a unit of cultural transmission. A tune, a catchphrase, a fashion trend. These are the viruses of the mind.
 
-Ideas are rarely created from scratch. They are almost always "mutations" of what came before. This book you are reading right now is a perfect example. I didn't invent the concept of Natural Selection, and I didn't invent the concept of an Algorithm. I am taking existing "code" from biology, computer science, and game design, and I am mutating them, combining them in a new way to see if they "fit" your mind. 
+Ideas are rarely created from scratch. They are almost always "mutations" of what came before. Even this book is a mutation. It takes existing "code" from biology, computer science, and game design, and combines it in a new way to see if it "fits" the reader's mind.
 
-If this framework helps you see the world more clearly, you might tell a friend about it. You might use the term "Value Function" in a meeting. In that moment, the idea has **replicated**. It has moved from my mind to yours, and now it is moving to a third person. The "Share" button is the replication mechanism.
+If a framework helps you see the world more clearly, you might tell a friend about it. You might use the term "Value Function" in a meeting. In that moment, the idea has **replicated**. It has moved from one mind to another. The "Share" button is the replication mechanism.
 
-This is the **Iteration** of culture. 
+This is the **Iteration** of culture.
 
-The pattern doesn't need a central planner to decide which ideas are "good." It just needs a massive amount of variance (thousands of people talking and writing) and a mechanism for reproduction (sharing). 
+The pattern doesn't need a central planner to decide which ideas are "good." It just needs a massive amount of variance (thousands of people talking and writing) and a mechanism for reproduction (sharing).
 
-We often think of culture as something we "create" intentionally, but most of it is an emergent behavior of this pattern running on autopilot. We are constantly throwing ideas at the wall, and the ones that stick are the ones that get to iterate. 
+We often think of culture as something we "create" intentionally, but most of it is an emergent behavior of this pattern running on autopilot. We are constantly throwing ideas at the wall, and the ones that stick are the ones that get to iterate.
 
-But this leads us to a haunting question, doesn't it? If the pattern is just a mechanism that replicates what "sticks," what exactly is the "glue"? What decides which ideas get to live and which ones are deleted? 
+But if the pattern is just a mechanism that replicates what "sticks," what exactly is the "glue"? What decides which ideas get to live and which ones are deleted? 

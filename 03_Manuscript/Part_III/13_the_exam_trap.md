@@ -32,17 +32,17 @@
 
 ### Draft
 
-You are a parent. You have two schools in your neighborhood. 
+Consider a parent with two schools in their neighborhood.
 
 The first school, "The Academy of Life," believes in a holistic education. They teach students how to manage their finances, how to resolve conflicts, and how to think critically. They are building "well-rounded citizens."
 
-The second school, "The Exam Factory," has a much narrower focus. They don't care about cooking or conflict resolution. They spend every hour of every day drilling students on the specific types of math and grammar problems that appear on the National University Entrance Exam. 
+The second school, "The Exam Factory," has a much narrower focus. They don't care about cooking or conflict resolution. They spend every hour of every day drilling students on the specific types of math and grammar problems that appear on the National University Entrance Exam.
 
-Which school would you choose for your child? 
+The choice seems simple, but the incentives are complex.
 
-You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is one of the most important factors in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point? Would you let them fall behind their peers, knowing the doors that might close forever?
+Parents know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. They know that a degree from that university is one of the most important factors in a child's future career and financial stability. Even if they love the philosophy of the "Academy of Life," few would risk their child's future to prove a point. Few would let them fall behind their peers, knowing the doors that might close forever.
 
-Most parents wouldn't. They choose the "Exam Factory." 
+Most parents choose the "Exam Factory." 
 
 This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure of the government. It is the result of millions of individual, rational choices made by parents who just want the best for their children. They are trapped in a game where the rules have already been set.
 

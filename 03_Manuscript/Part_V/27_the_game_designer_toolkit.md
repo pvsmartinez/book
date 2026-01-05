@@ -43,7 +43,7 @@
 
 ### Draft
 
-In the last chapter, we learned how to **Map** the system. We learned about Stocks, Flows, and Feedback Loops.
+We have learned how to **Map** the system. We learned about Stocks, Flows, and Feedback Loops.
 
 But a map is only useful if you know how to travel. If you see a "Reinforcing Loop" that is destroying your company or your mental health, how do you stop it?
 
@@ -53,7 +53,7 @@ Most people think a Game Designer's job is to "make things fun." They imagine a 
 
 A Game Designer is an architect of behavior. Their job is to craft a specific **emotion**, such as fear, power, curiosity, or camaraderie, and then build a mathematical system that forces that emotion to emerge.
 
-(Note: For those who want to dive deeper into this craft, I highly recommend the older episodes (2015~2019) of the YouTube channel *Extra Credits*. They explain these concepts with brilliant simplicity.)
+For those who want to dive deeper into this craft, I highly recommend the older episodes (2015~2019) of the YouTube channel *Extra Credits*. They explain these concepts with brilliant simplicity.
 
 ### The Toolkit
 
@@ -123,7 +123,7 @@ These are tiny changes. But because the system is so interconnected, that tiny s
 
 ### Applying the Toolkit (Patching the Work-Life Balance)
 
-Returning to the map we drew in the last chapter.
+Let's return to the map we drew in the last chapter.
 
 **The System:** The Work-Life Balance Machine.
 **The Bug:** The "Survival Loop" (Work for Money) is cannibalizing the "Energy Stock," leading to Burnout.

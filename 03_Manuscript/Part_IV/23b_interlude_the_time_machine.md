@@ -1,6 +1,6 @@
 # Workshop: The Time Machine
 
-In Part IV, we learned that **Time** is the invisible multiplier. It turns small differences into huge gaps (The Head Start), and it turns temporary choices into permanent prisons (The Trap).
+**Time** is the invisible multiplier. It turns small differences into huge gaps (The Head Start), and it turns temporary choices into permanent prisons (The Trap).
 
 Here are two tools to help you see the future and escape the past.
 

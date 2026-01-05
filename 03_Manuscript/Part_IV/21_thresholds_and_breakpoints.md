@@ -33,7 +33,7 @@ To understand why systems suddenly break or suddenly become dominant, we have to
 
 ### The RPG Math
 
-Consider the math of a Role-Playing Game (RPG). Your character deals 10 points of damage with every swing of their sword. You are fighting an enemy with 30 hit points. 
+In a Role-Playing Game (RPG), imagine your character deals 10 points of damage with every swing of their sword. You are fighting an enemy with 30 hit points. 
 
 The math is simple: it takes you **three hits** to win the fight.
 
@@ -66,7 +66,7 @@ But there is a point, a specific millimeter of stretch, where the material struc
 
 This concept of thresholds is what makes over-optimization so dangerous. When a system is compounding its efficiency, it often looks like it’s getting stronger and stronger, right up until the moment it hits a cliff.
 
-Recall the energy company we discussed in Chapter 19. They were cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
+The energy company we discussed in Chapter 19 was cutting their maintenance crews by 1% every year. For years, this looked like a model of efficiency. The lights stayed on, and the profits went up. 
 
 But they were approaching a **Breakpoint**. 
 
@@ -94,7 +94,7 @@ But that last 1% doesn't just give you a 1% change; it gives you a new world.
 
 And we must remember: these shifts are not just lines on a graph. They are traumatic. When a system snaps, it releases all the tension it has been holding for decades in a single, violent burst.
 
-**Can you see how "stability" can actually be a warning sign?**
+**"Stability" can actually be a warning sign.**
 
 ### The Takeaway
 

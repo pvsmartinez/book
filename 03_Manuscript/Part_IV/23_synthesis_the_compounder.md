@@ -33,7 +33,7 @@
 
 ### Draft
 
-We have reached the summit. We have spent the last twenty-two chapters looking at individual trees: giraffes, viruses, algorithms, economies, and traffic jams. Now, it is time to look at the forest.
+We have spent the last twenty-two chapters looking at individual trees: giraffes, viruses, algorithms, economies, and traffic jams. Now, it is time to look at the forest.
 
 This chapter is the **Synthesis**. It is the explanation of everything we have discussed so far, tied together into a single framework.
 
@@ -79,7 +79,7 @@ This is the force that turns "Adaptation" into "Extremism."
 The Pattern doesn't just happen once. It happens over and over again. And because it repeats, it **Compounds**.
 
 #### 1. The Head Start (History Accumulates)
-We saw that where you start matters. A small advantage in the first lap becomes a canyon by the hundredth lap. The "Judge" selects the fittest *right now*, but that selection gives the winner the resources to be even fitter *tomorrow*.
+Where you start matters. A small advantage in the first lap becomes a canyon by the hundredth lap. The "Judge" selects the fittest *right now*, but that selection gives the winner the resources to be even fitter *tomorrow*.
 
 #### 2. Systemic Drift (Output = Input)
 This is the most subtle and dangerous part. The output of one cycle becomes the input for the next. The system "injects" itself. 
@@ -123,4 +123,4 @@ The Pattern is invisible, but it is not immutable. It was built by choices, spec
 
 In the final part of this book, we are going to stop looking at how to play the game and start looking at how to **design** it. We are going to move from being the victims of the pattern to being its architects. 
 
-Because the only way to survive a compounding world is to stop being a runner and start being a **System Designer**.
+The only way to survive a compounding world is to stop being a runner and start being a **System Designer**.

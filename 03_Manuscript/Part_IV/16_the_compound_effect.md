@@ -37,13 +37,11 @@
 
 ### Draft
 
-We have seen how the **Filter** gives the system its direction. But direction alone isn't enough to explain why the world feels so extreme today. To understand that, we have to look at what happens when that direction is maintained over **Time**.
+The **Filter** gives the system its direction. But direction alone isn't enough to explain why the world feels so extreme today. We must look at what happens when that direction is maintained over **Time**.
 
 When the pattern runs without interruption for a long enough period, we encounter a phenomenon that is often invisible until it is too late. We call it the **Compound Effect**.
 
 ### The Wolf and the Pug
-
-Consider the Pug.
 
 If you look at a Pug, with its flat face, labored breathing, and curly tail, it is hard to believe that it shares 99.9% of its DNA with a Gray Wolf. 
 
@@ -57,13 +55,13 @@ Generation after generation, the error compounded. We optimized for specific tra
 
 Time took a functional, resilient predator and turned it into a specialized, fragile companion. The Pug is the "Winner" of the Human Value Function, even if it would last five minutes in the wild.
 
-To understand why this happens, we have to visualize the landscape. 
+To understand why this happens, visualize the landscape. 
 
-In Systems Theory, we often map these outcomes on a **Fitness Landscape**—a graph where the highest peaks represent the best possible solutions (Global Maxima) and the valleys represent failure. The goal of evolution is to climb the highest peak. 
+In Systems Theory, we map these outcomes on a **Fitness Landscape**. This is a graph where the highest peaks represent the best possible solutions (Global Maxima) and the valleys represent failure. The goal of evolution is to climb the highest peak. 
 
 But there is a problem: The Pattern is blind. It doesn't have a map. It only follows a simple rule: "If the next step is higher, take it." 
 
-This rule works perfectly to get you to the top of the *nearest* hill. But once you are there, you are stuck. You have reached a **Local Maximum**. To get to the higher peak across the valley, you would have to go *down* first—you would have to become less efficient, or less cute—and the system rarely allows that. 
+This rule works perfectly to get you to the top of the *nearest* hill. But once you are there, you are stuck. You have reached a **Local Maximum**. To get to the higher peak across the valley, you would have to go *down* first. You would have to become less efficient, or less cute. The system rarely allows that. 
 
 The Pug is a Local Maximum. It is perfectly optimized for the "Cuteness" hill, but it is stranded far away from the "Health" peak. The Compound Effect drives systems up the nearest slope, but it doesn't tell them if they are climbing the right mountain.
 
@@ -118,7 +116,7 @@ We have optimized the system so thoroughly that we have squeezed out the "ineffi
 
 The result is a system that is incredibly productive (the Pug is very cute; the GOATS team wins every game; the Factory produces cheap radios), but it has lost its resilience and diversity.
 
-**Can you see how the drive for perfection eventually destroys the character of the system?**
+The drive for perfection eventually destroys the character of the system.
 
 ### The Takeaway
 

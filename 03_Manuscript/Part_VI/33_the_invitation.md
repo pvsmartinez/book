@@ -27,7 +27,7 @@
 
 ---
 
-### Draft
+### The Tool
 
 What is the path forward?
 
@@ -41,22 +41,20 @@ This book is not a solution manual. I do not have the patch for Global Warming i
 
 This book is a **Tool**. And a tool is useless until someone picks it up.
 
-So, I am issuing an invitation.
-
 ### To the Specialists
 
-I invite the experts.
+I invite the experts. The Climate Scientists, the Economists, the Teachers, the Urban Planners, and the Politicians.
 
-I invite the Climate Scientists, the Economists, the Teachers, the Urban Planners, and the Politicians.
+I do not know your fields as well as you do. But I know that you are stuck. I know that you are fighting symptoms like rising temperatures, failing schools, or gridlocked parliaments. And you are exhausted.
 
-I do not know your fields as well as you do. But I know that you are stuck. I know that you are fighting symptoms, such as rising temperatures, failing schools, or gridlocked parliaments, and you are exhausted.
-
-I invite you to use this lens.
+Use this lens.
 Stop looking at the "Bad Players" in your field. Start looking at the **Game**.
 
-*   **To the Economist:** Don't just measure GDP. Look at the Value Function. What behavior is the market actually selecting for? Is it selecting for resilience, or just efficiency?
-*   **To the Teacher:** Don't just grade the test. Look at the Feedback Loop. Is the loop teaching the child to learn, or just to pass?
-*   **To the Politician:** Don't just fight the opposition. Look at the Filter. Why does the system select for outrage? How can we patch the primary system to select for consensus?
+**To the Economist:** Don't just measure GDP. Look at the Value Function. What behavior is the market actually selecting for? Is it selecting for resilience, or just efficiency?
+
+**To the Teacher:** Don't just grade the test. Look at the Feedback Loop. Is the loop teaching the child to learn, or just to pass?
+
+**To the Politician:** Don't just fight the opposition. Look at the Filter. Why does the system select for outrage? How can we patch the primary system to select for consensus?
 
 You have the domain knowledge. You know where the bodies are buried. Use **The Pattern** to find the root cause, and then use the **Designer’s Toolkit** to propose the patch.
 
@@ -64,7 +62,7 @@ We need you to be the Architects.
 
 ### To Everyone
 
-And to everyone else, to the parents, the students, the workers, and the dreamers, I invite you to take a breath.
+And to everyone else, to the parents, the students, the workers, and the dreamers: take a breath.
 
 Do not let the scale of the world crush you.
 Do not let the exhaustion paralyze you.
@@ -76,9 +74,11 @@ Start by fixing your **Loop**.
 
 Be a System Designer for the ten square meters around you.
 
-*   **Fix your Information Diet:** Patch the algorithm. Unfollow the outrage merchants. Follow the teachers. Change the inputs to your own brain.
-*   **Fix your Neighborhood:** Create a local feedback loop. Start a community garden. Organize a dinner. Rebuild the "Connection" that isn't digital.
-*   **Fix your Work:** Change the incentives for your team. Reward cooperation. Remove the friction for good ideas.
+**Fix your Information Diet:** Patch the algorithm. Unfollow the outrage merchants. Follow the teachers. Change the inputs to your own brain.
+
+**Fix your Neighborhood:** Create a local feedback loop. Start a community garden. Organize a dinner. Rebuild the "Connection" that isn't digital.
+
+**Fix your Work:** Change the incentives for your team. Reward cooperation. Remove the friction for good ideas.
 
 If you fix the pattern in your own life, you reduce the entropy of the whole system. You become a node of stability in a network of chaos.
 

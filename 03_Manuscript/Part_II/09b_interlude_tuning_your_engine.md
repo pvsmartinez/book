@@ -1,6 +1,6 @@
 # Workshop: The Engine Room
 
-It is time to put our theory into practice. Now that we have defined the engine (**Iteration x Variation = Adaptation**), we can look at how to use it.
+Now that we have defined the engine (**Iteration x Variation = Adaptation**), we can look at how to use it.
 
 Here are two tools to help you spot the pattern and control its speed.
 

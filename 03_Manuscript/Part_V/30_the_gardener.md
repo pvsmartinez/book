@@ -1,6 +1,6 @@
 ## Chapter 30: The Gardener
 
-We have spent a lot of time in this book using words like "Engine," "Code," "Algorithm," and "Machine." We have talked about "Debugging" and "Patching" like we are fixing a broken computer.
+We have used words like "Engine," "Code," "Algorithm," and "Machine." We have talked about "Debugging" and "Patching" like we are fixing a broken computer.
 
 These are useful metaphors because they help us see the logic of the system.
 

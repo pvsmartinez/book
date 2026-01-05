@@ -45,7 +45,7 @@ We must abandon the role of the **Hero** and adopt the mindset of the **System D
 
 ### Fighting the Current (The Hero's Trap)
 
-It is important to say this: Trying to be a "Good Player" in a "Bad Game" is noble. But it is also exhausting, and often, it is a losing battle.
+Trying to be a "Good Player" in a "Bad Game" is noble. But it is also exhausting, and often, it is a losing battle.
 
 I know this because I have tried it. When I built my startup to digitize board games, I wanted to do it "the right way." I didn't want to use the aggressive monetization tactics that dominated the mobile market. I didn't want to use "dark patterns" or psychological triggers.
 
@@ -59,7 +59,7 @@ You see this everywhere:
 
 When you try to fight the current, you are playing on Hard Mode. You are swimming upstream against the gravity of the system.
 
-**Can you see how the system punishes the very behavior we claim to value?**
+The system punishes the very behavior we claim to value.
 
 The System Designer doesn't swim upstream. They redirect the river.
 
@@ -79,7 +79,7 @@ A speed bump is a physical constraint. It changes the environment. Now, if a dri
 
 The Designer didn't have to convince anyone. They didn't have to change the drivers' hearts. They changed the **Game**, and the behavior followed automatically.
 
-**Can you see how a simple physical constraint is more powerful than a thousand moral arguments?**
+A simple physical constraint is more powerful than a thousand moral arguments.
 
 ### The Necessity of the Swimmer
 

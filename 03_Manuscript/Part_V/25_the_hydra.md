@@ -80,7 +80,7 @@ So, a new dealer steps up.
 
 We have removed the **Player**, but we haven't touched the **Game**.
 
-But here is the danger. If we say, "Arresting dealers doesn't work, so let's stop doing it," we fall into a different trap. 
+The danger is subtle. If we say, "Arresting dealers doesn't work, so let's stop doing it," we fall into a different trap. 
 
 If you leave the dealer alone, he doesn't just stay a dealer. He makes money. A lot of money. 
 
@@ -96,9 +96,9 @@ A Mafia is just a gang that was allowed to compound. It has become part of the s
 
 ### The Dual Approach (Tylenol and Antibiotics)
 
-This brings us to the paralysis of modern politics. We are stuck in a false debate because we are confusing **Symptoms** with **Systems**.
+This creates the paralysis of modern politics. We are stuck in a false debate because we are confusing **Symptoms** with **Systems**.
 
-Recall the doctor analogy.
+Consider the doctor analogy.
 
 A patient goes to the hospital with a raging fever caused by a bacterial infection. They are shaking, sweating, and in pain.
 
@@ -131,7 +131,7 @@ In the context of crime, the **"Right"** often focuses on the **Symptoms**. They
 
 The **"Left"** often focuses on the **Systems**. They want to build schools, improve wages, and fix the inequality. They are the "Antibiotics." They can cure the infection, but it takes years. If you only focus on the long term, the patient (the community) might die from the fever (violence) before the cure takes effect. Or worse, the Mafia will burn down the new school or tax the construction workers.
 
-Interestingly, if you look at the economy, the roles often flip.
+If you look at the economy, the roles often flip.
 The **"Left"** tends to focus on the **Symptoms**: giving direct aid to those who are struggling right now (The Tylenol).
 The **"Right"** tends to focus on the **System**: creating jobs and strengthening the economy so that fewer people need aid in the future (The Antibiotics).
 

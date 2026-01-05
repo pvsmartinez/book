@@ -124,9 +124,9 @@ Every map is "wrong" because it is incomplete. But a good map is "useful" becaus
 
 ### How to Build a Model (Mapping Work-Life Balance)
 
-To understand how to do this yourself, let's walk through the process of mapping a system. We will use a relatable example: **The Work-Life Balance System**.
+To master this, we must walk through the process of mapping a system. We will use a relatable example: **The Work-Life Balance System**.
 
-Note that we are not mapping "Burnout." Burnout is just one possible state of this system. We are mapping the machinery that governs your daily life.
+We are not mapping "Burnout." Burnout is just one possible state of this system. We are mapping the machinery that governs your daily life.
 
 #### Step 1: Identify the Stocks (The Bathtubs)
 
