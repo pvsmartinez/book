@@ -48,13 +48,45 @@ This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure 
 
 ### The Metric is the Message
 
-In the world of education, the "Judge" is the standardized test. It is the metric that determines which schools are "good" and which students are "successful." 
+To the student, the Value Function looks like a single number: the score on the National University Entrance Exam.
 
-The problem isn't that testing is inherently evil. We need a way to measure progress. The problem is that **The Pattern**, the combination of Iteration and Selection, is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
+This number is the **Proxy**. It is supposed to represent "Knowledge" or "Potential," but in reality, it often just represents "Test-Taking Ability."
 
-If the test measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does. No one sat down and said, "Let's make sure our children don't know how to manage a bank account." It was an **emergent behavior**. Financial literacy wasn't on the test, so it wasn't "selected" for. 
+The problem isn't that testing is inherently evil. We need a way to measure progress. The problem is that **The Pattern** (Iteration + Selection) is so efficient that it will eventually optimize for *exactly* what is being measured.
 
-Over time, the schools themselves are filtered. The ones that focus on the exam thrive and expand; the ones that focus on "Life Skills" see their enrollment drop and are forced to adapt or close. The Pattern doesn't care about your intentions; it only cares about what survives the filter.
+If the Value Function measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does. No one sat down and said, "Let's make sure our children don't know how to manage a bank account." It was an **emergent behavior**. Financial literacy wasn't in the Value Function, so it wasn't selected for.
+
+Over time, schools themselves are filtered. The ones that focus on the exam thrive; the ones that focus on "Life Skills" see their enrollment drop. The Pattern doesn't care about intentions; it only cares about what survives the filter.
+
+### The Hierarchy of Judges
+
+But why is the exam the filter? Who decided that?
+
+If we look closer, we see that it isn't just one Value Function. It is a nested hierarchy of judges, each one filtering for the next level up.
+
+1.  **The Student** is judged by **The Exam**.
+    *   *Goal:* Get a high score to enter a good university.
+    *   *Proxy:* Memorization, speed, pattern recognition.
+
+2.  **The Exam** is judged by **The University**.
+    *   *Goal:* Select the "best" candidates efficiently.
+    *   *Proxy:* The University Admissions Department needs a way to filter 100,000 applicants down to 1,000. They can't interview everyone. They need a scalable filter. The Exam is their cheap, efficient sorting algorithm.
+
+3.  **The University** is judged by **The Employer**.
+    *   *Goal:* Maintain a reputation for producing high-value graduates so top companies keep recruiting there.
+    *   *Proxy:* Placement rates, starting salaries, and prestige.
+
+4.  **The Employer** is judged by **The Market (Profit)**.
+    *   *Goal:* Survival and growth.
+    *   *Proxy:* Quarterly earnings, stock price, efficiency.
+
+This hierarchy reveals the source of the "Exam Trap."
+
+If the Market (at the very top) rewards companies that are efficient, obedient, and error-free, then the Employer will optimize for those traits. They will pressure Universities to produce graduates who fit that mold. The Universities will then lean on Exams that filter for compliance and standardized thinking.
+
+Finally, the Student—at the bottom of the waterfall—is forced to optimize for a test that measures obedience, not because they want to be obedient, but because the entire chain of Value Functions above them demands it.
+
+We often blame the teachers for "teaching to the test," but they are just the final layer of a filter that starts on the trading floor of the stock exchange.
 
 ### The Elite Pivot
 

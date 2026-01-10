@@ -70,11 +70,15 @@ If you never gave the cookie, the dog would never learn. It would just guess. To
 The same applies to chess.
 You're learning to play. You move your knight forward. Your opponent takes it with a pawn you didn't see. You lose the piece. That loss is feedback. Your brain registers: "Don't leave pieces undefended."
 
-Next game, you protect your knight. But now you lose because you castled too late. More feedback. You try castling earlier. You lose because you pushed pawns too aggressively. Feedback again.
+Next game, you protect your knight. But this time you try something different. You Castle early. Now you lose because you castled too early into an attack. More feedback.
 
-Every loss is a lesson. Every blunder teaches you what NOT to do. But here is the catch: To learn, your next game *must* be different.
+Every loss is a lesson. But here is the catch: To learn, your next game *must* be different.
 
-If you play the exact same opening moves every time, and they keep getting countered, you will keep losing the same way. You need **Variance**.
+If we look at our adaptation engine, **Iteration** is the piston moving up and down. It is the movement, the repetition of the event. But **Variance** is the gasoline.
+
+If you have 1,000,000 Iterations but Zero Variance—if you play the exact same opening moves every time, and they keep getting countered—the result is Zero Adaptation. You are just a broken record. You will keep losing the same way forever.
+
+To adapt, you need fuel. You need **Variance**.
 
 You need to try something different. A new opening. A more aggressive style. A defensive trap. Most of these variations will fail. You'll lose your queen. You'll get checkmated in ten moves. But each failure is data.
 
