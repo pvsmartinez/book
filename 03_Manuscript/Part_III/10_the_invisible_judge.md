@@ -40,6 +40,12 @@ This is because there is a massive piece of the puzzle missing. The pattern is t
 
 If the "Engine" (Iteration + Variance) is the car, the **Value Function** is the road. It determines where the car can go and where it crashes.
 
+We borrow this term from mathematics and computer science. In those fields, a Value Function is a formula that looks at a complex situation and assigns it a single number—a "value."
+
+Think of a GPS. The world is a complex mess of roads, traffic, and weather. But the GPS boils it all down to one number: "Time to Destination." It then tries every possible route (Iteration) to minimize that number. It doesn't care about the scenery; it only cares about the minute count.
+
+That is what a Value Function does. It simplifies reality into a score so the system knows which way to go.
+
 ### The Invisible Judge
 
 The African Savanna does not hate the short-necked giraffe. It doesn't have a personal vendetta against the ones that can't reach the high leaves. The Savanna is simply an environment with a specific set of constraints: the food is high up, and there isn't enough of it for everyone.
