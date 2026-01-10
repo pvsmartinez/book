@@ -117,25 +117,3 @@ This boom-and-bust cycle isn't stupidity. It's what happens when the feedback is
 
 This is the fourth lever: **Clarity**. The cleaner the signal, the faster the pattern converges. The noisier the signal, the more it oscillates.
 
-### The Tuning Fork
-
-The pattern is not a fixed law of nature. It is a machine with dials.
-
-*   **Volume:** How many iterations are running? A swarm or a single bet?
-*   **Variance:** Is it safe to try something different? Or does fear freeze the system?
-*   **Latency:** Is the feedback instant, like a stove? Or delayed, like a diet?
-*   **Clarity:** Is the signal clean? Or buried in noise?
-
-This is why the world feels faster today.
-
-The internet turned publishing from an elephant (one book every few years) into a swarm (millions of posts per second). Social media compressed the feedback loop from months (wait for the newspaper review) to milliseconds (instant likes and comments). Digital tools made it cheap to fail—you can launch a product, watch it flop, and pivot by Tuesday.
-
-Volume, variance, latency, clarity—technology has cranked all four dials to the maximum. The pattern is running hotter than ever before in human history. This is why ideas spread faster, why trends burn out quicker, why everything feels more extreme.
-
-Once you see the levers, you can use them. If you're trying to learn something and progress feels stuck, check the dials. Are you getting enough iterations? Is it safe to fail? Is the feedback fast? Is the signal clear? Tuning these variables is often more powerful than "trying harder."
-
-The mosquitoes are fast. The virus is fast. But so is the startup pivoting every week. So is the meme spreading across the internet. So is the idea that captures a generation.
-
-The same engine, the same levers, running everywhere.
-
-Now we have the full picture. We've seen the pattern work through populations, through rivals, through individuals learning, through ideas spreading. We've seen what makes it run faster or slower. It's time to step back and see how all these pieces fit together—and why understanding this formula matters for everything from smartphones to athletes to the world outside your window.

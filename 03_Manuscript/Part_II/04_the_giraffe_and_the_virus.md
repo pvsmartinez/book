@@ -29,7 +29,7 @@
 
 The giraffe looks like a feat of engineering. It has a neck perfectly suited to reach the high leaves of the acacia tree, a heart powerful enough to pump blood up that long vertical climb, and a tongue tough enough to wrap around thorns. It looks like an engineer sat down, measured the tree, and built a machine to reach it.
 
-But there was no engineer. It was procedural generation.
+But there was no engineer. It was an accident. Or rather, millions of accidents.
 
 For a long time, we had a very intuitive, but wrong, idea of how this happened. We thought giraffes got long necks because they *tried* really hard. A short-necked giraffe would stretch and stretch to reach the leaves, and its neck would get a little longer. Then it would have a baby, and that baby would inherit that slightly longer neck.
 
@@ -43,6 +43,8 @@ The giraffes with the shortest necks couldn't reach the food. They didn't "learn
 
 Repeat this loop, this **Iteration**, for a million years. The "design" of the giraffe didn't come from the giraffe’s desire to reach the leaves. It came from the systematic deletion of everything that *wasn't* that giraffe. The tree didn't "teach" the giraffe to be tall. The tree "selected" the tall giraffes by killing the short ones.
 
+And here's a crucial reframe: the giraffe isn't really the thing being selected. The **gene** is. As Richard Dawkins argued in *The Selfish Gene*, organisms are just vehicles that genes use to copy themselves. The scoreboard in biology is reproduction: did this gene make it into the next generation? A gene that builds a giraffe that starves before reproducing doesn't get copied. A gene that builds one that eats, survives, and has babies does.
+
 This is the pattern in slow motion. It takes millions of years to grow a neck. But if you want to see the same mechanism running at the speed of light, you have to look at something much smaller.
 
 ### The Speed of the Virus
@@ -53,7 +55,13 @@ And yet, the virus kept winning.
 
 It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks, processes that take weeks or months, the virus was replicating billions of times per hour. It was evolution on fast-forward.
 
-The virus has a very simple "Value Function": **Spread**. When we introduced vaccines, we changed the environment. We built a wall. But the virus didn't stop. It just kept trying again. Most mutations failed. They were "dead ends." But when you try a billion random keys, eventually, one of them is going to fit the lock.
+And what is the virus optimizing for? Not killing. Not making you sick. **Spreading.**
+
+This is a crucial distinction. We often think of viruses as "trying" to harm us, but harm is just a side effect. The only thing that matters, from the pattern's perspective, is: did this virus make it to the next host? A virus that kills you instantly might feel more "dangerous," but it's actually less fit—if you die before you cough on anyone, that virus strain dies with you. A virus that keeps you walking around, mildly sick but still going to work, has a much better chance of spreading.
+
+This is why many viruses evolve to become *less* deadly over time. The strains that kill their hosts too quickly get selected out. The strains that keep their hosts alive and mobile get selected in. The virus isn't "being nice"—it's just that the scoreboard rewards contagion, not lethality.
+
+When we introduced vaccines, we changed the environment. We built a wall. But the virus didn't stop. It just kept copying itself, and every copy was slightly different. Most mutations failed. They were "dead ends." But when you try a billion random keys, eventually, one of them is going to fit the lock.
 
 That’s how we got Delta. That’s how we got Omicron. The virus "learned" the weakness in our defenses simply by throwing enough random attempts at the wall until one stuck. It didn't outsmart us; it **out-iterated** us.
 

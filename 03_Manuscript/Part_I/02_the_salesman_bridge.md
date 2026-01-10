@@ -44,38 +44,42 @@
 
 ### Draft
 
-When you picture a "Salesman," you likely see a specific archetype. Maybe a real estate agent, or a used car dealer. 
+When you picture a "Salesman," you likely see a specific archetype. Maybe a real estate agent, or a used car dealer.
 
-Chances are, you’re picturing someone charming. Someone with a firm handshake, a quick smile, and a way with words. Someone who can talk to anyone about anything. 
+Chances are, you’re picturing someone charming. Someone with a firm handshake, a quick smile, and a way with words. Someone who can talk to anyone about anything.
 
-Why? 
+Why?
 
-Did every salesperson in the world go to the same secret university? Did they all meet in a dark room in 1950 and decide, "Okay, from now on, we will all be charming and extroverted"? 
+Did every salesperson in the world go to the same secret university? Did they all meet in a dark room in 1950 and decide, "Okay, from now on, we will all be charming and extroverted"?
 
 Of course not. That’s a conspiracy theory. The reality is much simpler. And much more powerful.
 
-It’s the **Environment**. 
+It’s the **Environment**.
 
-Thousands of people try to become salespeople. Some are shy. Some are rude. Some are charming. Some are aggressive. They all go out into the world and try to sell. This is the **Test**. 
+Thousands of people try to become salespeople. Some are shy. Some are rude. Some are charming. Some are aggressive. They all go out into the world and try to sell. This is the **Test**.
 
 The "shy" person knocks on a door. Their heart is racing. They mumble their pitch, look at their shoes, and apologize for taking up the customer's time. The customer, sensing the lack of confidence, says "No thanks" and closes the door. After a few months of no commission and an empty bank account, the shy person quits. They aren't a "bad" person; they just weren't a fit for that specific environment. They were like a fish trying to climb a tree. They go and become an accountant, where their quiet focus is a superpower.
 
-The "rude" person insults a client’s intelligence, gets a complaint filed against them, and is fired by noon. 
+The "rude" person insults a client’s intelligence, gets a complaint filed against them, and is fired by noon.
 
-But the "charming" person? They make the sale. They get a commission. They get a pat on the back from the boss. They stay in the game. 
+But the "charming" person? They make the sale. They get a commission. They get a pat on the back from the boss. They stay in the game.
 
 Over time, the "Salesman Archetype" emerges. Not because anyone designed it, but because the environment **filtered out** everyone who didn't fit. The charm isn't a personality trait; it's a survival mechanism. It is the standard.
 
-This happens on an individual level, too. A new salesperson tries a pitch. It fails. They feel the sting of rejection. They try a slightly different joke next time. The client laughs and buys. The salesperson’s brain registers the win. "Do more of that," it says. 
+This happens on an individual level, too. A new salesperson tries a pitch. It fails. They feel the sting of rejection. They try a slightly different joke next time. The client laughs and buys. The salesperson’s brain registers the win. "Do more of that," it says.
 
-This is not a conspiracy. It is **Selection**. 
+This is not a conspiracy. It is **Selection**.
 
-The environment (the need to sell) selects for a specific set of traits (charm, persuasion). And over time, those traits become the "standard." 
+The environment (the need to sell) selects for a specific set of traits (charm, persuasion). And over time, those traits become the "standard."
 
-Now, imagine this same process happening not just to salespeople, but to politicians. To CEOs. To viruses. To the algorithms on your phone. 
+Salesmen are all being shaped by their environments. As time passes, more of them will fit this profile. That is, as long as the environment filters for these values.
 
-They are all being shaped by their own environments. They are all being "selected" by a judge they can't see. 
+In this book, I will argue that this same process of adaptation and selection happens naturally in all aspects of our lives, from salespeople, politicians, and CEOs to non-living entities like viruses, mobile phone algorithms, and ideas.
 
-But how does this selection actually work? What are the gears turning inside this pattern? 
+In the next few chapters, I’ll show you how this pattern runs through biology, algorithms, and ideas. We'll explore how the process works and what makes it speed up or slow down.
 
-We need to look at the code. 
+Then, we’ll see how the direction of adaptation is not always the one we intended, and why understanding the true direction is a matter of survival. Finally, we’ll look at the long-term effects of this pattern and how to use this knowledge to act upon the systems around us.
+
+But how does this selection actually work? What are the gears turning inside this pattern?
+
+Let's take a look.

@@ -43,9 +43,19 @@
     *   *Ban:* "I’m just someone who likes to build things—software, companies, games—and watch what happens."
     *   *Why:* Using em dashes to insert a list in the middle of a sentence feels artificial and robotic.
     *   *Fix:* Break it into two sentences or use simple commas if the list is short. "I like to build things like software, companies, and games. I watch what happens..."
+6.  **Earn Your Statements:**
+    *   *Ban:* Circular explanations like "Innovation happens because people innovate." or "Nations fail because they fail."
+    *   *Ban:* Truth statements without explanations. If a statement is not obvious, it needs to be explained.
+    *   *Rule:* Every outcome must be traced back to the mechanism. "Innovation happens because the environment rewards variance."
 
 ### ✅ CRITICAL DO'S
-1.  **Narrative Transitions:**
+1.  **The "Lens" Rule (Builder vs. Physicist):**
+    *   *Concept:* You are not discovering Newtons Laws. You are a builder noticing a pattern in the blueprints.
+    *   *Ban:* "This is not a metaphor. It is a law." / "It works exactly like gravity." / "This is the equation of the universe."
+    *   *Do:* "It feels less like a metaphor and more like a mechanic." / "We can see the same logic playing out." / "To a system designer, these look identical."
+    *   *Tone:* Observational, not Absolute. "I noticed X" is better than "X is true."
+
+2.  **Narrative Transitions:**
     *   *Strategy:* Connect ideas directly. Let the end of one paragraph naturally lead to the start of the next.
     *   *Example:* Instead of "To understand this, look at the cheetah," say "The cheetah is nature's lesson in trade-offs."
 2.  **Directness:**

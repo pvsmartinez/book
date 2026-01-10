@@ -26,7 +26,7 @@
 
 ### Draft
 
-In the last chapter, the tree was static. It didn't fight back. But in the real world, the environment is rarely a stationary target. The environment is usually made of other players who are also trying to win.
+An acacia tree is a static target. It doesn't fight back. But in the real world, the environment is rarely stationary. The environment is usually made of other players who are also trying to win.
 
 In *Alice in Wonderland*, the Red Queen tells Alice: "Now, here, you see, it takes all the running you can do, to keep in the same place."
 
@@ -53,9 +53,12 @@ In the novel *The Leopard*, there is a line that captures this perfectly: **"If 
 In an arms race, "staying the same" is not an option. If you stay the same, you fall behind, because everyone else is moving.
 
 We see this cat-and-mouse game everywhere.
-In agriculture, it is the "Pesticide Treadmill." A farmer sprays a new poison. It kills 99% of the bugs. But the 1% that survive have a random mutation that makes them resistant. They reproduce, and suddenly the farmer is facing a population of "super-bugs." The farmer invents a stronger poison, which only breeds a stronger bug. It's like fixing a leak in a dam, only for the water to burst through a new crack the next day.
 
-The same logic applies to Cops and Robbers, or Hackers and Security Experts. Better locks lead to better lockpicks. Better anti-virus software leads to more sophisticated malware. Better laws lead to more creative loopholes.
+Consider the eternal dance between Cops and Robbers. In medieval times, a locked door was enough to stop most thieves. Then someone invented the lockpick. So locksmiths made better locks. So thieves made better picks. Today, high-security vaults use biometrics, reinforced steel, and 24-hour surveillance—and sophisticated criminals use social engineering, insider access, and cyber attacks. The complexity on both sides has exploded, but neither side has "won." They are both running harder than ever just to stay in the same relative position.
+
+The same pattern drives cybersecurity. Every new antivirus creates pressure for more sophisticated malware. Every new firewall creates pressure for more creative hacking techniques. Every new law creates pressure for more inventive loopholes. The players change, the technology changes, but the arms race never ends.
+
+In agriculture, farmers discovered this with pesticides. A new poison kills 99% of the insects, but the 1% that survive pass their resistance to the next generation. Stronger poison, stronger bugs. We'll see more of this "Pesticide Treadmill" when we discuss the speed of the pattern later.
 
 In an Arms Race, iteration is no longer a solo performance. It is a duet. Every "improvement" you make is actually a change to the environment of your rival. You aren't just solving a problem; you are creating a new problem for someone else, who will then iterate to solve it, creating a new problem for you.
 

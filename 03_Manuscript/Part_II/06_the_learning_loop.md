@@ -26,9 +26,9 @@
 
 ### Draft
 
-**The Pattern** shapes populations over millions of years and drives rivals to race against each other. But the most intimate version of this mechanism is the one running inside your own head right now.
+The pattern shapes populations over millions of years and drives rivals to race against each other. But the most intimate version of this mechanism is running inside your head right now.
 
-We call it **Learning**.
+We call it learning.
 
 When you were a child learning to walk, you didn't read a manual. You didn't attend a lecture on the physics of balance. You simply iterated. You stood up, you fell down. Your brain received a massive amount of data: "That angle was too steep," "That muscle was too weak." Your brain then "selected" the movements that didn't result in a face-plant and "deleted" the ones that did.
 
@@ -40,7 +40,7 @@ If a school only had one big exam at the end of the year, the **Iteration Rate**
 
 This is why teachers use homework, in-class exercises, and group projects. These aren't just "extra work"; they are intentional design choices to create smaller, faster cycles of iteration. A homework assignment is a low-stakes "Selection" event. It tells the student (and the teacher) exactly what isn't working while there is still time to change the "code." The more homework and exercises you have, the more chances your brain has to iterate before the final "Filter" of the exam.
 
-The gold standard for this kind of design is the video game. In a well-designed game, the iteration rate is near-instant. You jump, you miss the platform, you die, and you restart, all within seconds. Your brain is getting thousands of "Selection" events per hour. This is why a teenager can master a complex system of mechanics in a weekend that would take months to learn in a classroom. It’s not that they are smarter; it’s that the game designer has revved their mechanism to the redline. The cost of failure is zero because the respawn time is instant.
+The gold standard for this kind of design is the video game. In a well-designed game, the iteration rate is near-instant. You jump, you miss the platform, you die, and you restart, all within seconds. Your brain is getting thousands of "Selection" events per hour. This is why a teenager can master a complex system of mechanics in a weekend. This instant feedback not only give instant gratification, but also speeds up iteration process, which in turn speeds up learning curves.
 
 However, there is a catch. The mechanism only works if the feedback is clear.
 
@@ -52,7 +52,13 @@ Take stock picking or geopolitical forecasting. You can make a "move" (buy a sto
 
 When the feedback loop is broken or takes years to close, the mechanism stalls. You can spend 10,000 hours doing it and never actually become an expert.
 
-This is a crucial distinction made by psychologist **Anders Ericsson**, the father of the "10,000 Hour Rule." He argued that simply doing something for a long time isn't enough. You need **Deliberate Practice**. This is just another name for a tight, high-quality feedback loop. Without it, you aren't learning; you're just reinforcing bad habits.
+You've probably heard of the "10,000 Hour Rule"—the idea that you need 10,000 hours of practice to become world-class at something. It's become a pop-culture mantra. But the rule is often misunderstood.
+
+The research behind it, by psychologist Anders Ericsson, wasn't saying that *any* 10,000 hours would work. A taxi driver might spend 30,000 hours behind the wheel and never become a racing champion. A chess player might play casual games for decades and never reach master level. The hours only count if the feedback loop is tight.
+
+Ericsson called this **Deliberate Practice**—practice that is focused, challenging, and most importantly, accompanied by immediate, clear feedback. A chess player reviewing their games with an engine. A musician recording themselves and listening back. A surgeon getting instant feedback when something goes wrong on the table.
+
+Without that feedback, you aren't learning; you're just reinforcing whatever you're already doing—good or bad.
 
 This creates a dangerous illusion. We think we are iterating because we are busy, but if the feedback is delayed or noisy, we are flying blind.
 
