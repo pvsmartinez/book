@@ -39,40 +39,34 @@ But organic systems—markets, cultures, ecosystems—are different. They are **
 
 This is **Systemic Drift**.
 
-### From Gas to Stability
-
-Think about the early universe. In the beginning, there was just gas, heat, and chaos. Particles were bouncing off each other randomly. There was no "structure."
-
-But there was a pattern: Gravity.
-Slowly, over billions of years, the slight "bias" of gravity caused particles to clump together. These clumps became heavy enough to attract more particles. They became stars, then galaxies, then planets.
-
-The system "drifted" from a state of chaos to a state of **Stable Configuration**. 
-
-Once a planet forms, it is very hard to un-form it. It has reached a state of stability where the forces holding it together are stronger than the forces tearing it apart.
-
-Human systems follow the same physics. In the beginning of a new industry or a new nation, things are chaotic and fluid. There are many competing players and many ways to win. But over time, the "gravity" of the Value Function pulls the system into a specific shape. Winners emerge, rules solidify, and the system finds a "Stable Configuration."
-
-The problem is that "Stable" does not mean "Good." A monopoly is a stable configuration. A dictatorship is a stable configuration. A polarized two-party gridlock is a stable configuration.
-
 ### The Drift of the Goal
 
-The most dangerous part of this process is that the **Goal** of the system often drifts along with the structure.
+A critical aspect of this process is that the **Goal** of the system often drifts along with the structure.
 
 We usually start with a noble intention. 
-**Goal:** "We want to educate children."
-**Metric:** "Let's use test scores to measure progress."
+**Goal:** "We want to help people find information."
+**Metric:** "Let's use keywords and time-on-site to measure relevance."
 
-At first, this works. The test scores correlate with education. The system optimizes for the metric.
+At first, this works. The best articles rise to the top. The system optimizes for the metric.
 
-But as the system stabilizes, the actors inside it get smarter. They realize that the "Judge" isn't checking for "Education"; the Judge is checking for "Test Scores." 
+But as the system stabilizes, the actors inside it get smarter. They realize that the "Judge" (the Search Engine) isn't checking for "Quality"; it is checking for "SEO Signals."
 
-Teachers start teaching to the test. Schools cut recess to add more test prep. Students stop learning curiosity and start learning memorization.
+Consider the modern recipe blog.
+You want to know how to cook a lasagna.
+The goal of the search engine is to give you the recipe.
+But the goal of the website is to keep you on the page to show you adds.
 
-The system is still "optimizing." It is becoming more and more efficient every year at producing high test scores. But it has **drifted**. The original goal (Education) has been replaced by the proxy (Scores). The system has calcified around the wrong objective.
+So, instead of a recipe, you get a 2,000-word essay about the author's childhood in Tuscany, the smell of rain in autumn, and the philosophy of wheat. The actual recipe is buried at the very bottom.
+
+Why? because the system rewards **Length** (Time on Page) and **Keywords**.
+
+The creators aren't evil; they are just playing the game. If they posted just the recipe, the algorithm would penalize them for "thin content," and you would never find them. To survive, they *must* drift away from the user's need (simplicity) and toward the system's metric (engagement).
+
+The system is still "optimizing." It is becoming more and more efficient every year at producing content that ranks high in search. But it has **drifted**. The original goal (Utility) has been replaced by the proxy (Rank). The system has calcified around the wrong objective.
 
 ### Case Study: The Venture Capital Drift
 
-To see this in high resolution, look at the evolution of Venture Capital.
+We see this in high resolution in the evolution of Venture Capital.
 
 **Phase 1: Innovation (The Origin)**
 In the 1970s, VC was designed to bridge a gap. Banks wouldn't lend to risky ideas, so VCs stepped in. The goal was to find a "Crazy Idea," build a product, and sell it for a profit. The Value Function was aligned with the **End User**.

@@ -1,4 +1,4 @@
-## Chapter 21: Thresholds and Breakpoints
+## Chapter 19: Thresholds and Breakpoints
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
@@ -33,7 +33,7 @@ To understand why systems suddenly break or suddenly become dominant, we have to
 
 ### The RPG Math
 
-In a Role-Playing Game (RPG), imagine your character deals 10 points of damage with every swing of their sword. You are fighting an enemy with 30 hit points. 
+In a Role-Playing Game (RPG), consider a character that deals 10 points of damage with every swing of their sword. You are fighting an enemy with 30 hit points. 
 
 The math is simple: it takes you **three hits** to win the fight.
 

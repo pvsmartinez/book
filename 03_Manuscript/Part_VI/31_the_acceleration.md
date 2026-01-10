@@ -1,4 +1,4 @@
-## Chapter 32: The Acceleration
+## Chapter 31: The Acceleration
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>

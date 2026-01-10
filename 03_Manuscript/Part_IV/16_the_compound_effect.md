@@ -55,8 +55,6 @@ Generation after generation, the error compounded. We optimized for specific tra
 
 Time took a functional, resilient predator and turned it into a specialized, fragile companion. The Pug is the "Winner" of the Human Value Function, even if it would last five minutes in the wild.
 
-To understand why this happens, visualize the landscape. 
-
 In Systems Theory, we map these outcomes on a **Fitness Landscape**. This is a graph where the highest peaks represent the best possible solutions (Global Maxima) and the valleys represent failure. The goal of evolution is to climb the highest peak. 
 
 But there is a problem: The Pattern is blind. It doesn't have a map. It only follows a simple rule: "If the next step is higher, take it." 

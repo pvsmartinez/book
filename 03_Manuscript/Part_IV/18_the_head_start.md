@@ -117,6 +117,6 @@ Over time, this creates a world where the winners keep winning, not necessarily 
 
 The "Judge" stops measuring the runner and starts measuring the head start.
 
-**No system exists in a vacuum.** When we analyze a system, we must always check for the Head Start because every system inherits the results of previous iterations or external systems. The inequality we see isn't necessarily "created" by the current game; it might be the accumulated score of the previous one.
+This compounding doesn't just grow the numbers; it changes the nature of the system itself. As we saw with the Cheetah, highly optimized systems become fragile. And as we will see next, when a system compounds towards a single metric for too long, the **Value Function itself begins to mutate**.
 
 The Head Start is not a bug; it is a feature of compounding. Without a mechanism to redistribute the momentum, the system will naturally drift towards inequality, not because it is evil, but because it is mathematical.

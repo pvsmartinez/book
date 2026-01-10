@@ -1,4 +1,4 @@
-## Chapter 18: The Cheetah's Dilemma
+## Chapter 17: The Cheetah's Dilemma
 
 <details>
 <summary><strong>Chapter Outline & Blocking</strong></summary>
@@ -46,7 +46,7 @@ The Cheetah didn't "choose" to be weak. It simply followed the feedback loop of 
 
 ### The Traffic Paradox
 
-When the car was first introduced, it was the ultimate optimization for **Individual Mobility**. It promised freedom. It promised speed. It promised that you could live in a quiet suburb and work in a bustling city, and the car would bridge the gap in minutes.
+When the car was first introduced, it was a pure optimization for **Individual Mobility**. It promised freedom. It promised speed. It promised that you could live in a quiet suburb and work in a bustling city, and the car would bridge the gap in minutes.
 
 For the first few users, this was true. The optimization worked.
 
