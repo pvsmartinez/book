@@ -17,9 +17,9 @@ This file defines the specific vocabulary and theoretical framework of "The Patt
 ## 2. The Judge (The Value Function)
 **Definition:** The mathematical reality of what the system selects for.
 
-*   **Metaphor:** The Value Function is the **Road + The Lap Counter**.
-    *   **The Road (Constraints):** The environment (straight, curvy, muddy) determines *what is possible*. A straight road favors dragsters; a curvy road favors F1 cars.
-    *   **The Lap Counter (The Metric):** The rule of the game (speed, efficiency, style). Without the counter, there is no race (no selection).
+*   **Metaphor:** The Value Function is the **Track + The Ruleset**.
+    *   **The Track (Constraints):** The environment (straight, curvy, muddy) determines *what is possible*. A straight road favors dragsters; a curvy road favors F1 cars.
+    *   **The Ruleset (The Lap Counter):** The rule of the game (speed, efficiency, style). Without the rules, there is no race (no selection).
     *   **Selection:** Optimization only happens at the intersection of the two.
 *   **The Equation:** It is the net sum of all incentives, constraints, punishments, rewards, and structural physics of the system.
     *   *Example:* If a company says "Quality is Job 1" (Stated Goal) but pays bonuses for "Speed" (Incentive), the **Value Function** is optimizing for Speed.

@@ -12,10 +12,9 @@ Imagine a race.
     *   A rocky road favors suspension and durability (Rally/Off-road).
 
 2.  **The Lap Counter (The Metric/Rule):** This is the rule of the game. What determines the "Winner"?
-    *   **Rule:** "Fastest time." -> Optimization: Speed.
-    *   **Rule:** "Most fuel efficient." -> Optimization: Prius/Hyper-miler.
-    *   **Rule:** "Most style points." -> Optimization: Drifting.
-    *   **Rule:** "Longest distance without breaking." -> Optimization: Reliability (Toyota).
+    *   **Rule:** "Open Engineering." -> Optimization: Best Mechanics/Tech.
+    *   **Rule:** "Duration: 24h." -> Optimization: Endurance Drivers/Reliability.
+    *   **Rule:** "Distance: 100m." -> Optimization: Reaction Time/Explosion.
 
 ## The Selection Pressure
 
