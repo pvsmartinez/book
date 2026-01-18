@@ -43,17 +43,17 @@ But in a compounding world, the race doesn't reset every lap. History accumulate
 
 This is the power of the **Buffer**. 
 
-Take two people, Ana and Bruno. Both are equally talented, equally hard-working, and both manage to save $1,000 every month. The only difference is that Ana starts with a "seed," such as a small inheritance or a gift of $100,000. Bruno starts at zero. 
+Take two people, Ana and Bruno. Both are equally talented, equally hard-working, and both manage to save \$1,000 every month. The only difference is that Ana starts with a "seed," such as a small inheritance or a gift of \$100,000. Bruno starts at zero. 
 
 In a country like Brazil, we have a high interest rate called the **Selic rate**. In late 2025, it sits around 15% per year (at the time of writing). This is the "speed" at which money replicates in this environment.
 
-After ten years, the gap is already clear. Bruno has saved $120,000, which has grown with interest to about $243,000. Ana, however, had her $100,000 "buffer" working for her from day one. Her total is now nearly $650,000. 
+After ten years, the gap is already clear. Bruno has saved \$120,000, which has grown with interest to about \$243,000. Ana, however, had her \$100,000 "buffer" working for her from day one. Her total is now nearly \$650,000. 
 
-A $400,000 gap is significant, but it’s still within the realm of human imagination. But look what happens when we look at the next generation: their grandchildren. 
+A \$400,000 gap is significant, but it’s still within the realm of human imagination. But look what happens when we look at the next generation: their grandchildren. 
 
-If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno’s disciplined savings have grown to a respectable $86 million. But Ana’s "seed," because it had those extra decades to compound, has turned her fortune into nearly $195 million. 
+If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno’s disciplined savings have grown to a respectable \$86 million. But Ana’s "seed," because it had those extra decades to compound, has turned her fortune into nearly \$195 million. 
 
-The part that stands out isn't just the total. It's that Ana's initial $100,000 "seed" alone grew to $108 million, which is more than Bruno's entire lifetime of labor and savings combined. Ana is more than twice as wealthy as Bruno, not because she worked twice as hard, but because she was **in front** at the start. The system’s Value Function rewarded her "buffer" more than it rewarded their collective lifetime of labor. 
+The part that stands out isn't just the total. It's that Ana's initial \$100,000 "seed" alone grew to \$108 million, which is more than Bruno's entire lifetime of labor and savings combined. Ana is more than twice as wealthy as Bruno, not because she worked twice as hard, but because she was **in front** at the start. The system’s Value Function rewarded her "buffer" more than it rewarded their collective lifetime of labor. 
 
 The "Selic Rate" isn't a law of physics like gravity. It is a rule of the track set by the "Judges" (the central bank, the government). This is neither "good" nor "bad" in a moral sense; it is simply the math of the system. But once that rule is set, the math of compounding takes over and creates these structural outcomes regardless of individual intent.
 

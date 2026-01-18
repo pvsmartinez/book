@@ -20,8 +20,9 @@ def process_math(content):
         return f'<img class="math-formula" src="{img_url}" alt="{latex}">'
 
     # Matches $...$ but not escaped \$
-    # This is a basic regex, might need refinement for complex cases
-    pattern = r'(?<!\\)\$([^\$]+)\$'
+    # We restrict to [^\$\n]+ to ensure we don't match across lines (handling missing closing $)
+    # This assumes inline math is always on a single line.
+    pattern = r'(?<!\\)\$([^\$\n]+)\$'
     return re.sub(pattern, replace_math, content)
 
 if __name__ == "__main__":

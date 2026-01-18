@@ -64,7 +64,7 @@ We see the exact same pattern in entertainment. The difference between a Movie a
 
 **The Cinema Track**
 For decades, the "Gold Standard" was the Theater. The track is a dark room where you are stuck for two hours.
-The Ruleset is **The Ticket Sale**. To win, the studio needs to generate enough hype to get you to drive to the theater and pay $15.
+The Ruleset is **The Ticket Sale**. To win, the studio needs to generate enough hype to get you to drive to the theater and pay \$15.
 This specific combination creates a massive selection pressure for **The Promise**. It doesn't matter if the movie is good; it matters if the *Trailer* is good. This environment breeds the **Blockbuster**: massive marketing budgets, famous stars, and explosive concepts that look good on a poster. It favors "safe" bets, because if the promise fails, the studio loses millions.
 
 **The Streaming Track**
