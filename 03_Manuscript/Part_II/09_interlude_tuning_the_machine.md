@@ -40,7 +40,7 @@ One of the key skills we need to have is the ability to spot the pattern, and br
 
 The direction the pattern is leaning towards will be discussed in the next part of the book, but knowing when and where the pattern applies is essential.
 
-The first mistake we tend to make is thinking something is optimizing for a metric, but it is for the other.
+The first mistake we tend to make is thinking something is optimizing for one metric, but it is optimizing for another.
 The first thing we need to diagnose is the Iteration quality.
 What are the actions being made? At which speed and variance? What is the feedback? Is that the true feedback that matters? Does this feedback actually filter something?
 
@@ -71,7 +71,7 @@ Taking a million shots doesn't help if you take the exact same shot every time. 
 But Variance is scary. In the wild, a "wrong" mutation means death. In a corporation, a "wrong" project means getting fired.
 So, naturally, we minimize it. We play it safe. We stop iterating.
 
-As we discussed, the pattern needs variance to get different results and therefore adapt. Then, the more variance the faster we will adapt. But it's really easy for this lever to be extinguished, as things optimize they tend to lock in.
+As we discussed, the pattern needs variance to get different results and therefore adapt. The more variance, the faster we will adapt. But it's really easy for this lever to be extinguished, as things optimize, they tend to lock in.
 
 To tune this lever, you don't just "try crazy things." You **lower the cost of failure**. You create a safety net so that the variance is cheap. If the cost of checking a new path is high (e.g., "If I fail, I lose my job"), you will walk the beaten path forever.
 

@@ -54,11 +54,11 @@ But today, somewhere along the way, the silence disappeared.
 
 It feels like someone turned the volume knob on the world from a 4 to an 11, and then broke the knob off.
 
-I feel it, and I know you feel it too. It’s a specific kind of exhaustion.
+I feel it, and I know you feel it, too. It’s a specific kind of exhaustion.
 
 By 2010, the headlines started getting a bit louder. We had the Great Recession, the sudden rise of social media, and a feeling that things were moving faster than we could process.
 
-By 2020, the volume was at a deafening roar. A global pandemic, trillion-dollar companies, and political divisions that felt less like "disagreements" and more like "civil wars."
+By 2020, the volume was a deafening roar. A global pandemic, trillion-dollar companies, and political divisions that felt less like "disagreements" and more like "civil wars."
 
 It’s easy to look at this chaos and think the world is breaking. That things are falling apart. Politics doesn't just feel like a disagreement anymore; it feels like a war where the soldiers are your neighbors. Wealth doesn't just feel unequal; it feels impossible, with numbers so large they stop making sense. Our attention spans have been shattered into 15-second clips, and we sit there, scrolling, feeling both overstimulated and numb at the same time.
 

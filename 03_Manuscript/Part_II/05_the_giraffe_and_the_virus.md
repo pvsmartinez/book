@@ -25,7 +25,7 @@
 
 ---
 
-For centuries, humans thought evolution had some intent behind it. We thought that a species wanted/tried to evolve in a certain way, and therefore passed those traits to their children.
+For centuries, humans thought evolution had some intent behind it. We thought that a species wanted or tried to evolve in a certain way, and therefore passed those traits to their children.
 
 But this is not the truth. Evolution does not happen by intent, but by selection. Just as learning follows the pattern, evolution or adaptation follows the same rules.
 

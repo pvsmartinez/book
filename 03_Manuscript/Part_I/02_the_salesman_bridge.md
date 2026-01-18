@@ -80,7 +80,7 @@ This is **Agency** in action. The salesperson is making choices, learning from i
 
 But notice the accumulation.
 
-Over decades, millions of salespeople ran millions of intuitive experiments. The bad strategies, insulting the client, staring at the floor, over-explaining the product, acted as a filter. The people who used them left the profession. Their "knowledge" died with their careers.
+Over decades, millions of salespeople ran millions of intuitive experiments. The bad strategies (insulting the client, staring at the floor, over-explaining the product) acted as a filter. The people who used them left the profession. Their "knowledge" died with their careers.
 
 The strategies that worked were kept. They were codified. They were written down in books like *How to Win Friends and Influence People*.
 
@@ -98,16 +98,16 @@ If customers loved rude, aggressive arguments, then the "Best Sales Course in th
 
 We think we are learning skills, but really, we are downloading the patch notes of previous generations. We are standing on a mountain of failed experiments, using only the tools that survived.
 
-It's important to notice that each salesman just wanted to survive, to profit. And as they learned, succeeded and failed, this knowledge was passed through generations. It was not something intentional, but this behavior was selected. This behavior was optimized.
+It's important to notice that each salesman just wanted to survive, to profit. And as they learned, succeeded, and failed, this knowledge was passed down through generations. It was not something intentional, but this behavior was selected. This behavior was optimized.
 
 This explains why the world feels the way it does.
 It explains why every modern movie trailer looks the same.
 It explains why every smartphone looks like a rectangular sheet of glass.
 
-Every process, with agency or without, with consciousness or without, just by selection and accumulation, over time, becomes optimized and fitted for what is being truly evaluated.
+Every process, with agency or without, with consciousness or without, just by selection and accumulation, over time, becomes optimized and fitted to what is being truly evaluated.
 
 **This is the Pattern.**
 
-First I will try to prove to you this process happens everywhere. Then we will look into the effects of the selection and accumulation themselves, and by the end of the book, we will discuss how to use this knowledge to change how things are evolving.
+First, I will try to prove to you this process happens everywhere. Then we will look into the effects of the selection and accumulation themselves, and by the end of the book, we will discuss how to use this knowledge to change how things are evolving.
 
 Shall we begin?

@@ -24,25 +24,25 @@ A tennis player swings the racket.
 A meme spreads across Twitter.
 
 Hopefully, I've convinced you to see these seemingly unrelated topics through the same lens.
-The specifics of how they work each might be different, but the mechanics of the system, is similar.
+The specifics of how each works might be different, but the mechanics of the system are similar.
 They all adapt and evolve under the same pattern.
 
-To drive the point home, I would to show that this is **Scale Independent**. Given enough iterations, with variance, over a filter, adaption occurs, and with it, the pattern repeats.
+To drive the point home, I would like to show that this is **Scale Independent**. Given enough iterations, with variance, over a filter, adaptation occurs, and with it, the pattern repeats.
 
 It doesn't just work on the Micro scale (Genes) or the Human scale (Memes). It works on the Macro scale (Civilizations).
 
 ### The Corporate Survival
 
-The pattern appears in many flavour for companies, but a simple one could be about money and survival.
-Think of money as Calories. It the company runs out, it will starve. Therefore, a company, in the end is being filtered by profit.
+The pattern appears in many flavors for companies, but a simple one is about money and survival.
+Think of money as Calories. If the company runs out, it will starve. Therefore, a company, in the end is being filtered by profit.
 
-Profit isn't the goal of the company (It can be the goal, but necessarely), just as food is not the goal of a lion. Profit is the energy required to play the next round of the game. 
+Profit isn't the goal of the company (It can be the goal, but not necessarily), just as food is not the goal of a lion. Profit is the energy required to play the next round of the game. 
 
 Of course there are other factors that define which companies survive, and some exceptions that even allow companies to exist without profit (we will see some examples on Part IV), but in general, no money means no company.
 
 Companies will sell their products and services, they will cut costs, they will organize themselves in different patterns.
 
-In this optics, the Market is the environment. The company, the vehicle in which different products act as the genes, or different comporate structure as the memes.
+In this view, the Market is the environment. The company, the vehicle in which different products act as the genes, or different corporate structures as the memes.
 
 In the early 20th century, the environment selected for raw efficiency. The "winning mutation" was Fordism. Mass production. Consistency. Scale. This meme spread across the world because it worked. It helped companies survive.
 
@@ -56,7 +56,7 @@ A mediocre product with brilliant distribution often beats a superior product wi
 
 You have millions of companies, trying different strategies (Variance) with different grades of success (Feedback), inspiring the next companies (Iterations). This means over time the companies adapt.
 
-The same logic was applied for prices in products. Some sell, others don't. Following offer and demand, with enough iterations the prices converge, they adapt.
+The same logic applies to product prices. Some sell, others don't. Following supply and demand, with enough iterations the prices converge, they adapt.
 
 ### The Wealth of Nations
 
@@ -90,11 +90,11 @@ It is that one system is a **Learning Machine** and the other is a **Control Mac
 A dictatorship is a nation trying to evolve using only one brain, while an inclusive nation evolves with millions.
 Over the long run, the system that processes more variance always wins.
 
-The book has several nuances for how and why those happen, appear or die, so again, I highly recommend the reading. But the system os inclusive well established institutions in the even is the one that enables more iteration with higher variance, therefore enabling adaptation for what filters nations, that in the end is prosperity and the life of it's citizens.
+The book has several nuances for how and why those happen, appear or die, so again, I highly recommend the reading. But the system of inclusive, well-established institutions is the one that enables more iteration with higher variance, therefore enabling adaptation to what filters nations, which in the end is prosperity and the lives of its citizens.
 
 ### The Fractal
 
-A fractal is a type of mathematical shape where independent of zoom in or zoom out, you may see a pattern that repeats forever. Doesn't matter the part of the fractal you zoom in or out, you will the the same pattern again, and again.
+A fractal is a type of mathematical shape where, independent of zooming in or out, you see a pattern that repeats forever. It doesn't matter which part of the fractal you zoom in or out, you will see the same pattern again, and again.
 
 And we can see the invisible pattern at all scales. From the gene, to the meme, from institutions, to products prices, from individual mastery to generational science.
 

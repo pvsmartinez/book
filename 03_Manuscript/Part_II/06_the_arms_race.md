@@ -30,7 +30,7 @@ We often think of adaptation like this. We imagine the environment as a fixed pu
 
 But in the real world, the environment is rarely that passive. The environment is usually made of other players who are also trying to win.
 
-So depending on how you react to the environment, the environment changes with you. The same action might not deliver the same feedback over time.
+So, depending on how you react to the environment, the environment changes with you. The same action might not deliver the same feedback over time.
 
 Consider the cheetah and the gazelle. 
 

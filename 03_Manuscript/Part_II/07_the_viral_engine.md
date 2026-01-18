@@ -37,13 +37,13 @@ In Chapter 5, we discussed Richard Dawkins' concept of the "Selfish Gene"—the 
 
 But Dawkins didn't stop at biology. In 1976, he asked a radical question: Does this mechanism require DNA? Or is DNA just one type of hardware that runs the software of evolution?
 
-He proposed that the mechanism of selection that happens in genetics also happens with ideas. If a gene is using the bodies of its hosts as vehicles, an idea uses the minds. An idea, a concept that is thought through generations, that is shared through social media, is the new unit of replication, the **Meme**.
+He proposed that the mechanism of selection that happens in genetics also happens with ideas. If a gene is using the bodies of its hosts as vehicles, an idea uses the minds. An idea—a concept developed through generations, shared through social media—is the new unit of replication, the **Meme**.
 
 In the biological world, the Gene builds a Body to survive. The body is the vehicle. It walks, eats, and protects the cargo (the DNA) until it can replicate.
 
 In the world of ideas, the Meme uses the **Mind** as its vehicle.
 
-If I tell you a story, and you remember it, that story has successfully boarded the vehicle. It is now living in your neural pathways. As you tell this story to other people, the idea lives, it spreads. A person can be a vehicle, a book, a TikTok post, all of them are sharing an idea.
+If I tell you a story, and you remember it, that story has successfully boarded the vehicle. It is now living in your neural pathways. As you tell this story to other people, the idea lives, it spreads. A person can be a vehicle; a book, a TikTok post—all of them are vehicles sharing an idea.
 
 This idea, this concept that crosses ages and societies, that is the meme.
 
@@ -53,7 +53,7 @@ This can feel abstract. How can an "idea" be real in the same way a gene is?
 
 Think of a wave in the ocean.
 Look at a wave moving toward the shore. It looks like an object. It has a shape. It has height. It has power.
-But the water isn't actually moving forward (Not all of it). The water molecules are mostly just going up and down. What is moving forward is the energy of the wave, that crashes into the water molecules next to it, transmitting the energy to the next host. The "Wave" is not the matter; it is **energy moving through matter.**
+But the water isn't actually moving forward (Or at least, not the mass itself). The water molecules are mostly just going up and down. What is moving forward is the energy of the wave, that crashes into the water molecules next to it, transmitting the energy to the next host. The "Wave" is not the matter; it is **energy moving through matter.**
 
 Sound and radio waves are the same. They are energy moving from atom to atom, not the atoms themselves moving.
 
@@ -66,7 +66,7 @@ If this example was hard to visualize, I invite you to search the web for this t
 
 This energy transmission is the perfect mental model for us.
 The silver balls are the vehicles.
-Matter is the vehicle for sound to transmit frequency.
+Matter is the vehicle for sound to transmit energy.
 Bodies are vehicles for genes to transmit through generations.
 Minds are vehicles for memes to transmit through the ages.
 

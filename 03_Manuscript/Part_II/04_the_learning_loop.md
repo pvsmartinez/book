@@ -63,7 +63,7 @@ If you don't provide the variance—if you just do the exact same thing every ti
 
 ### The 10,000 Hour Myth
 
-This explains why the "10,000 Hour Rule", the idea that you just need to put in the time to become world-class, is dangerous tailored advice.
+This explains why the "10,000 Hour Rule", the idea that you just need to put in the time to become world-class, is dangerously tailored advice.
 
 It has become a pop-culture mantra: "Just put in the reps." But the Pattern tells us that repetition without feedback is just noise.
 
@@ -102,14 +102,14 @@ Did you make a good decision?
 Maybe. Maybe not. You might not know for five years. 
 
 By the time you get the feedback (Profit or Loss), you have forgotten why you made the trade. Was it the P/E ratio? Was it the CEO? Was it just luck?
-And even the feedback reason is muddled. Your profit was because you bought during a recession? Was due to market? Or the company improved?
+And even the feedback reason is muddled. Was it due to the market? Or did the company improve?
 The feedback loop is broken. The "Learning" is reduced.
 
 This is why a teenager can master *Fortnite* in a weekend, while a 50-year-old day trader can lose money for a decade without getting much better. One has a tight, clear, safe loop. The other has a loose, noisy, dangerous one.
 
 Education is also an attempt to hack this loop. If a school only had one big exam at the end of the year, the feedback would be too slow to be useful. Homework, quizzes, and projects are not "extra work", but artificial feedback loops designed to let you fail early and often, while the "cost" of failure is low.
 
-How the loop is organized shapes its effectiveness. Be it by design or not. And this is the key part we need to understand. This learning/adaptation will happen by intention or not.
+How the loop is organized shapes its effectiveness. Whether by design or not. And this is the key part we need to understand. This learning/adaptation will happen, intentionally or not.
 
 The examples I've given so far: training a dog, practicing tennis, studying for an exam—are all about *intentional* learning. We used our brains to guide the process. But what happens when there is no brain involved? Does the Pattern still work if you take away the intelligence?
 

@@ -45,7 +45,7 @@
 ---
 
 What is this pattern I keep talking about? What does it look like?
-What constitutes the pattern and what doesn't, and how does it work?
+What constitutes the pattern, what doesn't, and how does it work?
 
 As mentioned in the salesman example, we need some form of action and feedback, a filter, and time. Is that all?
 
@@ -54,23 +54,23 @@ Let's check each element on its own to understand the mechanisms at play, and co
 ### The Loop of Action and Feedback
 
 To train a dog, you might say "Sit."
-The dog looks at you. It barks. It jumps. It spins. It has no idea what you want, it is just doing random actions, pressing random buttons on the controller.
+The dog looks at you. It barks. It jumps. It spins. It has no idea what you want; it is just doing random actions, pressing random buttons on the controller.
 
 Eventually, by random chance, the dog’s butt hits the floor. You immediately give it a cookie.
 
 That moment, the cookie, is the signal. Without it, the dog is just moving randomly. With the cookie, its brain locks onto the last thing it did: "Sitting equals cookie."
 
-Of course it won't learn to sit with just one cookie, but next time, the dog is more likely to sit. Give it enough times, and it will learn to sit on command. 
+Of course it won't learn to sit with just one cookie, but next time, the dog is more likely to sit. Do it enough times, and it will learn to sit on command.
 
-If you never gave the cookie, the dog would never learn. Without the feedback, there is no learning, just guessing. This is the importance of the feedback. An action must result in a feedback, be it positive or negative, it is needed.
+If you never gave the cookie, the dog would never learn. Without the feedback, there is no learning, just guessing. This is the importance of the feedback. An action must result in feedback—be it positive or negative—it is needed.
 
 Each action and feedback pair will result in an **Iteration**. This is the fundamental building block of the **Pattern**. An action without feedback cannot be considered an iteration, as there is no learning or optimization happening.
 
-How direct this feedback is, how fast and clear, will affect the learning speed, but in the end what is needed is a pair of action and feedback.
+How direct this feedback is, how fast and clear it is, will affect the learning speed, but in the end what is needed is a pair of action and feedback.
 
-It's important to note that this is the key of why the pattern is everywhere. As we all heard from the law of physics, every action has a reaction, which means that probably every action will have a feedback. Just keep in mind that the feedback might not be on what you think it is.
+It's important to note that this is the key of why the pattern is everywhere. As we have all heard from the laws of physics, every action has a reaction, which means that probably every action will have feedback. Just keep in mind that the feedback might not be on what you think it is.
 
-The dog acts, the environment (you) provides feedback and some learning occurs. We repeat the request, wait for the action, and provide the reward. This loop of **Iterations** is the process which all things go through. It's how learning or adaptation happen.
+The dog acts, the environment (you) provides feedback and some learning occurs. We repeat the request, wait for the action, and provide the reward. This loop of **Iterations** is the process through which all things go. It's how learning or adaptation happen.
 
 ### The Necessity of Variance
 
@@ -96,7 +96,7 @@ To fix this, we have to artificially inject "noise." We force the AI (Artificial
 
 Let's imagine a monkey in front of a typewriter, typing letters for an infinite amount of time. Infinite time means that it will write down all the infinite combinations of letters. If it has all infinite combinations, somewhere around the random "gibberish," we will have the complete works of Shakespeare.
 
-This is the Infinite Monkey Theorem, a fun theorem, but not of much use, as it would take literally infinite time. But just add a small selection, and the time is drastically reduced.
+This is the Infinite Monkey Theorem, a fun theorem, but not of much use because it would take literally infinite time. But just add a small selection, and the time is drastically reduced.
 
 Imagine that every time the monkey types a correct letter, that letter "locks" into place.
 The monkey types "Q". Nothing happens.
@@ -105,9 +105,9 @@ The monkey types "O". *Click.* The "O" is locked.
 
 Suddenly, you don't need billions of years. You might get "To be or not to be" in a few weeks. It is like brute-forcing a password, but with the system telling you when you get each character right.
 
-With this filter, this **Selection**, we are able to make the monkey write down Shakespeare, or Aristotle, or any other book. The **Selection** gave direction to the randomness, and defined the end result.
+With this filter, this **Selection**, we are able to make the monkey write Shakespeare, or Aristotle, or any other book. Selection gave direction to the randomness and defined the end result.
 
-If you think of a Feedback, it always evaluates the action on something. Winning and losing might be feedbacks to make you better at something. Getting something right or wrong in a test might make you remember things better. Surviving/dying might select your genes. Sharing/non-sharing might define which posts you see.
+If you think of Feedback, it always evaluates the action on something. Winning and losing might be feedback to make you better at something. Getting something right or wrong in a test might make you remember things better. Surviving/dying selects your genes. Sharing/non-sharing might define which posts you see.
 
 This is how most things work. Random things happen, they get filtered, new random things happen mutating from the last batch, they get filtered again and again.
 
