@@ -4,6 +4,14 @@
 EXPORT_DIR="07_Exports"
 mkdir -p "$EXPORT_DIR"
 
+# Parse arguments
+GENERATE_PDF=true
+for arg in "$@"; do
+    if [ "$arg" == "--no-pdf" ]; then
+        GENERATE_PDF=false
+    fi
+done
+
 # Determine the next version number
 LAST_VERSION=$(ls "$EXPORT_DIR" | grep -oE 'v[0-9]+' | grep -oE '[0-9]+' | sort -n | tail -1)
 if [ -z "$LAST_VERSION" ]; then
@@ -27,7 +35,7 @@ cat << EOM > "$TEMP_MD"
     <p class="version">Version $VERSION | $(date +'%B %Y')</p>
 </div>
 
-# Table of Contents
+<h1 id="table-of-contents" class="no-toc-header">Table of Contents</h1>
 [TOC]
 
 EOM
@@ -44,9 +52,15 @@ for part in Part_I Part_II Part_III Part_IV Part_V Part_VI; do
     TITLE=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Title: " | sed 's/^Title: //')
     DESC=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Description: " | sed 's/^Description: //')
 
+    # Add hidden markdown header for TOC, then the HTML display
+    # We use a span with strictly specific class to maybe hide it in PDF if we only want it in TOC?
+    # Or just let it appear as a Part Header.
+    # To act as a "divisor", we want it in the TOC.
+    # We add it as a Markdown H1 so it gets picked up.
+    echo "# $TITLE" >> "$TEMP_MD"
+    
     cat << EOM >> "$TEMP_MD"
 <div class="part-page">
-    <h1>$TITLE</h1>
     <p>$DESC</p>
 </div>
 EOM
@@ -54,25 +68,13 @@ EOM
     for file in 03_Manuscript/$part/*.md; do
         echo "Adding $(basename "$file")..."
         
-        # Check if file is an interlude
-        if [[ "$(basename "$file")" == *"interlude"* ]]; then
-            echo "<div class=\"interlude\" markdown=\"1\">" >> "$TEMP_MD"
-        fi
-        
-        # Clean the file:
-        # 1. Remove the <details> block (outline/blocking)
-        # 2. Remove "### Draft" headers
-        # 3. Remove YAML frontmatter (lines between ---)
-        # 4. Convert "## Chapter" to "# Chapter" so they are H1 for the CSS
         sed -e '/<details>/,/<\/details>/d' \
             -e 's/### Draft//g' \
             -e '/^---$/d' \
-            -e 's/^## Chapter/# Chapter/g' "$file" >> "$TEMP_MD"
-        
-        # Close interlude div if applicable
-        if [[ "$(basename "$file")" == *"interlude"* ]]; then
-            echo "</div>" >> "$TEMP_MD"
-        fi
+            "$file" >> "$TEMP_MD"
+            
+        # Add two blank lines to ensure separation between file content and next chapter
+        echo -e "\n\n" >> "$TEMP_MD"
     done
 done
 
@@ -83,8 +85,13 @@ CSS_FILE="scripts/book_style.css"
 
 # Process Mermaid Diagrams
 echo "Processing Mermaid Diagrams..."
+TEMP_MD_MERMAID="temp_manuscript_mermaid.md"
+$PYTHON_BIN scripts/process_mermaid.py "$TEMP_MD" > "$TEMP_MD_MERMAID"
+
+# Process Math Formulas (LaTeX)
+echo "Processing Math Formulas..."
 TEMP_MD_PROCESSED="temp_manuscript_processed.md"
-$PYTHON_BIN scripts/process_mermaid.py "$TEMP_MD" > "$TEMP_MD_PROCESSED"
+$PYTHON_BIN scripts/process_math.py "$TEMP_MD_MERMAID" > "$TEMP_MD_PROCESSED"
 
 # Convert MD to HTML body using Python's markdown library
 echo "Converting Markdown to HTML..."
@@ -102,7 +109,7 @@ cat << EOM > "$HTML_FILE"
 EOM
 
 # Append Content from MD
-$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD_PROCESSED').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '1'}}))" >> "$HTML_FILE"
+$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD_PROCESSED').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '2'}}))" >> "$HTML_FILE"
 
 cat << EOM >> "$HTML_FILE"
 </body>
@@ -112,16 +119,23 @@ EOM
 # Save the MD version for reference
 cp "$TEMP_MD_PROCESSED" "$EXPORT_DIR/$FILENAME.md"
 
-echo "Generating Professional PDF with WeasyPrint..."
-$WEASYPRINT_BIN "$HTML_FILE" "$EXPORT_DIR/$FILENAME.pdf"
+if [ "$GENERATE_PDF" = true ]; then
+    echo "Generating Professional PDF with WeasyPrint..."
+    $WEASYPRINT_BIN "$HTML_FILE" "$EXPORT_DIR/$FILENAME.pdf"
+else
+    echo "Skipping PDF generation (--no-pdf flag detected)."
+fi
 
 # Cleanup
 rm "$TEMP_MD"
+rm "$TEMP_MD_MERMAID"
 rm "$TEMP_MD_PROCESSED"
 
 echo "------------------------------------------------"
 echo "Success! Professional Book Exported to:"
 echo "  - $EXPORT_DIR/$FILENAME.md"
 echo "  - $EXPORT_DIR/$FILENAME.html"
-echo "  - $EXPORT_DIR/$FILENAME.pdf (Best-Seller Style)"
+if [ "$GENERATE_PDF" = true ]; then
+    echo "  - $EXPORT_DIR/$FILENAME.pdf (Best-Seller Style)"
+fi
 echo "------------------------------------------------"

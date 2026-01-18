@@ -6,16 +6,16 @@ This file defines the specific vocabulary and theoretical framework of "The Patt
 ---
 
 ## 1. The Engine (Adaptation)
-**Formula:** `(Iteration * Variance) / Time = Adaptation`
+**Formula:** `Adaptation = Filter(Iteration * Variance) / Time`
 
-*   **Definition:** The process by which a system changes and optimizes itself over time.
+*   **Definition:** The rate at which a system change and optimizes itself.
+*   **Filter (The Judge):** The environment's constraints and rules that decide which variances survive.
 *   **Iteration:** The cycle of `Action -> Feedback -> New Action`.
-    *   *Relation to Feedback Loops:* Iteration *requires* a feedback loop to function (you need to know the result of the action), but "Iteration" refers to the *active process* of trying again, whereas a "Feedback Loop" is the *structural mechanism* that delivers the signal.
-*   **Variance:** The range of different attempts or mutations within the iterations. Without variance, iteration is just repetition.
-*   **Adaptation:** The result of the Engine. It is "Optimization" in the sense of becoming more adept at surviving/succeeding within the current constraints. It does not imply "better" in a moral sense, just "fitter."
+*   **Variance:** The range of different attempts or mutations.
+*   **Time:** The duration of a single cycle. Lower time = higher adaptation rate.
 
 ## 2. The Judge (The Value Function)
-**Definition:** The mathematical reality of what the system selects for.
+**Definition:** The mathematical reality of what the system selects for. (The `Filter` function in the equation).
 
 *   **Metaphor:** The Value Function is the **Track + The Ruleset**.
     *   **The Track (Constraints):** The environment (straight, curvy, muddy) determines *what is possible*. A straight road favors dragsters; a curvy road favors F1 cars.
@@ -26,14 +26,12 @@ This file defines the specific vocabulary and theoretical framework of "The Patt
 *   **Relation to Incentives:** Incentives (Carrots) and Punishments (Sticks) are *variables* inside the Value Function. Changing an incentive changes the Value Function, but the incentive is not the function itself.
 
 ## 3. The Compounder (Time & Behavior)
-**Definition:** The projection of the system's behavior over time.
+**Formula:** `Outcome = Sum(Adaptation) over Time`
 
+*   **Definition:** The cumulative result of a high adaptation rate being maintained.
 *   **Focus:** How the Engine and Judge interact to create future states.
 *   **Key Dynamics:**
-    *   *Reinforcing Loops:* Drive exponential growth (compounding).
-    *   *Balancing Loops:* Drive stability or resistance.
-    *   *Breaking Points:* Where the system collapses or shifts phase.
-*   **Relation to Systems Theory:** Meadows' tools (Stocks, Flows, Loops) are the *method* we use to map the system. The Compounder is the *insight* we extract from that map about where the system is going.
+    *   *Systemic Drift:* When the cumulative adaptation shifts the system far from its original purpose (e.g., Wolf to Pug).
 
 ---
 

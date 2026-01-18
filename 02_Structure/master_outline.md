@@ -18,13 +18,12 @@
 *Goal: To define the mechanism: Adaptation = (Iteration x Variance) / Time.*
 
 *   **03_the_adaptation_equation.md**: The Adaptation Equation
-*   **04_the_giraffe_and_the_virus.md**: The Giraffe and the Virus
-*   **05_the_arms_race.md**: The Arms Race
-*   **06_the_learning_loop.md**: The Learning Loop
+*   **04_the_learning_loop.md**: The Learning Loop
+*   **05_the_giraffe_and_the_virus.md**: The Giraffe and the Virus
+*   **06_the_arms_race.md**: The Arms Race
 *   **07_the_viral_engine.md**: The Viral Engine
-*   **08_the_levers_of_the_engine.md**: The Levers of the Engine
-*   **09_the_universal_scale.md**: The Universal Scale
-*   **09b_interlude_tuning_your_engine.md**: Interlude: Tuning Your Engine
+*   **08_the_universal_scale.md**: The Universal Scale
+*   **09_interlude_tuning_the_machine.md**: Interlude: Tuning the Machine
 
 ---
 
