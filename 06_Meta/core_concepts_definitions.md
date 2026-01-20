@@ -15,15 +15,18 @@ This file defines the specific vocabulary and theoretical framework of "The Patt
 *   **Time:** The duration of a single cycle. Lower time = higher adaptation rate.
 
 ## 2. The Judge (The Value Function)
-**Definition:** The mathematical reality of what the system selects for. (The `Filter` function in the equation).
+**Formula:** `Value Function = Rule Set + Track + Competitors`
 
-*   **Metaphor:** The Value Function is the **Track + The Ruleset**.
-    *   **The Track (Constraints):** The environment (straight, curvy, muddy) determines *what is possible*. A straight road favors dragsters; a curvy road favors F1 cars.
-    *   **The Ruleset (The Lap Counter):** The rule of the game (speed, efficiency, style). Without the rules, there is no race (no selection).
-    *   **Selection:** Optimization only happens at the intersection of the two.
-*   **The Equation:** It is the net sum of all incentives, constraints, punishments, rewards, and structural physics of the system.
-    *   *Example:* If a company says "Quality is Job 1" (Stated Goal) but pays bonuses for "Speed" (Incentive), the **Value Function** is optimizing for Speed.
-*   **Relation to Incentives:** Incentives (Carrots) and Punishments (Sticks) are *variables* inside the Value Function. Changing an incentive changes the Value Function, but the incentive is not the function itself.
+*   **Definition:** The mathematical reality of what the system selects for. It is not "The Goal" (what we want), but "The Equation" (what determines survival).
+*   **The Components:**
+    *   **Rule Set (Explicit Constraints):** The written laws. The codification of the win condition.
+        *   *Example:* "Scoring the most goals wins the game." "Passing the exam gets you into university."
+    *   **The Track (Implicit/Environmental Constraints):** The physics, the medium, and the environment.
+        *   *Example:* A muddy field favors strength over speed. Social Media favors short videos over long essays (The Medium is the Filter).
+    *   **The Competitors (Relative Fitness):** The standard of "success" is defined by the other runners.
+        *   *Example:* Running a 100m sprint in 12 seconds is "Fast" in high school, but "Slow" in the Olympics. The Value Function changes based on who else is in the race.
+*   **The Nuance:** "The Judge" is not a person. It is the emergent result of these three variables colliding.
+    *   *Example:* The "Market" isn't a person decider; it is the sum of (Regulations + Consumer Preferences + Competitor Pricing).
 
 ## 3. The Compounder (Time & Behavior)
 **Formula:** `Outcome = Sum(Adaptation) over Time`

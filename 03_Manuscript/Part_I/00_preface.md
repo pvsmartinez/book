@@ -12,6 +12,16 @@ I've started seeing these behaviors, these systemic consequences, everywhere. Fr
 
 I call this **The Pattern**.
 
+This pattern is not a new theory. It's a synthesis of lots of different topics together applied everywhere, at once. What I call The Pattern already exists under many names:
+*   Natural Selection (Biology)
+*   Reinforcement Learning (Computer Science)
+*   The Invisible Hand (Economics)
+*   Cybernetics (Norbert Wiener)
+*   Complex Adaptive Systems (Complexity Science)
+*   Goodhart’s Law (Metrics)
+*   The Red Queen Effect (Evolutionary Biology)
+*   Memetics (Richard Dawkins)
+
 This book isn't a textbook or a grand academic theory. It’s a pair of glasses. I want to share a lens that helped me make sense of why the world feels so loud, so fast, and so extreme right now.
 
 The pattern is not an underlying force that makes all those systems do what they do. It is closer to a mathematical lens on all these systems, and a lens of its consequences. It does not explain how or why something optimized as it did. But it explains why, when we have individual actions, individuals or attempts, filtered by some goal or external force, optimization will occur, and with it some common patterns.
