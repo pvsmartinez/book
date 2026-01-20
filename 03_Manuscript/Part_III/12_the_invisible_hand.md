@@ -34,18 +34,25 @@
 
 ### Draft
 
+In the last chapter, we saw how the **Track** (The Environment) can ruin a perfectly good Ferrari. If the rules say "go fast" but the track is a swamp, the tractor wins.
+
+But we are missing the final piece of the equation.
+We are not driving on the track alone.
+
 The Rule Set tells you *what* to optimize. The Track tells you *where* you are optimizing.
-But the pressure—the thing that makes the system scream—comes from the second variable: **The Competitors.**
+But the pressure—the thing that makes the system scream—comes from the third variable: **The Competitors.**
 
 Value is never absolute. It is always **Relative**.
 
-### The Tale of the Three Bakers
+### The Tale of the Two Bakers
 
-Consider a small town. There is one baker. He wakes up at 9 AM, bakes mediocre bread, charges a high price, and everyone buys it.
-In this system, "Mediocre" is the Fitness Peak. He fits the Value Function perfectly because the competition variable is zero.
+Consider a small town in Italy. There is one baker, Giuseppe. He wakes up at 9 AM, bakes mediocre bread, charges a high price, and everyone buys it.
+In this system, "Mediocre" is the Fitness Peak. Giuseppe fits the Value Function perfectly because the competition variable is zero. He is the Apex Predator of bread.
 
-Then, a new baker arrives. She wakes up at 4 AM. She uses better flour.
-Suddenly, the First Baker is in crisis. The **Rule** (Make Profit) hasn't changed. The **Track** (The Town) hasn't changed. But the **Competitors** changed, and therefore, the Value Function shifted.
+Then, a new baker arrives. Maria.
+Maria wakes up at 4 AM. She uses high-protein flour. She smiles at the customers.
+Suddenly, Giuseppe is in crisis.
+The **Rule** (Make Profit) hasn't changed. The **Track** (The Town) hasn't changed. But the **Competitors** changed, and therefore, the Value Function shifted beneath his feet.
 
 Yesterday, waking up at 9 AM was "Success." Today, it is "Failure."
 
