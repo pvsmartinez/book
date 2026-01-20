@@ -94,6 +94,6 @@ This teaches us a crucial lesson about the "Judge."
 When you fail, or when you feel squeezed, it is easy to look in the mirror and ask, "What is wrong with me?"
 But often, the answer is, "Nothing."
 
-You might be running a 4-minute mile. That is an incredible feat of human engineering. But if you are entered in a race against Ferraris, you are going to lose.
+You might be running a 4-minute mile. That is an incredible feat of human engineering. But if you are entered in a race against high-speed vehicles, you are going to lose.
 
 The Value Function doesn't measure your effort. It measures your **Advantage**. And advantage only exists in comparison to the person standing next to you.
