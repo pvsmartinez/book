@@ -33,6 +33,7 @@
     *   **Rule:** If you use a tech metaphor ("The Code"), immediately ground it in a universal reality ("The DNA", "The Laws of Physics").
 *   **The Teacher:** Ensure the reader is never lost. When switching domains (AI -> Politics -> Bio), explicitly bridge the context.
 *   **Visual Thinker:** The user needs to "see" the structure.
+*   **Deep Examples:** Do not gloss over examples (AI, Markets, Biology) just to keep the flow moving. Treat the example as a lesson in itself. The reader should learn *how* AI works or *how* a Market clearing price is set, not just get a metaphor. "Superficiality is the enemy."
 
 ## 2. Topic-Dependent Style (Context Switching)
 Your writing style is not static; it adapts to the subject matter. Do not force the "Preface Voice" onto a technical chapter.
