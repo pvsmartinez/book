@@ -15,3 +15,5 @@ package-lock.json
 __pycache__/
 *.pyc
 
+credentials.jsonscripts/token.pickle
+*.pickle

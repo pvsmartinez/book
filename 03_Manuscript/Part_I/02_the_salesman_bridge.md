@@ -98,16 +98,10 @@ If customers loved rude, aggressive arguments, then the "Best Sales Course in th
 
 We think we are learning skills, but really, we are downloading the patch notes of previous generations. We are standing on a mountain of failed experiments, using only the tools that survived.
 
-It's important to notice that each salesman just wanted to survive, to profit. And as they learned, succeeded, and failed, this knowledge was passed down through generations. It was not something intentional, but this behavior was selected. This behavior was optimized.
+It is a pattern of selection and accumulation that happens with or without our permission. Over time, every system—whether it’s a profession, a species, or an algorithm—optimizes itself to fit whatever is judging its survival.
 
-This explains why the world feels the way it does.
-It explains why every modern movie trailer looks the same.
-It explains why every smartphone looks like a rectangular sheet of glass.
+This is the Pattern.
 
-Every process, with agency or without, with consciousness or without, just by selection and accumulation, over time, becomes optimized and fitted to what is being truly evaluated.
+We are going to start by proving that this process is happening everywhere. Then, we will look at how the selection itself works. And finally, we will discuss how to use this knowledge to change the game.
 
-**This is the Pattern.**
-
-First, I will try to prove to you this process happens everywhere. Then we will look into the effects of the selection and accumulation themselves, and by the end of the book, we will discuss how to use this knowledge to change how things are evolving.
-
-Shall we begin?
+Ready? Let’s look at the engine.

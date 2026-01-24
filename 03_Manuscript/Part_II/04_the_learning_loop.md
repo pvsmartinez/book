@@ -24,7 +24,7 @@
 
 ---
 
-In the last chapter, we saw the dog. 
+Let's look at the mechanism of the dog again. 
 Action: Sit. 
 Feedback: Cookie. 
 Result: The behavior is locked.

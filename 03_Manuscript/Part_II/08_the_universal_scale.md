@@ -84,19 +84,17 @@ So people stop trying. The system stagnates.
 
 In *Why Nations Fail*, the authors describe how elites often block new technologies (like the printing press) because they fear "Creative Destruction." This is a rational calculation. They know that new ideas shift power. So they actively suppress Iteration to maintain Control.
 
-It is not that "Democracy is good" and "Dictatorship is bad" (though I believe that is true).
-It is that one system is a **Learning Machine** and the other is a **Control Machine**.
+It is not that "Democracy is good" and "Dictatorship is bad" (though I believe that is true). It is that one system is a **Learning Machine** and the other is a **Control Machine**.
 
-A dictatorship is a nation trying to evolve using only one brain, while an inclusive nation evolves with millions.
-Over the long run, the system that processes more variance always wins.
-
-The book has several nuances for how and why those happen, appear or die, so again, I highly recommend the reading. But the system of inclusive, well-established institutions is the one that enables more iteration with higher variance, therefore enabling adaptation to what filters nations, which in the end is prosperity and the lives of its citizens.
+A dictatorship is a nation trying to evolve using only one brain, while an inclusive nation evolves with millions. Over the long run, the system that processes more variance always wins.
 
 ### The Fractal
 
-A fractal is a type of mathematical shape where, independent of zooming in or out, you see a pattern that repeats forever. It doesn't matter which part of the fractal you zoom in or out, you will see the same pattern again, and again.
+A fractal is a type of mathematical shape that repeats itself forever, regardless of how far you zoom in or out. The pattern you see in the macroscopic structure is the same pattern you see in the microscopic details.
 
-And we can see the invisible pattern at all scales. From the gene, to the meme, from institutions, to products prices, from individual mastery to generational science.
+The Pattern is the fractal of our existence. From the gene to the meme, from individual mastery to the wealth of nations, it is the same code running on different hardware. It is the invisible force that allows simple rules to create infinite complexity.
+
+We have seen how the engine runs. Now, let's look at the dashboard. How do we tune the machine?
 
 The pattern does not define how these systems work, but because they do, and have **Iteration** and **Variance** over **Time**, they follow the pattern. It is a consequence, a path to how things adapt.
 

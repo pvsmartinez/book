@@ -24,7 +24,7 @@
 
 ---
 
-In the last chapter, we looked at the virus hitting a wall. The wall (our vaccines) was effective, but from the virus's perspective, it was just a static obstacle to overcome.
+When a virus hits a wall—like a vaccine—it faces a static obstacle. It just needs to find a way around it.
 
 We often think of adaptation like this. We imagine the environment as a fixed puzzle we are trying to solve. The mountain doesn't move while you climb it. The finish line doesn't run away.
 

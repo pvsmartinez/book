@@ -37,7 +37,7 @@
 *   **The Goal of the Book:** We are going to look at the code. We are going to stop being players and start thinking like System Designers.
 
 ### 4. The Bridge
-*   **Closing Thought:** "To understand the machine, we first have to look at the engine. How does a system actually 'learn' to get this extreme?"
+*   **Closing Thought:** "The machine is running. To see how it gets this extreme, we need to look at the engine itself."
 *   **Lead-in:** Chapter 2 (The Salesman).
 
 </details>

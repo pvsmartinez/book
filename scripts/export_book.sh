@@ -6,9 +6,14 @@ mkdir -p "$EXPORT_DIR"
 
 # Parse arguments
 GENERATE_PDF=true
+UPLOAD_DOCS=false
+
 for arg in "$@"; do
     if [ "$arg" == "--no-pdf" ]; then
         GENERATE_PDF=false
+    fi
+    if [ "$arg" == "--upload" ]; then
+        UPLOAD_DOCS=true
     fi
 done
 
@@ -23,6 +28,7 @@ fi
 FILENAME="manuscript_v$VERSION"
 TEMP_MD="temp_manuscript.md"
 HTML_FILE="$EXPORT_DIR/$FILENAME.html"
+DOCX_FILE="$EXPORT_DIR/$FILENAME.docx"
 
 echo "Generating $FILENAME..."
 
@@ -119,6 +125,9 @@ EOM
 # Save the MD version for reference
 cp "$TEMP_MD_PROCESSED" "$EXPORT_DIR/$FILENAME.md"
 
+# Save raw MD (before HTML processing) for DOCX conversion
+cp "$TEMP_MD" "$EXPORT_DIR/$FILENAME.raw.md"
+
 if [ "$GENERATE_PDF" = true ]; then
     echo "Generating Professional PDF with WeasyPrint..."
     $WEASYPRINT_BIN "$HTML_FILE" "$EXPORT_DIR/$FILENAME.pdf"
@@ -138,4 +147,29 @@ echo "  - $EXPORT_DIR/$FILENAME.html"
 if [ "$GENERATE_PDF" = true ]; then
     echo "  - $EXPORT_DIR/$FILENAME.pdf (Best-Seller Style)"
 fi
+
+if [ "$UPLOAD_DOCS" = true ]; then
+    echo "Generating DOCX for Google Docs upload..."
+    # Generate DOCX using pandoc from RAW markdown (before HTML img processing)
+    # Pandoc handles LaTeX math natively
+    pandoc "$EXPORT_DIR/$FILENAME.raw.md" \
+        -o "$DOCX_FILE" \
+        --from=markdown \
+        --to=docx \
+        --toc \
+        --toc-depth=2 \
+        --metadata title="The Invisible Pattern" \
+        --metadata author="Pedro Martinez"
+    
+    echo "  - $DOCX_FILE"
+    
+    echo "Starting Upload to Google Docs..."
+    # Check for dependencies
+    if ! $PYTHON_BIN -c "import googleapiclient" 2>/dev/null; then
+        echo "Error: Google API client not installed. Run: pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib"
+    else
+        $PYTHON_BIN scripts/upload_to_gdocs.py "$DOCX_FILE"
+    fi
+fi
+
 echo "------------------------------------------------"

@@ -35,14 +35,15 @@
 
 ### Draft
 
-The first variable in our Value Function equation is **The Rule Set**. 
+The first variable in the Value Function is **The Rule Set**. 
 
-This is the explicit constraint. It is the law, the scorecard, the written instruction.
+It is the explicit constraint—the law, the scorecard, the written instruction that tells a system what "success" looks like.
 
-To understand how this variable shapes behavior, humans are a bad example. We are messy. We have "Common Sense." We read between the lines. 
-To see the raw, unchecked power of a Rule Set, we need to observe something that has no common sense at all. **Artificial Intelligence**.
+But if we want to see how variables strictly shape behavior, humans are a terrible example. We are messy. We have "Common Sense." We read between the lines and often ignore the letter of the law to follow its spirit. 
 
-I want to take a moment to explain how AI actually works, because it is the purest demonstration of "The Pattern" in existence.
+To see the raw, unchecked power of a Rule Set, we need to observe something that has no common sense at all. We need to look at **Artificial Intelligence**.
+
+AI is the purest demonstration of "The Pattern" in existence because it strips away all human nuance. It doesn't "learn" in the way we do; it simply maximizes the score it was given.
 
 ### The Math Monkey
 
@@ -129,14 +130,14 @@ The Monkey says: "Cat." (Startled, it says "Weird Cat.")
 The Monkey is confused. It optimized so perfectly for the Rule Set in the Training Room that it lost the ability to navigate the real world.
 
 The AI is only as good as the breadth of its Judge.
-This is why early Image Generators (like Midjourney V1) were amazing at art but couldn't write text. They were never judged on text. They were never punished for spelling "Spaghetti" as "Spghet." Therefore, they learned that "Spaghetti" is just a squiggly yellow shape.
+This is why early Image Generators were amazing at art but couldn't write text. They were never judged on text. They were never punished for spelling "Spaghetti" as "Spghet." Therefore, they learned that "Spaghetti" is just a squiggly yellow shape.
 
 If the Rule Set is narrow, the result is narrow. If you only test for memorization, you get a student who can't think. If you only test for short-term profit, you get a company that can't survive a recession.
 
 ### The Tetris Hack
 
 This reveals the fundamental danger.
-If the Value Function is the *only* thing that matters—if the machine will ignore everything else just to maximize that score—what happens if we write the rule slightly wrong?
+If the Value Function is the *only* thing that matters, if the machine will ignore everything else just to maximize that score, what happens if we write the rule slightly wrong?
 
 A famous example of this happened when researchers trained an AI to play *Tetris*.
 
@@ -167,11 +168,11 @@ Why does ChatGPT confidently lie to you? If you ask it about a court case that n
 
 It isn't "confused." It is maximizing its score.
 
-To understand why, look at the ecosystem of **Benchmarks**.
-We judge these models based on how many questions they get right on massive standardized tests—math problems, legal bar exams, coding challenges.
+The answer lies in the ecosystem of **Benchmarks**.
+We judge these models based on how many questions they get right on massive standardized tests: math problems, legal bar exams, coding challenges.
 
 *   **The Rule:** Get the highest score on the Benchmark.
-*   **The Reward:** Status, investment, and "Training Success."
+*   **The Reward:** Status, money investment, and "Training Success."
 
 Now, imagine the AI encounters a question it doesn't know.
 Option A: It admits ignorance ("I don't know").

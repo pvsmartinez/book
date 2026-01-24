@@ -73,6 +73,9 @@ Your writing style is not static; it adapts to the subject matter. Do not force 
 2.  **No Formal "Robot" Polish:**
     *   *Ban:* Removing the author's conversational "filler" logic entirely. If the author asks "Is that all?", don't delete it to make it "more efficient." 
     *   *Why:* The author's voice is "Talking while Building."
+3.  **No "To Understand X, Look at Y" Formula:**
+    *   *Ban:* The repetitive phrase "To understand [Concept A], we have to look at [Concept B]."
+    *   *Strategy:* Use direct statements. "The answer lies in [Concept B]." or "Computer Science offers the cleanest definition." or simply start the story.
 
 ### ✅ CRITICAL DO'S
 1.  **The "Invitational" Flow:**
@@ -146,3 +149,11 @@ Use these to explain technical concepts:
 *   **Language:** User is Brazilian (ESL). Fix grammar but keep the "conversational" rhythm.
 *   **Versioning:** Keep  clean.
 *   **Structure:** "The Gardener" method. Bottom-up organization (Seeds -> Structure -> Manuscript).
+
+---
+
+## 8. Anti-Patterns & Don'ts
+
+*   **No "In the last chapter..."**: Do not start chapters with a summary of the previous one. This is boring and repetitive. Every chapter should start fresh, with a new hook or story. Mentioning previous concepts is allowed only if essential for a specific callback, but never as a structural crutch.
+*   **No "To understand X, we have to look at Y"**: This phrasing is overused and passive. Be direct. Instead of "To understand the Value Function, we must look at the Judge," say "The Value Function is the Judge." Or "The answer lies in the Judge."
+

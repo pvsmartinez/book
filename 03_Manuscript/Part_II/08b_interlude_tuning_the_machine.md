@@ -34,18 +34,15 @@
 
 ---
 
-One of the key skills we need to have is the ability to spot the pattern, and break down its components to change its speed.
-
 **$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$**
 
-The direction the pattern is leaning towards will be discussed in the next part of the book, but knowing when and where the pattern applies is essential.
+We have spent this part of the book looking at the mechanical levers of the equation: volume, variance, and latency. But an engine is just a machine that produces motion. It doesn't decide *direction*.
 
-The first mistake we tend to make is thinking something is optimizing for one metric, but it is optimizing for another.
-The first thing we need to diagnose is the Iteration quality.
-What are the actions being made? At which speed and variance? What is the feedback? Is that the true feedback that matters? Does this feedback actually filter something?
+The direction the Pattern takes depends on a judging force we haven't discussed yet: **The Value Function**.
 
-Spot and write down the answer to these questions to identify the pattern.
-Now, to evaluate the speed in which adaptation will happen, you need to check these levers:
+If we want to understand why the world is optimizing toward specific extremes, we have to look at the Judge. We have to look at the scoreboard. 
+
+But before we move to the Judge, let's look at how we can manually control the speed of the engine. Think of this as a dashboard for the Adaptation Equation.
 
 ### Lever 1: Volume (The Insect Strategy)
 
@@ -124,20 +121,14 @@ This explains why the tech sector iterates faster than the luxury sector. It's n
 
 ### The Engineer's Mindset
 
-This brings us to the end of Part II.
-You now have the schematic of the machine.
-You know that the world is not determined by intent, but by the relentless processing of **Iteration** and **Variance**.
+You now have the schematic of the machine. You know that the world is not determined by human intent, but by the relentless processing of **Iteration**, **Variance**, and **Selection**.
 
-Each individual person, nation, gene, and company is trying their own things and is being adapted by the pattern. This adaptation can be fast or slow depending on volume, variance, latency, and clarity.
+Every individual person, nation, gene, and company is running their own Adaptation Equation. The speed of the response depends on the levers of volume, variance, latency, and clarity.
 
-Understanding all these levers and effects is essential to know how to handle the pattern, but we need to understand a bit more.
+But an engine is just a tool. It can drive you to the top of a mountain, or it can drive you off a cliff. The engine optimizes, but it doesn't choose *what* to optimize.
 
-An engine is a powerful thing. It can drive you to the top of a mountain.
-But it can also drive you off a cliff.
-
-The engine optimizes, but that is all it does.
-Who tells it *what* to optimize for?
-Who decides if "Speed" is better than "Stealth"?
-Who decides if "Profit" is better than "Wellness"?
+Who tells the engine what "Success" looks like? Who decides the goal of the loop?
 
 To answer that, we have to meet **The Judge**.
+
+Let's look at the Value Function.
