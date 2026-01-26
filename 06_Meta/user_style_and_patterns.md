@@ -156,4 +156,6 @@ Use these to explain technical concepts:
 
 *   **No "In the last chapter..."**: Do not start chapters with a summary of the previous one. This is boring and repetitive. Every chapter should start fresh, with a new hook or story. Mentioning previous concepts is allowed only if essential for a specific callback, but never as a structural crutch.
 *   **No "To understand X, we have to look at Y"**: This phrasing is overused and passive. Be direct. Instead of "To understand the Value Function, we must look at the Judge," say "The Value Function is the Judge." Or "The answer lies in the Judge."
+*   **No "Teasing Transitions"**: Avoid saying "But before we get to X, let's look at Y." It feels forced and condescending. If you need to explain Y, just explain Y. Trust the flow. Don't announce the roadmap unless absolutely necessary.
+*   **No Superlatives**: Avoid hyperbolic phrases like "The most powerful force in the universe," "The greatest mistake," or "The most important concept." Be precise, not dramatic. If something is powerful, explain *why* it is powerful instead of ranking it.
 

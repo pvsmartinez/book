@@ -244,7 +244,7 @@ This is the bridge between the random noise of the universe and the complex orde
 3.  **Selection (The Filter):** Keep only the ones that work.
 
 The result is **Adaptation**.
-<img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20Adaptation%20%3D%20%5Cfrac%7BFilter%28Iteration%20%5Ctimes%20Variance%29%7D%7BTime%7D" alt="Adaptation = \frac{Filter(Iteration \times Variance)}{Time}">
+$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$
 
 Now that we have the equation, let's see how it applies to things that aren't even alive.
 
@@ -623,7 +623,7 @@ The engine is universal. The runners change, but the track remains the same.
 
 
 
-**<img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20Adaptation%20%3D%20%5Cfrac%7BFilter%28Iteration%20%5Ctimes%20Variance%29%7D%7BTime%7D" alt="Adaptation = \frac{Filter(Iteration \times Variance)}{Time}">**
+**$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$**
 
 We have spent this part of the book looking at the mechanical levers of the equation: volume, variance, and latency. 
 
@@ -775,7 +775,7 @@ If the Value Function of a system is "Profit," the Judge will ruthlessly kill an
 
 The Judge’s decision isn't based on a single variable. It is the result of three distinct forces working together:
 
-$<img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20Value%20Function%20%3D%20Rules%20%2B%20The%20Track%20%2B%20Competitors" alt="Value Function = Rules + The Track + Competitors">$
+$$Value Function = Rules + The Track + Competitors$$
 
 1.  **The Rules:** The explicit goal (Profit, Speed, GDP).
 2.  **The Track:** The friction of the environment (The Swamp vs. The Highway).
@@ -843,7 +843,7 @@ It repeats this millions of times.
 Eventually, the random arithmetic has been sculpted into a precise formula. The "random math" has evolved into a structure that reliably converts the pixels of a cat into the word "Cat."
 
 his is **The Pattern** in its purest form.
-$<img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20Adaptation%20%3D%20%5Cfrac%7BFilter%28Iteration%20%5Ctimes%20Variance%29%7D%7BTime%7D" alt="Adaptation = \frac{Filter(Iteration \times Variance)}{Time}">$
+$$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 It is pure mathematics proving exactly what we discussed in Part II.
 *   **Iteration:** The millions of training loops.
@@ -2150,7 +2150,7 @@ This is the **Synthesis**. Every major thread we’ve pulled so far is part of a
 We began with the **Engine**. 
 The fundamental mechanism of change in the universe is defined by the **Adaptation Equation**:
 
-**<img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20Adaptation%20%3D%20%5Cfrac%7BFilter%28Iteration%20%5Ctimes%20Variance%29%7D%7BTime%7D" alt="Adaptation = \frac{Filter(Iteration \times Variance)}{Time}">**
+**$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$**
 
 This equation explains the **Speed** and **Quality** of change. 
 
@@ -2180,7 +2180,7 @@ Finally, we looked at the collective force of **Time**.
 
 The Pattern is a loop. It repeats. And because it repeats, history accumulates. We call this force **The Compounder**.
 
-**<img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20Outcome%20%3D%20%5Csum%20%28Adaptation%29%20%5Ctext%7B%20over%20%7D%20Time" alt="Outcome = \sum (Adaptation) \text{ over } Time">**
+**$Outcome = \sum (Adaptation) \text{ over } Time$**
 
 This is the force that turns a slight advantage into a "Head Start" that can last for generations. It’s what turns the Wolf into a Pug, and a colorful playground into a Monospacing "Meta." It’s what stretches the rubber band until it reaches a "Breakpoint" and snaps. 
 
@@ -2576,7 +2576,51 @@ The primary goal is "Pay the Bills." This requires a certain level of Money.
 **Step 4: Find the Hidden Loop.**
 Here is where the "Pattern" turns into a "Trap." 
 
-![Mermaid Diagram](../04_Resources/images/generated/mermaid_45cafccaf98b0bfaa4bddeeae93c13d7.png)
+```mermaid
+flowchart TB
+    subgraph External ["External World (Demands)"]
+        direction TB
+        Income((Inflow: Income))
+        Money[Stock: Bank Account]
+        Expenses((Outflow: Bills))
+        
+        Income -->|Adds to| Money
+        Money -->|Subtracts| Expenses
+    end
+
+    subgraph Internal ["Internal World (Resources)"]
+        direction TB
+        Rest((Inflow: Rest))
+        Energy[Stock: Personal Energy]
+        
+        Rest -->|Regenerates| Energy
+    end
+
+    %% Central Engine
+    Anxiety[Variable: Anxiety]
+    WorkEffort((Outflow: Work Effort))
+    Efficiency[Variable: Efficiency]
+    Burnout[State: Burnout]
+
+    %% Survival Loop
+    Money -.->|Low Balance triggers| Anxiety
+    Anxiety ==>|Drives| WorkEffort
+    WorkEffort ==>|Generates| Income
+
+    %% Energy Loop
+    WorkEffort -->|Depletes| Energy
+    Energy -.->|Determines| Efficiency
+    Efficiency -.->|Multiplies| WorkEffort
+
+    %% The Breakpoint
+    Energy -->|Empty| Burnout
+
+    %% Styling
+    style Money fill:#e8f5e9,stroke:#2e7d32
+    style Energy fill:#e1f5fe,stroke:#01579b
+    style Burnout fill:#ffebee,stroke:#b71c1c,stroke-width:4px
+    style Anxiety fill:#ffcdd2,stroke:#c62828
+```
 
 Wait, look at that loop. 
 
@@ -2658,8 +2702,8 @@ If players earn gold faster than they can spend it, the gold becomes worthless. 
 
 #### 3. The Core Loop (The Heartbeat)
 Every system has a repetitive cycle that drives it. 
-*   **The RPG Loop:** Kill Monster <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Crightarrow" alt="\rightarrow"> Get Loot <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Crightarrow" alt="\rightarrow"> Get Stronger <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Crightarrow" alt="\rightarrow"> Kill Bigger Monster.
-*   **The Career Loop:** Work <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Crightarrow" alt="\rightarrow"> Get Paid <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Crightarrow" alt="\rightarrow"> Pay Bills <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Crightarrow" alt="\rightarrow"> Work.
+*   **The RPG Loop:** Kill Monster $\rightarrow$ Get Loot $\rightarrow$ Get Stronger $\rightarrow$ Kill Bigger Monster.
+*   **The Career Loop:** Work $\rightarrow$ Get Paid $\rightarrow$ Pay Bills $\rightarrow$ Work.
 
 If the loop is satisfying, the system is stable. If the loop is broken—if the "Loot" doesn't feel worth the "Kill"—the player quits. 
 
@@ -2985,7 +3029,7 @@ Why does everything feel more extreme, more polarized, and more fragile? Why are
 
 It isn't just a feeling. It’s math.
 
-If we look at our core equation—<img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20Adaptation%20%3D%20%5Cfrac%7BFilter%28Iteration%20%5Ctimes%20Variance%29%7D%7BTime%7D" alt="Adaptation = \frac{Filter(Iteration \times Variance)}{Time}">—we can see exactly what has happened to our species in the last twenty years. We haven't just changed the world; we have overclocked the engine.
+If we look at our core equation—$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$—we can see exactly what has happened to our species in the last twenty years. We haven't just changed the world; we have overclocked the engine.
 
 ### The Explosion of Iteration
 
@@ -3166,8 +3210,6 @@ We can choose to be passive victims, letting the algorithm design our lives for 
 The code is open source. The tools are in your hands. The machine is running.
 
 What will you build? 
-
-
 
 
 

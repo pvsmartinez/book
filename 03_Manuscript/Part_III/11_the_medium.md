@@ -1,12 +1,12 @@
 ## Chapter 11: The Medium
 
-We have seen how the AI optimizes perfectly for the **Rules**, even if it results in something nonsensical. It follows the letter of the law, even if it means pausing the game forever.
+We have analyzed the **Rules** (the AI maximizing the score). Now we must look at the ground beneath our feet.
 
-But rules don't exist in a vacuum.
+In Chapter 9, we used the example of the Formula 1 car. It is an engineering masterpiece, optimized perfectly for the Rule ("Speed"). But if you teleport that car to a swamp, it sinks.
 
-Imagine we take our Formula 1 car—the one perfectly optimized for the rule of "Speed"—and we teleport it to a swamp. The rule hasn't changed. The car is still an engineering masterpiece. But now it sinks in the mud. The winner on this track is no longer the Ferrari; it is the Tractor.
+The rule hasn't changed. The car hasn't changed. But the **Result** has flipped from "Winner" to "Useless."
 
-This brings us to the next variable of the pattern: **The Track**.
+This brings us to the **Second Variable** of the Value Function: **The Track**.
 
 ### The Silent Partner
 

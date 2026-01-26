@@ -34,15 +34,14 @@
 
 ---
 
+Now wee know how the pattern works. Its
+
 **$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$**
 
-We have spent this part of the book looking at the mechanical levers of the equation: volume, variance, and latency. But an engine is just a machine that produces motion. It doesn't decide *direction*.
+We know the machine is powerful, but we also know it is not magic. It has dials. And if it has dials, it can be edited/tweaked.
+If you want to learn faster (or evolve a product faster), you always could just "try harder", but it will be more efficient to tune the machine. To change these dials for a faster iteration.
 
-The direction the Pattern takes depends on a judging force we haven't discussed yet: **The Value Function**.
-
-If we want to understand why the world is optimizing toward specific extremes, we have to look at the Judge. We have to look at the scoreboard. 
-
-But before we move to the Judge, let's look at how we can manually control the speed of the engine. Think of this as a dashboard for the Adaptation Equation.
+Think of this as a dashboard for the Adaptation Equation.
 
 ### Lever 1: Volume (The Insect Strategy)
 
@@ -130,5 +129,3 @@ But an engine is just a tool. It can drive you to the top of a mountain, or it c
 Who tells the engine what "Success" looks like? Who decides the goal of the loop?
 
 To answer that, we have to meet **The Judge**.
-
-Let's look at the Value Function.

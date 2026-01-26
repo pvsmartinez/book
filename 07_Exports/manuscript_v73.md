@@ -2,7 +2,7 @@
     <h1>The Invisible Pattern</h1>
     <h2>Iteration, Selection, and the Code of the World</h2>
     <p class="author">Pedro Martinez</p>
-    <p class="version">Version 74 | January 2026</p>
+    <p class="version">Version 73 | January 2026</p>
 </div>
 
 <h1 id="table-of-contents" class="no-toc-header">Table of Contents</h1>
@@ -1737,17 +1737,17 @@ Because history accumulates, *where* you start matters almost as much as *who* y
 
 The technical term for this is the **Buffer**. In plain English, it's a head start.
 
-Imagine two people, Ana and Bruno. Both are equally talented. Both are equally hard-working. Both manage to save \$1,000 every single month from their salaries. The only difference is that Ana starts the game with a "seed"—a \$100,000 gift or inheritance. Bruno starts at zero.
+Imagine two people, Ana and Bruno. Both are equally talented. Both are equally hard-working. Both manage to save <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%201%2C000%20every%20single%20month%20from%20their%20salaries.%20The%20only%20difference%20is%20that%20Ana%20starts%20the%20game%20with%20a%20%22seed%22%E2%80%94a" alt="1,000 every single month from their salaries. The only difference is that Ana starts the game with a "seed"—a">100,000 gift or inheritance. Bruno starts at zero.
 
 In Brazil, we have a benchmark interest rate called the **Selic**. As I write this, it sits around 10-15% per year. This is the "speed" at which money replicates in this specific environment. It is one of the track rules set by the "Judges" at the central bank.
 
-After ten years, the gap is visible. Bruno has saved \$120,000, which has grown with interest to about \$240,000. Not bad. But Ana, because she had that \$100,000 buffer working for her from day one, is sitting on nearly \$650,000. 
+After ten years, the gap is visible. Bruno has saved <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20120%2C000%2C%20which%20has%20grown%20with%20interest%20to%20about" alt="120,000, which has grown with interest to about">240,000. Not bad. But Ana, because she had that <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%20100%2C000%20buffer%20working%20for%20her%20from%20day%20one%2C%20is%20sitting%20on%20nearly" alt="100,000 buffer working for her from day one, is sitting on nearly">650,000. 
 
-A \$400,000 gap is significant, but it’s still within the realm of "maybe I can catch up if I work harder." 
+A $400,000 gap is significant, but it’s still within the realm of "maybe I can catch up if I work harder." 
 
 But look what happens when we look at the next generation: their grandchildren.
 
-If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno’s disciplined savings have grown to a respectable \$86 million. But Ana’s "seed," because it had those extra decades to compound, has turned her fortune into nearly \$195 million. 
+If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno’s disciplined savings have grown to a respectable <img class="math-formula" src="https://latex.codecogs.com/svg.latex?%5Clarge%2086%20million.%20But%20Ana%E2%80%99s%20%22seed%2C%22%20because%20it%20had%20those%20extra%20decades%20to%20compound%2C%20has%20turned%20her%20fortune%20into%20nearly" alt="86 million. But Ana’s "seed," because it had those extra decades to compound, has turned her fortune into nearly">195 million. 
 
 Here is the part that breaks the brain: Ana's initial \$100,000 "seed" alone grew to \$108 million. That means her inheritance did more "work" (generated more wealth) than Bruno's entire lifetime of labor and discipline combined. 
 
@@ -2819,7 +2819,7 @@ Notice the process. We didn't solve the problem with one magical stroke of geniu
 
 Not every patch requires a change in money or rules. Sometimes, a surprisingly effective lever is simply changing the **Information Flow**.
 
-For years, hygiene in Los Angeles restaurants was a problem. The government tried the "Old Patch": sending inspectors to issue fines. But fines are just a "parameter." For a successful restaurant, a \$500 fine is just the "Cost of Doing Business." They paid the fee and remained dirty. The customer was still in the dark.
+For years, hygiene in Los Angeles restaurants was a problem. The government tried the "Old Patch": sending inspectors to issue fines. But fines are just a "parameter." For a successful restaurant, a $500 fine is just the "Cost of Doing Business." They paid the fee and remained dirty. The customer was still in the dark.
 
 So the city changed the information flow. They required every restaurant to display a large **Letter Grade (A, B, or C)** in their front window.
 
@@ -2931,7 +2931,7 @@ The Designer knows that Willpower is a limited resource. It’s a "Stock" that d
 *   **The Hero** tries to "resist" buying a bad stock during a market crash. 
 *   **The Designer** automates their investments into a fund they can't easily access on their phone.
 *   **The Hero** tries to "ignore" the phone at night. 
-*   **The Designer** leaves the phone in the kitchen and buys a \$10 analog alarm clock for the bedroom.
+*   **The Designer** leaves the phone in the kitchen and buys a $10 analog alarm clock for the bedroom.
 
 **The Rule:** Willpower is a muscle; it gets tired. Design is a constraint; it never gets tired. Build the environment so you don't have to be a hero.
 

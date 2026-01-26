@@ -49,11 +49,30 @@ We stop optimizing for our own goals and start optimizing for **Status**. And be
 
 We are no longer trying to "Win" the game; we are just trying to not be the person who gets "Filtered Out" by the Judge.
 
+### The Economic Meta (The Whale Economy)
+
+We like to blame the owners of the system for these races to the bottom. We think the developers of mobile games are "greedy" because they fill their products with loot boxes and manipulative psychology. 
+
+But if you walk into the office of a major gaming company, you won’t find a room full of villains. You’ll find a room full of talented designers, artists, and engineers who grew up loving games. Most of them *want* to build something beautiful and fun. 
+
+But they are trapped in a Value Function. 
+
+In the world of free-to-play games, there is a phenomenon called the **Whale Economy**. It’s the realization that 1% of the players (the "Whales") generate 90% of the revenue. The other 99% of players are essentially just "content" for the whales to play with. 
+
+Now, consider the Choice. 
+A company has two teams:
+*   **Team A** wants to improve the gameplay, add new levels, and make the game "Better."
+*   **Team B** wants to optimize the "Economy," tweaking the drop rates of rare items and creating the next monetization event for the whales.
+
+In the short term, Team A makes the players happy. Team B makes the money. 
+
+But remember: **Profit is the metabolic rate of a company.** It is the food required for the company to exist. If the company doesn't make money, it dies, and both teams lose their jobs. 
+
+Over time, any company that wants to survive in a competitive market will naturally shift its resources toward what the "Judge" (The Market) rewards. Even if the CEO has the best intentions, the "Invisible Hand" will gradually pull the smartest people away from the "Art" and push them toward the "Economics." 
+
+They aren't being evil; they are being rational. They are optimizing for survival. Within a few years, the company that started with a dream of making the "Best Game Ever" has evolved into a "Monetization Engine" that just happens to have a game attached to it. 
+
 ### The System is a Mirror
-
-We like to blame the "Owners" of the system—the CEOs, the Politicians, the Big Tech moguls. We think they are the ones forcing us to run.
-
-But the CEOs are just players, too. They are competing against other CEOs. If they stop optimizing for quarterly profits, their board will fire them and hire someone who will. If a politician stops being polarizing, they lose the primary to someone who is.
 
 The "Invisible Hand" isn't a person. It’s the collective behavior of eight billion competitors all trying to survive the same patterns. 
 
@@ -63,6 +82,6 @@ We are the ones turning the wheel. We are the ones tightening the loops. We are 
 
 We have the Rules, the Track, and the Competitors. We understand how the machine works. 
 
-But there is one final piece of the puzzle. It’s the most important part, because it’s the part that most often breaks. 
+But there is one final piece of the puzzle. It’s a critical part, because it’s the part that most often breaks. 
 
 It’s how the Judge actually makes a decision. It’s the **Proxy**.
