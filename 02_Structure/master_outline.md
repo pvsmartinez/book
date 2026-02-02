@@ -30,12 +30,13 @@
 ## Part III: The Judge (The Value Function)
 *Goal: To explain that the engine doesn't decide "Good" or "Bad." The Metric does.*
 
-*   **10_the_invisible_judge.md**: The Invisible Judge
-*   **11_the_algorithms_brain.md**: The Algorithm's Brain
+*   **09_the_invisible_judge.md**: The Invisible Judge
+*   **10_the_algorithms_brain.md**: The Algorithm's Brain
+*   **11_the_medium.md**: The Medium
 *   **12_the_invisible_hand.md**: The Invisible Hand
-*   **13_the_exam_trap.md**: The Exam Trap
-*   **14_the_algorithms_eye.md**: The Medium is the Filter (The Algorithm's Eye)
-*   **15_you_are_what_you_measure.md**: You Are What You Measure
+*   **13_the_proxy.md**: The Proxy
+*   **14_the_cobra_effect.md**: The Cobra Effect
+*   **15_the_mold.md**: The Mold
 *   **15b_interlude_the_value_audit.md**: Interlude: The Value Audit
 
 ---

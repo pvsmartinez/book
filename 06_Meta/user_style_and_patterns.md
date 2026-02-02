@@ -159,3 +159,14 @@ Use these to explain technical concepts:
 *   **No "Teasing Transitions"**: Avoid saying "But before we get to X, let's look at Y." It feels forced and condescending. If you need to explain Y, just explain Y. Trust the flow. Don't announce the roadmap unless absolutely necessary.
 *   **No Superlatives**: Avoid hyperbolic phrases like "The most powerful force in the universe," "The greatest mistake," or "The most important concept." Be precise, not dramatic. If something is powerful, explain *why* it is powerful instead of ranking it.
 
+---
+
+## 9. Key Keywords & Metaphors
+*   **The Patterns:** Iteration, Variance, Time, Value Function.
+*   **The Engine:** Filter, Selection, Mutation.
+*   **The Field:** The Rule Set (The Map), The Track (The Container), The Competitors (The Meta).
+*   **Gaming Story:** Arcades (Pay-per-life), Consoles (Safe sessions), Mobile (Gacha, Skinner Box, Whales).
+*   **Economic Pressures:** Marketing Arms Race, Compound Interest Rate (SELIC example), Merit Concentration.
+*   **Biological Parallels:** COVID contagion rate, Cheetah specialization trade-off, Cobra Effect (Successful Failure).
+*   **Education:** Exam prep vs. Citizenship, The Proxy trap.
+

@@ -60,6 +60,10 @@ We use Git for version control. Helper scripts are located in the `scripts/` fol
     *   *AI Instruction:* Use this when the user asks to "save", "sync", or "update git".
 *   **`scripts/appraise.sh`**: Prints a summary of the project state (file counts, git status, recent history).
     *   *AI Instruction:* Run this at the start of a session if the user asks for a status update or "where were we?".
+*   **Grammarly Workflow**: For grammar checking that AI can't fully replace:
+    *   **`scripts/export_for_grammarly.sh`**: Exports manuscript to Word (.docx) for Grammarly editing.
+    *   **`scripts/smart_import_grammarly.sh <file.docx>`**: Converts edited Word doc back to markdown for review.
+    *   *See:* `scripts/GRAMMARLY_WORKFLOW.md` for full documentation.
 
 ### Git Workflow
 1.  **Initialize**: Ensure the repo is initialized (done).
