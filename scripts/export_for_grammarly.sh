@@ -1,6 +1,8 @@
 #!/bin/bash
 # Export manuscript chapters to a single Word document for Grammarly editing
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 # Check if pandoc is installed
 if ! command -v pandoc &> /dev/null; then
     echo "❌ Error: pandoc is not installed"
@@ -14,6 +16,8 @@ OUTPUT_DIR="07_Exports"
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 OUTPUT_FILE="${OUTPUT_DIR}/grammarly_edit_${TIMESTAMP}.docx"
 TEMP_MD="${OUTPUT_DIR}/temp_combined.md"
+TEMP_STRIPPED="${OUTPUT_DIR}/temp_stripped.md"
+MANIFEST_FILE="${OUTPUT_DIR}/grammarly_edit_${TIMESTAMP}.manifest.json"
 
 # Create exports directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"
@@ -51,25 +55,37 @@ for part in "$MANUSCRIPT_DIR"/Part_*; do
 done
 
 echo ""
+
+# Protect code blocks before sending to Word
+echo "🛡️  Protecting code blocks from Word corruption..."
+python3 "$SCRIPT_DIR/protect_code_blocks.py" strip "$TEMP_MD" "$TEMP_STRIPPED"
+
+# The manifest is created as temp_stripped.manifest.json, rename it
+if [ -f "${OUTPUT_DIR}/temp_stripped.manifest.json" ]; then
+    mv "${OUTPUT_DIR}/temp_stripped.manifest.json" "$MANIFEST_FILE"
+fi
+
+echo ""
 echo "🔄 Converting to Word document..."
 
-# Convert to .docx with pandoc
-pandoc "$TEMP_MD" \
+# Convert to .docx with pandoc (use stripped version)
+pandoc "$TEMP_STRIPPED" \
     -o "$OUTPUT_FILE" \
     --from markdown \
     --to docx \
     --reference-doc="${OUTPUT_DIR}/reference.docx" 2>/dev/null || \
-pandoc "$TEMP_MD" \
+pandoc "$TEMP_STRIPPED" \
     -o "$OUTPUT_FILE" \
     --from markdown \
     --to docx
 
-# Clean up temp file
-rm "$TEMP_MD"
+# Clean up temp files
+rm -f "$TEMP_MD" "$TEMP_STRIPPED"
 
 echo ""
 echo "✅ Export complete!"
 echo "📄 File: $OUTPUT_FILE"
+echo "📋 Manifest: $MANIFEST_FILE"
 echo ""
 echo "Next steps (Google Docs - FREE):"
 echo "1. Go to https://drive.google.com"
@@ -78,8 +94,6 @@ echo "3. Right-click → 'Open with' → 'Google Docs'"
 echo "4. Grammarly will work automatically (install browser extension if needed)"
 echo "5. Make your edits"
 echo "6. File → Download → Microsoft Word (.docx)"
-echo "7. Save with the same filename"
-echo "8. Run: bash scripts/smart_import_grammarly.sh $OUTPUT_FILE"
+echo "7. Run: bash scripts/import_from_grammarly.sh $OUTPUT_FILE"
 echo ""
-echo "💡 Tip: You can also use Microsoft Word if you have it"
-echo ""
+echo "⚠️  Keep the manifest file! It's needed to restore code blocks on import."

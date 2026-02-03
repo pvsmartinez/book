@@ -1,27 +1,5 @@
 ## Chapter 4: The Learning Loop
 
-<details>
-<summary><strong>Chapter Outline & Blocking</strong></summary>
-
-**Status:** Draft
-**Goal:** Explain "Internal Iteration" (Learning) and how we can intentionally design the speed of the engine.
-
----
-
-### 1. The Internal Engine
-*   **The Concept:** Learning is just selection happening inside your brain.
-*   **The Mechanic:** Trial and error. You try a thought/action, the environment gives feedback, you keep the "good" ones.
-
-### 2. Designing the Speed
-*   **Education:** Why teachers use homework and projects to create smaller iteration cycles than just the final exam.
-*   **Video Games:** The gold standard of high-speed iteration.
-*   **The Non-Learnable:** Why some things (like stock picking) are hard to learn due to noisy or delayed feedback.
-
-### 3. The Lesson
-*   **The Insight:** Iteration speed is a design choice. We can control how fast we learn by changing the environment.
-
-</details>
-
 ---
 
 Let's look at the mechanism of the dog again. 
@@ -61,7 +39,7 @@ When a tennis player chooses to try a different grip, they are doing the exact s
 
 If you don't provide the variance—if you just do the exact same thing every time—the editor has nothing to select from. The learning stops. You become the broken record.
 
-### The 10,000 Hour Myth
+### The 10,000-Hour Myth
 
 This explains why the "10,000 Hour Rule", the idea that you just need to put in the time to become world-class, is dangerously tailored advice.
 
@@ -75,7 +53,7 @@ When a taxi driver takes a corner a little too slow, nothing happens. No buzzer 
 
 Real improvement requires what psychologists call **Deliberate Practice**. But you can just call it **Tight Loops**.
 
-A musician recording themselves and listening back. A surgeon getting instant critique from a mentor. A chess player checking their moves against an engine. In these scenarios, the "Action" is immediately followed by "Selection." The error is highlighted. The brain is forced to edit.
+A musician records themselves and listens back. A surgeon getting instant critique from a mentor. A chess player checks their moves against an engine. In these scenarios, the "Action" is immediately followed by "Selection." The error is highlighted. The brain is forced to edit.
 
 Without that strict feedback, you aren't learning. You are just reinforcing your existing habits. You are calcifying.
 

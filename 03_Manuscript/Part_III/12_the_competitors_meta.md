@@ -21,13 +21,13 @@ Imagine a population fighting over food—a piece of meat on the ground. In this
 
 Now, watch how the **Competitors** (the population) dictate the value of these actions:
 
-*   **Hawk vs. Hawk**: They fight until one is horribly injured. The cost of the injury is usually higher than the value of the meat. On average, two Hawks fighting is a losing game for both. 
-*   **Hawk vs. Dove**: The Hawk gets the meat for free. The Dove runs away with zero meat, but also zero injuries.
-*   **Dove vs. Dove**: They spend a long time posturing and showing off, wasting some energy, but eventually, one gives up or they split the prize. No one gets hurt.
+*   **Hawk vs. Hawk**: They fight until one is horribly injured. The cost of the injury is usually higher than the value of the meat. On average, a two-Hawk fight is a losing game for both. 
+*   **Hawk vs. Dove**: The Hawk gets the meat for free. The Dove runs away with zero meat and no injuries.
+*   **Dove vs. Dove**: They spend a long time posturing and showing off, wasting some energy, but eventually, one gives up, or they split the prize. No one gets hurt.
 
 If you live in a world of **Pure Doves**, being a Dove is great. Everyone is polite, and you share the meat. But this world is an "Evolutionary Vacuum." If a single **Hawk** mutant appears, it becomes a god. It wins every single fight without ever getting injured (because Doves always run). The Hawk eats better, reproduces faster, and soon the population is flooded with Hawks.
 
-But a world of **Pure Hawks** is a nightmare. Everyone is constantly bleeding. The "cost of injury" is so high that the average bird is worse off than if it had no meat at all. In this bloody world, if a **Dove** mutant appears, it suddenly has the "winning" strategy. Why? Because the Dove loses every fight, but it *never gets injured*. Zero is a better score than negative. As Hawks are expected to die fighting, a player that wont die in interactions will eventually find prize with no contestants.
+But a world of **Pure Hawks** is a nightmare. Everyone is constantly bleeding. The "cost of injury" is so high that the average bird is worse off than if it had no meat at all. In this bloody world, if a **Dove** mutant appears, it suddenly has the "winning" strategy. Why? Because the Dove loses every fight, but it *never gets injured*. Zero is a better score than negative. As Hawks are expected to die fighting, a player who won't die in interactions will eventually find a prize with no contestants.
 
 The Dove thrives in a world of Hawks. The Hawk thrives in a world of Doves.
 
@@ -43,7 +43,7 @@ In the beginning, games lived in **Arcades**. This was the Track. The machines w
 
 The owners needed "Rotation." They needed you to play, lose, and move so the next person could insert a coin. Or, they needed you to lose so *you* would insert another coin.
 
-This environment selected for **Difficulty**.
+This environment is selected for **Difficulty**.
 Old arcade games like *Pac-Man* or *Donkey Kong* were brutally hard because they were designed for short sessions. There were no "Save Systems" or deep narratives. The Value Function rewarded games that could kill you in three minutes while making you feel like you *almost* won.
 
 The competitors (the other developers) weren't trying more or less then current developers to make you "happy"; they were trying to survive the arcade market. If your game was too easy, the arcade owner wouldn't buy it because it wouldn't make enough coins per hour. The competition forced a "Hardcore" meta.
@@ -66,7 +66,7 @@ Then came the Internet and the **Mobile Revolution**. And this is where the Patt
 
 You might imagine that the biggest change was the technology—that games changed because phones got faster. But if that were true, why does a Nintendo Switch (which is technically weaker than a modern iPhone) have such different games? 
 
-The answer isn't the power of the device, but the **Collective Behavior** of the competitors.
+The answer isn't the device's power, but the **Collective Behavior** of the competitors.
 
 At first, the early digital world was a wild frontier. If you posted a game on Facebook in 2009, the platform allowed you to send messages to all your friends or post on their walls for "free." You could reach millions of people with zero marketing budget. In this low-friction environment, simple, artistic experiments could survive because they didn't need to pay for eyes.
 
@@ -80,13 +80,13 @@ However, once you have IAP, you have a new variable: **Revenue Per User**. And t
 
 If your free game starts making $1 per player, you suddenly have a weapon. You can afford to spend money on **Marketing**. You start bidding for ads on Facebook or Google to find new users. 
 
-Now look at the competition. If my game makes $5 per player and yours only makes $1, I can afford to pay $2 to acquire a new user. You can't. If you spend $1.01, you lose money. If I spend $2, I still have $3 in profit. I will outbid you for every eyeball on the internet. I will take all the users, and your game will disappear into the graveyard of the app store. 
+Now look at the competition. If my game makes $5 per player and yours only makes $1, I can afford to pay $2 to acquire a new user. You can't. If you spend $1.01, you lose money. If I spend $2, I still have $3 in profit. I will outbid you for every eyeball on the internet. I will take all the users, and your game will end up in the graveyard of the app store. 
 
 As globalization hit and the market became saturated with millions of developers, the bidding war reached a fever pitch. Marketing, not art or production, became the most expensive part of making a game. To stay visible, you *had* to earn more from each user than you spent to acquire them.
 
 This pressure forced the evolution of monetization into more extreme forms:
 1.  Simple IAPs became **Gachas** and **Skinner Boxes**—using psychological triggers and randomness to maximize the average spend per player.
-2.  Developers stopped looking for the average player and started hunting for **Whales**—the 1% who will spend millions. We often judge these players, but when someone spends a million dollars on equestrianism or high-end skying, we call it a "hobby." In mobile gaming, whales became the lifeblood that allowed developers to keep up with the rising marketing costs.
+2.  Developers stopped looking for the average player and started hunting for **Whales**—the 1% who will spend millions. We often judge these players, but when someone spends a million dollars on equestrianism or high-end skiing, we call it a "hobby." In mobile gaming, whales became the lifeblood that allowed developers to keep up with the rising marketing costs.
 3.  To survive the high bids, developers resorted to survival tactics like **Fake Ads**—ads that show gameplay that doesn't exist just to lower the cost of a user click.
 
 The industry didn't choose to be predatory. It was optimized into a corner. The **Pattern** of competition raised the "cost of visibility" so high that only the most aggressive monetizers could afford to stay in the game. 
@@ -97,13 +97,11 @@ Today, the mobile market is so saturated that it's almost impossible for a small
 
 The competitors define "The Meta." They find the loopholes. They push the edges.
 
-On platforms like **Steam**, the Track is different. The audience accepts higher upfront prices and rejects predatory mobile tactics. Because the "Track" and the "Rules" (user reviews and refunds) are different, the competitors have reached a different equilibrium. Less predatory. Not because developers are better people, but because the environment doesn't reward that behavior as efficiently.
+On platforms like **Steam**, the Track is different. The audience accepts higher upfront prices and rejects predatory mobile tactics. Because the "Track" and the "Rules" (user reviews and refunds) are distinct, competitors have reached different equilibria. Less predatory. Not because developers are better people, but because the environment doesn't reward that behavior as efficiently.
 
 But in any system where the competition is fierce and the feedback is fast—digital marketing, high-frequency trading, professional sports—the Competitors will eventually optimize out all the slack.
 
 They will force the system toward the most extreme version of its Value Function.
-
----
 
 The "Invisible Hand" isn't a person. It isn't a conspiracy.
 

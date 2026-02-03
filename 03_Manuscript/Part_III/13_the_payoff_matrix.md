@@ -1,6 +1,6 @@
 ## Chapter 13: The Payoff Matrix
 
-The Rules, the Track, the Competitors. We've torn them apart, studied each one separately.
+The Rules, the Track, the Competitors. We've torn them apart and studied each one separately.
 
 But they don't exist in isolation.
 
@@ -16,7 +16,7 @@ Despite the name, Game Theory isn't about poker or chess. It's the study of how 
 
 Up until now, we've imagined the Value Function as a static scoreboard: *Run fast = +10 points.*
 
-But in the real world, your score depends on you *and* everyone else. A restaurant that lowers prices makes more money only if competitors don't also lower theirs. A company that invests in R&D becomes innovative only if other companies don't innovate faster. A student who studies for an exam improves her grade only if other students don't also study harder.
+But in the real world, your score depends on you *and* everyone else. A restaurant that lowers prices makes more money only if competitors don't lower theirs as well. A company that invests in R&D becomes innovative only if other companies don't innovate faster. A student who studies for an exam improves her grade only if other students don't also study harder.
 
 **Your payoff is not static. It depends on what everyone else does.**
 
@@ -56,7 +56,7 @@ Both prisoners, thinking rationally, choose to betray. The result? **Both get 5 
 
 But look at the irony: If both had stayed silent, **both would have gotten only 1 year.**
 
-The globally optimal outcome—the best possible world—was right there. But the **Rules** of the system (the payoff matrix) made it mathematically impossible to reach. Each rational actor, following their incentive, drove the system into a trap.
+The globally optimal outcome—the best possible world—was right there. But the **Rules** of the system (the payoff matrix) made it mathematically impossible to reach. Each rational actor, acting on their incentives, drove the system into a trap.
 
 ### The Hawk and the Dove: The System Finds Balance
 

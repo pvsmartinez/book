@@ -46,31 +46,34 @@ This will:
 3. Review and accept Grammarly's suggestions
 4. **Save the file** (keep the same filename)
 
-### Step 3: Import Changes Back
+### Step 3: Import and Apply Changes
 ```bash
-bash scripts/smart_import_grammarly.sh 07_Exports/grammarly_edit_[timestamp].docx
+# Preview changes first (recommended)
+bash scripts/import_from_grammarly.sh --dry-run 07_Exports/grammarly_edit_[timestamp].docx
+
+# Interactive mode - review each chapter
+bash scripts/import_from_grammarly.sh --interactive 07_Exports/grammarly_edit_[timestamp].docx
+
+# Apply all changes automatically
+bash scripts/import_from_grammarly.sh --apply 07_Exports/grammarly_edit_[timestamp].docx
 ```
 
 This will:
 - Convert the edited Word document back to markdown
-- Create a backup of your current manuscript
-- Provide you with the converted file for comparison
+- Match each chapter to its original file
+- Show you a diff of changes for each chapter
+- Apply the changes (with backup)
 
-### Step 4: Review and Apply Changes
-The script will show you how to compare files. Use VS Code's compare feature:
+### How It Works
 
-**Option A: VS Code Compare**
-1. Open your original chapter (e.g., `12_the_competitors_meta.md`)
-2. Right-click → "Select for Compare"
-3. Open the converted file
-4. Right-click → "Compare with Selected"
-5. Review changes side-by-side
-6. Copy the grammar improvements you want
+The import script uses `apply_grammarly_diff.py` which:
+1. Parses the imported markdown by chapter headers
+2. Matches chapters to original manuscript files
+3. Normalizes formatting differences (quotes, bullets, dashes)
+4. Shows only the actual text changes
+5. Creates backups before applying
 
-**Option B: Command Line Diff**
-```bash
-diff -u 03_Manuscript/Part_III/12_the_competitors_meta.md 07_Exports/temp_import_*/converted.md
-```
+Backups are saved to `07_Exports/backups/[timestamp]/`
 
 ## What Grammarly Typically Fixes
 ✅ **Good changes to adopt:**

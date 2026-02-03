@@ -1,47 +1,5 @@
 ## Chapter 3: The Adaptation Equation
 
-<details>
-<summary><strong>Chapter Outline & Blocking</strong></summary>
-
-**Status:** Draft
-**Goal:** Define the mechanics of **The Pattern** (Iteration & Variance) using didactic examples.
-
----
-
-### 1. The Engine
-*   **Concept:** We saw the "Filter" (The Environment) in the Salesman example. But a filter needs something to filter.
-*   **The Question:** How do we generate the options? How does the salesman *find* the right pitch?
-*   **The Answer:** The Adaptation Equation.
-    *   **$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$**
-
-### 2. Variable 1: Iteration (Action + Feedback)
-*   **Definition:** Iteration is not just doing the same thing twice. It is **Action + Feedback**.
-*   **Example: The Dog.**
-    *   Dog sits -> You give cookie (Positive Feedback).
-    *   Dog sits -> You shout (Negative Feedback).
-    *   *Key:* Without the cookie (feedback), the dog is just moving randomly.
-*   **Example: Tennis.**
-    *   You hit the ball. It goes into the net. Your brain registers "Too low."
-    *   You hit again. It goes out. Your brain registers "Too high."
-    *   You hit again. Perfect. Your brain registers "Like that."
-
-### 3. Variable 2: Variance (The Difference)
-*   **Definition:** Variance is the deviation from the norm.
-*   **The Quote:** "Insanity is doing the same thing over and over again and expecting different results."
-    *   If you hit the tennis ball *exactly* the same way every time, and it hits the net, you will never learn. You *need* the error. You need the variance.
-*   **Types of Variance:**
-    *   *Micro:* Muscle tremors, slight changes in tone of voice.
-    *   *Macro:* Genetic mutations, trying a completely new business strategy.
-
-### 4. The Infinite Monkey (Revisited)
-*   **The Theorem:** Infinite monkeys + typewriters = Shakespeare.
-*   **The Reality:** We don't have infinite time.
-*   **The Fix:** We have **Selection**.
-    *   If every time a monkey types a correct letter, we "lock" it (Feedback), we don't need infinite time. We need surprisingly little time.
-    *   This is how the world works. It doesn't try everything. It tries, filters, keeps what works, and iterates from there.
-
-</details>
-
 ---
 
 What is this pattern I keep talking about? What does it look like?
@@ -52,11 +10,11 @@ To see the mechanics at play, we need to deconstruct the equation. As mentioned 
 ### The Loop of Action and Feedback
 
 To train a dog, you might say "Sit."
-The dog looks at you. It barks. It jumps. It spins. It has no idea what you want; it is just doing random actions, pressing random buttons on the controller.
+The dog looks at you. It barks. It jumps. It spins. It has no idea what you want; it is just pressing random buttons on the controller.
 
 Eventually, by random chance, the dog’s butt hits the floor. You immediately give it a cookie.
 
-That moment, the cookie, is the signal. Without it, the dog is just moving randomly. With the cookie, its brain locks onto the last thing it did: "Sitting equals cookie."
+At that moment, the cookie is the signal. Without it, the dog is just moving randomly. With the cookie, its brain locks onto the last thing it did: "Sitting equals cookie."
 
 Of course, it won't learn with just one cookie. But the next time, the dog is more likely to sit. Do it enough times, and the behavior becomes a command.
 
@@ -64,11 +22,11 @@ If you never gave the cookie, the dog would never learn. Without the feedback, t
 
 An action without feedback cannot be considered an iteration because no learning or optimization is happening. Each action-feedback pair is a single loop of the engine.
 
-How direct this feedback is, how fast and clear it is, will affect the learning speed, but in the end what is needed is a pair of action and feedback.
+How direct this feedback is, how fast and clear it is, will affect the learning speed, but in the end, what is needed is a pair of actions and feedback.
 
 It's important to note why the Pattern is everywhere. In physics, every action has a reaction, which means every action has feedback. But the secret lies in realizing that the feedback might not be what you think it is.
 
-The dog acts, the environment (you) provides feedback, and adaptation occurs. This loop of iterations is the process through which all things evolve. It's how a startup finds product-market fit, how an athlete perfects their swing, and how a virus bypasses a vaccine.
+The dog acts, the environment (you) provides feedback, and adaptation occurs. This iterative loop is the process by which all things evolve. It's how a startup finds product-market fit, how an athlete perfects their swing, and how a virus bypasses a vaccine.
 
 ### The Necessity of Variance
 
@@ -84,9 +42,9 @@ If you have a million iterations but **Zero Variance**, if you play the exact sa
 
 You need to try something different. A new opening. A more aggressive style. A defensive trap. Most of these variations will fail. You'll lose your queen. You'll get checkmated in ten moves. But each failure is data.
 
-Eventually, one variation will work. You'll find a pattern your opponent can't answer. Your brain registers the win, not as the only feedback, but as feedback that says "this direction is working." The losses told you where NOT to go. The win tells you where to go.
+Eventually, one variation will work. You'll find a pattern your opponent can't answer. Your brain registers the win not as the only feedback that says, “T feedback, but his direction is working." The losses told you where NOT to go. The win tells you where to go.
 
-In machine learning, we often run into a problem where an AI gets "stuck." It finds a strategy that is *okay* (like running into a wall to avoid getting shot in a video game) and it keeps doing it forever. It stops learning because it stopped trying new things. It found one solution to the problem, but not the best, and keeps doing this forever.
+In machine learning, we often run into a problem where an AI gets "stuck." It finds a strategy that is *okay* (like running into a wall to avoid getting shot in a video game), and it keeps doing it forever. It stops learning because it stopped trying new things. It found one solution to the problem, but not the best, and keeps doing this forever.
 
 To fix this, engineers artificially inject "noise." We force the AI to try random, seemingly dumb moves. We force it to have **Variance**. By forcing these attempts, combined with enough iterations, the system eventually discovers the optimal path.
 

@@ -4,7 +4,7 @@ The first variable in the Value Function is **The Rule Set**.
 
 It is the explicit constraint, the law, the scorecard, the written instruction that tells a system what "success" looks like.
 
-This raw unchecked power of a Rule Set can be best observed in **Machine Learning**. Artificial Intelligence has no common sense, it is not subjective, and is very clear on how it's shaped by its value function.
+This raw, unchecked power of a Rule Set can be best observed in **Machine Learning**. Artificial Intelligence has no common sense; it is not subjective, and it is very clear how it's shaped by its value function.
 
 AI is the purest demonstration of "The Pattern" in existence because it strips away all human nuance. It doesn't "learn" in the way we do; it simply maximizes the score it was given.
 
@@ -14,7 +14,7 @@ The clearest definition of a Value Function comes from computer science, and it 
 
 When we train an AI, we don't give it a brain; we give it a goal. We tell the machine: "Here is a score. Your only job is to make this number go up."
 
-The AI starts with completely random behavior. It’s a digital monkey hitting keys. But every time it does something that makes the score go up, it gets a "reward." Every time it does something that makes the score go down, it gets "punished."
+The AI starts with completely random behavior. It’s a digital monkey hitting keys. But every time it does something that raises the score, it gets a "reward." Every time it does something that lowers the score, it gets "punished."
 
 Over millions of iterations, the AI becomes a master at maximizing that score. It doesn't "know" what it’s doing. It doesn't have a conscience. It is simply a machine that has been filtered by a particular rule.
 
@@ -75,7 +75,7 @@ The AI didn't learn what a cat is. It just found the specific mathematical path 
 
 Here is the crucial part: **The Machine (The Brain) has no opinion.** It is just a box of dials waiting to be tuned. The **Judge** determines everything.
 
-Imagine we took that same random machine, but we swapped the Judge.
+Imagine we took the same random machine but swapped the Judge.
 
 *   **Judge A:** "I will reward you if the image looks like a **Photograph**."
     *   *Result:* The machine becomes a realistic image generator (like Midjourney).
@@ -93,13 +93,13 @@ The AI didn't *choose* to be funny or scary. It was simply carved into that shap
 This leads to a specific form of fragility called **Overfitting**.
 
 Imagine we train the Math Monkey only on pictures of Cats.
-We show it a Cat. It says "Cat." Judge gives a cookie.
+We show a Cat. It says "Cat." The judge gives a cookie.
 We show it a Dog. It says "Cat." Judge gives a cookie (because the Judge in this specific room only knows about Cats).
 
 The Monkey becomes a "God of Cats." It is 100% accurate.
 
-But then, we release the Monkey into the real world. Real world shows it a Dog.
-The Monkey says: "Cat." (Startled, it says "Weird Cat.")
+But then, we release the Monkey into the real world. Real world shows it as a Dog.
+The Monkey says, "Cat." (Startled, it says, "Weird Cat.")
 The Monkey is confused. It optimized so perfectly for the specific examples in the Training Room that it failed to learn the general concept.
 
 The AI is only as good as the breadth of its Judge.
@@ -159,7 +159,7 @@ Why does ChatGPT confidently lie to you? If you ask it about a court case that n
 
 It isn't "confused." It is maximizing its score.
 
-The answer lies in the ecosystem of **Benchmarks**.
+The answer lies in the **Benchmarks** ecosystem.
 We judge these models based on how many questions they get right on massive standardized tests: math problems, legal bar exams, coding challenges.
 
 *   **The Rule:** Get the highest score on the Benchmark.
@@ -191,7 +191,7 @@ This matters because we are building our society on the same logic.
 When we create a bureaucracy, we are just building a "Human AI." We give a department a Rule ("Reduce Wait Times") and a Budget (The Energy).
 If the Rule is "Close tickets within 24 hours," the agents will start closing tickets without solving the problem, just to stop the timer.
 
-They aren't being lazy. They are being the Tetris AI. They are finding the "Pause Button" that satisfies the metric while killing the intent.
+They aren't being lazy. They are the Tetris AI. They are finding the "Pause Button" that satisfies the metric while killing the intent.
 
 ### The Lesson of the Rule
 

@@ -1,50 +1,10 @@
 ## Chapter 2: The Salesman
 
-<details>
-<summary><strong>Chapter Outline & Blocking</strong></summary>
-
-**Status:** Draft
-**Goal:** Introduce the concept of "Selection" using a relatable, human example before diving into the math.
-
----
-
-### 1. The Observation
-*   **The Archetype:** Picture a "Salesman." What do you see?
-    *   Charming.
-    *   Good with words.
-    *   Persuasive.
-    *   Maybe a bit aggressive?
-*   **The Question:** Why do they all look like that?
-    *   Is there a secret "University of Sales" that teaches everyone to be exactly the same?
-    *   Is it a conspiracy?
-
-### 2. The Mechanism (The "Why")
-*   **The Environment:** To survive as a salesman, you must close deals. If you don't sell, you don't eat (or you get fired).
-*   **The Filter:** The customer.
-    *   Customers buy from people they trust, like, or are persuaded by.
-    *   Customers *don't* buy from people who are rude, shy, or confusing.
-*   **The Process:**
-    *   Thousands of people try to be salespeople.
-    *   The "rude" ones fail and leave the job.
-    *   The "shy" ones fail and leave the job.
-    *   The "charming" ones succeed, stay, and teach the next generation.
-
-### 3. The Evolution
-*   **Individual Level:** A single salesperson tries a pitch. It fails. They try a different pitch (Variance). It works (Feedback). They repeat the working pitch (Iteration).
-*   **Group Level:** Over decades, the *profession itself* evolves. The "Salesman Personality" is not a choice; it is the **survivor** of a ruthless selection process.
-
-### 4. The Takeaway
-*   It’s not that "Salesmen are evil."
-*   It’s that the **Environment** selected for **Charm**.
-*   This same logic applies to everything.
-
-</details>
-
 ---
 
 ### Draft
 
-When you picture a "Salesman," you likely see a specific archetype. Maybe a real estate agent, or a used car dealer.
+When you picture a "Salesman," you likely see a specific archetype. Maybe a real estate agent or a used car dealer.
 
 Chances are, you’re picturing someone charming. Someone with a firm handshake, a quick smile, and a way with words. Someone who can talk to anyone about anything.
 
@@ -80,11 +40,11 @@ This is **Agency** in action. The salesperson is making choices, learning from i
 
 But notice the accumulation.
 
-Over decades, millions of salespeople ran millions of intuitive experiments. The bad strategies (insulting the client, staring at the floor, over-explaining the product) acted as a filter. The people who used them left the profession. Their "knowledge" died with their careers.
+Over decades, millions of salespeople ran millions of intuitive experiments. The bad strategies (insulting the client, staring at the floor, and over-explaining the product) acted as a filter. The people who used them left the profession. Their "knowledge" died with their careers.
 
 The strategies that worked were kept. They were codified. They were written down in books like *How to Win Friends and Influence People*.
 
-Every new experiment, a new learning. A new book written, a new course made. New salespeople then picked up and learned from those, and then tried their own variations, their own takes on the teachings.
+Every new experiment is a new learning experience. A new book written, a new course made. New salespeople then picked up and learned from those, and then tried their own variations, their own takes on the teachings.
 
 The "University of Sales" is not an invention of some genius dean; it is an **archive**. It is a collection of all the successful experiments run by millions of people over hundreds of years.
 
@@ -102,6 +62,6 @@ It is a pattern of selection and accumulation that happens with or without our p
 
 This is the Pattern.
 
-We are going to start by proving that this process is happening everywhere. Then, we will look at how the selection itself works. And finally, we will discuss how to use this knowledge to change the game.
+We will start by showing that this process occurs everywhere. Then, we will look at how the selection itself works. And finally, we will discuss how to use this knowledge to change the game.
 
 Ready? Let’s look at the engine.
