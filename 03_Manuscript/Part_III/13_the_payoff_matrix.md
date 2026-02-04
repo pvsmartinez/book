@@ -62,10 +62,7 @@ The globally optimal outcome—the best possible world—was right there. But th
 
 But some games are different. Some games find balance.
 
-Imagine a population of animals fighting over food. Each animal can choose one of two strategies:
-
-1. **Hawk:** Aggressive and relentless. A Hawk will fight until it wins or gets injured. It never backs down.
-2. **Dove:** A posture of dominance, but not a fighter. A Dove will puff its feathers, hiss, and intimidate. But the second a real attack comes, it runs. No injuries, but no prize either.
+We've already met the **Hawks** (aggression) and the **Doves** (posturing) in the previous chapter. Now, let's put numbers to their conflict to see how the matrix drives the population to a stalemate.
 
 The **Environment** (the Track) writes the numbers:
 
@@ -222,7 +219,7 @@ Set it to reward user engagement at any cost? Social media will optimize for out
 
 The Pattern is not good or evil. It's a machine that reads the matrix and outputs the behavior that maximizes it.
 
-Because the environment, competitors, and rules are constantly shifting, the matrix is constantly being rewritten. Sometimes this creates stable equilibria like Hawks and Doves. Sometimes it creates traps like the Prisoners' Dilemma.
+Because the environment, competitors, and rules are constantly shifting, the matrix is constantly being rewritten. Sometimes this creates stable equilibria, such as Hawks and Doves. Sometimes it creates traps, such as the Prisoner's Dilemma.
 
 The question is never "Are the players moral?"
 

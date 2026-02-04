@@ -1,4 +1,18 @@
+# Part IV: The Compounder
+
 ## Chapter 16: The Compound Effect
+
+> *A note before we begin:*
+>
+> *So far, we've explored the Pattern and how it shapes behavior, players, and even identity. That understanding shouldn't be understated—once you see it, you'll see it everywhere.*
+>
+> *In this part, I want to take a step back and start thinking about the Pattern the way a system designer would. We'll be talking about Time and its effects, building intuition for how systems evolve and change.*
+>
+> *This may feel more abstract. And honestly, it may feel a bit nihilistic—like the forces we're describing are unstoppable and things inevitably go wrong. That's not the message I want you to take away.*
+>
+> *Hold this in mind while you read Part IV: this is meant to build understanding of patterns and compounding. In Part V, we'll get hands-on. We'll talk about how to define systems, tweak them, and fix them. But first, we need to understand how they drift.*
+
+---
 
 We’ve looked at the "Why." We’ve explored how the Rules, the Track, and the Competitors create a filter—a Value Function that decides what survives. 
 
@@ -20,7 +34,7 @@ In the first generation of breeding, we simply selected the "tamest" or "cutest"
 
 Generation after generation, the "error" compounded. We were optimizing for a single trait (cuteness), and the system delivered it with terrifying efficiency. But by pulling so hard on the "cuteness" lever, we accidentally pulled on others we didn't see—like the ability to breathe. 
 
-The Pug is the "Winner" of the human value function, but it is a fragile winner. It is a biological specialized companion that would last five minutes in the wild Savanna that birthed its ancestors. The Compounder took a functional, resilient predator and turned it into a specialized, fragile outcome because the "Judge" (us) never changed its mind.
+The Pug is the "Winner" of the human value function, but it is a fragile winner. It is a specialized biological companion that would lasta that gave birth to five minutes in the wild Savann its ancestors. The Compounder took a functional, resilient predator and turned it into a specialized, fragile outcome because the "Judge" (us) never changed its mind.
 
 ### The Meta (Optimization over Time)
 
@@ -46,7 +60,7 @@ But Person A has a "Head Start." They inherited \$10,000 and put it in a governm
 *   **Person B (Labor):** After one year, they have saved \$1,200.
 *   **Person A (Capital):** After one year, they have saved \$1,200 from their work, **plus \$1,500** from the interest on their capital.
 
-In year one, Person A made more money sitting on the sofa than Person B made by working. 
+In year one, Person A made more money sitting on the sofa than Person B did by working. 
 
 But watch what happens over ten years. That \$10,000 head start doesn't just "stay" \$10,000. It compounds. At 15%, that money doubles every five years. By year ten, Person A has over \$40,000 from interest alone, while Person B has struggled to save \$12,000 from their actual labor. 
 

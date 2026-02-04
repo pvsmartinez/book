@@ -68,6 +68,32 @@ So people stop trying. The system stagnates.
 
 In *Why Nations Fail*, the authors describe how elites often block new technologies (like the printing press) because they fear "Creative Destruction." This is a rational calculation. They know that new ideas shift power. So they actively suppress Iteration to maintain Control.
 
+The book tells a striking story about two inventors approaching two different queens.
+
+In 1583, William Lee invented the stocking frame knitting machine—a device that could produce stockings far faster than any human hand. He traveled to London to present his invention to Queen Elizabeth I, hoping for a royal patent.
+
+The Queen refused. She told him: "Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment."
+
+Lee fled to France, where he died in obscurity. His invention was actively suppressed for decades. The English elites feared that labor-saving technology would destabilize the social order—and threaten their power.
+
+Now compare this to what happened two centuries later, when James Watt perfected the steam engine in the 1760s.
+
+By then, England had transformed. The Glorious Revolution of 1688 had shifted power from the monarchy to Parliament. Property rights were protected. Patents were enforceable. The elites could no longer simply seize your invention or throw you in prison for threatening their interests.
+
+Watt received his patent. Investors funded his factories. The Industrial Revolution began.
+
+The difference wasn't the technology. It was the institutional environment. In 1583, the cost of variance was too high—your reward might be exile or death. In 1760, the cost of variance was low—your reward would be protected by law.
+
+This is an important moment to pause and note: **Not everything follows the Pattern**.
+
+The Pattern requires specific ingredients: Iteration, Variance, and Selection. Without these, there is no adaptation. A rock sitting in a field does not evolve. A dictatorship that kills all dissenters does not innovate.
+
+What inclusive institutions enable is not guaranteed progress—it is a *stronger engine* for the Pattern. They create the conditions where millions of experiments can run simultaneously. They lower the cost of failure, which encourages variance. They protect successful innovations, which provides clear feedback.
+
+An extractive institution might achieve short-term growth—a dictator can force-march a nation into industrialization. But this growth is brittle. It relies on one brain, one set of priorities, one vision. The moment the environment changes or the leader dies, the system has no capacity to adapt.
+
+Inclusive institutions, by contrast, are self-correcting. They make mistakes—constantly. But because they allow millions of small experiments, they can find and fix errors faster. Over the long run, the system that processes more variance will always outperform the one that suppresses it.
+
 It is not that "Democracy is good" and "Dictatorship is bad" (though I believe that is true). It is that one system is a **Learning Machine** and the other is a **Control Machine**.
 
 A dictatorship is a nation that tries to evolve with only one brain, while an inclusive nation evolves with millions. Over the long run, the system that processes more variance always wins.
@@ -82,12 +108,12 @@ We have seen how the engine runs. Now, let's look at the dashboard. How do we tu
 
 The pattern does not define how these systems work; because they do, and because they have **Iteration** and **Variance** over **Time**, they follow the pattern. It is a consequence, a path to how things adapt.
 
-The pattern doesn't matter where the variance comes from:
-*   It can be **Blind** (a random mutation in a giraffe).
+The pattern doesn't care where the variance comes from:
+*   It can be **Blind** (a random mutation in a giraffe—what we often call "luck").
 *   It can be **Abstract** (a mutation in a story told at a bar).
 *   It can be **Intentional** (an entrepreneur testing a new market).
 
-The Pattern doesn't care. As long as there is Variance coupled with a ton of Iteration, the system will move. It will adapt.
+The Pattern doesn't distinguish between them. Luck, accident, and intention all feed the same engine. As long as there is Variance coupled with a ton of Iteration, the system will move. It will adapt. (We'll explore the surprising power of luck—and why it compounds—in Part IV.)
 
 Individuals might be running in circles, trying random things, failing, and succeeding.
 But the aggregate result is not random. It is directional.

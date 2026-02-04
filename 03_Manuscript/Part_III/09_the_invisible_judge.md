@@ -112,52 +112,9 @@ In this part of the book, we are going to tear apart this equation. We are going
 
 And once we see the equation, we can start to figure out how to solve it.
 
-Before we move on, I have to address the elephant in the room: **Luck**.
+Before we move on, you might be wondering: what about **Luck**? Isn't success often just being in the right place at the right time?
 
-We know that life isn't purely deterministic. If you run the same race twice with the same drivers, the results might differ. A tire might blow; an engine might stall.
-
-Luck is absolutely part of the pattern. We see it in Variance, the random mutations that create new strategies. We also see it in the initial conditions.
-
-A lucky break (being born in the right month for youth sports, or launching an app on a slow news day) can provide an early lead. This isn't just a one-time bonus; it feeds into the engine. That early win allows for more resources, which in turn enables more iterations, creating a feedback loop where "Winning" makes it easier to keep winning.
-
-Winners' strategies in the first iterations strongly shape subsequent runs. A winning strategy in any iteration might have a result defined by sheer luck, but that luck gets locked in by compounding. We will explore this deep "History dependence" in Part IV.
-
-So, yes, luck is a huge factor in any *single* iteration. It follows what mathematicians call a **Power Law**.
-
-Most of us intuitively think in **Bell Curves** (Normal Distributions). In a Bell Curve, data points cluster around an average. Think of human height: most people are average, a few are short, a few are tall. But no one is 100 feet tall. The "outliers" are constrained.
-
-But a **Power Law** (Pareto Distribution) is different. In a Power Law, the "average" doesn't tell the story. Most events are tiny and barely noticeable, but the tail of the curve extends infinitely. In this world, a 100-foot giant isn't just possible. He's the one who defines the landscape.
-
-This isn't just a theory; it's a measurable phenomenon. In 2018, physicists Alessandro Pluchino, Alessio Emanuele Biondo, and Andrea Rapisarda published a paper titled *"Talent vs Luck."*. They simulated a world in which people had a normal distribution of talent (Bell Curve) and faced random, lucky, or unlucky events over a 40-year career.
-
-The result? The most "successful" individuals (those with the most wealth/points) were rarely the most talented. They were the ones who had slightly above-average talent but *extreme* luck. The distribution of success followed a steep Power Law.
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'mainBkg': '#ffffff', 'textColor': '#000000', 'lineColor': '#ff0000'}}}%%
-xychart-beta
-    title "Bell Curve (Talent) vs Power Law (Success/Luck)"
-    x-axis ["Low", "Avg", "High", "Extreme"]
-    y-axis "Frequency" 0 --> 100
-    bar [10, 80, 10, 0]
-    line [100, 20, 5, 1]
-```
-
-*   **Talent is a Bell Curve (The Bars):** Even the best runner in the world is only marginally faster than the second best. The gap is small, and everyone is clustered in the middle.
-*   **Success is a Power Law (The Line):** Most luck is tiny and cancels out (low impact). But one massive lucky break, like being born into the right family or validly predicting a crypto boom, can be 10,000x more impactful than skill.
-
-This creates the "Success Paradox." In highly competitive fields, the winner is almost always highly skilled (they need to be to enter the game), but among the skilled, the winner is almost always the luckiest.
-
-I strongly recommend watching Veritasium's two-part breakdown on this:
-1.  **"Is Success Luck or Hard Work?"**: A visual demonstration of Pluchino's simulation.
-2.  **"The Success Paradox"**: A deeper dive into why we consistently underestimate luck's role.
-
-Understanding this is liberating. It means that if you aren't the "100-foot giant" (the billionaire, the superstar), it's not necessarily because you lacked the skill or the work ethic. You might have just rolled a normal number on the dice, while someone else rolled a double-six ten times in a row.
-
-Over the long run and across thousands of iterations and millions of individuals, luck "evens out." 
-
-Luck is, therefore, an extreme force that impacts a single iteration, a single run. But in the long run, thinking about the pattern, the Value Function is not defined by luck and therefore does not define the direction; it does not steer the engine.
-
-Randomness adds noise, but the Value Function defines the signal. The direction of a species, a market, or a culture is determined by the equation, not the dice.
+Yes—and we'll explore exactly how luck compounds into power in Part IV. For now, just note that the Value Function describes the *direction* of adaptation, not who wins any single race. Luck can decide individual outcomes; the Value Function decides the shape of the winners over time.
 
 ### The Blind Spots
 
