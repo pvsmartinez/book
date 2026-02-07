@@ -73,7 +73,7 @@ The hours Sofia spent before the recording weren't wasted—but they weren't max
 
 This is the difference between *doing* something and *learning* something. A musician who records themselves. A surgeon who gets instant critique from a mentor. A writer who reads their drafts aloud. In these scenarios, the "Action" is immediately followed by "Selection." The error is highlighted. The brain is forced to edit.
 
-Without that strict feedback, you aren't learning. You are just reinforcing your existing habits. You are calcifying.
+Without that strict feedback, true learning is difficult. Often, you are just reinforcing your existing habits. You are calcifying.
 
 ### Designing the Environment
 
@@ -105,7 +105,7 @@ This is why a teenager can master *Fortnite* in a weekend, while a 50-year-old d
 
 Education is also an attempt to hack this loop. If a school only had one big exam at the end of the year, the feedback would be too slow to be useful. Homework, quizzes, and projects are not "extra work", but artificial feedback loops designed to let you fail early and often, while the "cost" of failure is low.
 
-How the loop is organized shapes its effectiveness. Whether by design or not. And this is the key part we need to understand. This learning/adaptation will happen, intentionally or not.
+How the loop is organized shapes its effectiveness. And this is the key part we need to understand: the adaptation will happen whether we designed the loop intentionally or not.
 
 The examples I've given so far: training a dog, practicing tennis, studying for an exam—are all about *intentional* learning. We used our brains to guide the process. But what happens when there is no brain involved? Does the Pattern still work if you take away the intelligence?
 

@@ -82,7 +82,8 @@ This is the bridge between the random noise of the universe and the complex orde
 3.  **Selection (The Filter):** Keep only the ones that work.
 
 The result is **Adaptation**.
-$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$
+
+$$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 ### The Engine is Built
 

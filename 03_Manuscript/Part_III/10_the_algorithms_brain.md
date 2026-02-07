@@ -69,7 +69,7 @@ It is pure mathematics proving exactly what we discussed in Part II.
 
 The Value Function (The Judge) carves the Variance over time to create Adaptation.
 
-The AI didn't learn what a cat is. It just found the specific mathematical path that minimized the Loss Function. It iterated until it survived the Judge.
+The AI didn't learn the *concept* of a cat in the way we understand it. It just found the specific mathematical path that minimized the Loss Function. It iterated until it survived the Judge.
 
 ### The Judge is Destiny
 

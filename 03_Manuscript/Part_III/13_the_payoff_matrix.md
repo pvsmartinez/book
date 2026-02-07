@@ -31,7 +31,7 @@ The most famous problem in Game Theory: **The Prisoner's Dilemma**.
 Two suspects are arrested. The police separate them and make the same offer to each:
 *"You can stay silent (cooperate with your partner) or betray your partner (defect). Your sentence depends on what both of you choose."*
 
-This table is the complete description of the Value Function in this moment:
+This table is the complete description of the Value Function at this moment:
 
 | You ↓ / Partner → | **Stay Silent** | **Betray** |
 | :--- | :--- | :--- |
@@ -68,7 +68,7 @@ The **Environment** (the Track) writes the numbers:
 
 - Food is worth **+50 points**.
 - Serious injury costs **-100 points**.
-- When two animals posture without fighting, they split the food and each loses a bit of energy: **+15 points**.
+- When two animals posture without fighting, they split the food, and each loses a bit of energy: **+15 points**.
 
 The **Payoff Matrix**:
 
@@ -89,7 +89,7 @@ But then, a single **Hawk Mutant** appears.
 
 This Hawk looks around at a forest of Doves. Every time it encounters another animal, it fights and wins (+50 points). The Doves, seeing a genuine threat, flee (0 points for them).
 
-The Hawk is now "fitter" than the Doves. It eats better, reproduces faster, passes its genes to the next generation.
+The Hawk is now "fitter" than the Doves. It eats better, reproduces faster, and passes its genes to the next generation.
 
 Within a few generations, more Hawks appear. As the population shifts, something changes.
 
@@ -160,7 +160,7 @@ The Doves and Hawks **find a stable configuration**. The system oscillates, reac
 
 **The Prisoners' Dilemma has no such escape.**
 
-Look back at that matrix. Both prisoners, acting rationally, choose to betray. The result is 5 years each. But if somehow they could coordinate and both stay silent, they would get 1 year each.
+Look back at that matrix. Both prisoners, acting rationally, choose to betray. The result is 5 years each. But if they could somehow coordinate and both stay silent, they would each get 1 year.
 
 The problem: **There is no stable configuration where cooperation emerges.**
 
@@ -184,7 +184,7 @@ The Pattern climbs to the nearest **Local Maximum** and gets stuck there. It can
 
 This is why we have the Exam Trap. This is why we have the Whale Economy. This is why corporations fire their R&D departments to boost short-term profit. We are all trapped at a Local Maximum, making rational moves that collectively prevent us from reaching the Global Maximum.
 
-And sometimes, like in the Prisoners' Dilemma, there is **no stable cooperative equilibrium at all**. The system trends toward mutual destruction. The only stable state is "betray."
+And sometimes, like in the single-round Prisoners' Dilemma, there is **no stable cooperative equilibrium at all**. The system trends toward mutual destruction. The only stable state is "betray."
 
 ### The Meeting Dilemma: A Local Maximum in Slow Motion
 
@@ -201,7 +201,7 @@ Here is the Payoff Matrix for the employee:
 
 If the team has a culture of brief updates, your best move is to stay brief. You look good, and the meeting is fast.
 
-If the team has a culture of long updates, your best move is to also update for a long time. Otherwise, you look lazy by comparison.
+If the team has a culture of long updates, your best move is to update for a long time as well. Otherwise, you look lazy by comparison.
 
 **Both employees and the team are stuck in a Prisoners' Dilemma.**
 
@@ -211,7 +211,7 @@ No one is stupid. Everyone is trapped.
 
 ### Why This Matters: The Value Function is Fragile
 
-**The Payoff Matrix determines behavior. Not intention. Not wisdom. Not morality. Just the math.**
+**The Payoff Matrix is the primary architect of behavior. It doesn't mean intention, wisdom, or morality don't exist, but in the long run, the math of the system tends to override them.**
 
 Set the matrix to reward only short-term profit? Companies will cannibalize long-term growth.
 Set it to reward only test scores? Schools will abandon critical thinking.
@@ -219,7 +219,7 @@ Set it to reward user engagement at any cost? Social media will optimize for out
 
 The Pattern is not good or evil. It's a machine that reads the matrix and outputs the behavior that maximizes it.
 
-Because the environment, competitors, and rules are constantly shifting, the matrix is constantly being rewritten. Sometimes this creates stable equilibria, such as Hawks and Doves. Sometimes it creates traps, such as the Prisoner's Dilemma.
+Because the environment, competitors, and rules are constantly shifting, the matrix is constantly being rewritten. Sometimes this creates stable equilibria, such as the Hawk-Dove equilibrium. Sometimes it creates traps, such as the Prisoner's Dilemma.
 
 The question is never "Are the players moral?"
 

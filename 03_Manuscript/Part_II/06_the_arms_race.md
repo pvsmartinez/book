@@ -50,13 +50,13 @@ In the 1940s, DDT seemed like a miracle. Farmers sprayed their fields, and the i
 
 But the insects were iterating.
 
-In any population of millions, there's always variance. A tiny fraction—maybe one in ten thousand—had a random mutation that made them slightly more resistant to DDT. Before the spray, this mutation was useless. After the spray, it was the only thing that mattered.
+In any population of millions, there's always variance. A tiny fraction—maybe one in ten thousand—had a random mutation that made them slightly more resistant to DDT. Prior to the spray, this mutation was ineffective. After the spray, it was the only thing that mattered.
 
-The 99.99% died. The 0.01% survived, reproduced, and passed their resistance to the next generation. Within a few years, farmers noticed the insects coming back. So they sprayed more DDT. The resistant insects thrived. The sensitive ones were already gone.
+The 99.99% died. The 0.01% survived, reproduced, and passed their resistance to the next generation. Within a few years, farmers observed the insects returning. So they sprayed more DDT. The resistant insects thrived. The sensitive ones were already gone.
 
-By the 1960s, farmers were using ten times more pesticide than in the 1940s—and getting worse results. The insects had evolved. The "miracle poison" was now just expensive water.
+By the 1960s, farmers were using ten times more pesticides than in the 1940s—and getting worse results. The insects had evolved. The "miracle poison" was now just expensive water.
 
-So the chemical companies invented new poisons. The insects evolved again. Stronger poison, stronger bugs. This cycle has a name: the **Pesticide Treadmill**.
+Thus, chemical companies developed new toxins. The insects evolved again. Stronger poison, stronger bugs. This cycle has a name: the **Pesticide Treadmill**.
 
 Today, we have insects resistant to every major class of pesticide. Farmers are running faster than ever, spending more than ever, just to stay in the same place. The bugs aren't "winning"—but neither are we. We are both locked in a race that neither side can exit.
 
@@ -72,7 +72,7 @@ So Congress writes more rules. More specific. More detailed. More pages.
 
 But more pages mean more complexity. More complexity means more gaps. More gaps mean more loopholes. The law grows not because society needs it, but because the arms race demands it.
 
-The same dynamic drives the explosion of legal contracts. A handshake deal that worked in 1950 now requires a 200-page agreement reviewed by multiple attorneys. Why? Because every contract dispute that went to court revealed an ambiguity. Every ambiguity became a lesson. Every lesson became a new clause. The contracts got longer not because people became less trustworthy, but because the arms race between "what I meant" and "what you can argue I meant" kept escalating.
+The same dynamic drives the explosion of legal contracts. A handshake deal that worked in 1950 now requires a 200-page agreement reviewed by multiple attorneys. Why? Because every contract dispute that went to court revealed an ambiguity. Every ambiguity became a lesson. Every lesson became a new clause. The contracts became longer not because people became less trustworthy, but because the arms race between "what I meant" and "what you can argue I meant" escalated.
 
 Lawyers aren't evil. They're just cheetahs. They optimize for the environment they're given. And the environment keeps selecting for longer claws.
 
@@ -96,7 +96,7 @@ The result is that actors today work far harder than their predecessors—and ge
 
 The same pattern is reshaping the job market.
 
-In 1970, a bachelor's degree was a golden ticket. It meant you were educated, capable, ready for a professional career. Employers competed to hire you.
+In 1970, a bachelor's degree was a golden ticket. It meant you were educated, capable, and ready for a professional career. Employers competed to hire you.
 
 Today, a bachelor's degree is the bare minimum for an entry-level position. Many "starter" jobs now require a master's degree, multiple internships, proficiency in specialized software, and years of experience—for a role that pays the same (inflation-adjusted) as the 1970 job that required only a diploma.
 
@@ -117,7 +117,7 @@ In an arms race, the environment isn't a wall. The environment is *you*. And for
 Iteration is no longer a solo performance. It is a duet. 
 Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve *you*.
 
-The tragedy of the arms race is that it often produces no net benefit. The cheetah and gazelle are both exhausted. The farmers spend more on pesticides for the same yields. The actors train twice as hard for the same applause. The graduates study twice as long for the same jobs.
+The tragedy of the arms race is that it often produces no net benefit. The cheetah and gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. The actors train twice as hard for the same applause. The graduates study twice as long for the same jobs.
 
 Everyone is optimizing. No one is winning.
 

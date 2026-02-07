@@ -32,7 +32,7 @@ The virus is just a simple shell with genetic code in it. It follows the same ru
 
 During the COVID-19 pandemic, we had the best scientists in the world, global lockdowns, and eventually, cutting-edge vaccines. We were using our collective human intelligence to fight a microscopic strand of RNA.
 
-And yet, the virus kept winning.
+And yet, the virus continued to prevail.
 
 It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks (processes that take weeks or months), the virus was replicating billions of times per hour. It was evolution on fast-forward.
 

@@ -25,15 +25,15 @@ Goal: Fewer snakes.
 Variable: Dead snakes. 
 Metric: Number of skins. 
 
-They sat back and waited for the "Invisible Hand" to do its magic. And for a while, it worked! The number of skins coming into the government offices was massive. The clerks were busy, the payments were flowing, and the "data" showed a resounding success. 
+They sat back and waited for the "Invisible Hand" to do its magic. And for a while, it worked! The number of skins entering government offices was substantial. The clerks were busy, the payments were flowing, and the "data" showed a resounding success. 
 
 But there was a bug in the source code.
 
-The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle) and they looked at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to simply breed cobras in their basements.
+The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle), and they looked at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to simply breed cobras in their basements.
 
 Suddenly, Delhi had a thriving new industry: **Cobra Farming.** 
 
-The government was paying for the very thing it was trying to eliminate. When the officials finally realized they were being gamed and canceled the bounty, the breeders did the only logical thing with their now-worthless inventory: they opened the cages and let the snakes go. 
+The government was paying for the very thing it was trying to eliminate. When the officials finally realized they were being gamed and canceled the bounty, the breeders did the only logical thing with their now-worthless inventory: they opened the cages and released the snakes. 
 
 Delhi ended up with more cobras than it had at the start.
 
@@ -49,13 +49,13 @@ This is what I call a **Successful Failure**.
 
 We see this everywhere once we start looking. 
 
-*   **In Hanoi**, the French colonial government paid for rat tails to stop a plague. People began breeding rats, cutting off their tails, and releasing them to breed more. Success (more tails) = Failure (more rats).
+*   **In Hanoi**, the French colonial government paid for rat tails to stop a plague. People began breeding rats, tailing them, and releasing them to breed more. Success (more tails) = Failure (more rats).
 *   **In Corporations**, we tell managers to "Maximize Shareholder Value this Quarter." The managers fire the research team and sell the factory equipment. The stock price goes up (Success!), but the company has no future (Failure).
 *   **In Social Media**, we tell the algorithm to "Maximize Engagement." The algorithm finds that anger and division keep people on the site longer than peace and nuance. The engagement numbers are at an all-time high (Success!), but the social fabric is tearing (Failure).
 
 The problem is that in the real world, the things we actually want, **Intelligence, Prosperity, Safety, Happiness** are hard to evaluate. You cannot measure "Prosperity" with a ruler. You cannot weigh "Learning" on a scale.
 
-As we've seen in the Value Function equation, the forces shaping the pattern are the rules, the track, and the competitors. The intent is not there. It does not affect the pattern (Not directly). This means that if the rules are not fully aligned with the intended outcome, there will be drift in the expected outcome and final result.
+As we've seen in the Value Function equation, the forces shaping the pattern are the rules, the track, and the competitors. The intent is not there. It does not affect the pattern (Not directly). This means that if the rules are not fully aligned with the intended outcome, there will be a drift in the expected outcome and final result.
 
 That is the danger of the **Proxy**.
 
@@ -84,7 +84,7 @@ Imagine two people.
 
 The **Proxy** (The Interest Rate) was designed to keep the economy "healthy." But the **System** sees that the most "fit" behavior isn't building factories; it’s sitting on money. 
 
-Over time, this creates a massive divergence. Capital grows faster than Labor. The people with money get exponentially richer by doing nothing, while the people who work can never catch up. The country has "low inflation" (it hit the proxy), but it has undermined "Prosperity" (the goal).
+Over time, this creates a massive divergence. Capital grows faster than Labor. The people with money get exponentially richer by doing nothing, while the people who work often struggle to catch up. The country has "low inflation" (it hit the proxy), but it has undermined "Prosperity" (the goal).
 
 The Judge is happy because the meter moved. The people are suffering because the territory doesn't match the map.
 

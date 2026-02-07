@@ -10,12 +10,12 @@ The maze gets inside you.
 
 There is a famous idea in martial arts: be like water. If you put water into a cup, it becomes the cup. If you put it into a bottle, it becomes the bottle. This metaphor is one of the best ways to think of the Pattern.
 
-Because Iteration + Variation, over time create adaptation, this inevitable force makes the value function shape its players and behaviors through a mold. Just like water gets the shape of its container.
+Because Iteration + Variation, over time, creates adaptation, this inevitable force shapes the value function of its players and behaviors through a mold. Just like water gets the shape of its container.
 
-You may believe and look at the pattern, the incentives, environment and competitors, thinking only about the external, the actions, the strategies.
+You may believe and look at the pattern, the incentives, environment, and competitors, thinking only about the external, the actions, the strategies.
 
-But each action you make, each interaction you have will also deliver feedback to you. 
-And by delivering feedback, success/failure, emotions and experiences, it shapes you, just like the cup shapes water.
+But each action you take, each interaction you have, will also deliver feedback to you. 
+And by delivering feedback, success/failure, emotions, and experiences, it shapes you, just like the cup shapes water.
 
 ### Identity as Calcification
 

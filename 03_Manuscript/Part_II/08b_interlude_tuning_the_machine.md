@@ -2,9 +2,9 @@
 
 ---
 
-Now we know how the pattern works. Its
+Now we know how the pattern works:
 
-**$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$**
+$$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 We know the machine is powerful, but we also know it is not magic. It has dials. And if it has dials, it can be edited/tweaked.
 If you want to learn faster (or evolve a product faster), you could always just "try harder", but it will be more efficient to tune the machine. To change these dials for a faster iteration.

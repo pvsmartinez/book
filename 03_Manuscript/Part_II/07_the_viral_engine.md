@@ -35,7 +35,7 @@ The energy traveled. The matter stayed put.
 This energy transmission is the perfect mental model for us.
 The silver balls are the vehicles.
 Matter is the vehicle for sound to transmit energy.
-Bodies are vehicles for genes to be transmitted through generations.
+Bodies are vehicles through which genes are transmitted across generations.
 Minds are vehicles for memes to transmit through the ages.
 
 This is Memetics. Society is the water. The Idea is the wave.
@@ -52,11 +52,11 @@ These often rely on high-arousal emotions. As we hinted in previous chapters, an
 
 Consider the Flat Earth movement. In 2015, the idea that the Earth is flat was a joke—a relic of medieval ignorance. By 2020, millions of people genuinely believed it. How?
 
-The idea didn't spread because it was *true*. It spread because it was *sticky*. "They're lying to you" triggers a primal emotional response: distrust of authority, the thrill of secret knowledge, the dopamine hit of being "special" for seeing through the conspiracy. Every time someone shared a Flat Earth video to mock it, they were still sharing it. The algorithm didn't care if you clicked in agreement or outrage—it only counted the click. The meme hijacked the distribution network designed for cat videos and used it to replicate.
+The idea didn't spread because it was *true*. It spread because it was *sticky*. The phrase "They're lying to you" triggers a primal emotional response: distrust of authority, the thrill of secret knowledge, and the dopamine hit of being "special" for seeing through the conspiracy. Every time someone shared a Flat Earth video to mock it, they were still sharing it. The algorithm didn't care if you clicked in agreement or outrage—it only counted the click. The meme hijacked the distribution network designed for cat videos and used it to replicate.
 
 Or take the "blood circulation" myth. You've probably heard this one: "If you laid out all the blood vessels in a human body, they would wrap around the Earth ten times." It sounds impressive. It *feels* like a fact. But trace its origin, and you find it was a rough estimate from an old anatomy textbook—a thought experiment, not a measurement. Yet because it was memorable and emotionally satisfying (isn't the human body amazing?), it jumped from textbook to teacher to student to cocktail party, mutating slightly with each retelling, until it became "common knowledge." Nobody fact-checked it because it didn't *need* to be true; it just needed to be repeatable.
 
-These are parasitic memes. They survive not by helping the host, but by being impossible to forget.
+These are parasitic memes. They survive not by helping the host but by being impossible to forget.
 
 **2. Symbiosis (The Useful Tool)**
 But not all viruses are bad. Some ideas survive because they help the host.

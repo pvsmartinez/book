@@ -18,7 +18,7 @@ It doesn't just work on the Micro scale (Genes) or the Human scale (Memes). It w
 ### The Corporate Survival
 
 The pattern appears in many flavors for companies, but a simple one is about money and survival.
-Think of money as Calories. If the company runs out, it will starve. Therefore, a company is ultimately filtered by profit.
+Think of money as Calories. If the company runs out, it will starve. Therefore, a company is ultimately judged by its profits.
 
 Profit isn't the company's goal (it can be, but not necessarily), just as food isn't the goal of a lion. Profit is the energy required to play the next round of the game. 
 
@@ -28,7 +28,7 @@ Companies will sell their products and services, cut costs, and organize themsel
 
 In this view, the Market is the environment. The company is the vehicle in which different products act as genes, and different corporate structures act as memes.
 
-In the early 20th century, the environment selected for raw efficiency. The "winning mutation" was Fordism. Mass production. Consistency. Scale. This meme spread across the world because it worked. It helped companies survive.
+In the early 20th century, the environment was selected for raw efficiency. The "winning mutation" was Fordism. Mass production. Consistency. Scale. This meme spread across the world because it worked. It helped companies survive.
 
 But the environment is dynamic (Red Queen). It shifted.
 Efficiency wasn't enough; you needed speed. So we saw the rise of "Lean Startup" methodologies. These weren't just management fads. They were adaptations to a high-speed environment.
@@ -40,7 +40,7 @@ A mediocre product with brilliant distribution often beats a superior product wi
 
 You have millions of companies, trying different strategies (Variance) with different grades of success (Feedback), inspiring the next companies (Iterations). This means over time, the companies adapt.
 
-The same logic applies to product prices. Some sell, others don't. Following supply and demand, with enough iterations, prices converge and adapt.
+The same logic applies to product prices. Some sell, others don't. Following supply and demand, prices converge and adapt with enough iterations.
 
 ### The Wealth of Nations
 
@@ -72,7 +72,7 @@ The book tells a striking story about two inventors approaching two different qu
 
 In 1583, William Lee invented the stocking frame knitting machine—a device that could produce stockings far faster than any human hand. He traveled to London to present his invention to Queen Elizabeth I, hoping for a royal patent.
 
-The Queen refused. She told him: "Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment."
+The Queen refused. She told him: "Consider thou what the invention could do to my poor subjects. It would assuredly bring them ruin by depriving them of employment."
 
 Lee fled to France, where he died in obscurity. His invention was actively suppressed for decades. The English elites feared that labor-saving technology would destabilize the social order—and threaten their power.
 
@@ -82,21 +82,21 @@ By then, England had transformed. The Glorious Revolution of 1688 had shifted po
 
 Watt received his patent. Investors funded his factories. The Industrial Revolution began.
 
-The difference wasn't the technology. It was the institutional environment. In 1583, the cost of variance was too high—your reward might be exile or death. In 1760, the cost of variance was low—your reward would be protected by law.
+The difference wasn't the technology. It was the institutional environment. In 1583, the cost of variance was too high—your reward might be exile or death. In 1760, the cost of variance was low; your reward would be protected by law.
 
 This is an important moment to pause and note: **Not everything follows the Pattern**.
 
 The Pattern requires specific ingredients: Iteration, Variance, and Selection. Without these, there is no adaptation. A rock sitting in a field does not evolve. A dictatorship that kills all dissenters does not innovate.
 
-What inclusive institutions enable is not guaranteed progress—it is a *stronger engine* for the Pattern. They create the conditions where millions of experiments can run simultaneously. They lower the cost of failure, which encourages variance. They protect successful innovations, which provides clear feedback.
+What inclusive institutions enable is not guaranteed progress—it is a *stronger engine* for the Pattern. They create the conditions where millions of experiments can run simultaneously. They lower the cost of failure, which encourages variance. They protect successful innovations, which provide clear feedback.
 
-An extractive institution might achieve short-term growth—a dictator can force-march a nation into industrialization. But this growth is brittle. It relies on one brain, one set of priorities, one vision. The moment the environment changes or the leader dies, the system has no capacity to adapt.
+An extractive institution might achieve short-term growth—a dictator can force-march a nation into industrialization. But this growth is brittle. It relies on one brain, one set of priorities, one vision. The moment the environment changes, or the leader dies, the system has no capacity to adapt.
 
 Inclusive institutions, by contrast, are self-correcting. They make mistakes—constantly. But because they allow millions of small experiments, they can find and fix errors faster. Over the long run, the system that processes more variance will always outperform the one that suppresses it.
 
 It is not that "Democracy is good" and "Dictatorship is bad" (though I believe that is true). It is that one system is a **Learning Machine** and the other is a **Control Machine**.
 
-A dictatorship is a nation that tries to evolve with only one brain, while an inclusive nation evolves with millions. Over the long run, the system that processes more variance always wins.
+A dictatorship is a nation that tries to evolve with only one brain, while an inclusive nation evolves with millions of brains. Over the long run, the system that processes more variance almost always outperforms the one that suppresses it.
 
 ### The Fractal
 
@@ -106,7 +106,7 @@ The Pattern is the fractal of our existence. From the gene to the meme, from ind
 
 We have seen how the engine runs. Now, let's look at the dashboard. How do we tune the machine?
 
-The pattern does not define how these systems work; because they do, and because they have **Iteration** and **Variance** over **Time**, they follow the pattern. It is a consequence, a path to how things adapt.
+The Pattern doesn't dictate how these systems work; rather, because these systems possess **Iteration** and **Variance** over **Time**, they inevitably follow the Pattern. It is a consequence, not a command.
 
 The pattern doesn't care where the variance comes from:
 *   It can be **Blind** (a random mutation in a giraffe—what we often call "luck").

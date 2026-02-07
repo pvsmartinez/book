@@ -30,13 +30,13 @@ Suddenly, *Breaking Bad* and *Game of Thrones* became possible. Writers could cr
 
 The writers didn't just "get smarter." The **Track** changed from a "Hop-on Hop-off Bus" to a "High-Speed Train." The nature of the art changed because the delivery physics changed.
 
-As a constant reminder, we should remember that the writers tried all types of shows in both eras. This was the **Variance**. As each show was created, some were more successful than others. Then, a new batch of shows gets funding through their pitches and is developed and streamed/broadcast. Some shows succeed, while others fail. It's natural that, from these actions and feedback, each batch is an **Iteration**; the future shows pick what worked from past shows and add a small tweak to make it unique (Adds **Variance** once more). This shapes the shows that are created over time.
+It's worth remembering that writers tried all types of shows in both eras. This was the **Variance**. As each show was created, some were more successful than others. Then, a new batch of shows gets funding through their pitches and is developed and streamed/broadcast. Some shows succeed, while others fail. It's natural that, from these actions and feedback, each batch is an **Iteration**; the future shows pick what worked from past shows and add a small tweak to make it unique (Adds **Variance** once more). This shapes the shows that are created over time.
 
 Each success or failure of a show affects the next one that will be developed. This makes the show creation in the pattern. The rules themselves usually are the same (Who's the most popular, brought more money, usually from reach). What changed the type of show then was the medium. A strategy for a show that is seen with skipped chapters is different from a show that you can binge-watch.
 
 Today, this might seem obvious and is taught in arts schools, as viewers know what to expect from a film, a series, a TV soap opera, and so on. But this knowledge, just as in the Salesman example from Chapter 2, was built through these iterations and experiments. It came from the empirical studies of the pattern in real time.
 
-During the rest of the book, we might skip several steps of the pattern at times, explaining how a filter shapes the outcome. To make reading flow, we won't enter the details of the pattern every time, but it is essential to remind ourselves that it is the force of **Iteration** x **Variance** over **Time** that enables such selection to adapt something into a mold, a behavior, a shape.
+Throughout the rest of this book, I won't always pause to deconstruct the Pattern step-by-step. We will assume the engine is running in the background. But remember: whenever we talk about a system changing, it is the force of **Iteration** x **Variance** over **Time** doing the work.
 
 During any sudden change in the medium, the rules, or the competitors, we will see a period of experimentation. Players and competitors are trying new things, different things, what works and what doesn't, until they reach a point of maturity. Cellphone companies might innovate a lot on their first-generation products. The first phones using touch screen could be really different from each other. But at some point, every new iteration and phone became similar to the next.
 
@@ -74,8 +74,8 @@ Now we have the Feed. The constraints are even tighter.
 *   **Speed:** A thumb-flick (milliseconds).
 *   **Payment:** Number of views (Times ads shown).
 
-In this environment, "Nuance" is physically impossible. You cannot explain a complex tax policy in a space that is scrolled past in 0.5 seconds.
-The only thing that stops the thumb is **High Arousal Emotion**. Anger, shock, outrage, or "The Dunk."
+In this environment, "Nuance" is practically impossible. You cannot explain a complex tax policy in a space that is scrolled past in 0.5 seconds.
+The strongest brake for the thumb is **High Arousal Emotion**. Anger, shock, outrage, or "The Dunk."
 
 Truth is often boring. Truth is often "It's complicated."
 But "It's complicated" has a viral coefficient of zero.
@@ -126,7 +126,7 @@ The Algorithm of social media is not necessarily evil, It is just counting click
 
 The Algorithm has a tremendous force due to the pattern. These social media platforms have so many creators and views that they exhibit significant variance and a high rate of iteration. You could argue that the volume of iteration and adaptation on those platforms is as strong or as fast as a virus. Millions of creations per day, with brutal, rapid validations; small tweaks to the value function quickly optimize user behavior and content.
 
-We are seeing this right now with AI on social media, the so called AI Slop, with so many tests and iterations, the very nature of how those videos are presented are changing over time. Probably until this book is released, the videos will be so different from those being created today (January 2026) that I won't even go into detail. But more than just the technology evolving, the creators that use "AI Slop" are so huge in volume, and are experimenting so quickly, that I would bet unless some law/rule comes up, the videos from AI will blend from the videos without, and we will find some form of accepted AI generated content, just because the pattern is selecting as we speak the content that is accepted or not, at a extreme pacing.
+We are seeing this right now with AI on social media, the so called AI Slop, with so many tests and iterations, the very nature of how those videos are presented are changing over time. By the time this book is released, the videos will likely look so different from what is being created today (January 2026) that I won't even go into detail. But more than just the technology evolving, the creators that use "AI Slop" are so huge in volume, and are experimenting so quickly, that I would bet unless some law/rule comes up, the videos from AI will blend from the videos without, and we will find some form of accepted AI generated content, just because the pattern is selecting as we speak the content that is accepted or not, at a extreme pacing.
 
 The medium and its rules shape what works and what does not. It defines what's effective, and they create a force like a river. If a player tries to swim against it, they should expect conflict. It’s not impossible, but there are actions that get rewarded by the pattern, and actions that are not.
 

@@ -33,8 +33,8 @@
 *   **09_the_invisible_judge.md**: The Invisible Judge
 *   **10_the_algorithms_brain.md**: The Algorithm's Brain
 *   **11_the_medium.md**: The Medium
-*   **12_the_invisible_hand.md**: The Invisible Hand
-*   **13_the_proxy.md**: The Proxy
+*   **12_the_competitors_meta.md**: The Competitors Meta
+*   **13_the_payoff_matrix.md**: The Payoff Matrix
 *   **14_the_cobra_effect.md**: The Cobra Effect
 *   **15_the_mold.md**: The Mold
 *   **15b_interlude_the_value_audit.md**: Interlude: The Value Audit

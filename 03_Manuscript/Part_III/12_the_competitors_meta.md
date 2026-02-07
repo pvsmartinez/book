@@ -46,7 +46,7 @@ The owners needed "Rotation." They needed you to play, lose, and move so the nex
 This environment is selected for **Difficulty**.
 Old arcade games like *Pac-Man* or *Donkey Kong* were brutally hard because they were designed for short sessions. There were no "Save Systems" or deep narratives. The Value Function rewarded games that could kill you in three minutes while making you feel like you *almost* won.
 
-The competitors (the other developers) weren't trying more or less then current developers to make you "happy"; they were trying to survive the arcade market. If your game was too easy, the arcade owner wouldn't buy it because it wouldn't make enough coins per hour. The competition forced a "Hardcore" meta.
+The competitors (the developers) weren't trying to make you "happy" any less than modern developers are. They were simply trying to survive the arcade market. If your game was too easy, the arcade owner wouldn't buy it because it wouldn't make enough coins per hour. The competition forced a "Hardcore" meta.
 
 ### The Home Comforts
 
