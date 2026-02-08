@@ -41,19 +41,19 @@ This concept of thresholds is why over-optimization is so dangerous. When a syst
 
 Take a rubber band. You can stretch it 10%, 20%, 50%. It behaves linearly: the more you pull, the more tension it creates. 
 
-But there is a specific millimeter of stretch where the material fails. It doesn't just stretch a little more; it snaps. 
+But there is a specific stretch in millimeters where the material fails. It doesn't just stretch a little more; it snaps. 
 
 In physics, this is a **Phase Transition**. Water can get hotter and hotter—1 degree, 20 degrees, 99 degrees—and it remains a liquid. It behaves the same way at 98 degrees as it does at 10. But at 100 degrees, the rules change. It undergoes a "phase transition" and becomes steam. 
 
 Systems work the same way. 
 
-Consider the energy company we mentioned earlier. If they cut their maintenance budget by 1% every year, for a decade everything looks like a model of efficiency. The lights stay on, the overhead drops, and the profits go up. They believe they are climbing a mountain of success.
+Consider the energy company we mentioned earlier. If they cut their maintenance budget by 1% each year for a decade, everything looks efficient. The lights stay on, the overhead drops, and the profits go up. They believe they are climbing a mountain of success.
 
 But they are actually approaching a **Breakpoint**. 
 
 Every system has a "minimum viable response" threshold. As long as the weather is "normal," the reduced crews can handle the routine. But the moment a major storm hits—the moment the system is pushed 1% past its capacity—it doesn't just slow down. It hits a cliff. 
 
-The company wasn't just "less efficient" at fixing the power lines; they were **systemically unable** to handle the volume. They had crossed the line where the number of problems exceeded their capacity to solve them. At that point, the errors began to compound faster than the repairs. 
+The company wasn't just "less efficient" at fixing the power lines; they were **systemically unable** to handle the volume. They had crossed the line where the number of problems exceeded their capacity to solve them. At that point, the errors began to compound faster than the repairs could keep up with. 
 
 This is why systems feel like they break "all at once." It’s not that the storm was uniquely powerful; it’s that the system had been optimized right to the edge of the cliff, and the storm was simply the nudge that sent it over.
 
@@ -65,7 +65,7 @@ To an observer in 1780s France or 1910s Russia, the system might have looked sta
 
 But underneath the surface, the pressure was approaching a breakpoint. 
 
-Then, a single event acts as that final "+3 damage" upgrade. A bread riot, a lost war, a single speech. It doesn't just add to the tension; it crosses the threshold. In an instant, the "Phase Transition" occurs. The rules that everyone followed yesterday are ignored. The regime that seemed secure in the morning is gone by nightfall. 
+Then, a single event acts as that final "+3 damage" upgrade. A bread riot, a lost war, a single speech. It doesn't just add to the tension; it crosses the threshold. In an instant, the "Phase Transition" occurs. The rules that everyone followed yesterday were ignored. The regime that seemed secure in the morning is gone by nightfall. 
 
 You can have 99% of the pressure required for a change and see 0% of the result. You might feel like your activism or your work is doing nothing. The system feels immobile, monolithic, and boring.
 

@@ -1,9 +1,5 @@
 ## Chapter 1: Does the World Feel More Extreme?
 
----
-
-### Draft
-
 I remember when the news was boring.
 
 If you’re old enough, you might remember a scandal about a politician's affair or a debate about tax rates. It felt... manageable. The world had its problems, of course, but they felt like they were happening at a human scale. You could turn off the TV, walk outside, and the noise would stop.
@@ -36,6 +32,6 @@ The market is the same. It isn't "trying" to starve anyone; it is simply a massi
 
 We are living in systems that are self-optimizing toward extremism.
 
-This is the Pattern. It is not a conspiracy, nor is it chaos. It is the mathematical inevitability of what happens when you tell a system to optimize for a single metric and give it enough time to learn.
+This is the Pattern. It is not a conspiracy, nor is it chaos. It is the mathematical consequence of what happens when you tell a system to optimize for a single metric and give it enough time to learn.
 
 In this book, I want to hand you this lens. I want to show you the code behind the chaos. Because once you stop hating the players and start understanding the game, you can finally see the path to changing it.

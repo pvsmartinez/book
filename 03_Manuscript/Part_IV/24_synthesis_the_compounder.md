@@ -65,7 +65,7 @@ It is doing exactly what it was designed to do, using the engine we built, guide
 
 Up until now, we have been looking at the world as **Players**. 
 
-We’ve been trying to figure out how to run faster, how to fit the filter better, and how to survive the next shift in the "Meta." We’ve been fruitlessly yelling at the other runners and pleading with the "Judge" to be more fair. 
+We’ve been trying to figure out how to run faster, how to fit the filter better, and how to survive the next shift in the "Meta." We’ve been fruitlessly yelling at the other runners and pleading with the "Judge" to be fairer. 
 
 Wait, did you think we were trapped? Did you think the machine was the boss? 
 

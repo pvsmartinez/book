@@ -6,7 +6,7 @@
 
 If systems only ever moved in one direction—getting more specialized, more extreme, and more efficient—every species would eventually become a Cheetah and go extinct the moment the weather changed. 
 
-But nature, and history, have a counter-force. Systems don't just move in straight lines; they **Oscillate**. 
+But nature and history have a counter-force. Systems don't just move in straight lines; they **Oscillate**. 
 
 Take **Fashion**. It’s the closest thing we have to a pure laboratory of human desire. The "Value Function" of fashion is complex—it’s about attractiveness, status, and self-expression—but at its core, it is driven by **differentiation**. 
 
@@ -18,9 +18,9 @@ The system doesn't change because the new clothes are "better" in any objective 
 
 We saw this mechanism clearly in **Chapter 15** with the Hawks and Doves. When the forest is full of Doves, it pays to be a Hawk. But as more Hawks appear, the "Value Function" of aggression drops until it becomes terrible. Then, suddenly, it pays to be a Dove again. The population doesn't stabilize at one perfect ratio; it oscillates around it. Too many Hawks create the conditions for Doves to return. Too many Doves create a paradise for Hawks.
 
-We see this in behavior trends and relationships too. A generation that was raised with very strict, conservative rules often grows up to be very open and liberal. Their children, seeing the chaos of total openness, might swing back toward structure and tradition. The pendulum swings back and forth between parents and children, not because one is "right," but because the environment itself is a feedback loop. 
+We see this in behavior trends and relationships, too. A generation that was raised with very strict, conservative rules often grows up to be very open and liberal. Their children, seeing the chaos of total openness, might swing back toward structure and tradition. The pendulum swings back and forth between parents and children, not because one is "right," but because the environment itself is a feedback loop. 
 
-As the players optimize for the current environment, they actually *change* the environment. 
+As players optimize for the currently actual *change* in the environment, that. 
 
 ### Static vs. Dynamic
 
@@ -38,7 +38,7 @@ We see this in the weather. For millions of years, the Earth has oscillated betw
 
 But today, we might have broken the string. 
 
-By pushing the temperature so far and so fast in one direction, we aren't just in a "warm phase"; we are potentially entering a new state entirely. When the "Pattern" of the weather breaks, the result isn't just a hotter summer. It is a fundamental shift in the stability of the entire system. 
+By pushing the temperature so far and so fast in one direction, we aren't just in a "warm phase"; we are potentially entering a new state entirely. When the "Pattern" of the weather breaks, the result isn't just a hotter summer. It is a fundamental shift in the system's stability. 
 
 ### The Warning Sign
 

@@ -1,7 +1,5 @@
 ## Chapter 6: The Arms Race
 
----
-
 When a virus hits a wall—like a vaccine—it faces a static obstacle. It just needs to find a way around it.
 
 We often think of adaptation in this way. We imagine the environment as a fixed puzzle we are trying to solve. The mountain doesn't move while you climb it. The finish line doesn't run away.

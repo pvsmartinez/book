@@ -8,7 +8,9 @@ def process_math(content):
     # but for most purposes in this book, $...$ will be math.
     
     def replace_math(match):
-        latex = match.group(1).strip()
+        # Determine which group matched (Standard Block $$, User Block $\n...\n$, or Inline $...$)
+        latex = match.group(1) or match.group(2) or match.group(3)
+        latex = latex.strip()
         
         # Simplify the styled latex to avoid 400 errors
         # Use \large for better base resolution
@@ -19,10 +21,11 @@ def process_math(content):
         
         return f'<img class="math-formula" src="{img_url}" alt="{latex}">'
 
-    # Matches $...$ but not escaped \$
-    # We restrict to [^\$\n]+ to ensure we don't match across lines (handling missing closing $)
-    # This assumes inline math is always on a single line.
-    pattern = r'(?<!\\)\$([^\$\n]+)\$'
+    # Matches:
+    # 1. $$...$$ (Standard Block Math)
+    # 2. $\n...\n$ (User's newline style Block Math)
+    # 3. $...$ (Inline Math, no newlines)
+    pattern = r'(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$\n([\s\S]+?)\n\$|(?<!\\)\$([^\$\n]+)\$'
     return re.sub(pattern, replace_math, content)
 
 if __name__ == "__main__":

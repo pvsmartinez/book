@@ -1,9 +1,5 @@
 ## Chapter 2: The Salesman
 
----
-
-### Draft
-
 When you picture a "Salesman," you likely see a specific archetype. Maybe a real estate agent or a used car dealer.
 
 Chances are, you’re picturing someone charming. Someone with a firm handshake, a quick smile, and a way with words. Someone who can talk to anyone about anything.
@@ -58,7 +54,7 @@ If customers loved rude, aggressive arguments, then the "Best Sales Course in th
 
 We think we are learning skills, but really, we are downloading the patch notes of previous generations. We are standing on a mountain of failed experiments, using only the tools that survived.
 
-It is a pattern of selection and accumulation that happens with or without our permission. Over time, every system—whether it’s a profession, a species, or an algorithm—optimizes itself to fit whatever is judging its survival.
+It is a pattern of selection and accumulation that happens with or without our permission. Over time, every system, whether it’s a profession, a species, or an algorithm, optimizes itself to fit whatever is judging its survival.
 
 This is the Pattern.
 

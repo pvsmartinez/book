@@ -26,14 +26,14 @@ This is the **Cheetah’s Dilemma**.
 
 It’s not just that it's fragile; it’s that it's **blinded by its own success**. 
 
-Every optimization is a trade-off. When you shave down the bone to make it lighter, you also make it easier to break. When you enlarge the lungs for more oxygen, you leave less room for the stomach. 
+Every optimization is a trade-off. When you shave down the bone to make it lighter, you also make it easier to break. When you expand the lungs to increase oxygen intake, you leave less room for the stomach. 
 
 In our world, we do this with almost every system we build. 
 *   We optimize our **Supply Chains** for "Just-in-Time" efficiency to save money. It works perfectly... until a single ship gets stuck in the Suez Canal and the entire global economy has a stroke. 
 *   We optimize our **Agriculture** for a single type of high-yield corn. It works perfectly... until a single fungus evolves that loves that specific corn, and we face a famine. 
 *   We optimize our **Lives** for "Maximum Productivity," scheduling every minute of our day. It works perfectly... until we get a cold or a flat tire, and our entire week collapses because we left zero "slack" in the system.
 
-We are all Cheetahs. We are all running as fast as we can towards a metric on a screen (Money, Likes, Calories), and we are ignoring the Hyenas (Health, Relationship stability, Mental peace) that are waiting for us at the finish line.
+We are all Cheetahs. We are all running as fast as we can toward a metric on a screen (Money, Likes, Calories), ignoring the Hyenas (Health, Relationship stability, Mental peace) waiting for us at the finish line.
 
 ### The Traffic Paradox (When Success Scales)
 
@@ -51,7 +51,7 @@ And then, the **Unwanted Consequence** emerged.
 
 Traffic.
 
-Today, in cities like São Paulo, the average speed of a car during rush hour is often slower than a horse and buggy from a hundred years ago. The very tool designed for speed has created an environment where no one can move. 
+Today, in cities like São Paulo, the average speed of cars during rush hour is often slower than that of a horse and buggy from a hundred years ago. The very tool designed for speed has created an environment where no one can move. 
 
 This is the paradox of blind optimization: **The Solution scales until it becomes the Problem.**
 
@@ -63,7 +63,7 @@ If you measure Speed, it will give you a Cheetah. It won't tell you about the Hy
 If you measure Growth, it will give you a Housing Bubble. It won't tell you about the Crash.
 If you measure Engagement, it will give you a Rage-Baiting Algorithm. It won't tell you about the cost to the social fabric.
 
-The danger of optimization isn't that it fails. The danger is that it **succeeds at the wrong thing**. It gives you exactly what you asked for, but it hides the cost until the bill is so large that the system can no longer pay it.
+The danger of optimization isn't that it fails; it's that it succeeds. The danger is that it **succeeds at the wrong thing**. It gives you exactly what you asked for, but it hides the cost until the bill is so large that the system can no longer pay it.
 
 Efficiency is not the goal. **Resilience** is the goal. 
 

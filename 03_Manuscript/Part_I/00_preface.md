@@ -24,19 +24,9 @@ This pattern is not a new theory. It's a synthesis of many different topics, app
 
 This book isn't a textbook or a grand academic theory. It’s a pair of glasses. I want to share a lens that helped me make sense of why the world feels so loud, so fast, and so extreme right now.
 
-The Pattern is not a mysterious force; it is a mathematical inevitability. It is what happens when variation, selection, and time interact. It doesn't explain how or why an individual chooses to act, but it does explain why, when millions of actions are filtered through a specific goal, a consistent structure emerges.
+The Pattern is not a mysterious force; it is a mathematical consequence. When we have some components, it’s an inevitability. It is what happens when variation, selection, and time interact. It doesn't explain how or why an individual chooses to act, but it does explain why, when millions of actions are filtered through a specific goal, a consistent structure emerges.
 
-This book is a synthesis of ideas that already exist under many names:
-*   Natural Selection (Biology)
-*   Reinforcement Learning (Computer Science)
-*   The Invisible Hand (Economics)
-*   Cybernetics (Systems Theory)
-*   Complex Adaptive Systems (Complexity Science)
-*   Goodhart’s Law (Metrics)
-*   The Red Queen Effect (Evolutionary Biology)
-*   Memetics (Cultural Evolution)
-
-I am not an expert in all these fields. I am a builder who noticed that the same "code" is running in all of them. To show you this code, I will use simplified models—from biological evolution to career archetypes. 
+I am not an expert in all these fields. I am a builder who noticed that the same "code" is running in all of them. To illustrate this code, I will use simplified models of biological evolution to career archetypes. 
 
 ### A Note on Context
 

@@ -24,7 +24,7 @@ $$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 Look at that word: **Variance**. 
 
-Without variance, there is no adaptation. If every giraffe is born with the exact same neck length, no selection can occur. If every startup tries the exact same business model, no market learning happens. The Pattern requires difference. It requires raw material that the filter can act upon.
+Without variance, there is no adaptation. If every giraffe is born with the exact same neck length, no selection can occur. If every startup tries the exact same business model, no market learning happens. The Pattern requires difference. It requires raw material for the filter to act on.
 
 Where does that variance come from?
 
@@ -34,7 +34,7 @@ But often—especially in biology and complex systems—variance is **blind**. A
 
 This blind variance is what we commonly call "luck."
 
-The Pattern doesn't care whether the variance was planned or accidental. It only cares that it exists. A mutation that helps you survive is selected for whether it was "intended" or not. The universe doesn't check your receipts.
+The Pattern doesn't care whether the variance was planned or accidental. It only cares that it exists. A mutation that helps you survive is selected for, whether it was "intended" or not. The universe doesn't check your receipts.
 
 This means luck isn't fighting against the Pattern—luck is feeding it. Every random event, every accident, every "right place, right time" moment is just raw material entering the machine.
 
@@ -48,17 +48,17 @@ Who wins?
 
 The honest answer: **We have no idea.** 
 
-In any single iteration, the outcome is dominated by factors that look indistinguishable from chance. One founder gets featured in a viral tweet. Another gets a meeting because their cousin happens to know an investor. A third launches the week their biggest competitor has a PR crisis.
+In any single iteration, the outcome is dominated by factors that look indistinguishable from chance. One founder gets featured in a viral tweet. Another gets a meeting because their cousin knows an investor. A third launches the week their biggest competitor has a PR crisis.
 
 These aren't "merit." They're dice rolls.
 
-In 2018, physicists Pluchino, Biondo, and Rapisarda ran a simulation to test this. They created a virtual world where people had normally distributed talent (a Bell Curve—most people average, a few very talented, a few not) and faced random lucky or unlucky events over a 40-year career.
+In 2018, physicists Pluchino, Biondo, and Rapisarda ran a simulation to test this. They created a virtual world where people had normally distributed talent (a Bell Curve—most people average, a few very talented, a few not) and faced random, lucky or unlucky events over a 40-year career.
 
 The result was brutal: **the most successful individuals were almost never the most talented.** They were the ones with slightly above-average talent who happened to experience *extreme* luck. The distribution of success followed a steep Power Law.
 
 Think about what that means.
 
-Talent is a Bell Curve. The best runner in the world is only marginally faster than the second best. The gap between "good" and "great" is small. We're all clustered in the middle.
+Talent is a Bell Curve. The best runner in the world is only marginally faster than the second-best. The gap between "good" and "great" is small. We're all clustered in the middle.
 
 But success is a Power Law. Most people experience tiny wins and losses that cancel out. But a few people experience massive lucky breaks—being born into the right family, meeting the right mentor, launching at the perfect moment—that are 10,000x more impactful than skill alone.
 
@@ -68,7 +68,7 @@ In competitive fields, everyone who enters is skilled. You don't get into the Ol
 
 This should be liberating, not demoralizing.
 
-If you aren't the billionaire or the superstar, it's not necessarily because you lacked talent or work ethic. You might have just rolled a normal number on the dice while someone else rolled a double-six ten times in a row.
+If you aren't a billionaire or a superstar, it's not necessarily because you lack talent or work ethic. You might have just rolled a normal number on the dice while someone else rolled a double-six ten times in a row.
 
 The myth of pure meritocracy tells us that success is proof of virtue and failure is proof of vice. But the math tells a different story. Success is proof that you were skilled *and* lucky. Failure might just mean you were skilled and *unlucky*.
 
@@ -108,7 +108,7 @@ But over thousands of iterations and millions of individuals, the noise cancels 
 
 The specific giraffe that survives the drought might be lucky. But over a million years and a billion giraffes, the ones with longer necks consistently outsurvive the ones with shorter necks. Luck decides which individual survives; the Value Function decides that "long neck" becomes the norm.
 
-The specific startup that becomes a unicorn might be lucky. But over thousands of startups across decades, the ones that solve real problems and find product-market fit consistently outperform. Luck decides which founder becomes a billionaire; the Value Function decides that "solving problems" is the winning shape.
+The specific startup that becomes a unicorn might be lucky. But across thousands of startups over decades, the ones that solve real problems and achieve product-market fit consistently outperform. Luck decides which founder becomes a billionaire; the Value Function decides that "solving problems" is the winning shape.
 
 Randomness adds noise, but the Value Function defines the direction.
 
@@ -116,7 +116,7 @@ Randomness adds noise, but the Value Function defines the direction.
 
 There's one more way luck and the Pattern interact, and it's perhaps the most important.
 
-Remember the Cheetah from Part II? It optimized for speed because, at some point in history, speed worked. But now it's locked in. It can't switch to stealth or strength because it has traveled too far down one evolutionary path.
+Remember the Cheetah from Part II? It was optimized for speed because, at some point in history, speed worked. But now it's locked in. It can't switch to stealth or strength because it has traveled too far down one evolutionary path.
 
 How did the cheetah end up on the "speed" path in the first place?
 
@@ -128,7 +128,7 @@ The Pattern climbs toward the nearest peak. But which peak it starts climbing is
 
 This is **path dependence**. History matters. The dice rolls at the beginning of the game shape the trajectory for everything that follows.
 
-Competitors force each other to optimize in the same direction, and over time, everyone ends up stuck on the same local maximum—even if there's a higher peak somewhere else. The Red Queen runs, and everyone runs with her, because the early luck locked in the direction.
+Competitors force each other to optimize in the same direction, and over time, everyone ends up stuck on the same local maximum—even if there's a higher peak somewhere else. The Red Queen runs, and everyone runs with her, because the early luck is locked in the direction.
 
 ### Harnessing the Dice
 
@@ -158,7 +158,7 @@ If you're building something—a company, a career, a life—assume you'll hit s
 
 Luck and the Pattern are not enemies. They are partners.
 
-Luck is the variance that feeds the machine. Without it, there's no raw material for selection. The Pattern is the filter that gives that randomness direction. Without it, there's just chaos.
+Luck is the variance that feeds the machine. Without it, there's no raw material for selection. The Pattern is the filter that gives direction to that randomness. Without it, there's just chaos.
 
 In any single moment, luck dominates. The winner of this race might just be the one who rolled well.
 

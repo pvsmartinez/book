@@ -32,7 +32,7 @@ The fact that a system is stable doesn't mean it is "good" or "just." It simply 
 
 In game design, we have a name for this trap: **The Local Maximum**.
 
-Imagine you are standing on a landscape covered in thick fog. Your goal is to reach the highest point in the world. But because of the fog, you can only see a few feet in front of you. 
+Imagine you are standing in a landscape covered in thick fog. Your goal is to reach the highest point in the world. But because of the fog, you can only see a few feet in front of you. 
 
 So you use a simple algorithm: "Look around. If a step goes up, take it."
 
@@ -40,7 +40,7 @@ You climb and climb. Eventually, you reach a peak. Every step you take from here
 
 But then, the wind blows the fog away, and you see the truth. You are standing on a small hill. The real mountain—the one that is ten times higher—is miles away across a deep, dark valley.
 
-This is the tragedy of the **Path to Stability**. To get to the higher mountain, you would have to walk *down*. You would have to sacrifice your current comfort, lose your current status, and cross the "Valley of Death" where you might not survive.
+This is the tragedy of the **Path to Stability**. To get to the higher mountain, you would have to walk *down*. You would have to sacrifice your current comfort, lose your current status, and cross the "Valley of Death," where you might not survive.
 
 Most systems refuse to go down. The "Judge" (the market, the voter, the ecosystem) punishes weakness *right now*. It doesn't care that you are going down to get higher later; it just sees that you are failing, and it lets you die.
 

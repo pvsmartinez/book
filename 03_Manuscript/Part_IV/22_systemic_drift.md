@@ -25,7 +25,7 @@ But as the system matures, the actors inside it get smarter. They realize that t
 Consider the modern recipe blog. 
 You want to know how to cook a lasagna. You search for a recipe.
 The original goal of the search engine was to give you that recipe. 
-But the goal of the website owner is to keep you on the page as long as possible to show you more ads.
+But the website owner’s goal is to keep you on the page as long as possible to show you more ads.
 
 So, instead of a recipe, you get a 2,000-word essay about the author's childhood in Tuscany, the smell of rain in autumn, and the philosophy of wheat. The actual ingredients are buried under a dozen paragraphs of fluff. 
 
@@ -33,7 +33,7 @@ Why? Because the system rewards **Length** and **Keywords**.
 
 The creators aren't evil; they are just playing the game to survive. If they posted just the recipe, the algorithm would penalize them for "thin content," and you would never find them. To survive, they *must* drift away from the user's need (simplicity) and toward the system's metric (time on page).
 
-The system is still "working." It is becoming more and more efficient at producing content that ranks high in search. But it has **drifted**. The original intent (Utility) has been replaced by the proxy (Rank). The system has calcified around the wrong objective. 
+The system is still "working." It is becoming increasingly efficient at producing content that ranks highly in search results. But it has **drifted**. The original intent (Utility) has been replaced by the proxy (Rank). The system has calcified around the wrong objective. 
 
 ### Case Study: The Venture Capital Drift
 
@@ -57,7 +57,7 @@ The system traveled from:
 2.  "Get as many users as possible."
 3.  "Raise the next round at a higher valuation."
 
-Is the system broken? No. It is **highly optimized**. It is producing exactly what the current Value Function asks for: companies that are world-class at raising money. But it has drifted far away from the original intent of funding world-changing innovation.
+Is the system broken? No. It is **highly optimized**. It is producing exactly what the current Value Function asks for: companies that are world-class at raising money. But it has drifted far from the original intent to fund world-changing innovation.
 
 ### The Venetian Trap (Optimizing for Protection)
 
@@ -85,9 +85,9 @@ Innovation died. Within a few generations, Venice went from being the engine of 
 
 Drift is why "fixing" a system is so incredibly hard. You aren't just fighting a few bad actors; you are fighting the physics of a stable configuration. 
 
-When a system drifts, it enters a state of **Lock-In**. The teachers rely on the test scores for their salaries. The founders rely on the valuation game for their status. The entire ecosystem has shaped itself around the drifted goal. 
+When a system drifts, it enters a state of **Lock-In**. The teachers rely on test scores to determine their salaries. The founders rely on the valuation game for their status. The entire ecosystem has shaped itself around the drifted goal. 
 
-The initial intent of the designer is a distant memory. The system now takes on a life of its own, guided only by the blind logic of the feedback loop. 
+The designer's initial intent is a distant memory. The system now takes on a life of its own, guided only by the blind logic of the feedback loop. 
 
 We build the track, but once the runners start running, they wear a groove into the dirt so deep that eventually, no matter how hard we turn the wheel, we can't steer out of it. 
 

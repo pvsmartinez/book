@@ -36,7 +36,7 @@ The Selic rate isn't a law of physics like gravity. It is a decision. But once t
 
 This isn't just about money. Compounding applies to opportunity just as much as it applies to capital.
 
-If you look at the rosters of elite Canadian hockey teams, or top-tier soccer academies in Brazil, you will find a bizarre anomaly. A huge percentage of the players—often 40% or more—are born in the first three months of the year (January, February, March). 
+If you look at the rosters of elite Canadian hockey teams or top-tier soccer academies in Brazil, you will find a bizarre anomaly. A huge percentage of the players—often 40% or more—are born in the first three months of the year (January, February, March). 
 
 Why? Are Capricorns and Aquarians naturally better at sports? Of course not.
 
@@ -64,15 +64,15 @@ In chess, the player with the white pieces always moves first. This single, tiny
 
 If you were the designer, you might ask: "Why not fix this? Why not make them move simultaneously?"
 
-Because that tiny imbalance is what drives the action. It forces Black to react, to defend, to innovate. The slight instability creates the beauty of the game.
+Because that tiny imbalance is what drives the action. It forces Black to react, to defend, to innovate. The slight instability creates the game's beauty.
 
 But here is the catch: In a tournament, you switch sides. You play White, then you play Black. The system corrects for the imbalance by resetting the initial conditions.
 
 In the real world, we rarely get to switch sides. 
 
-If life were a chess tournament where one player kept the white pieces for every single match, and then passed those white pieces down to their children, that player would eventually look like a genius, and their opponent would look like a failure. But the difference wasn't in their skill; it was in the compounding of that first-move advantage.
+If life were a chess tournament where one player kept the white pieces for every single match and then passed those white pieces down to their children, that player would eventually look like a genius, and their opponent would look like a failure. But the difference wasn't in their skill; it was in the compounding of that first-move advantage.
 
-No system is built in a vacuum. When we design a "fair" market or a "fair" election, we often act as if everyone is starting from the same line. But we are always inheriting the "score" of the previous game. When you analyze a system, you cannot just look at the rules on the box. You have to ask: "Who held the white pieces in the last round?"
+No system is built in a vacuum. When we design a "fair" market or a "fair" election, we often act as if everyone is starting from the same line. But we always inherit the "score" from the previous game. When you analyze a system, you cannot just look at the rules on the box. You have to ask: "Who held the white pieces in the last round?"
 
 ### The Takeaway
 

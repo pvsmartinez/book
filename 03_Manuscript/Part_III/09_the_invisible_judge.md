@@ -1,5 +1,10 @@
 ## Chapter 9: The Invisible Judge
 
+> *A note before we begin:*
+>
+> *If the last part felt more like a textbook in the realm of biology, the rest of the book will focus more on social topics, including education, violence & law, politics, social media, and more. Those are required to explain the pattern's directions in topics closer to our daily lives and may sometimes feel like simplifications or a deterministic doomsday. This is not the goal of those examples, and I wish to go deeper into each example to give each the nuance it deserves. But by doing so, we would kill the flow of reading and the line of thought. So keep that in mind while we study each of these cases, and understand how the pattern can take us to a path we didn't predict at first.*
+>
+
 In the previous chapters, we built an **Engine**.
 
 We looked at how iteration, variance, and feedback create a powerful machine that can adapt to almost anything. We saw how ideas spread like viruses and how habits reinforce themselves like gravity.

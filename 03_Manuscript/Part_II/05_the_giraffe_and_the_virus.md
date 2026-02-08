@@ -1,10 +1,10 @@
 ## Chapter 5: The Giraffe and the Virus
 
----
-
 For centuries, humans thought evolution had some intent behind it. We thought that a species wanted or tried to evolve in a certain way and therefore passed those traits to its offspring.
 
-But this is not the truth. Evolution does not happen by intent, but by selection. Just as learning follows the pattern, evolution or adaptation follows the same rules.
+But this is not the truth. Evolution does not happen by intent, but by selection.
+
+The Pattern doesn't require a brain. It doesn't require a plan. It just requires Iteration, Variance, and a Filter. And nowhere is this clearer than in biology.
 
 Let's take a look at the giraffe.
 
@@ -24,7 +24,7 @@ The giraffes with the shortest necks couldn't reach the food. They didn't "learn
 
 Repeat this loop, this **Iteration**, for a million years. The "design" of the giraffe didn't come from the giraffe’s desire to reach the leaves. It came from the systematic deletion of everything that *wasn't* that giraffe. The tree didn't "teach" the giraffe to be tall. The tree "selected" the tall giraffes by killing the short ones.
 
-Biologist Richard Dawkins famously reframed this in *The Selfish Gene*. He pointed out that the giraffe is just a survival machine—a vehicle built by the genes to ensure their own propagation. The genes provide the variance (the slightly longer neck blueprint), and the environment does the selection. The code that works gets copied; the code that fails is deleted.
+Biologist Richard Dawkins famously reframed this in *The Selfish Gene*. He pointed out that the giraffe is just a survival machine, a vehicle built by the genes to ensure their own propagation. The genes provide the variance (the slightly longer neck blueprint), and the environment does the selection. The code that works gets copied; the code that fails is deleted.
 
 This mechanism isn't limited to animals. You don't even need a complex creature to see it happen.
 
@@ -32,7 +32,7 @@ The virus is just a simple shell with genetic code in it. It follows the same ru
 
 During the COVID-19 pandemic, we had the best scientists in the world, global lockdowns, and eventually, cutting-edge vaccines. We were using our collective human intelligence to fight a microscopic strand of RNA.
 
-And yet, the virus continued to prevail.
+And yet, the virus persisted.
 
 It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks (processes that take weeks or months), the virus was replicating billions of times per hour. It was evolution on fast-forward.
 
