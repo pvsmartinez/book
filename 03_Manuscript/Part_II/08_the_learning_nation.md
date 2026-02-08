@@ -15,13 +15,13 @@ We can look at their conclusion through the lens of System Architecture.
 
 **Extractive Institutions (Dictatorships, Monopolies)** behave like a **Serial Processor**.
 There is one brain (The Dictator, The King, The Party) making the decisions.
-The system is designed for **Stability**, which means it is designed to suppress **Variance**.
+The system is designed for **Stability**, meaning it suppresses **Variance**.
 If a citizen has a new idea that challenges the status quo, the system crushes it.
 "You cannot start that business; it hurts the King's monopoly."
 "You cannot write that book; it questions the Party."
 
 Because Variance is suppressed, the cost of experimentation is infinite (Death/Prison).
-So, the population stops iterating. The nation tries to solve the world's problems using only the processing power of a few leaders. It creates a bottleneck.
+So, the population stops iterating. The nation tries to solve the world's problems with the processing power of only a few leaders. It creates a bottleneck.
 
 **Inclusive Institutions (Democracies, Free Markets)** behave like a **Parallel Processor**.
 They act as **High-Variance Regulators**.
@@ -41,8 +41,8 @@ This isn't just about Dictators vs. Democracies. It applies to every institution
 
 **Oligarchies** are mid-variance systems.
 If an economy is controlled by five massive conglomerates (Chaebols in Korea, or the Gilded Age trusts in the US), the variance is limited to the boardrooms of those five companies.
-Small players are crushed not by the King, but by the Lobbyist. The cost of entry is high, so the "genetic diversity" of the economy drops.
-We see this today in industries like healthcare or banking, where regulation acts as a moat. The "Pattern" is allowed to run, but only within the walls of the giants.
+Small players are crushed not by the King, but by the Lobbyist. The cost of entry is high, so the economy's "genetic diversity" declines.
+We see this today in industries such as healthcare and banking, where regulation acts as a moat. The "Pattern" is allowed to run, but only within the walls of the giants.
 
 **Inclusive Laws** are variance multipliers.
 Patent laws, bankruptcy protection, and anti-trust enforcement are not just "fairness" tools. They are **Evolutionary Accelerants**.

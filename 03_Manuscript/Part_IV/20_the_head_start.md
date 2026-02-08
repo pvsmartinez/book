@@ -1,8 +1,4 @@
-## Chapter 18: The Head Start
-
----
-
-### Draft
+## Chapter 20: The Head Start
 
 In a compounding world, the race doesn't reset every lap. History accumulates. 
 

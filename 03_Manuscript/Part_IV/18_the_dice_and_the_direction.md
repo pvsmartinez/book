@@ -1,6 +1,4 @@
-## Chapter 17: The Dice and the Direction
-
----
+## Chapter 18: The Dice and the Direction
 
 We need to talk about **Luck**.
 

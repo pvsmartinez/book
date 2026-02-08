@@ -33,7 +33,7 @@ Think of this as your dashboard for the Adaptation Equation: $Adaptation = \frac
 **Lever 1: Volume (The Virus Strategy)**
 The virus beats the scientist because it buys more lottery tickets. It runs a billion parallel experiments while we run one sequential plan.
 The more iterations you can run *per unit of time*, the faster you adapt.
-Don't be the amateur photographer spending ten minutes framing one perfect shot. Be the professional who takes fifty shots in ten minutes, knowing that forty-nine will be trash but one might be a masterpiece.
+Don't be the amateur photographer spending ten minutes framing one perfect shot. Be the professional who takes fifty shots in ten minutes, knowing that forty-nine will be trash, but one might be a masterpiece.
 Use volume to capture luck.
 
 **Lever 2: Variance Safety (The Cost of Error)**

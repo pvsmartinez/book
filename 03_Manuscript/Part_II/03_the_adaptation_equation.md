@@ -41,7 +41,7 @@ Daniel was stuck at 1400 Elo (Elo is a rating system for chess skill; a higher n
 
 Then he hired a coach.
 
-The coach watched Daniel play five games and said something that felt like an insult: "You're too predictable. You play the same opening every time. You always castle early. You never sacrifice pieces. Your opponents don't even need to think, they just wait for you to make the same mistakes."
+The coach watched Daniel play five games and said something that felt like an insult: "You're too predictable. You play the same opening every time. You always castle early. You never sacrifice pieces. Your opponents don't even need to think; they just wait for you to make the same mistakes."
 
 Daniel protested: "But that's my style. That's how I play."
 

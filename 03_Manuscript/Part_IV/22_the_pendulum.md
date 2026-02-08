@@ -1,8 +1,4 @@
-## Chapter 20: The Pendulum
-
----
-
-### Draft
+## Chapter 22: The Pendulum
 
 If systems only ever moved in one direction—getting more specialized, more extreme, and more efficient—every species would eventually become a Cheetah and go extinct the moment the weather changed. 
 
@@ -16,7 +12,7 @@ So, the pendulum swings. The children of the "baggy" generation look at their pa
 
 The system doesn't change because the new clothes are "better" in any objective sense. It changes because the environment has become saturated with one iteration, making the opposite iteration more "fit" for the goal of being noticed. 
 
-We saw this mechanism clearly in **Chapter 15** with the Hawks and Doves. When the forest is full of Doves, it pays to be a Hawk. But as more Hawks appear, the "Value Function" of aggression drops until it becomes terrible. Then, suddenly, it pays to be a Dove again. The population doesn't stabilize at one perfect ratio; it oscillates around it. Too many Hawks create the conditions for Doves to return. Too many Doves create a paradise for Hawks.
+We saw this mechanism clearly in **Chapter 13** with the Hawks and Doves. When the forest is full of Doves, it pays to be a Hawk. But as more Hawks appear, the "Value Function" of aggression drops until it becomes terrible. Then, suddenly, it pays to be a Dove again. The population doesn't stabilize at one perfect ratio; it oscillates around it. Too many Hawks create the conditions for Doves to return. Too many Doves create a paradise for Hawks.
 
 We see this in behavior trends and relationships, too. A generation that was raised with very strict, conservative rules often grows up to be very open and liberal. Their children, seeing the chaos of total openness, might swing back toward structure and tradition. The pendulum swings back and forth between parents and children, not because one is "right," but because the environment itself is a feedback loop. 
 

@@ -1,8 +1,4 @@
-## Chapter 23: Synthesis: The Compounder
-
----
-
-### Draft
+## Chapter 25: Synthesis: The Compounder
 
 We have spent the last twenty-two chapters looking at individual parts of the machine. We’ve looked at giraffes and pugs, YouTube algorithms and traffic jams, French revolutions and QWERTY keyboards. 
 

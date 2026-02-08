@@ -1,8 +1,4 @@
-## Chapter 22: The Path to Stability
-
----
-
-### Draft
+## Chapter 24: The Path to Stability
 
 We have talked about how systems move, how they accelerate, and how they drift. But eventually, all systems try to do one thing: **Stop**.
 

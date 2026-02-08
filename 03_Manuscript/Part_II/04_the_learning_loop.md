@@ -77,7 +77,7 @@ The hours Sofia spent before the recording weren't wasted, but they weren't maxi
 
 A musician who records themselves. A surgeon who gets instant critique from a mentor. A writer who reads their drafts aloud. A rock climber who watches replays of his body position. In this scenario, the student is strengthening the feedback he/she collects from actions and creating intention in the selection. They are not just *doing* something, they are *intentionally learning* something. The brain/muscles are forced to edit. The pattern gets stronger.
 
-Since all of our actions elicit feedback, some instant gratification, and emotional reactions from our partners, our peers, and ourselves, we are always learning something. But mastery comes with strict feedback. Otherwise, often, you are just reinforcing your existing habits. You are calcifying.
+Since all of our actions elicit feedback, some instant gratification, and emotional reactions from our partners, peers, and ourselves, we are always learning. But mastery comes with strict feedback. Otherwise, often, you are just reinforcing your existing habits. You are calcifying.
 
 ### Designing the Environment
 

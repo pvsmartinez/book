@@ -29,7 +29,7 @@ Seller C tries $5. Some buy, some don't. He adjusts to $4.50. He sells out, but 
 
 Multiply this by millions.
 Every transaction is an **Iteration**. 
-Every different price tag is **Variance**.
+Every different price tag is a **Variance**.
 The sale (or lack of sale) is the **Feedback**.
 
 The "Market Price" is not a decision. It is the result of millions of micro-experiments running in parallel. The market is a massive distributed computer processing information through trial and error.
@@ -43,7 +43,7 @@ This lens explains why specific parts of the economy evolve at different speeds.
 **Price** evolves at the speed of light.
 In the stock market, millions of trades happen every second. High-Frequency Trading algorithms inject variance (bids) and get feedback (trades) in microseconds. The Loop is essentially instant. This is why stock prices react to news before you can even finish reading the headline. The system has processed the variance instantly.
 
-**Products** evolve slower.
+**Products** evolve more slowly.
 It takes months to launch a new iPhone or a new sneaker. The loop is longer. Apple iterates, releases, waits for sales numbers (Feedback), and then designs the next one. The adaptation happens, but on a timescale of years.
 
 **Culture** evolves the slowest.
@@ -51,12 +51,12 @@ How a company organizes itself (its management style, its hierarchy, its values)
 
 But even at this slow pace, the Pattern dictates the shape.
 Consider the evolution of "Management" itself.
-In the 1920s, the dominant cultural meme was **Fordism**. The structure was rigid and hierarchical. Thinking happened at the top; doing happened at the bottom. This culture was optimized for an environment of mass production where variance was the enemy.
+In the 1920s, the dominant cultural meme was **Fordism**. The structure was rigid and hierarchical. Thinking happened at the top; doing happened at the bottom. This culture was optimized for mass production, where variance was the enemy.
 By the 1980s, the environment had shifted. Markets became faster and more complex. The rigid Fordist culture became a liability. It was too slow to react.
 A new meme emerged: **Just-In-Time** (or Lean). This culture empowered the worker on the floor. It decentralized decision-making. It valued agility over obedience.
 
-When these two cultures collided, the market selected the one that solved the profit equation better. The "Lean" culture wasn't selected because it was nicer; it was selected because it was more efficient.
-Corporate culture is not just "vibes." It is the operating system of the group. And just like software, if it doesn't update to match the complexity of the market, the system crashes.
+When these two cultures collided, the market chose the one that better solved the profit equation. The "Lean" culture wasn't selected because it was nicer; it was selected because it was more efficient.
+Corporate culture is not just "vibes." It is the group's operating system. And just like software, if it doesn't update to keep pace with the market's complexity, the system crashes.
 
 ### The Profit Filter
 
@@ -70,6 +70,6 @@ A company can have the noblest mission in the world, but if it cannot capture en
 
 This is why companies naturally evolve towards efficiency. It isn't because capitalists are "greedy" (though they might be); it is because the Pattern systematically deletes any organism that wastes energy.
 
-Millions of mechanisms (prices, products, strategies) are being tested every day. The ones that align with the Value Function of the market survive. The ones that don't are composted.
+Millions of mechanisms (prices, products, strategies) are being tested every day. The ones that align with the market's Value Function survive. The ones that don't are composted.
 
 The Corporation is just a higher-order vehicle for the same code. But there is one vehicle even larger than the corporation. One that sets the rules for everyone else.

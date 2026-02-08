@@ -1,8 +1,4 @@
-## Chapter 21: Systemic Drift
-
----
-
-### Draft
+## Chapter 23: Systemic Drift
 
 We tend to think of systems as static machines. We design the blueprints, we build the engine, and we turn it on. A car engine doesn't decide one day that it's bored with internal combustion and would rather be a dishwasher.
 

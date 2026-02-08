@@ -1,8 +1,4 @@
-## Chapter 19: Thresholds and Breakpoints
-
----
-
-### Draft
+## Chapter 21: Thresholds and Breakpoints
 
 Compounding interest and hyper-efficiency create smooth, beautiful, exponential curves on a graph. They make it look like the world moves in predictable steps. But as any bridge builder, game designer, or cardiologist will tell you: the world doesn't always move in curves. 
 

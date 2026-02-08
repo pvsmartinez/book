@@ -1,6 +1,4 @@
-## Chapter 17: The Cheetah's Dilemma (The Cost of Specialization)
-
----
+## Chapter 19: The Cheetah's Dilemma (The Cost of Specialization)
 
 If you want to understand why systems break when they seem to be working perfectly, you have to look at the Cheetah.
 

@@ -1,4 +1,4 @@
-## Chapter 10: The Algorithm's Brain
+## Chapter 11: The Algorithm's Brain
 
 The first variable in the Value Function is **The Rule Set**. 
 
@@ -57,7 +57,7 @@ Input: Cat. Output: "Dog."
 *   **Judge:** "Better. Distance = 50."
 
 It repeats this millions of times.
-Eventually, the random arithmetic has been sculpted into a precise formula. The "random math" has evolved into a structure that reliably converts the pixels of a cat into the word "Cat."
+Eventually, the random arithmetic has been sculpted into a precise formula. The "random math" has evolved into a structure that reliably converts a cat's pixels into the word "Cat."
 
 This is **The Pattern** in its purest form.
 $$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$$
@@ -184,19 +184,15 @@ Think of a student taking a multiple-choice test.
 What does the rational student do? **They guess.**
 They don't guess because they are evil; they guess because the system has made "Bullshitting" mathematically superior to "Silence."
 
-### Code is Law
-
-This matters because we are building our society on the same logic.
-
-When we create a bureaucracy, we are just building a "Human AI." We give a department a Rule ("Reduce Wait Times") and a Budget (The Energy).
-If the Rule is "Close tickets within 24 hours," the agents will start closing tickets without solving the problem, just to stop the timer.
-
-They aren't being lazy. They are the Tetris AI. They are finding the "Pause Button" that satisfies the metric while killing the intent.
-
-### The Lesson of the Rule
+### The Alignment Problem
 
 The Rule Set is the immense power of **Definition**.
+In the old story of King Midas, he asked for a simple Rule: "Turn everything I touch into gold." The system (The Gods) executed the rule with perfect precision. It maximized the metric. But Midas failed to specify the *constraints*. He didn't exclude his food. He didn't exclude his daughter.
+
+Just like the stories of the genie lamp, the definition of the rules has immense power into how the pattern will adapt. AI is just one example of this happening.
+
 If you define "Success" as "High Stock Price," the company will fire its R&D department to boost short-term profits.
 If you define "Education" as "Test Scores," the school will stop teaching critical thinking.
 
-The machine is obedient. That is its virtue, and that is its curse. It will give you exactly what you asked for. So you better be damn sure that what you asked for (The Rule) is what you actually wanted.
+The machine will give you exactly what you asked for.
+So you better be damn sure that what you asked for is what you actually wanted.

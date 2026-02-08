@@ -1,6 +1,4 @@
-# Part IV: The Compounder
-
-## Chapter 16: The Compound Effect
+## Chapter 17: The Compound Effect
 
 > *A note before we begin:*
 >
