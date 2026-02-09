@@ -1,6 +1,6 @@
 ## Chapter 13: The Competitors
 
-We've seen how the Rules carve behavior and how the Track molds what survives. But there's a third force, and it might be the most powerful one: **The Competitors**.
+The Rules carve behavior. The Track molds what survives. But there's a third force in the Value Function, and it might be the sneakiest: **The Competitors**.
 
 ### The Living Terrain
 
@@ -105,9 +105,9 @@ They will force the system toward the most extreme version of its Value Function
 
 The "Invisible Hand" isn't a person. It isn't a conspiracy.
 
-It's the collective behavior of millions of actors all trying to survive the same Pattern.
+It's the collective behavior of millions of actors, all trying to survive the same Pattern.
 
-We are both the players and the environment. We are turning the wheel that grinds us.
+We are both the players and the environment. We turn the wheel that grinds us. Understanding this doesn't mean accepting it. But you can't redesign a machine you haven't diagnosed.
 
 So why can't we just "stop" playing? Why are we compelled to optimize even when it hurts us?
 

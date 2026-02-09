@@ -32,18 +32,22 @@ The virus is just a simple shell with genetic code in it. It follows the same ru
 
 During the COVID-19 pandemic, we had the best scientists in the world, global lockdowns, and eventually, cutting-edge vaccines. We were using our collective human intelligence to fight a microscopic strand of RNA.
 
-And yet, the virus persisted.
+And yet, the virus kept winning.
 
 It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks (processes that take weeks or months), the virus was replicating billions of times per hour. It was evolution on fast-forward.
 
 What is it optimizing for? **Spreading.**
 
-The virus isn't trying to kill you. In fact, a virus that kills you instantly is a failure; if you die before you cough on anyone, the virus dies with you. The strains that keep you alive, mobile, and coughing get selected in. The scoreboard rewards contagion, not lethality.
+Not killing. Spreading. And the reason is pure selection mechanics.
+
+Imagine two strains of the same virus. Strain A is brutal. It kills the host in 24 hours. But the host collapses in bed so fast they barely infect anyone. Strain B is mild. It gives you a cough and a runny nose, but you feel well enough to go to work, ride the bus, hug your kids. By the time you realize you're sick, you've passed it to a dozen people.
+
+Strain A burns out. Strain B spreads. Not because Strain B is "smarter" or because anyone chose this outcome. But because the environment (billions of potential hosts) filters for the strain that reaches the most of them. The strains that keep you alive, mobile, and coughing get selected in. The scoreboard rewards contagion, not lethality.
 
 When we introduced vaccines, we changed the environment. We built a wall.
 But the virus didn't stop. It just kept throwing random copies of itself at the wall. Most failed. They were dead ends. But when you try a billion random keys, eventually, one of them is going to fit the lock.
 
-That’s how we got Delta. That’s how we got Omicron. The virus didn't "plan" a strategy to bypass the vaccines. It simply introduced sufficient random variance into the problem until one stuck.
+That's how we got Delta. That's how we got Omicron. The virus didn't "plan" a strategy to bypass the vaccines. It simply introduced sufficient random variance into the problem until one stuck.
 
 It didn't outsmart us; it **out-iterated** us.
 

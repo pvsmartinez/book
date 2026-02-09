@@ -1,6 +1,6 @@
-## Chapter 25: Synthesis: The Compounder
+## Chapter 26: Synthesis: The Compounder
 
-We have spent the last twenty-two chapters looking at individual parts of the machine. We’ve looked at giraffes and pugs, YouTube algorithms and traffic jams, French revolutions and QWERTY keyboards. 
+We have spent the last twenty-five chapters looking at individual parts of the machine. We've looked at giraffes and pugs, YouTube algorithms and traffic jams, French revolutions and QWERTY keyboards.
 
 Now, it is time to step back and look at the engine as a whole. 
 
@@ -11,7 +11,7 @@ This is the **Synthesis**. Every major thread we’ve pulled so far is part of a
 We began with the **Engine**. 
 The fundamental mechanism of change in the universe is defined by the **Adaptation Equation**:
 
-**$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$**
+**$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$**
 
 This equation explains the **Speed** and **Quality** of change. 
 

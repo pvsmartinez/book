@@ -1,4 +1,9 @@
-## Chapter 24: The Shift
+## Chapter 27: The Shift
+
+> *A note before we begin:*
+>
+> *This part is going to feel different. Up until now, we've been building a way of seeing — the engine, the direction, the drift. From here on, we shift to doing. The tone becomes more technical, more practical. We'll talk about tools, levers, and design. If the first half of the book was about understanding why the world looks the way it does, this half is about what you can do with that understanding.*
+>
 
 Consider the corrupt politician.
 

@@ -1,4 +1,4 @@
-## Chapter 27: The Designer's Toolkit
+## Chapter 30: The Designer's Toolkit
 
 Most people imagine a Game Designer sitting on a beanbag chair, coming up with "cool ideas" for swords, dragons, or fireballs. They think the job is to "make things fun."
 

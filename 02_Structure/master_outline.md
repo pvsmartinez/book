@@ -44,35 +44,36 @@
 ## Part IV: The Compounder (The Consequences)
 *Goal: To show how optimization over time leads to shifts, cliffs, and traps.*
 
-*   **16_the_compound_effect.md**: The Compound Effect
-*   **17_the_cheetahs_dilemma.md**: The Cheetahs Dilemma
-*   **18_the_head_start.md**: The Head Start
-*   **19_thresholds_and_breakpoints.md**: Thresholds and Breakpoints
-*   **20_the_pendulum.md**: The Pendulum
-*   **21_systemic_drift.md**: Systemic Drift
-*   **22_the_path_to_stability.md**: The Path to Stability
-*   **23_synthesis_the_compounder.md**: Synthesis: The Compounder
-*   **23b_interlude_the_time_machine.md**: Interlude: The Time Machine
+*   **18_the_compound_effect.md**: The Compound Effect (Theory)
+*   **19_the_head_start.md**: The Head Start
+*   **20_the_cheetahs_dilemma.md**: The Cheetah's Dilemma
+*   **21_the_dice_and_the_direction.md**: The Dice and the Direction
+*   **22_the_pendulum.md**: The Pendulum
+*   **23_systemic_drift.md**: Systemic Drift
+*   **24_the_path_to_stability.md**: The Path to Stability
+*   **25_thresholds_and_breakpoints.md**: Thresholds and Breakpoints
+*   **26_synthesis_the_compounder.md**: Synthesis: The Compounder
+*   **26b_interlude_the_time_machine.md**: Interlude: The Time Machine
 
 ---
 
 ## Part V: The Gardener (The Solution)
 *Goal: Empower the reader to stop playing and start designing. Move from Theory to Practice.*
 
-*   **24_the_shift.md**: The Shift
-*   **25_the_hydra.md**: The Hydra
-*   **26_mapping_the_machine.md**: Mapping the Machine
-*   **27_the_game_designer_toolkit.md**: The Game Designer Toolkit
-*   **28_debugging_the_world.md**: Debugging the World
-*   **29_patching_the_code.md**: Patching the Code
-*   **30_the_gardener.md**: The Gardener
-*   **30b_interlude_designing_your_patch.md**: Interlude: Designing Your Patch
+*   **27_the_shift.md**: The Shift
+*   **28_the_hydra.md**: The Hydra
+*   **29_mapping_the_machine.md**: Mapping the Machine
+*   **30_the_game_designer_toolkit.md**: The Game Designer Toolkit
+*   **31_debugging_the_world.md**: Debugging the World
+*   **32_patching_the_code.md**: Patching the Code
+*   **33_the_gardener.md**: The Gardener
+*   **33b_the_architects_workshop.md**: Interlude: The Architect's Workshop
 
 ---
 
 ## Part VI: Final Thoughts
 *Goal: Synthesis, Connection, and Conclusion.*
 
-*   **31_the_acceleration.md**: The Acceleration
-*   **32_the_designers_compass.md**: The Designer's Compass
-*   **33_the_invitation.md**: The Invitation
+*   **34_the_acceleration.md**: The Acceleration
+*   **35_the_designers_compass.md**: The Designer's Compass
+*   **36_the_invitation.md**: The Invitation

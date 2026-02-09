@@ -1,4 +1,4 @@
-## Chapter 19: The Cheetah's Dilemma (The Cost of Specialization)
+## Chapter 20: The Cheetah's Dilemma (The Cost of Specialization)
 
 If you want to understand why systems break when they seem to be working perfectly, you have to look at the Cheetah.
 
@@ -69,6 +69,8 @@ The Cheetah is perfect for the chase, but helpless in the fight. As designers of
 
 ***
 
-We’ve seen what happens when we optimize too hard. But what happens when the very ground we are standing on shifts because of our success? 
+We've seen how compounding creates structural walls and how optimization creates fragility. But there's an uncomfortable question hiding underneath all of this.
 
-It turns out that the "Head Start" of history is a gravity that few can escape.
+How did the Cheetah end up on the "speed" path in the first place? How did Person A get that initial \$100,000? How did the January kid end up bigger on tryout day?
+
+We need to talk about **Luck**.

@@ -76,7 +76,10 @@ But "It's complicated" has a viral coefficient of zero.
 "They are stealing your country" spreads like a virus. It has a high **contagion rate**.
 
 As we saw in Part II, news can work as memetics. They viralize, they "survive" through the strongest emotions, and the medium has shaped them.
-The shape of the medium can be clear like these examples (Where the technology changed), but it can also be something internal in the software itself.
+
+This is not the whole story, of course. Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes what kinds of players survive. Changing the players without changing the track tends to produce the same results.
+
+Sometimes the medium shifts because the technology changes. But sometimes the shift is quieter, hidden inside the software itself.
 
 ### The Evolution of YouTube
 
@@ -85,7 +88,7 @@ Look at the history of YouTube. The **Rule Set** (The Algorithm) changed explici
 Let's walk through the eras.
 
 **Phase 1: The Click (2005-2012)**
-In the early days, YouTube's Value Function was simple: **Views**.
+In the early days, YouTube's **Rule Set** was simple: **Views**.
 The system rewarded whatever got clicked. If you clicked, the creator got a point.
 
 Think about what survives in this environment. If you spend three months making a thoughtful documentary, you get one thumbnail. If you spend ten minutes filming your cat jumping into a box, you also get one thumbnail.
@@ -114,11 +117,11 @@ The creators didn't wake up one day and decide to become gamers. The **Track** w
 
 YouTube has changed its algorithm a few times already, and with it, each time the biggest channels changed.
 
-In a sense, today's news is more like the early days of YouTube with the nonsense videos and misleading clickbait, than with how they were born with newspapers.
+In a sense, today's news looks more like YouTube's early days (nonsense videos, misleading clickbait) than like the newspapers where journalism was born.
 
-The Algorithm of social media is not necessarily evil. It is just counting clicks (or watch time). But because the **Track** requires immediate, high-speed engagement, the System selects for polarization. It selects for the content that infects the most hosts in the shortest time.
+The Algorithm of social media is not evil. It is just counting clicks (or watch time). But because the **Track** requires immediate, high-speed engagement, the System selects for polarization. It selects for the content that infects the most hosts in the shortest time.
 
-The Algorithm has a tremendous force due to the pattern. These social media platforms have so many creators and views that they exhibit significant variance and a high rate of iteration. You could argue that the volume of iteration and adaptation on those platforms is as strong or as fast as a virus. Millions of creations per day, with brutal, rapid validations; small tweaks to the value function quickly optimize user behavior and content.
+And the force is enormous. These platforms have so many creators and views that they exhibit significant variance and a staggering rate of iteration. The volume of adaptation on a platform like YouTube or TikTok rivals the speed of a virus. Millions of creations per day, with brutal, rapid validation. Small tweaks to the value function reshape entire ecosystems of content overnight.
 
 We are seeing this right now with the rise of **Generative AI**.
 AI is the ultimate "Volume" player. If the medium rewards output quantity above all else (The Click Era), AI will flood the zone. We are seeing a new species of content (rapid, synthetic, sometimes messy) evolving in real-time to fit the shape of the Feed.

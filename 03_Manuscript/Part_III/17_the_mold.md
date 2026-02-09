@@ -2,7 +2,7 @@
 
 We often treat the Value Function as a maze we have to run through. A set of external obstacles like the Rules, the Track, and the Competitors. We think that once we find the exit, we can just walk away and be the same person we were when we entered.
 
-But if you run the same maze every day for ten years, you don't just learn the route; you physically adapt to it. Your brain optimizes for the turns. Your muscles build memory for the friction. 
+But if you run the same maze every day for ten years, you don't just learn the route. You physically adapt to it. Your brain optimizes for the turns. Your muscles build memory for the friction. 
 
 The maze gets inside you.
 

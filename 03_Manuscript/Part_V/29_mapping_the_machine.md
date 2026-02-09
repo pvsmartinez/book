@@ -1,4 +1,4 @@
-## Chapter 26: Mapping the Machine
+## Chapter 29: Mapping the Machine
 
 ---
 

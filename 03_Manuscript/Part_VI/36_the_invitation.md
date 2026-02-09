@@ -1,4 +1,4 @@
-## Chapter 33: The Invitation
+## Chapter 36: The Invitation
 
 We are living in a hyper-adapting machine that is running too hot. The loops are tightening. The errors are compounding. The friction is vanishing.
 

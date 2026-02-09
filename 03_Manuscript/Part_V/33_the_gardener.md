@@ -1,4 +1,4 @@
-## Chapter 30: The Gardener
+## Chapter 33: The Gardener
 
 We have spent this section using words like "Engine," "Code," "Algorithm," and "Machine." We have talked about "Debugging" and "Patching" as if we were repairing a vintage computer.
 

@@ -1,8 +1,6 @@
 ## Chapter 16: The Cobra Effect (The Successful Failure)
 
-By now, we've built an intuition for the Value Function: the Rules, the Track, and the Competitors. We've seen how it shapes behavior, how it creates winners and losers, how it even gets inside you and molds your identity.
-
-But understanding the Pattern is only step one. As humans, we have something that nature lacks: **intent**. We can try to define the Value Function. We can try to change it.
+Humans have something nature lacks: **intent**. We don't just survive the Value Function. We try to rewrite it.
 
 Of the three levers, the **Competitors** are the hardest to influence. You can try marketing and first-mover advantages, but you're fighting against others' adaptations.
 
@@ -51,9 +49,11 @@ We see this everywhere once we start looking.
 *   **In Corporations**, we tell managers to "Maximize Shareholder Value this Quarter." The managers fire the research team and sell the factory equipment. The stock price goes up (Success!), but the company has no future (Failure).
 *   **In Social Media**, we tell the algorithm to "Maximize Engagement." The algorithm finds that anger and division keep people on the site longer than peace and nuance. The engagement numbers are at an all-time high (Success!), but the social fabric is tearing (Failure).
 
-The problem is that in the real world, the things we actually want, **Intelligence, Prosperity, Safety, Happiness** are hard to evaluate. You cannot measure "Prosperity" with a ruler. You cannot weigh "Learning" on a scale.
+The problem is that the things we actually want (**Intelligence, Prosperity, Safety, Happiness**) are hard to evaluate. You cannot measure "Prosperity" with a ruler. You cannot weigh "Learning" on a scale.
 
-As we've seen in the Value Function equation, the forces shaping the pattern are the rules, the track, and the competitors. The intent is not there. It does not affect the pattern (Not directly). This means that if the rules are not fully aligned with the intended outcome, there will be a drift in the expected outcome and final result.
+So we use shortcuts.
+
+The forces shaping the pattern are the rules, the track, and the competitors. Intent is not in the equation. It does not affect the pattern directly. This means that if the rules are not fully aligned with the intended outcome, there will be a drift between what was expected and what actually happens.
 
 That is the danger of the **Proxy**.
 
@@ -108,3 +108,5 @@ The moment we decide that a number (the proxy) is the point of the game, the com
 *   If you reward a CEO for the quarterly stock price, they will **fire half the staff** to make the numbers look good today, even if it kills the company tomorrow.
 
 The Proxy is a shortcut. And in a world of fast iteration, the shortcut becomes the destination.
+
+Every metric is a mirror. It reflects the behavior of the system, not the intent of the designer. And the faster the system iterates, the faster the mirror cracks.

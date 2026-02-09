@@ -1,4 +1,4 @@
-## Chapter 29: Patching the Code
+## Chapter 32: Patching the Code
 
 In software engineering, when you find a bug in a critical system (like an airplane's autopilot or a bank’s ledger) you don't delete the entire operating system and start over. That’s called a "Full Rewrite," and in the world of code, it’s a death sentence. It takes years, costs millions, and usually introduces ten new bugs for every one it fixes.
 

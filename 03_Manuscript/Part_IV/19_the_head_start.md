@@ -1,4 +1,4 @@
-## Chapter 20: The Head Start
+## Chapter 19: The Head Start
 
 In a compounding world, the race doesn't reset every lap. History accumulates. 
 
@@ -82,6 +82,8 @@ Over time, this creates a world where the winners keep winning, not because they
 
 The "Judge" stops measuring the runner and starts measuring the head start.
 
-And as we will see, when a system compounds towards a single metric for too long, the **Value Function itself begins to mutate**. The Pattern stops looking for the best solution and starts looking for the most stable one—even if that stability is a trap.
+How much of my "success" is talent, and how much is just the compounding of an early white-piece advantage?
 
-How much of my "success" is talent, and how much is just the compounding of an early white-piece advantage? 
+But the Head Start doesn't just widen the gap between winners and losers. It also changes the *winner*. When a system compounds in one direction for too long, the winner doesn't just get bigger—they get *narrower*. More specialized. More efficient. And more fragile.
+
+Let's look at what happens when a winner compounds so hard they forget how to do anything else.

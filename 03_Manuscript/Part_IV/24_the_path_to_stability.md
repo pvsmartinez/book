@@ -68,4 +68,8 @@ When systems optimize for too long, they calcify. They find a configuration that
 
 The path to stability is inevitable. But if we are not careful, the stability we find becomes the cage we cannot escape. 
 
-How many of the hills you are standing on today are the ones you actually chose? 
+How many of the hills you are standing on today are the ones you actually chose?
+
+But here's the thing about cages: they don't last forever. Systems drift, lock in, and calcify—but the world around them keeps moving. Pressure builds. And when a frozen system meets a force it can't absorb, it doesn't bend.
+
+It breaks.

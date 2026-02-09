@@ -1,4 +1,4 @@
-## Chapter 32: The Designer’s Compass
+## Chapter 35: The Designer's Compass
 
 Once you start seeing the patterns—the Engine, the Judge, the Compounder—it is easy to fall into a kind of systemic nihilism. 
 

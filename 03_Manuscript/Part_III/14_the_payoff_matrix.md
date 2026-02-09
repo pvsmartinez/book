@@ -1,64 +1,29 @@
 ## Chapter 14: The Payoff Matrix
 
-The Rules, the Track, the Competitors. We've torn them apart and studied each one separately.
+Rules, Track, Competitors. In the real world, they don't exist in isolation. They collide. And the collision creates the Value Function.
 
-But in the real world, they don't exist in isolation.
+**Game Theory** gives us a way to write this collision down. Despite the name, it isn't about poker or chess. It's the mathematics of choices made under pressure, when your score depends on what everyone else does.
 
-They collide. In every moment, in every decision, these three forces slam together to create the Value Function.
+A restaurant that lowers prices wins only if competitors don't lower theirs. A company that invests in R&D succeeds only if others don't innovate faster. Your payoff is never static. It depends on the field.
 
-One way to visualize the value function is to create the **Payoff Matrix**. This matrix is the meaningful calculation of what you win or lose for every possible choice.
-
-And this matrix determines everything.
-
-To see how these pieces fit together, and why the Pattern so often traps us, we need to look at **Game Theory**: the mathematics of choices made under pressure.
-
-### It's Not About Games
-
-Despite the name, Game Theory isn't about poker or chess. It's the study of how to **score interactions**. How do we represent the Value Function when multiple people are choosing at the same time?
-
-Up until now, we've imagined the Value Function as a simple scoreboard: *Run fast = +10 points.*
-
-But in the real world, your score depends on you *and* everyone else. A restaurant that lowers prices makes more money only if competitors don't lower theirs as well. A company that invests in R&D becomes innovative only if other companies don't innovate faster.
-
-**Your payoff is not static. It depends on what everyone else does.**
-
-Game Theory is how we write this down. It uses a simple table: the Payoff Matrix.
+The tool Game Theory uses to capture this is the **Payoff Matrix**: a table of what you win or lose for every possible choice, given every possible choice by everyone else.
 
 ### The Hawk and the Dove: Finding Balance
 
-We met the **Hawks** (aggression) and the **Doves** (posturing) in the previous chapter. Now, let's put numbers to their conflict to see how the matrix drives the population to a specific state.
+We met the **Hawks** and **Doves** in the previous chapter. Now let's put numbers to their story and see what the matrix reveals.
 
-The **Environment** (the Track) writes the numbers:
--   Food is worth **+50 points**.
--   Serious injury costs **-100 points**.
--   Posturing (Dove vs Dove) costs time, so they split the food but lose a bit of energy: **+15 points** each.
-
-The **Payoff Matrix** looks like this:
+The **Environment** writes the numbers: food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time but nobody bleeds: **+15 each**.
 
 | You ↓ / Opponent → | **vs. Hawk** | **vs. Dove** |
 | :--- | :--- | :--- |
-| **Play Hawk** | **Fight:** 50% win, 50% injured.<br/>Avg: **-25 points** | **Victory:** Opponent runs.<br/>You eat everything: **+50 points** |
-| **Play Dove** | **Flee:** No food, no injury.<br/>**0 points** | **Posture & Share:** Split the food.<br/>**+15 points** |
+| **Play Hawk** | **Fight:** 50% win, 50% injured.<br/>Avg: **-25** | **Victory:** Opponent runs.<br/>**+50** |
+| **Play Dove** | **Flee:** No food, no injury.<br/>**0** | **Posture & Share:**<br/>**+15** |
 
-Now watch what happens as the **Competitors** play this game over and over.
+The best world for the species is if everyone is a Dove (+15 each, no blood). But a single Hawk mutant in a Dove forest scores +50 on every encounter. It eats better, reproduces faster, and within generations, the Hawks multiply.
 
-**Scenario A: A Forest Full of Doves**
-Imagine every animal is a Dove. They posture, they share, they live peacefully. The average payoff is **+15 points** per interaction. This is the **Global Maximum**: the best possible world for the species.
-But then, a single **Hawk Mutant** appears.
-This Hawk looks around at a forest of Doves. Every time it encounters another animal, it fights and wins (+50 points). The Doves flee (0 points).
-The Hawk is now "fitter" than the Doves. It eats better, reproduces faster. Within a few generations, the Hawks multiply.
+But a pure Hawk forest is a nightmare. Every fight averages -25. In that world, a single Dove mutant scores 0 (runs every time), and zero is better than negative. The Dove thrives while the Hawks bleed each other dry.
 
-**Scenario B: A Forest Full of Hawks**
-Now the forest is full of Hawks. Every interaction is a brutal fight. When a Hawk meets another Hawk, they fight until injury (-100). On average, each Hawk loses **-25 points** per interaction. The population is suffering.
-Then, a single **Dove Mutant** appears.
-This Dove encounters a Hawk and runs. It gets **0 points**.
-Zero is terrible. But zero is *better than -25*.
-The Dove survives while the Hawks kill each other. The Dove is now "fitter." She reproduces.
-
-**The Oscillation**
-There is no single "best strategy." If the forest is full of Doves, the math says *Be a Hawk.* If the world is full of Hawks, the math says *Be a Dove.*
-
-The system never settles on one pure strategy. It oscillates until it reaches a **Stable Equilibrium**, a specific mix (roughly 30% Hawks, 70% Doves) where the payoff for being a Hawk equals the payoff for being a Dove. The Pattern finds the balance point and holds it there.
+**The result:** there is no single "best strategy." The system oscillates until it reaches a **Stable Equilibrium**, a specific mix where the payoff for being a Hawk equals the payoff for being a Dove. The Pattern finds the balance and holds it there.
 
 ### The Environment Rewrites the Numbers
 
@@ -85,9 +50,7 @@ The Payoff Matrix is the invisible hand moving the pieces.
 The Hawks and Doves eventually find a balance. It's a rough world, but it's stable.
 But there is another type of matrix. A darker one. One that doesn't oscillate, but **collapses**.
 
-This is the famous **Prisoner's Dilemma**.
-
-Two suspects are arrested. The police separate them and offer a deal:
+Two suspects are arrested. The police separate them and offer each one a deal:
 -   If **Both Stay Silent** (Cooperate), both get **1 Year**.
 -   If **Both Betray** (Defect), both get **5 Years**.
 -   If **One Betrays** and the other stays silent, the Betrayer goes **Free**, and the Sucker gets **10 Years**.
@@ -107,7 +70,7 @@ If your partner betrays, you *must* betray (5 years is better than 10 years).
 Both prisoners, acting rationally, choose to betray. The result? **Both get 5 years.**
 But look at the irony: If both had stayed silent, **both would have gotten only 1 year.**
 
-The **Global Maximum** (the best outcome) was right there. But the **Rules** of the system made it mathematically impossible to reach. Each rational actor, acting on their incentives, drove the system into a trap.
+The best outcome was right there. But the **Rules** of the system made it mathematically impossible to reach. Each rational actor, acting on their incentives, drove the system into a trap.
 
 Unlike the Hawk/Dove game, which finds a balance, the Prisoner's Dilemma has **no stable cooperative state**. If we both promise to be silent, I have a massive incentive to break my promise and go free. The system slides inevitably into the bottom-right corner: mutual misery.
 

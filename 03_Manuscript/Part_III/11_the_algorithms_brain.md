@@ -1,18 +1,14 @@
 ## Chapter 11: The Algorithm's Brain
 
-The first variable in the Value Function is **The Rule Set**. 
+When we train an AI, we don't give it a brain. We give it a number.
 
-It is the explicit constraint, the law, the scorecard, the written instruction that tells a system what "success" looks like.
+"Here is a score," we tell the machine. "Your only job is to make this number go up."
 
-This raw, unchecked power of a Rule Set can be best observed in **Machine Learning**. Artificial Intelligence has no common sense; it is not subjective, and it is very clear how it's shaped by its value function.
+That single instruction is the first variable of the Value Function: **The Rule Set**. The law, the scorecard, the written constraint that tells a system what "success" looks like.
 
-AI is the purest demonstration of "The Pattern" in existence because it strips away all human nuance. It doesn't "learn" in the way we do; it simply maximizes the score it was given.
+In the human world, we wrap rules in culture and context. AI strips all of that away. It has no common sense, no morality, no understanding of what the number represents. It simply maximizes the score it was given. This makes Machine Learning the purest demonstration of the Pattern in existence, and the clearest window into the power of a Rule Set.
 
 ### The Math Monkey
-
-The clearest definition of a Value Function comes from computer science, and it lays the foundation for everything we are about to discuss.
-
-When we train an AI, we don't give it a brain; we give it a goal. We tell the machine: "Here is a score. Your only job is to make this number go up."
 
 The AI starts with completely random behavior. It’s a digital monkey hitting keys. But every time it does something that raises the score, it gets a "reward." Every time it does something that lowers the score, it gets "punished."
 
@@ -20,9 +16,7 @@ Over millions of iterations, the AI becomes a master at maximizing that score. I
 
 This is the **First Variable** of our equation: **The Rule Set**.
 
-Do you remember the **Infinite Monkey Theorem** from Part II?
-If you let a monkey hit random keys on a typewriter for an infinite amount of time, eventually, by pure chance, it will write *Hamlet*.
-But if you **lock** the correct letters as they appear (Selection), the monkey writes *Hamlet* almost instantly.
+Think of the **Infinite Monkey Theorem**. A monkey hitting random keys will eventually write *Hamlet*, given infinite time. But if you **lock** the correct letters as they appear (Selection), the monkey writes *Hamlet* almost instantly.
 
 An AI is just a very fast Math Monkey.
 
@@ -60,7 +54,7 @@ It repeats this millions of times.
 Eventually, the random arithmetic has been sculpted into a precise formula. The "random math" has evolved into a structure that reliably converts a cat's pixels into the word "Cat."
 
 This is **The Pattern** in its purest form.
-$$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$$
+$$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 It is pure mathematics proving exactly what we discussed in Part II.
 *   **Iteration:** The millions of training loops.
@@ -90,7 +84,7 @@ The AI didn't *choose* to be funny or scary. It was simply carved into that shap
 
 ### The Overfitting Trap (The Blind Judge)
 
-This leads to a specific form of fragility called **Overfitting**.
+This precision creates a specific fragility: **Overfitting**.
 
 Imagine we train the Math Monkey only on pictures of Cats.
 We show a Cat. It says "Cat." The judge gives a cookie.
@@ -109,7 +103,7 @@ If the Rule Set is narrow, the result is narrow. If you only test for memorizati
 
 ### The Robotic Arm (The Ultimate Hack)
 
-The most hilarious (and terrifying) examples of this come from the field of Reinforcement Learning.
+The funniest (and most terrifying) examples come from **Reinforcement Learning**.
 
 In one famous experiment, researchers trained a virtual robotic arm to grasp a ball.
 *   **The Rule:** Maximize the score of "Successful Grasp."
@@ -196,3 +190,5 @@ If you define "Education" as "Test Scores," the school will stop teaching critic
 
 The machine will give you exactly what you asked for.
 So you better be damn sure that what you asked for is what you actually wanted.
+
+How do you write a rule that captures what you *actually* want? That turns out to be one of the hardest problems in system design, and one we'll come back to.

@@ -1,4 +1,4 @@
-## Chapter 18: The Dice and the Direction
+## Chapter 21: The Dice and the Direction
 
 We need to talk about **Luck**.
 
@@ -18,7 +18,7 @@ Here's something we need to understand first: **Luck isn't an exception to the P
 
 Go back to the Adaptation Equation from Part II:
 
-$$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$$
+$$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 Look at that word: **Variance**. 
 
@@ -114,7 +114,7 @@ Randomness adds noise, but the Value Function defines the direction.
 
 There's one more way luck and the Pattern interact, and it's perhaps the most important.
 
-Remember the Cheetah from Part II? It was optimized for speed because, at some point in history, speed worked. But now it's locked in. It can't switch to stealth or strength because it has traveled too far down one evolutionary path.
+Remember the Cheetah? It was optimized for speed because, at some point in history, speed worked. But now it's locked in. It can't switch to stealth or strength because it has traveled too far down one evolutionary path.
 
 How did the cheetah end up on the "speed" path in the first place?
 
@@ -164,4 +164,6 @@ But over time, across iterations, the shape of the winners is carved by the Valu
 
 Understanding this is the first step toward playing the game wisely—knowing when you're rolling dice and when you're climbing a hill.
 
-Now, let's look at what happens when the Compounder runs for too long. Let's look at the trap that catches the Cheetah.
+So far, we've explored the *hidden variables* of compounding—the head start, the hidden cost, and the dice roll. Now it's time to zoom out and look at what compounding *produces* over time. What shapes does the Pattern draw when it runs for a thousand, a million iterations?
+
+Let's start with the most surprising one: sometimes, the Pattern doesn't just push forward. It swings.

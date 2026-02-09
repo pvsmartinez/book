@@ -29,6 +29,7 @@ You pull the first ball back and let it drop. *Click.*
 The ball hits the line and stops. It doesn't travel through the line. But the energy does. It shoots through the three middle balls (which barely move) and kicks the last ball out on the other side. *Clack.*
 
 The energy traveled. The matter stayed put.
+If this example was hard to visualize, I invite you to search the web for this toy and see what I mean.
 
 This energy transmission is the perfect mental model for us.
 The silver balls are the vehicles.

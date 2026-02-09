@@ -2,22 +2,20 @@
 
 It is a race that never ends.
 
-In the previous chapter, we saw how the **Payoff Matrix** creates two kinds of games.
-We have the **Oscillations** (like Hawks and Doves) where the system finds a balance.
-And we have the **Collapse Patterns** (like the Prisoner's Dilemma) where the system traps everyone in a bad outcome.
+The Payoff Matrix creates two kinds of games. **Oscillations** (like Hawks and Doves) where the system finds a balance. And **Collapse Patterns** (like the Prisoner's Dilemma) where the system traps everyone in a bad outcome.
 
-But the Prisoner's Dilemma we looked at was static. You go to jail, or you don't. The game ends.
+But the Prisoner's Dilemma was static. You go to jail, or you don't. The game ends.
 
 In the real world, the game doesn't end. And when you combine a **Collapse Pattern** with **Evolution**, you don't just get a trap. You get an escalation.
 
-You get a trap that moves faster and faster every day.
+A trap that moves faster and faster every day.
 
 ### The Problem of Relative Fitness
 
 Consider the cheetah and the gazelle.
 
-The "Global Maximum" would be for both species to agree to run at 20mph. They would save massive amounts of energy, they would suffer fewer injuries, and the cheetah would still catch the slow gazelles.
-But as we know, they are trapped in the Prisoner's Dilemma.
+The ideal world would be for both species to agree to run at 20mph. They would save massive amounts of energy, suffer fewer injuries, and the cheetah would still catch the slow gazelles.
+But they are trapped.
 
 If a cheetah decides to "disarm" and run slow to save energy, the fast gazelle runs away. The pacifist cheetah starves. The system aggressively selects against anyone who tries to exit the race.
 
@@ -83,7 +81,7 @@ But more pages mean more complexity. More complexity means more gaps. More gaps 
 
 The same dynamic drives the explosion of legal contracts. A handshake deal that worked in 1950 now requires a 200-page agreement reviewed by multiple attorneys. Why? Because every contract dispute that went to court revealed an ambiguity. Every ambiguity became a lesson. Every lesson became a new clause. The contracts became longer not because people became less trustworthy, but because the arms race between "what I meant" and "what you can argue I meant" escalated.
 
-Lawyers aren't evil. They're just cheetahs. They optimize for the environment they're given. And the environment continues to select for longer claws.
+Lawyers aren't evil. They're cheetahs. They optimize for the environment they're given. And the environment keeps selecting for longer claws.
 
 ### The Human Arms Race
 
@@ -132,7 +130,7 @@ Everyone is optimizing. No one is winning.
 
 And yet, no individual can stop. If you stop running, you fall behind. The only way to escape the race is to change the game entirely. Find a different track where the old competition doesn't apply.
 
-We'll explore how to do that in later chapters. But first, we must face the obvious solution.
+That's not a fantasy. People and societies do it. But it requires seeing the race for what it is before you can step off it. First, we must face the obvious solution.
 
 If these races are so destructive, why don't we just stop them? Why don't we just make a rule that says "Speed Limit: 20mph" or "No more pesticides"?
 

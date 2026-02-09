@@ -1,4 +1,4 @@
-## Chapter 31: The Acceleration
+## Chapter 34: The Acceleration
 
 At the very beginning, we asked a question: *Why does the world feel like it is vibrating at a higher frequency?*
 
@@ -6,7 +6,7 @@ Why does everything feel more extreme, more polarized, and more fragile? Why are
 
 It isn't just a feeling. It’s math.
 
-If we look at our core equation—$Adaptation = \frac{Filter(Iteration \times Variance)}{Time}$—we can see exactly what has happened to our species in the last twenty years. We haven't just changed the world; we have overclocked the engine.
+If we look at our core equation—$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$—we can see exactly what has happened to our species in the last twenty years. We haven't just changed the world; we have overclocked the engine.
 
 ### The Explosion of Iteration
 

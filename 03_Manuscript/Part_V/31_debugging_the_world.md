@@ -1,4 +1,4 @@
-## Chapter 28: Debugging the World
+## Chapter 31: Debugging the World
 
 ---
 

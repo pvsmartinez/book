@@ -28,10 +28,14 @@ This is where my obsession with systems comes in. When you spend your life balan
 
 Look at YouTube. We say the algorithm is "radicalizing" us. But the code has no political agenda. It doesn't have a soul. It has only one goal: **Watch Time**. It is a machine that has been told to learn, by trial and error, what keeps you staring at the screen for one more second. If it learns that a calm, nuanced discussion makes you tune out, but a screaming fight makes you watch, it will show you the fight. Not because it wants to hurt you, but because it is a perfect student of your own psychology.
 
+(The real algorithm is more complex than a single metric, but the principle holds. We'll dissect how these metrics shape behavior in Part III.)
+
 The market is the same. It isn't "trying" to starve anyone; it is simply a massive engine optimizing for efficiency. It is doing exactly what we encoded in its rules: find the most efficient way to allocate capital.
 
 We are living in systems that are self-optimizing toward extremism.
 
-This is the Pattern. It is not a conspiracy, nor is it chaos. It is the mathematical consequence of what happens when you tell a system to optimize for a single metric and give it enough time to learn.
+That is a bold claim, and I don't expect you to take it on faith. The mechanism behind it will become clearer as we dive deeper in future chapters.
+
+But the core idea is this: it is neither a conspiracy nor chaos. It is the mathematical inevitability of what happens when any system iterates long enough under a consistent filter.
 
 In this book, I want to hand you this lens. I want to show you the code behind the chaos. Because once you stop hating the players and start understanding the game, you can finally see the path to changing it.

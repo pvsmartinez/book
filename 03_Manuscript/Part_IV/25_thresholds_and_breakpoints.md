@@ -1,4 +1,4 @@
-## Chapter 21: Thresholds and Breakpoints
+## Chapter 25: Thresholds and Breakpoints
 
 Compounding interest and hyper-efficiency create smooth, beautiful, exponential curves on a graph. They make it look like the world moves in predictable steps. But as any bridge builder, game designer, or cardiologist will tell you: the world doesn't always move in curves. 
 
@@ -77,4 +77,6 @@ In a compounding world, significant changes aren't the ones that happen graduall
 
 If you are designing a system—or living in one—don't just ask "How much better is this?" 
 
-Ask "How close are we to the cliff?" 
+Ask "How close are we to the cliff?"
+
+We've now seen all the behaviors of the Compounder: how advantages snowball, how systems swing, drift, lock in, and eventually snap. It's time to put the full picture together.

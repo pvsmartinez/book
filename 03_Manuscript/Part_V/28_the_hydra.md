@@ -1,4 +1,4 @@
-## Chapter 25: The Hydra
+## Chapter 28: The Hydra
 
 To understand why we fail to fix the world, look at a place where the system is raw, exposed, and brutal. 
 
