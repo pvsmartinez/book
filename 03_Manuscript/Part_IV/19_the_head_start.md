@@ -22,7 +22,7 @@ But look what happens when we look at the next generation: their grandchildren.
 
 If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno’s disciplined savings have grown to a respectable \$86 million. But Ana’s "seed," because it had those extra decades to compound, has turned her fortune into nearly \$195 million. 
 
-Here is the part that breaks the brain: Ana's initial \$100,000 "seed" alone grew to \$108 million. That means her inheritance did more "work" (generated more wealth) than Bruno's entire lifetime of labor and discipline combined. 
+Here is the math of the gap: Ana's initial \$100,000 "seed" alone grew to \$108 million. That means her inheritance did more "work" (generated more wealth) than Bruno's entire lifetime of labor and discipline combined. 
 
 Ana is more than twice as wealthy as Bruno, not because she worked twice as hard, but because she was **in front** at the start. The system’s Value Function rewarded her "buffer" more than it rewarded their collective lifetime of effort. 
 
@@ -70,7 +70,7 @@ If life were a chess tournament where one player kept the white pieces for every
 
 No system is built in a vacuum. When we design a "fair" market or a "fair" election, we often act as if everyone is starting from the same line. But we always inherit the "score" from the previous game. When you analyze a system, you cannot just look at the rules on the box. You have to ask: "Who held the white pieces in the last round?"
 
-### The Takeaway
+### The Advantage Feeds Itself
 
 The "Judge"—whether it's the market, the coach, or the algorithm—is just selecting the "fittest" option *right now*. 
 
@@ -85,5 +85,3 @@ The "Judge" stops measuring the runner and starts measuring the head start.
 How much of my "success" is talent, and how much is just the compounding of an early white-piece advantage?
 
 But the Head Start doesn't just widen the gap between winners and losers. It also changes the *winner*. When a system compounds in one direction for too long, the winner doesn't just get bigger—they get *narrower*. More specialized. More efficient. And more fragile.
-
-Let's look at what happens when a winner compounds so hard they forget how to do anything else.

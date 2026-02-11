@@ -233,13 +233,16 @@ h1.no-toc-header {
     font-weight: bold;
 }
 
-/* Blockquotes */
+/* Blockquotes (Standard) */
 blockquote {
-    margin: 1.5em 1in;
+    margin: 1.5em 0.5in;
     font-style: italic;
     color: #444;
     border-left: 3px solid #ddd;
-    padding-left: 1.5em;
+    padding: 0.8em 1.5em;
+    background-color: #fafafa;
+    font-size: 10pt;
+    line-height: 1.5;
 }
 
 /* Table of Contents */

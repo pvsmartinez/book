@@ -72,15 +72,15 @@ At first, the early digital world was a wild frontier. If you posted a game on F
 
 But as the Internet grew more crowded, the "free" space (the organic, viral reach) began to die. 
 
-This is when the strategy shifted. Imagine two games of similar quality. One costs $3. The other is free. To a user scrolling through an app store, the free game has zero friction to entry. The $3 barrier feels like a wall; a "Free" button feels like an open door. Naturally, the free games reached a much larger audience. "Paid" games on mobile began to die because they couldn't compete with the lure of $0.
+This is when the strategy shifted. Imagine two games of similar quality. One costs \$3. The other is free. To a user scrolling through an app store, the free game has zero friction to entry. The \$3 barrier feels like a wall; a "Free" button feels like an open door. Naturally, the free games reached a much larger audience. "Paid" games on mobile began to die because they couldn't compete with the lure of \$0.
 
 But developers still have to pay rent. A free game that produces no revenue cannot survive. So, they started testing **In-App Purchases** (IAP). They weren't predatory at first. Just small upgrades or levels to keep the lights on and the servers running.
 
 However, once you have IAP, you have a new variable: **Revenue Per User**. And this is where the competitive loop turns into a trap.
 
-If your free game starts making $1 per player, you suddenly have a weapon. You can afford to spend money on **Marketing**. You start bidding for ads on Facebook or Google to find new users. 
+If your free game starts making \$1 per player, you suddenly have a weapon. You can afford to spend money on **Marketing**. You start bidding for ads on Facebook or Google to find new users. 
 
-Now look at the competition. If my game makes $5 per player and yours only makes $1, I can afford to pay $2 to acquire a new user. You can't. If you spend $1.01, you lose money. If I spend $2, I still have $3 in profit. I will outbid you for every eyeball on the internet. I will take all the users, and your game will end up in the graveyard of the app store. 
+Now look at the competition. If my game makes \$5 per player and yours only makes \$1, I can afford to pay \$2 to acquire a new user. You can't. If you spend \$1.01, you lose money. If I spend \$2, I still have \$3 in profit. I will outbid you for every eyeball on the internet. I will take all the users, and your game will end up in the graveyard of the app store. 
 
 As globalization hit and the market became saturated with millions of developers, the bidding war reached a fever pitch. Marketing, not art or production, became the most expensive part of making a game. To stay visible, you *had* to earn more from each user than you spent to acquire them.
 

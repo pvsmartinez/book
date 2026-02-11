@@ -6,7 +6,6 @@
 >
 > *The frame of mind here is that of a system designer looking at the whole machine, not just the parts. Some of this will feel abstract. Some of it will feel bleak. That's not the destination — it's the diagnosis. You need to see how systems age before you can think about how to maintain them.*
 
----
 
 In Part II, we built an **Engine**. We saw how iteration, variance, and feedback produce adaptation. In Part III, we gave that engine a **Direction**. The Value Function (the Rules, the Track, and the Competitors) decides what gets selected and what gets filtered out.
 
@@ -36,9 +35,9 @@ In the first generation of breeding, we simply selected the "tamest" or "cutest"
 
 Each generation was the output of the last. The "cute" wolves of Generation 1 became the starting population of Generation 2. The system didn't start over; it started from *where it left off*.
 
-Generation after generation, the "error" compounded. We were optimizing for a single trait (cuteness), and the system delivered. But by pulling so hard on the "cuteness" lever, we accidentally pulled on others we didn't see. Like the ability to breathe.. Why? B
+Generation after generation, the "error" compounded. We were optimizing for a single trait (cuteness), and the system delivered. But by pulling so hard on the "cuteness" lever, we accidentally pulled on others we didn't see. Like the ability to breathe.
 
-The Pug is the "Winner" of the human value function, but it is a fragile winner. It is a specialized biological companion that would last for five minutes in the wild savanna of its ancestors. The Compounder took a functional, resilient predator and turned it into a specialized, fragile outcome, because the "Judge" (us) never changed its mind, and the results kept feeding back into the machine.
+The Pug is the "winner" of the human value function, but it is a fragile winner. It is a specialized biological companion that would last for five minutes in the wild savanna of its ancestors. The Compounder took a functional, resilient predator and turned it into a specialized, fragile outcome, because the "Judge" (us) never changed its mind, and the results kept feeding back into the machine.
 
 A 1% difference in performance may look like a rounding error. But because the Pattern iterates, that 1% doesn't add up. It **multiplies**.
 

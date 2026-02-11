@@ -58,7 +58,7 @@ Because we are at a Local Maximum. To switch to the better mountain, millions of
 
 So we stay on the QWERTY hill. It’s sub-optimal, but it’s **Stable**.
 
-### The Takeaway
+### The Nearest Hill
 
 Stability is the ultimate filter. When we see a system that has lasted for a long time—a constitution, a bank, a religion—we naturally assume it must be the "best" way to do things. 
 

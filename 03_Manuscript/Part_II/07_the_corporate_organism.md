@@ -14,11 +14,11 @@ The answer is hiding in plain sight, in a concept every economics student learns
 
 Open an economics textbook, and you will see a simple graph. One line goes up (Supply), one line goes down (Demand). Where they cross, you find the **Price**.
 
-Economists call this "Market Equilibrium." It feels like a law of gravity, a static fact. The price of a coffee is $3.00. The price of a stock is $150.00.
+Economists call this "Market Equilibrium." It feels like a law of gravity, a static fact. The price of a coffee is \$3.00. The price of a stock is \$150.00.
 
 But how did the market *find* that price?
 
-There is no central computer setting prices. No government official decides that an iPhone costs $999.
+There is no central computer setting prices. No government official decides that an iPhone costs \$999.
 
 The price is found through the Pattern.
 

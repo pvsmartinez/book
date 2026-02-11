@@ -26,14 +26,13 @@ It’s not just that it's fragile; it’s that it's **blinded by its own success
 
 Every optimization is a trade-off. When you shave down the bone to make it lighter, you also make it easier to break. When you expand the lungs to increase oxygen intake, you leave less room for the stomach. 
 
-In our world, we do this with almost every system we build. 
-*   We optimize our **Supply Chains** for "Just-in-Time" efficiency to save money. It works perfectly... until a single ship gets stuck in the Suez Canal and the entire global economy has a stroke. 
-*   We optimize our **Agriculture** for a single type of high-yield corn. It works perfectly... until a single fungus evolves that loves that specific corn, and we face a famine. 
-*   We optimize our **Lives** for "Maximum Productivity," scheduling every minute of our day. It works perfectly... until we get a cold or a flat tire, and our entire week collapses because we left zero "slack" in the system.
+We do this with almost every system we build.
 
-We are all Cheetahs. We are all running as fast as we can toward a metric on a screen (Money, Likes, Calories), ignoring the Hyenas (Health, Relationship stability, Mental peace) waiting for us at the finish line.
+We optimize our supply chains for "Just-in-Time" efficiency, shaving every spare part and every buffer day off the logistics chain. It works perfectly... until a single ship gets stuck in the Suez Canal and the entire global economy has a stroke. We optimize our agriculture for a single type of high-yield corn. Efficient, cheap, feeds millions... until a single fungus evolves that loves that specific corn, and suddenly we're staring at a famine. We even do it to ourselves. We optimize our lives for "Maximum Productivity," scheduling every minute of the day. It works perfectly... until we get a cold or a flat tire, and the entire week collapses because we left zero slack in the system.
 
-### The Traffic Paradox (When Success Scales)
+We are all Cheetahs. We are all running as fast as we can toward a metric on a screen, ignoring the Hyenas waiting for us at the finish line. The Hyena might be your health. It might be a relationship you stopped maintaining. It might be the mental quiet you traded for one more hour of output.
+
+### The Traffic Paradox
 
 But there’s a second layer to this dilemma. Sometimes, the optimization doesn't just make you fragile; it actually creates the very problem it was trying to solve.
 
@@ -55,13 +54,14 @@ This is the paradox of blind optimization: **The Solution scales until it become
 
 ### The Blind Spot
 
-The Pattern is an optimization engine. It will always push you to be more efficient at whatever you are measuring. 
+The Pattern uses the Value Function as a filter. It keeps what fits and discards what doesn't.
 
-If you measure Speed, it will give you a Cheetah. It won't tell you about the Hyenas.
-If you measure Growth, it will give you a Housing Bubble. It won't tell you about the Crash.
-If you measure Engagement, it will give you a Rage-Baiting Algorithm. It won't tell you about the cost to the social fabric.
+If the Value Function measures Speed, it will give you a Cheetah. It will filter out muscle, jaw strength, and endurance because they are "inefficient" for the sprint. It won't tell you about the Hyenas.
 
-The danger of optimization isn't that it fails; it's that it succeeds. The danger is that it **succeeds at the wrong thing**. It gives you exactly what you asked for, but it hides the cost until the bill is so large that the system can no longer pay it.
+If the Value Function measures Growth, it will give you a Housing Bubble. It won't tell you about the Crash.
+If the Value Function measures Engagement, it will give you a Rage-Baiting Algorithm. It won't tell you about the cost to the social fabric.
+
+The danger of optimization isn't that it fails; it's that it succeeds. The danger is that the **Value Function succeeds at the wrong thing**. It gives you exactly what you asked for (Efficiency), but it filtered out what you actually needed (Resilience).
 
 Efficiency is not the goal. **Resilience** is the goal. 
 

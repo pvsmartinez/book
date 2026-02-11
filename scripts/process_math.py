@@ -26,7 +26,11 @@ def process_math(content):
     # 2. $\n...\n$ (User's newline style Block Math)
     # 3. $...$ (Inline Math, no newlines)
     pattern = r'(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$\n([\s\S]+?)\n\$|(?<!\\)\$([^\$\n]+)\$'
-    return re.sub(pattern, replace_math, content)
+    result = re.sub(pattern, replace_math, content)
+    
+    # After math processing, unescape \$ to plain $ for normal currency text
+    result = result.replace('\\$', '$')
+    return result
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:

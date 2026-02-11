@@ -1,8 +1,8 @@
 ## Chapter 22: The Pendulum
 
-If systems only ever moved in one direction—getting more specialized, more extreme, and more efficient—every species would eventually become a Cheetah and go extinct the moment the weather changed. 
+If all systems did was specialize, every species would eventually become a Cheetah and go extinct the moment the weather changed.
 
-But nature and history have a counter-force. Systems don't just move in straight lines; they **Oscillate**. 
+But that's not what happens. Systems don't just move in straight lines. They **Oscillate**. 
 
 Take **Fashion**. It’s the closest thing we have to a pure laboratory of human desire. The "Value Function" of fashion is complex—it’s about attractiveness, status, and self-expression—but at its core, it is driven by **differentiation**. 
 
@@ -16,7 +16,7 @@ We saw this mechanism clearly in **Chapter 13** with the Hawks and Doves. When t
 
 We see this in behavior trends and relationships, too. A generation that was raised with very strict, conservative rules often grows up to be very open and liberal. Their children, seeing the chaos of total openness, might swing back toward structure and tradition. The pendulum swings back and forth between parents and children, not because one is "right," but because the environment itself is a feedback loop. 
 
-As players optimize for the currently actual *change* in the environment, that. 
+As players optimize for the current environment, they inevitably change it. 
 
 ### Static vs. Dynamic
 

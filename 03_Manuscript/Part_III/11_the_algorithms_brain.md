@@ -54,6 +54,7 @@ It repeats this millions of times.
 Eventually, the random arithmetic has been sculpted into a precise formula. The "random math" has evolved into a structure that reliably converts a cat's pixels into the word "Cat."
 
 This is **The Pattern** in its purest form.
+
 $$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 It is pure mathematics proving exactly what we discussed in Part II.

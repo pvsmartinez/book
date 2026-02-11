@@ -43,7 +43,7 @@ In physics, this is a **Phase Transition**. Water can get hotter and hotter—1 
 
 Systems work the same way. 
 
-Consider the energy company we mentioned earlier. If they cut their maintenance budget by 1% each year for a decade, everything looks efficient. The lights stay on, the overhead drops, and the profits go up. They believe they are climbing a mountain of success.
+Consider an energy company. If they cut their maintenance budget by 1% each year for a decade, everything looks efficient. The lights stay on, the overhead drops, and the profits go up. They believe they are climbing a mountain of success.
 
 But they are actually approaching a **Breakpoint**. 
 
@@ -67,7 +67,7 @@ You can have 99% of the pressure required for a change and see 0% of the result.
 
 But that last 1% doesn't just give you a 1% change. It gives you a new world.
 
-### The Takeaway
+### Plateaus and Cliffs
 
 The Pattern does not move in a straight line. It moves in plateaus and cliffs.
 

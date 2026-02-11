@@ -1,5 +1,9 @@
 ## Chapter 23: Systemic Drift
 
+The Pendulum assumes that the center holds. It swings left, it swings right, but it orbits a fixed point.
+
+But what if the pivot point itself is moving?
+
 We tend to think of systems as static machines. We design the blueprints, we build the engine, and we turn it on. A car engine doesn't decide one day that it's bored with internal combustion and would rather be a dishwasher.
 
 But organic systems—markets, cultures, institutions—are different. They are **Living Systems**. They don't just process inputs; they adapt to them. And over time, they don't just change their strategies; they change their **Goals**.
@@ -77,7 +81,7 @@ Venice transitioned from a meritocracy to a hereditary aristocracy. The "Value F
 
 Innovation died. Within a few generations, Venice went from being the engine of global commerce to being a beautiful, static museum. The city didn't collapse because of a war; it collapsed because it optimized itself into a trap.
 
-### The Takeaway
+### Lock-In
 
 Drift is why "fixing" a system is so incredibly hard. You aren't just fighting a few bad actors; you are fighting the physics of a stable configuration. 
 
@@ -87,4 +91,6 @@ The designer's initial intent is a distant memory. The system now takes on a lif
 
 We build the track, but once the runners start running, they wear a groove into the dirt so deep that eventually, no matter how hard we turn the wheel, we can't steer out of it. 
 
-How many of the systems you interact with every day are still doing what they were designed to do? And how many are just running in a groove, having long ago forgotten their original purpose? 
+When a system drifts far enough, it stops adapting. It stops oscillating. It creates a new, rigid reality and defends it at all costs.
+
+It seeks the ultimate safety: **Stability**. 
