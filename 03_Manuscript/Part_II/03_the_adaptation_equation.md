@@ -5,16 +5,22 @@
 > *This part is about the engine. How it works, what fuels it, and why it's so hard to stop. The goal here isn't to tell you where things are going. That comes later. The goal is to show you that, if the conditions are met, the process occurs. It happens in biology, in culture, in your habits, in your business. Once you see the mechanics, you'll understand why the pattern is so powerful. And once you feel that power, the question will shift from "Is this real?" to "Where is it pointing?"*
 >
 
+I keep calling it "The Pattern."
+
+It sounds like a conspiracy theory. It sounds like something I found carved on a wall in a basement.
+
+But it's simpler than that.
+
+It's just an engine. A machine that doesn't have a soul, doesn't have a plan, and certainly doesn't care about you. But if you give it three specific ingredients, it will start running. And once it starts, it doesn't stop.
+
+You’ve seen this engine before. You didn't know it was the same one.
+
 What is this pattern I keep talking about? What does it look like?
 What constitutes the pattern, what doesn't, and how does it work?
 
-As mentioned in the salesman example, we need some form of action and feedback, a filter, and time. Is that all?
-
-Let's check each element on its own to understand the mechanisms at play and come up with a proper definition.
-
 ### The Loop of Action and Feedback
 
-To train a dog, you might say "Sit."
+To train a dog, you say "Sit."
 The dog looks at you. It barks. It jumps. It spins. It has no idea what you want; it is just pressing random buttons on the controller.
 
 Eventually, by random chance, the dog's butt hits the floor. You immediately give it a cookie.
@@ -23,13 +29,11 @@ At that moment, the cookie is the signal. Without it, the dog is just moving ran
 
 Of course, it won't learn with just one cookie. But the next time, the dog is more likely to sit. Do it enough times, and the behavior becomes a command.
 
-If you never gave the cookie, the dog would never learn. Without the feedback, there is no learning, only guessing. This is the fundamental building block of the **Pattern**: **Iteration**. 
+If you never gave the cookie, the dog would never learn. Without the feedback, there is no learning, only guessing. This is the fundamental building block of the **Pattern**: **Iteration**.
 
 An action without feedback cannot be considered an iteration because no learning or optimization is happening. Each action-feedback pair is a single loop of the engine.
 
-How direct this feedback is, how fast and clear it is, will affect the learning speed, but in the end, what is needed is a pair of actions and feedback.
-
-And this is the key to why the pattern is everywhere. As we have all heard from the laws of physics, every action has a reaction, which means that probably every action will have feedback. The catch? The feedback might not be on what you think it is.
+And this is why the pattern is everywhere. As we have all heard from the laws of physics, every action has a reaction, which means that probably every action will have feedback. The catch? The feedback might not be on what you think it is.
 
 This is a small detail that will become enormous. The gap between what we *think* is being measured and what is *actually* being measured is one of the most important ideas in this book. We will get there in Part III.
 
@@ -71,17 +75,19 @@ You need to try something different. A new opening. A more aggressive style. A d
 
 Eventually, one variation will work. You'll find a pattern your opponent can't answer. Your brain registers the win not just as feedback, but as a direction: "This path is working." The losses told you where NOT to go. The win tells you where to go.
 
-In machine learning, we often run into a problem where an AI gets "stuck." It finds a strategy that is *okay* (like running into a wall to avoid getting shot in a video game), and it keeps doing it forever. It stops learning because it stopped trying new things. It found one solution to the problem, but not the best, and keeps doing this forever.
+In machine learning, we often run into the same problem. An AI gets "stuck." It finds a strategy that is *okay* (like running into a wall to avoid getting shot in a video game), and it keeps doing it forever. It stopped learning because it stopped trying new things.
 
-To fix this, engineers artificially inject "noise." We force the AI to try random, seemingly dumb moves. We force it to have **Variance**. By forcing these attempts through enough iterations, the system eventually discovers the optimal path.
+To fix this, engineers artificially inject "noise." They force the AI to try random, seemingly dumb moves. They force it to have **Variance**. By forcing these attempts through enough iterations, the system eventually discovers the optimal path.
 
 Daniel's coach did the same thing. He injected noise into a stuck system.
 
 ### The Shape of the Filter
 
-Let's imagine a monkey in front of a typewriter, typing letters for an infinite amount of time. Infinite time means that it will write down all the infinite combinations of letters. If it has all infinite combinations, somewhere around the random "gibberish," we will have the complete works of Shakespeare.
+Let's imagine a monkey in front of a typewriter.
 
-This is the Infinite Monkey Theorem, a fun theorem, but not of much use because it would take literally infinite time. But adding a small selection drastically reduces the time.
+The Infinite Monkey Theorem: given enough time, the monkey will type the complete works of Shakespeare. But "enough time" in this case is billions of years. It's a fun theorem, but it's practically useless.
+
+But let’s add one rule. Let’s add a filter.
 
 Imagine that every time the monkey types a correct letter, that letter "locks" into place.
 The monkey types "Q". Nothing happens.
@@ -101,8 +107,6 @@ The result is **Adaptation**.
 
 $$Adaptation Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
 
-Iteration (Action with feedback) with variance, over time, dictated the adaptation rate. It dictates how quickly things evolve. 
-
 ### The Engine is Built
 
 So what does this all add up to?
@@ -111,7 +115,7 @@ A dog tries random movements and gets a cookie. A chess player tries new opening
 
 If a system iterates with variance, and a filter keeps the winners and discards the rest, that system will adapt. Not because it is "trying" to. Because the math leaves no alternative.
 
-This is the Pattern. It is not a metaphor or a philosophy. It is a mechanical consequence of how iteration and selection interact, and it is the core of this book.
+This is the Pattern. It is not a metaphor or a philosophy. It is a mechanical consequence of the interaction between iteration and selection.
 
 How each variable is defined (how fast the iterations run, how wide the variance swings, how strict the filter selects) affects how quickly and strongly adaptation occurs. This can be a fast or slow process. It can be intentional (a scientist designing an experiment) or a consequence of physical forces (a river carving a canyon).
 

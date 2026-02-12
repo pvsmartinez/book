@@ -1,40 +1,30 @@
 ## Chapter 7: The Corporate Organism
 
-Memes rarely travel alone. They tend to cluster together to form larger structures.
+I am a builder. I've spent my life looking at spreadsheets, code, and user metrics.
 
-A religious text is a cluster of thousands of memes. A political ideology is a cluster. And in the modern world, a dominant vehicle for these clusters is the **Corporation**.
+And I have a confession: The "Invisible Hand" of the market? It’s not a hand. It’s a meat grinder.
 
-A company is not just a building or a legal entity. It is a memetic vehicle. It is a group of people bound together by a shared set of ideas (The Mission, The Culture, The Process) and optimized for a specific survival condition (Profit).
+We talk about supply and demand like they are lines on a graph in a quiet classroom. But in the real world, it's a million bakers, artists, and engineers scrambling to stay afloat.
 
-But how does this vehicle adapt? Is it through the brilliant strategy of a CEO? Or is there something deeper at play?
+### The Meat Grinder
 
-The answer is hiding in plain sight, in a concept every economics student learns on day one: **Supply and Demand**.
-
-### The Invisible Hand is the Pattern
-
-Open an economics textbook, and you will see a simple graph. One line goes up (Supply), one line goes down (Demand). Where they cross, you find the **Price**.
-
-Economists call this "Market Equilibrium." It feels like a law of gravity, a static fact. The price of a coffee is \$3.00. The price of a stock is \$150.00.
+Open an economics textbook, and you will see a simple graph. One line goes up (Supply), one line goes down (Demand). Where they cross, you find the **Price**. It feels like a law of gravity.
 
 But how did the market *find* that price?
 
-There is no central computer setting prices. No government official decides that an iPhone costs \$999.
-
-The price is found through the Pattern.
-
 Imagine a small town in the 1800s with three bakers.
 
-The first baker sells massive loaves of bread, so large that only a family of ten can finish one before it goes stale. The second sells tiny, expensive portions of artisanal sourdough, targeting the few wealthy families on the hill. The third sells small, cheap rolls that a worker can grab on the way to the factory.
+The first sells massive loaves—so big they go stale before a family can finish them. The second sells tiny, expensive sourdough for the rich folks on the hill. The third sells small, cheap rolls for workers.
 
-There is no "Bread Committee" deciding who stays in business. No central planner measures the quality of the crust. And yet, over time, one type of baker comes to dominate the market.
+There is no "Bread Committee." No government official is deciding who stays in business.
 
-Every time a neighbor walks into a shop and hands over a coin, they are casting a vote. Every purchase is an **Iteration**. Every different recipe, price, and loaf size is a **Variance**. The sale (or lack of sale) is the **Feedback**.
+Every time a neighbor walks in and hands over a coin, they are casting a vote. Every purchase is an **Iteration**. Every different recipe is a **Variance**. The sale (or the empty shop) is the **Feedback**.
 
-Over months, the first baker's loaves go stale before anyone finishes them. He shrinks the recipe. The second finds too few wealthy buyers. He lowers his price. Each failed batch is a signal. Each sold-out morning is a reward. Their bread, their prices, their recipes evolve. Nobody handed them a manual. The town's appetite shaped their experiments.
+Over months, the first baker shrinks his recipe. The second lowers his price. Each failed batch is a signal. Their bread, their prices, their recipes evolve. Nobody handed them a manual. The town's appetite shaped their experiments.
 
 Multiply this by millions.
 
-The "Market Price" is not a decision. It is the result of millions of micro-experiments running in parallel. Adam Smith famously called this the "Invisible Hand." But what we are actually describing is the Pattern. The market "knows" the right price in the same way the forest "knows" the right length for a giraffe's neck. It iterated until it found the fit.
+The "Market Price" is not a decision. It is the result of millions of micro-experiments running in parallel. Adam Smith called this the "Invisible Hand." But what we are actually describing is the Pattern. The market "knows" the right price in the same way the forest "knows" the right length for a giraffe's neck. It iterated until it found the fit.
 
 ### The Speed of Adaptation
 
@@ -80,7 +70,7 @@ Now consider a tech company running an A/B test on a digital ad. They show versi
 
 This is **Clarity** — the signal-to-noise ratio of your feedback. It's why the tech sector iterates faster than almost any other industry. It's not just culture or talent — it's the purity of their feedback loop. When you can isolate the signal from the noise, every iteration teaches you something. When you can't, you're just guessing.
 
-Latency and clarity explain why some parts of a corporation evolve at lightning speed while others feel frozen in amber. The stock price adapts because the signal is instant and clean. The culture barely moves because the signal is delayed and muddled. Both are running the Pattern. One just has a tighter loop.
+Latency and clarity explain why some parts of a corporation evolve at lightning speed while others feel frozen in amber. The stock price adapts because the signal is instant and clean. The culture barely moves because the signal is delayed and muddled. Both are running the Pattern. One has a tighter loop.
 
 ### The Profit Filter
 

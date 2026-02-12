@@ -1,22 +1,16 @@
 ## Chapter 6: The Viral Engine
 
-In *The Selfish Gene*, Richard Dawkins proposed that a giraffe is just a survival vehicle built by genetic code.
+Have you ever had a song stuck in your head?
 
-But he didn't stop at biology. He asked a radical question: Does this mechanism require DNA? Or is DNA just one type of hardware that runs the software of evolution?
+A tune you hate, but you can’t stop humming?
 
-He proposed that the mechanism of selection that occurs in genetics also applies to ideas. If a gene is using the bodies of its hosts as vehicles, an idea uses the minds. An idea, a concept developed over generations, shared on social media, is the new unit of replication: the **Meme**.
+At that moment, you aren't the master of your own mind. You’re a vehicle. You’re being used.
 
-In the biological world, the Gene builds a Body to survive. The body is the vehicle. It walks, eats, and protects the cargo (the DNA) until it can replicate.
+Richard Dawkins had this radical idea: what if ideas aren't things we "have," but things that "have" us? What if the software of evolution doesn't need DNA to run?
 
-In the world of ideas, the Meme uses the **Mind** as its vehicle.
-
-If I tell you a story, and you remember it, that story has successfully boarded the vehicle. It is now living in your neural pathways. As you tell this story to other people, the idea lives, it spreads. A person can be a vehicle; a book, a TikTok post, all of them are vehicles sharing an idea.
-
-This idea, this concept that crosses ages and societies, that is the meme.
+He proposed that the mechanism of selection also applies to ideas. If a gene is using bodies as its vehicles, an idea uses minds. He called this new unit of replication the **Meme**.
 
 ### The Wave and the Water
-
-This can feel abstract. How can an "idea" be real in the same way a gene is?
 
 Think of a wave in the ocean.
 Look at a wave moving toward the shore. It looks like an object. It has a shape. It has height. It has power.

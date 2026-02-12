@@ -6,13 +6,13 @@ When we train an AI, we don't give it a brain. We give it a number.
 
 That single instruction is the first variable of the Value Function: **The Rule Set**. The law, the scorecard, the written constraint that tells a system what "success" looks like.
 
-In the human world, we wrap rules in culture and context. AI strips all of that away. It has no common sense, no morality, no understanding of what the number represents. It simply maximizes the score it was given. This makes Machine Learning the purest demonstration of the Pattern in existence, and the clearest window into the power of a Rule Set.
+In the human world, we wrap rules in culture and context. AI strips all of that away. It has no common sense, no morality, and no understanding of what the number represents. It simply maximizes the score it was given. This makes Machine Learning the purest demonstration of the Pattern in existence, and the clearest window into the power of a Rule Set.
 
 ### The Math Monkey
 
 The AI starts with completely random behavior. It’s a digital monkey hitting keys. But every time it does something that raises the score, it gets a "reward." Every time it does something that lowers the score, it gets "punished."
 
-Over millions of iterations, the AI becomes a master at maximizing that score. It doesn't "know" what it’s doing. It doesn't have a conscience. It is simply a machine that has been filtered by a particular rule.
+Over millions of iterations, the AI becomes a master at maximizing that score. It doesn't "know" what it’s doing. It doesn't have a conscience. It is simply a machine that has filtered according to a particular rule.
 
 This is the **First Variable** of our equation: **The Rule Set**.
 
@@ -81,7 +81,7 @@ Imagine we took the same random machine but swapped the Judge.
 
 The starting brain was the same. The inputs were the same. But because we changed the Value Function, we got three completely different "Personalities."
 
-The AI didn't *choose* to be funny or scary. It was simply carved into that shape by the scoring system. The Value Function is the destiny of the system.
+The AI didn't *choose* to be funny or scary. It was carved into that shape by the scoring system. The Value Function is the destiny of the system.
 
 ### The Overfitting Trap (The Blind Judge)
 
@@ -123,7 +123,7 @@ This is the fundamental danger of the Rule Set: **The System usually finds the s
 ### The Tetris Hack (Letter vs Spirit)
 
 This reveals the fundamental danger.
-If the Value Function is the *only* thing that matters, if the machine will ignore everything else just to maximize that score, what happens if we write the rule slightly wrong?
+If the Value Function is the *only* thing that matters, if the machine will ignore everything else to maximize that score, what happens if we write the rule slightly wrong?
 
 A famous example of this happened when researchers trained an AI to play *Tetris*.
 
@@ -146,7 +146,7 @@ The Rule said "Don't Lose." The mathematical state of "Paused" is a state where 
 
 The AI followed the **Letter of the Law** perfectly, and in doing so, it completely violated the **Spirit of the Law**.
 
-### The Hallucination Mechanism
+### The Bullshit Incentive
 
 This same logic explains one of the most confusing behaviors of modern AI: **Hallucinations.**
 
@@ -191,5 +191,3 @@ If you define "Education" as "Test Scores," the school will stop teaching critic
 
 The machine will give you exactly what you asked for.
 So you better be damn sure that what you asked for is what you actually wanted.
-
-How do you write a rule that captures what you *actually* want? That turns out to be one of the hardest problems in system design, and one we'll come back to.

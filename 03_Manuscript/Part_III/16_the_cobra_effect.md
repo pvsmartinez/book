@@ -1,18 +1,12 @@
 ## Chapter 16: The Cobra Effect (The Successful Failure)
 
-Humans have something nature lacks: **intent**. We don't just survive the Value Function. We try to rewrite it.
-
-Of the three levers, the **Competitors** are the hardest to influence. You can try marketing and first-mover advantages, but you're fighting against others' adaptations.
-
-The **Track** (the environment) is powerful, but changing it is slow and expensive. You can redesign a city, but it takes decades.
-
-The **Rules**, however, are the quickest lever. Pass a law. Set a bounty. Create a metric. Rules have a more predictable cause-and-effect relationship, which is why they are the most common tool for steering behavior.
-
-But there's a trap. And it's a trap so common, so devastating, that it has its own name.
-
 The British colonial government in Delhi once faced a serious problem: the city was crawling with cobras.
 
-To solve this, they did what any "sensible" administration would do. They designed a Value Function. They created an incentive structure to recruit the entire population into their safety mission. 
+Humans have something nature lacks: **intent**. We don't just survive the Value Function. We try to rewrite it. Of the three levers, the **Rules** are the quickest to pull. Pass a law. Set a bounty. Create a metric. Rules have a more predictable cause-and-effect relationship, which is why they are the preferred tool for steering behavior.
+
+But there's a trap. A trap so common, so devastating, that it has its own name.
+
+The administrators in Delhi did what any "sensible" government would do. They designed a Value Function. They created an incentive structure to recruit the entire population into their safety mission. 
 
 The rule was simple: "Bring us a dead cobra, and we will pay you a bounty."
 
@@ -25,7 +19,7 @@ They sat back and waited for the "Invisible Hand" to do its magic. And for a whi
 
 But there was a bug in the source code.
 
-The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle), and they looked at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to simply breed cobras in their basements.
+The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle), and they looked at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to breed cobras in their basements.
 
 Suddenly, Delhi had a thriving new industry: **Cobra Farming.** 
 
@@ -49,11 +43,17 @@ We see this everywhere once we start looking.
 *   **In Corporations**, we tell managers to "Maximize Shareholder Value this Quarter." The managers fire the research team and sell the factory equipment. The stock price goes up (Success!), but the company has no future (Failure).
 *   **In Social Media**, we tell the algorithm to "Maximize Engagement." The algorithm finds that anger and division keep people on the site longer than peace and nuance. The engagement numbers are at an all-time high (Success!), but the social fabric is tearing (Failure).
 
+### The Broken Scale
+
 The problem is that the things we actually want (**Intelligence, Prosperity, Safety, Happiness**) are hard to evaluate. You cannot measure "Prosperity" with a ruler. You cannot weigh "Learning" on a scale.
 
 So we use shortcuts.
 
-The forces shaping the pattern are the rules, the track, and the competitors. Intent is not in the equation. It does not directly affect the pattern. The engine runs on what is *measured*, not on what was *meant*. This means that if the rules are not fully aligned with the intended outcome, there will be a drift between what was expected and what actually happens. (But as we'll see in Part V, while intent can't override the mechanism, it *can* redesign it.)
+Remember the three forces shaping the pattern: the rules, the track, and the competitors. Notice what is *not* on that list? Intent.
+
+Intent does not directly affect the pattern. The engine runs on what is *measured*, not on what was *meant*. This means that if the rules are not fully aligned with the intended outcome, there will be a drift between what was expected and what actually happens.
+
+(But as we'll see in Part V, while intent can't override the mechanism, it *can* redesign it.)
 
 That is the danger of the **Proxy**.
 
@@ -76,11 +76,11 @@ The second school, "**The Exam Factory**," has a much narrower focus. They don't
 
 Now, ask yourself: which school would you choose for your child?
 
-You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is one of the most important factors in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point?
+You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is a critical factor in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point?
 
 Most parents wouldn't. They chose the "Exam Factory."
 
-This is the **Exam Trap**. Nobody designed it on purpose. It is the result of millions of individual, rational choices made by parents who just want the best for their children.
+This is the **Exam Trap**. Nobody designed it on purpose. It is the result of millions of individual, rational choices made by parents who want the best for their children.
 
 ### The Metric is the Message
 
@@ -109,4 +109,4 @@ The moment we decide that a number (the proxy) is the point of the game, the com
 
 The Proxy is a shortcut. And in a world of fast iteration, the shortcut becomes the destination.
 
-Every metric is a mirror. It reflects the system's behavior, not the designer's intent. And the faster the system iterates, the faster the mirror cracks.
+Every metric is a mirror. It reflects the system's behavior rather than the designer's intent. And the faster the system iterates, the faster the mirror cracks.

@@ -1,18 +1,16 @@
 ## Chapter 14: The Payoff Matrix
 
-Rules, Track, Competitors. In the real world, they don't exist in isolation. They collide. And the collision creates the Value Function.
+Two coffee shops open on the same block. One drops its latte to three dollars. If the other holds at five, customers flood the cheap shop, and it wins. But if both drop to three, neither gains customers, and both lose margin. The "right move" depends entirely on what the other shop does.
 
-**Game Theory** gives us a way to write this collision down. Despite the name, it isn't about poker or chess. It's the mathematics of choices made under pressure, when your score depends on what everyone else does.
+This is the problem with everything we've discussed so far. Rules, Track, Competitors: in the real world, they don't exist in isolation. They collide. And the collision creates the Value Function.
 
-A restaurant that lowers prices wins only if competitors don't lower theirs. A company that invests in R&D succeeds only if others don't innovate faster. Your payoff is never static. It depends on the field.
+**Game Theory** gives us a way to formalize this collision. Despite the name, it isn't about poker or chess. It's the mathematics of choices made under pressure, when your score depends on what everyone else does. The tool it uses to capture this is the **Payoff Matrix**: a table of what you win or lose for every possible choice, given every possible choice by everyone else.
 
-The tool Game Theory uses to capture this is the **Payoff Matrix**: a table of what you win or lose for every possible choice, given every possible choice by everyone else.
+### The Ledger of Hawks and Doves
 
-### The Hawk and the Dove: Finding Balance
+Remember the **Hawks** and **Doves**? Let's open the actual ledger, because the real insight isn't in the story. It's in the numbers.
 
-We met the **Hawks** and **Doves** in the previous chapter. Let's go back to them and open the actual ledger, because the real insight isn't in the story. It's in the numbers.
-
-The **Environment** writes the numbers: food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time but nobody bleeds: **+15 each**.
+The **Environment** writes the numbers: food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time, but nobody bleeds: **+15 each**.
 
 | You ↓ / Opponent → | **vs. Hawk** | **vs. Dove** |
 | :--- | :--- | :--- |
@@ -91,9 +89,9 @@ If everyone talks for 5 minutes, and you only say "I'm good," you look like you 
 
 The team collectively prefers brief meetings. But every individual has an incentive to talk a little longer to signal productivity. The system trends toward the "Verbose" equilibrium: bloated meetings that everyone hates, but no one can stop.
 
-### Stability vs. Collapse
+### The Game That Eats Itself
 
-This distinction is the key to understanding Part III.
+This distinction matters for everything that follows.
 
 Some configurations, like the **Hawk and Dove**, are self-correcting. They find a **Local Maximum**, a stable mix where the system can persist indefinitely.
 
