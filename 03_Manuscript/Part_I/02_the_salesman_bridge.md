@@ -6,17 +6,17 @@ Chances are, you’re picturing someone charming. Someone with a firm handshake,
 
 Why?
 
-Is there a secret "University of Sales" that teaches everyone to be exactly the same?
+Is there a secret "University of Sales" that teaches everyone to be the same?
 
-Actually... yes. There are thousands of them. There are seminars, books, courses, and mentors all teaching the exact same techniques: "Mirror the client's body language," "Ask open-ended questions," "Always be closing."
+Actually... yes. There are thousands of them. There are seminars, books, courses, and mentors all teaching the same techniques: "Mirror the client's body language," "Ask open-ended questions," "Always be closing."
 
-So, is that the answer? Salesmen are charming because they were *taught* to be charming?
+So, is that the answer? Salespeople are charming because they were *taught* to be charming?
 
 It seems obvious. But ask yourself: **Who wrote the books?**
 
 Who decided that "Charisma" was the curriculum? Why don't the books teach us to be silent, or to look at the floor, or to argue with the customer?
 
-The books weren't written by a central committee. They were written by the survivors.
+A central committee didn't write the books. The survivors wrote them.
 
 ### The Library of Survivors
 
@@ -54,7 +54,7 @@ If customers loved rude, aggressive arguments, then the "Best Sales Course in th
 
 We think we are learning skills, but really, we are downloading the patch notes of previous generations. We are standing on a mountain of failed experiments, using only the tools that survived.
 
-It's important to note that each salesman just wanted to survive and profit. And as they learned, succeeded, and failed, this knowledge was passed down through generations. It was not something intentional, but this behavior was selected. This behavior was optimized.
+Each salesperson just wanted to survive and profit. And as they learned, succeeded, and failed, this knowledge was passed down through generations. Nobody planned it, but this behavior was selected. This behavior was optimized.
 
 This explains why the world feels the way it does.
 It explains why every modern movie trailer looks the same.
@@ -66,6 +66,12 @@ Every process, with agency or without, with consciousness or without, just by se
 
 **This is the Pattern.**
 
-First, I will try to show you that this process occurs everywhere. Then we will look into the effects of selection and accumulation themselves, and by the end of the book, we will discuss how to use this knowledge to change how things evolve.
+We will build this notion layer by layer. First, by identifying when this pattern happens and why it’s so strong. It will feel a bit like a simplified version of some systems, but it will be needed for our understanding.
+
+Then we will look at what shapes its own direction and how it evolves over time. This will add a lot of nuance and will feel a bit nihilistic. The pattern is really strong, so things will feel unavoidable. But don’t worry.
+
+The end of the book will add the final layer: system design and how a gardener can tweak the system to change its trajectory. It might be unavoidable that a tree will grow, but how the tree grows can be directed. It might be unavoidable that the pattern optimizes, but it's possible to change its direction.
+
+Once again, these lenses will come step by step, layer by layer.
 
 Shall we begin?

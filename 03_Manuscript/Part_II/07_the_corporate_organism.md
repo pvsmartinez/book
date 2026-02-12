@@ -30,7 +30,7 @@ There is no "Bread Committee" deciding who stays in business. No central planner
 
 Every time a neighbor walks into a shop and hands over a coin, they are casting a vote. Every purchase is an **Iteration**. Every different recipe, price, and loaf size is a **Variance**. The sale (or lack of sale) is the **Feedback**.
 
-Over months, the first baker's loaves go stale before anyone finishes them. He shrinks the recipe. The second finds too few wealthy buyers. He lowers his price. Each failed batch is a signal. Each sold-out morning is a reward. Their bread, their prices, their recipes evolve, not because they read a manual, but because the town's appetite shaped their experiments.
+Over months, the first baker's loaves go stale before anyone finishes them. He shrinks the recipe. The second finds too few wealthy buyers. He lowers his price. Each failed batch is a signal. Each sold-out morning is a reward. Their bread, their prices, their recipes evolve. Nobody handed them a manual. The town's appetite shaped their experiments.
 
 Multiply this by millions.
 
@@ -93,6 +93,8 @@ Profit isn't a moral goal. It is an energetic constraint.
 A company can have the noblest mission in the world, but if it cannot capture enough energy (Revenue) to sustain its complexity (Cost), the environment will select it out.
 
 This is why companies naturally evolve towards efficiency. It isn't because capitalists are "greedy" (though they might be); it is because the Pattern systematically deletes any organism that wastes energy.
+
+This same logic explains why the Pattern can optimize a company into something no one intended. When the feedback loop rewards quarterly profit, the system learns to cut research, squeeze suppliers, and defer maintenance — because the filter rewards it. We'll see how this optimization can go catastrophically wrong in Part III.
 
 Of course, companies are not mindless organisms. CEOs make choices. Boards set strategies. People inside these vehicles have agency, and sometimes they use it in ways that are clearly intentional and clearly harmful. But the Pattern explains *why* those choices cluster in a direction. The profit filter doesn't excuse the behavior. It explains why the behavior keeps appearing, even after you replace the people.
 

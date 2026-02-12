@@ -24,7 +24,7 @@ But as you look closer, you start to notice something unsettling. The specific "
 
 It’s as if there is a ghost in the machine, something pushing everything toward the extreme, regardless of who is in charge.
 
-This is where my obsession with systems comes in. When you spend your life balancing games and products, you realize that most "bad behavior" isn't caused by bad people. It’s caused by incentives.
+This is where my obsession with systems comes in. When you spend your life balancing games and products, you realize that most "bad behavior" isn't caused by bad people. Incentives cause it.
 
 Look at YouTube. We say the algorithm is "radicalizing" us. But the code has no political agenda. It doesn't have a soul. It has only one goal: **Watch Time**. It is a machine that has been told to learn, by trial and error, what keeps you staring at the screen for one more second. If it learns that a calm, nuanced discussion makes you tune out, but a screaming fight makes you watch, it will show you the fight. Not because it wants to hurt you, but because it is a perfect student of your own psychology.
 

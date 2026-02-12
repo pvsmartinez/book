@@ -53,7 +53,7 @@ The problem is that the things we actually want (**Intelligence, Prosperity, Saf
 
 So we use shortcuts.
 
-The forces shaping the pattern are the rules, the track, and the competitors. Intent is not in the equation. It does not affect the pattern directly. This means that if the rules are not fully aligned with the intended outcome, there will be a drift between what was expected and what actually happens.
+The forces shaping the pattern are the rules, the track, and the competitors. Intent is not in the equation. It does not directly affect the pattern. The engine runs on what is *measured*, not on what was *meant*. This means that if the rules are not fully aligned with the intended outcome, there will be a drift between what was expected and what actually happens. (But as we'll see in Part V, while intent can't override the mechanism, it *can* redesign it.)
 
 That is the danger of the **Proxy**.
 
@@ -68,9 +68,9 @@ On paper, this makes sense. If you improve the number, you should improve the re
 
 This brings us to the ultimate proxy trap, one that shapes the mind of every child: **Education.**
 
-Imagine you are a parent. You have two schools in your neighborhood.
+Say you're a parent. You have two schools in your neighborhood.
 
-The first school, "**The Academy of Life**," believes in a holistic education. They teach students how to manage their finances, how to resolve conflicts, how to cook, and how to think critically about the world. They are building interesting, well-rounded citizens.
+The first school, "**The Academy of Life**," believes in a holistic education. They teach students to manage their finances, resolve conflicts, cook, and think critically about the world. They are building interesting, well-rounded citizens.
 
 The second school, "**The Exam Factory**," has a much narrower focus. They don't care about cooking or conflict resolution. They spend every hour of every day drilling students on the specific types of math and grammar problems that appear on the National University Entrance Exam.
 
@@ -78,9 +78,9 @@ Now, ask yourself: which school would you choose for your child?
 
 You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is one of the most important factors in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point?
 
-Most parents wouldn't. They choose the "Exam Factory."
+Most parents wouldn't. They chose the "Exam Factory."
 
-This is the **Exam Trap**. It isn't a conspiracy by evil educators or a failure of the government. It is the result of millions of individual, rational choices made by parents who just want the best for their children.
+This is the **Exam Trap**. Nobody designed it on purpose. It is the result of millions of individual, rational choices made by parents who just want the best for their children.
 
 ### The Metric is the Message
 
@@ -92,7 +92,7 @@ If the test measures the ability to memorize dates but not the ability to unders
 
 No one sat down and said, "Let's make sure our children don't know how to manage a bank account." It was an **emergent behavior**. Financial literacy wasn't on the test, so it wasn't "selected" for.
 
-Over time, the schools themselves are selected. The ones that focus on the exam thrive and expand; the ones that focus on "Life Skills" see their enrollment drop and are forced to adapt or close. The pattern, through time, selects for *survival*, not for *education*.
+Over time, the schools themselves are selected. Those that focus on the exam thrive and expand; those that focus on "Life Skills” see their enrollment decline and are forced to adapt or close. The pattern, through time, selects for *survival*, not for *education*.
 
 We end up with a system that creates graduates who are "High Proxy" (Great at tests) but "Low Reality" (Unprepared for life).
 
@@ -109,4 +109,4 @@ The moment we decide that a number (the proxy) is the point of the game, the com
 
 The Proxy is a shortcut. And in a world of fast iteration, the shortcut becomes the destination.
 
-Every metric is a mirror. It reflects the behavior of the system, not the intent of the designer. And the faster the system iterates, the faster the mirror cracks.
+Every metric is a mirror. It reflects the system's behavior, not the designer's intent. And the faster the system iterates, the faster the mirror cracks.

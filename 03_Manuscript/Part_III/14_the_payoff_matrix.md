@@ -10,7 +10,7 @@ The tool Game Theory uses to capture this is the **Payoff Matrix**: a table of w
 
 ### The Hawk and the Dove: Finding Balance
 
-We met the **Hawks** and **Doves** in the previous chapter. Now let's put numbers to their story and see what the matrix reveals.
+We met the **Hawks** and **Doves** in the previous chapter. Let's go back to them and open the actual ledger, because the real insight isn't in the story. It's in the numbers.
 
 The **Environment** writes the numbers: food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time but nobody bleeds: **+15 each**.
 

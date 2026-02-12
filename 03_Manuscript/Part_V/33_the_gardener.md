@@ -26,7 +26,7 @@ This is the ultimate lesson of the Pattern. The engine of **Iteration** and **Va
 
 The work of a System Designer is really the work of maintenance. It comes down to three endless tasks:
 
-1.  **Weeding (Managing the Symptom):** Weeds are inevitable. In any system, there will be "bad" iterations—behaviors that are harmful, parasitic, or cruel. The Gardener doesn't get angry at the weeds or take them personally. They just pull them out. They know that pulling a weed today doesn't mean there won't be another one tomorrow. It is a daily practice.
+1.  **Weeding (Managing the Symptom):** Weeds are inevitable. In any system, there will be "bad" iterations, behaviors that are harmful, parasitic, or cruel. The Gardener doesn't get angry at the weeds or take them personally. They just pull them out. They know that pulling a weed today doesn't mean there won't be another one tomorrow. It is a daily practice.
 2.  **Fertilizing (Nurturing the Incentive):** This is about providing resources for the things you *want* to see more of. If you want creativity in your team, do you give them time to think? If you want love in your marriage, do you feed the connection? You can't force the fruit, but you can feed the roots.
 3.  **Pruning (Setting the Boundary):** Sometimes, a plant grows too wild. It takes over the whole garden, blocking the sun for everyone else. The Gardener has to cut it back. This is the **Constraint**. It’s the regulation that stops a monopoly, or the "Speed Bump" that protects a neighborhood. Pruning looks destructive, but it is actually protective. It shapes the growth to ensure the health of the whole.
 
@@ -48,9 +48,9 @@ A Mechanic fixes the car, wipes their hands, and walks away. The job is finished
 
 This might sound exhausting, but it is actually liberating. It means you don't have to "save the world" once and for all. You don't have to find the "perfect" solution that fixes everything forever. 
 
-You just have to tend your patch today. 
+You just have to keep showing up.
 
-You just have to pull a few weeds, water a few roots, and watch what grows. You are not the master of the universe; you are just a participant in the sequence. And your job is simply to leave the soil a little richer than you found it.
+You have to keep reading the soil, adapting to the season, and planting the right seeds for the conditions you are in. You are not the master of the universe; you are a participant in the sequence, but a participant who now understands the rules well enough to shape what grows.
 
 ***
 

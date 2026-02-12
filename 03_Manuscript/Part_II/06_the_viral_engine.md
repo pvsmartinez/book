@@ -74,7 +74,7 @@ But the meme didn't die. It went dormant. A spore waiting for better soil.
 
 Twenty years later, Louis Pasteur and Joseph Lister provided the *why*: germ theory. Suddenly, "wash your hands" had a mechanism. It wasn't just a ritual; it was an algorithm for killing invisible enemies. The meme mutated: it attached itself to the prestige of science. Now it spread not through one stubborn doctor, but through textbooks, medical schools, and eventually, mothers teaching children.
 
-Today, handwashing is estimated to save over a million lives per year. Not because it was catchy, but because it made its hosts survive.
+Today, handwashing is estimated to save over a million lives per year. It survived because it made its hosts survive.
 
 Take the culture of **Investing**. In many countries, like Brazil, the concept of individual investing was rare for a long time. It was a dormant meme. But as economic stability returned, the meme found a fertile environment. People who adopted the "investing" behavior got richer. Their success became a signal to others. "Look at him, he is doing well. I will copy his behavior."
 The meme spread through **Utility**. It paid rent to the host.

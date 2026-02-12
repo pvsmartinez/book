@@ -184,7 +184,7 @@ They don't guess because they are evil; they guess because the system has made "
 The Rule Set is the immense power of **Definition**.
 In the old story of King Midas, he asked for a simple Rule: "Turn everything I touch into gold." The system (The Gods) executed the rule with perfect precision. It maximized the metric. But Midas failed to specify the *constraints*. He didn't exclude his food. He didn't exclude his daughter.
 
-Just like the stories of the genie lamp, the definition of the rules has immense power into how the pattern will adapt. AI is just one example of this happening.
+Just like the stories of the genie lamp, the definition of the rules has immense power over how the pattern will adapt. AI is just one example of this happening.
 
 If you define "Success" as "High Stock Price," the company will fire its R&D department to boost short-term profits.
 If you define "Education" as "Test Scores," the school will stop teaching critical thinking.

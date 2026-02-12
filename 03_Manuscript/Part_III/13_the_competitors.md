@@ -80,7 +80,7 @@ However, once you have IAP, you have a new variable: **Revenue Per User**. And t
 
 If your free game starts making \$1 per player, you suddenly have a weapon. You can afford to spend money on **Marketing**. You start bidding for ads on Facebook or Google to find new users. 
 
-Now look at the competition. If my game makes \$5 per player and yours only makes \$1, I can afford to pay \$2 to acquire a new user. You can't. If you spend \$1.01, you lose money. If I spend \$2, I still have \$3 in profit. I will outbid you for every eyeball on the internet. I will take all the users, and your game will end up in the graveyard of the app store. 
+Now look at the competition. If my game makes \$5 per player and yours only makes \$1, I can afford to pay \$2 to acquire a new user. You can't. If you spend \$1.01, you lose money. If I spend \$2, I still have \$3 in profit. I will outbid you for every eyeball on the internet. I will take all the users, and your game will end up in the app store graveyard. 
 
 As globalization hit and the market became saturated with millions of developers, the bidding war reached a fever pitch. Marketing, not art or production, became the most expensive part of making a game. To stay visible, you *had* to earn more from each user than you spent to acquire them.
 
@@ -97,9 +97,9 @@ Today, the mobile market is so saturated that it's almost impossible for a small
 
 The competitors define "The Meta." They find the loopholes. They push the edges.
 
-On platforms like **Steam**, the Track is different. The audience accepts higher upfront prices and rejects predatory mobile tactics. Because the "Track" and the "Rules" (user reviews and refunds) are distinct, competitors have reached different equilibria. Less predatory. Not because developers are better people, but because the environment doesn't reward that behavior as efficiently.
+On platforms like **Steam**, the Track is different. The audience accepts higher upfront prices and rejects predatory mobile tactics. Because the "Track" and the "Rules" (user reviews and refunds) are distinct, competitors have reached different equilibria. Less predatory. The developers aren't morally superior; the environment just doesn't reward that behavior as efficiently.
 
-But in any system where the competition is fierce and the feedback is fast (digital marketing, high-frequency trading, professional sports), the Competitors will eventually optimize out all the slack.
+But in any system where competition is fierce, and feedback is fast (digital marketing, high-frequency trading, professional sports), competitors will eventually optimize out all slack.
 
 They will force the system toward the most extreme version of its Value Function.
 

@@ -12,7 +12,7 @@ Our brains are wired for linear thinking (1, 2, 3, 4). The Pattern works in expo
 
 We look at a problem, like a bad habit, a small debt, or a new technology, and say, "It's not that bad right now."
 
-**The Rule:** Stop looking at the *current state*. Look at the *rate of change*.
+The trick is to stop looking at the *current state* and start looking at the *rate of change*.
 
 ### Case Study: The Lily Pad
 Consider the Lily Pad riddle. A pond has a single lily pad. Every day, the number of lily pads doubles. If the pond will be completely full on Day 30, on which day is the pond only half full?
@@ -43,7 +43,7 @@ We often stick with sub-optimal tools, habits, or systems because the cost of ch
 
 We are trapped by the **Switching Cost**.
 
-**The Rule:** The Switching Cost is a one-time fee. The Inefficiency Tax is a recurring fee that compounds forever.
+Here's the thing about switching costs: they are a one-time fee. The inefficiency tax is a recurring fee that compounds forever.
 
 ### Case Study: The Excel Trap
 Consider a business running on a messy spreadsheet. It crashes once a week. It takes you 2 hours to generate a report.

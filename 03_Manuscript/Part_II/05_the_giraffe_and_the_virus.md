@@ -20,9 +20,11 @@ The reality of the giraffe is much more brutal. It wasn't about "trying"; it was
 
 Consider a population of ancient, short-necked giraffes. Because of random genetic mutations, or **Variance**, some were born with necks that were just an inch longer than the others. Then came the **Environment**. The trees were tall. The food was high up.
 
-The giraffes with the shortest necks couldn't reach the food. They didn't "learn" to be taller; they simply starved. They felt the hunger, they grew weak, and they died before they could have babies. The ones with the slightly longer necks ate, survived, and passed those "long neck" genes to the next generation.
+The giraffes with the shortest necks couldn't reach the food. They didn't "learn" to be taller; they starved. They felt the hunger, they grew weak, and they died before they could have babies. The ones with the slightly longer necks ate, survived, and passed those "long neck" genes to the next generation.
 
 Repeat this loop, this **Iteration**, for a million years. The "design" of the giraffe didn't come from the giraffe’s desire to reach the leaves. It came from the systematic deletion of everything that *wasn't* that giraffe. The tree didn't "teach" the giraffe to be tall. The tree "selected" the tall giraffes by killing the short ones.
+
+For every giraffe that survived, a million didn't. The Pattern is mostly a graveyard. We only see the winners because the losers left no story to tell.
 
 Biologist Richard Dawkins famously reframed this in *The Selfish Gene*. He pointed out that the giraffe is just a survival machine, a vehicle built by the genes to ensure their own propagation. The genes provide the variance (the slightly longer neck blueprint), and the environment does the selection. The code that works gets copied; the code that fails is deleted.
 
@@ -32,15 +34,15 @@ The virus is just a simple shell with genetic code in it. It follows the same ru
 
 During the COVID-19 pandemic, we had the best scientists in the world, global lockdowns, and eventually, cutting-edge vaccines. We were using our collective human intelligence to fight a microscopic strand of RNA.
 
-And yet, the virus kept winning.
+And yet, the virus continued to prevail.
 
 It wasn't because the virus was "smarter" than us. It was because the virus was faster. While we were debating policy, running clinical trials, and shipping masks (processes that take weeks or months), the virus was replicating billions of times per hour. It was evolution on fast-forward.
 
 What is it optimizing for? **Spreading.**
 
-Not killing. Spreading. And the reason is pure selection mechanics.
+Not killing. Spreading. The reason is purely selection mechanics.
 
-Imagine two strains of the same virus. Strain A is brutal. It kills the host in 24 hours. But the host collapses in bed so fast they barely infect anyone. Strain B is mild. It gives you a cough and a runny nose, but you feel well enough to go to work, ride the bus, hug your kids. By the time you realize you're sick, you've passed it to a dozen people.
+Imagine two strains of the same virus. Strain A is brutal. It kills the host in 24 hours. But the host collapses in bed so fast that they barely infect anyone. Strain B is mild. It gives you a cough and a runny nose, but you feel well enough to go to work, ride the bus, and hug your kids. By the time you realize you're sick, you've passed it to a dozen people.
 
 Strain A burns out. Strain B spreads. Not because Strain B is "smarter" or because anyone chose this outcome. But because the environment (billions of potential hosts) filters for the strain that reaches the most of them. The strains that keep you alive, mobile, and coughing get selected in. The scoreboard rewards contagion, not lethality.
 

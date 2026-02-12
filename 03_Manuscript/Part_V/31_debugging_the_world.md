@@ -2,7 +2,7 @@
 
 ---
 
-In the world of coding, "fixing" a bug is usually the easy part. The hard part—the part that keeps engineers awake at 3:00 AM—is **finding** it.
+In the world of coding, "fixing" a bug is usually the easy part. The hard part (the part that keeps engineers awake at 3:00 AM) is **finding** it.
 
 A bug in a complex system rarely shows up right next to the error. It is subtle. It disguises itself. It shows up as a crash in the user's interface, but the actual logic error is hidden in a database ten layers deep, written by someone who left the company three years ago.
 
@@ -37,13 +37,13 @@ Consider the classic story of the **Soviet Nail Factory**.
 
 The central planners in the Soviet Union wanted to increase industrial output. They set a quota for a local nail factory: "You must produce a certain *number* of nails per month."
 
-The factory manager, being a rational player, looked at his resources. To hit that massive number, he produced millions of tiny, thin nails—so small they were basically needles. They were useless for construction, but the "data" showed a record-breaking success.
+The factory manager, being a rational player, looked at his resources. To hit that massive number, he produced millions of tiny, thin nails. So small they were basically needles. They were useless for construction, but the "data" showed a record-breaking success.
 
 The planners realized the error and changed the rule: "You must produce a certain *weight* of nails per month."
 
-The manager adapted. He stopped making tiny needles and started making a few dozen massive, heavy nails—each as big as a railroad spike. Again, they were useless for building a house, but the factory hit its weight quota perfectly.
+The manager adapted. He stopped making tiny needles and started making a few dozen massive, heavy nails, each as big as a railroad spike. Again, they were useless for building a house, but the factory hit its weight quota perfectly.
 
-The manager wasn't "evil" or "stupid." He was a high-level player optimizing for the **Value Function** he was given. If the system rewards weight, you get heavy things. If it rewards counts, you get many things. 
+He was a rational player optimizing for the **Value Function** he was given. If the system rewards weight, you get heavy things. If it rewards counts, you get many things. 
 
 If a "buggy" behavior exists and persists in your life, it isn't a glitch. It's a feature. Somewhere in the code, that behavior is being rewarded.
 

@@ -18,7 +18,7 @@ She rejected him.
 
 "Consider thou what the invention could do to my poor subjects," she reportedly said. "It would assuredly bring them to ruin by depriving them of employment."
 
-She wasn't being evil; she was stabilizing the system. A machine that puts thousands of hand-knitters out of work creates social unrest. For a monarch, unrest is a threat. Her goal was to keep the kingdom stable, not to optimize for sock production. So she pressed the "No" button. She refused to grant him a patent. Lee died penniless in France.
+Her logic was simple: a machine that puts thousands of hand-knitters out of work creates social unrest. For a monarch, unrest is a threat. Her goal was to keep the kingdom stable, not to optimize for sock production. So she pressed the "No" button. She refused to grant him a patent. Lee died penniless in France.
 
 In the book *Why Nations Fail*, Daron Acemoglu and James Robinson analyze why some nations prosper while others stagnate. We can view their conclusion through the lens of System Architecture, and Elizabeth's rejection is a perfect illustration.
 

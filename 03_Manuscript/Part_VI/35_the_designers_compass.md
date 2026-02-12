@@ -1,6 +1,6 @@
 ## Chapter 35: The Designer's Compass
 
-Once you start seeing the patterns—the Engine, the Judge, the Compounder—it is easy to fall into a kind of systemic nihilism. 
+Once you start seeing the patterns (the Engine, the Judge, the Compounder) it is easy to fall into a kind of systemic nihilism. 
 
 If everything is just a loop optimizing itself, does choice even exist? If the metric always wins, why bother having values? If the algorithm already knows what I’m going to buy, watch, and vote for, am I even the "Player" anymore?
 
@@ -18,7 +18,7 @@ The Designer ignores the slogans and looks at the scoreboard.
 
 **If the output of a system consistently contradicts its stated intent, the system is not broken. It is working perfectly.**
 
-Recall the **Exam Trap**. We claimed we wanted educated children, but we built a Judge—the standardized test—that rewarded memorization. The system wasn't "failing" to teach; it was *succeeding* at filtering for compliance. 
+Recall the **Exam Trap**. We claimed we wanted educated children, but we built a Judge, the standardized test, that rewarded memorization. The system wasn't "failing" to teach; it was *succeeding* at filtering for compliance. 
 
 Don't ask "Why is this broken?" Ask "What is this optimizing for?" The answer is always right in front of you, in the "Winners' Circle." Look at who gets promoted, who gets the bonus, and who gets the attention. That is the true Value Function. Everything else is just noise.
 
@@ -32,7 +32,7 @@ But systems don't respond to moral arguments. They respond to feedback.
 
 The algorithm that updates every second (TikTok) will always out-evolve the institution that updates every four years (Elections). The virus that mutates daily will always defeat the vaccine that takes a year to develop. If you are fighting a system that iterates faster than you do, you have already lost.
 
-To change the system, you must either tighten your own feedback loop—experimenting and reacting faster—or you must insert friction into theirs. Speed is not just velocity; it is intelligence. The faster system learns more.
+To change the system, you must either tighten your own feedback loop (experimenting and reacting faster) or you must insert friction into theirs. Speed is not just velocity; it is intelligence. The faster system learns more.
 
 ### South: Friction is a Feature
 
@@ -42,9 +42,11 @@ But often, friction is the only thing protecting the system from a collapse.
 
 **Efficiency looks like progress until it looks like a disaster.**
 
-Recall **Chesterton’s Fence**. You see a fence blocking a road and your instinct is to tear it down to make the path "more efficient." But unless you know *why* the fence was put there—perhaps to stop a bull from charging the highway—you must not touch it.
+Recall **Chesterton’s Fence**. You see a fence blocking a road and your instinct is to tear it down to make the path "more efficient." But unless you know *why* the fence was put there (perhaps to stop a bull from charging the highway) you must not touch it.
 
-We removed the friction of editing from news to make it faster, and we got an ecosystem that optimizes for rage. We removed the friction of boredom, and we destroyed our attention spans. Sometimes, a slow process is the only way to ensure a distinct value. Democracy is designed to be slow. Science is designed to be slow. Meaningful relationships are built on the friction of time. Before you optimize, ask what the inefficiency is protecting.
+We removed the friction of editing from news to make it faster, and we got an ecosystem that optimizes for rage. We removed the friction of boredom, and we destroyed our attention spans. Sometimes, a slow process is what keeps the whole thing from falling apart. Democracy is designed to be slow. Science is designed to be slow. Meaningful relationships are built on the friction of time. Before you optimize, ask what the inefficiency is protecting.
+
+Speed is power when the direction is right. Friction is safety when the direction is uncertain. The Designer's job is knowing which one they're facing.
 
 ### West: Variance is Power
 
@@ -54,7 +56,7 @@ But the mean is where unique value goes to die.
 
 **Survival requires fitting in. Success requires standing out.**
 
-The system is designed to prune variance. It wants you to be a predictable component—a reliable worker, a consistent consumer, a categorized voter. If you do exactly what the algorithm expects, you will be safe, but you will be replaceable. 
+The system is designed to prune variance. It wants you to be a predictable component: a reliable worker, a consistent consumer, a categorized voter. If you do exactly what the algorithm expects, you will be safe, but you will be replaceable. 
 
 The "Head Start" always comes from the anomaly. The Designer does not just plant rows of identical, efficient crops; they leave space for the wild seeds in the corner. Most will fail, but the one that survives will define the future.
 

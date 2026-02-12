@@ -30,11 +30,11 @@ Suddenly, *Breaking Bad* and *Game of Thrones* became possible. Writers could cr
 
 The writers didn't just "get smarter." The **Track** changed from a "Hop-on Hop-off Bus" to a "High-Speed Train." The nature of the art changed because the delivery physics changed.
 
-Writers tried all types of shows in both eras. This was the **Variance**. As each show was released, the audience (The Judge) filtered them based on the Medium.
-During the lineal TV era, serialized shows (like *Twin Peaks*) struggled because the medium punished them. In the streaming era, they flourished.
+Writers tried all types of shows in both eras. This was the **Variance**. As each show was released, the audience (The Judge) filtered it by Medium.
+During the linear TV era, serialized shows (like *Twin Peaks*) struggled because the medium punished them. In the streaming era, they flourished.
 The players didn't change. The Rules didn't change. The **Track** changed, and it selected for a completely different species of story.
 
-Today, this might seem obvious. But this knowledge was bought with the failure of thousands of shows that tried to fight the medium.
+Today, this might seem obvious. But this knowledge was bought at the expense of the failure of thousands of shows that tried to fight the medium.
 
 ### The News Cycle: A Change of Geometry
 
@@ -77,7 +77,7 @@ But "It's complicated" has a viral coefficient of zero.
 
 As we saw in Part II, news can work as memetics. They viralize, they "survive" through the strongest emotions, and the medium has shaped them.
 
-This is not the whole story, of course. Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes what kinds of players survive. Changing the players without changing the track tends to produce the same results.
+This is not the whole story, of course. Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes which players survive. Changing the players without changing the track tends to produce the same results.
 
 Sometimes the medium shifts because the technology changes. But sometimes the shift is quieter, hidden inside the software itself.
 
@@ -94,7 +94,7 @@ The system rewarded whatever got clicked. If you clicked, the creator got a poin
 Think about what survives in this environment. If you spend three months making a thoughtful documentary, you get one thumbnail. If you spend ten minutes filming your cat jumping into a box, you also get one thumbnail.
 Since the reward is equal, the winning strategy is **Volume**.
 The "Click Era" was dominated by the "Reply Girl," misleading thumbnails with red arrows, and 10-second clips of people getting hit in the crotch.
-It wasn't that the creators were stupid. It was that "smart" content physically could not survive. Intelligence requires time, and the medium didn't sell time. It sold clicks.
+"Smart" content physically could not survive. Intelligence requires time, and the medium didn't sell time. It sold clicks.
 
 **Phase 2: The Time (2012-2016)**
 Then, the engineers at Google realized a problem. They were selling ads, but nobody was watching them. You can't put a 30-second commercial on a 10-second cat video. To build a real business, they needed you to stay.
@@ -115,19 +115,19 @@ PewDiePie didn't become the biggest star in the world by accident. He was the pe
 
 The creators didn't wake up one day and decide to become gamers. The **Track** was selected for them.
 
-YouTube has changed its algorithm a few times already, and with it, each time the biggest channels changed.
+YouTube has changed its algorithm a few times already, and each time, the biggest channels have changed.
 
 In a sense, today's news looks more like YouTube's early days (nonsense videos, misleading clickbait) than like the newspapers where journalism was born.
 
 The Algorithm of social media is not evil. It is just counting clicks (or watch time). But because the **Track** requires immediate, high-speed engagement, the System selects for polarization. It selects for the content that infects the most hosts in the shortest time.
 
-And the force is enormous. These platforms have so many creators and views that they exhibit significant variance and a staggering rate of iteration. The volume of adaptation on a platform like YouTube or TikTok rivals the speed of a virus. Millions of creations per day, with brutal, rapid validation. Small tweaks to the value function reshape entire ecosystems of content overnight.
+And the force is enormous. These platforms have so many creators and views that they exhibit significant variance and a staggering rate of iteration. The rate of adaptation on platforms like YouTube or TikTok rivals that of a virus. Millions of creations per day, with brutal, rapid validation. Small tweaks to the value function reshape entire ecosystems of content overnight.
 
 We are seeing this right now with the rise of **Generative AI**.
 AI is the ultimate "Volume" player. If the medium rewards output quantity above all else (The Click Era), AI will flood the zone. We are seeing a new species of content (rapid, synthetic, sometimes messy) evolving in real-time to fit the shape of the Feed.
 
-Just as the "Let's Play" dominated the "Watch Time" era because it was efficient to produce, AI content is beginning to dominate because it creates infinite variance at near-zero cost. The medium of the "Feed" creates a vacuum for content, and AI is the gas that fills it.
+Just as "Let's Play" dominated the "Watch Time" era because it was efficient to produce, AI content is beginning to dominate because it creates infinite variance at near-zero cost. The medium of the "Feed" creates a vacuum for content, and AI is the gas that fills it.
 
-If you see a trend shaping up, whether it's polarization in news or "slop" in your feed, don't blame the players. Ask yourself how the **container** is shaping the liquid.
+If you see a trend shaping up, whether it's polarization in news or "slop" in your feed, ask yourself how the **container** is shaping the liquid.
 
 The Pattern doesn't care about what you want to be. It only cares about what the track allows you to be.

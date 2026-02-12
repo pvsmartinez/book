@@ -1,6 +1,6 @@
 ## Chapter 20: The Cheetah's Dilemma (The Cost of Specialization)
 
-If you want to understand why systems break when they seem to be working perfectly, you have to look at the Cheetah.
+The Cheetah is the clearest lesson in why systems break when they seem to be working perfectly.
 
 The Cheetah is a masterpiece of optimization. It is the fastest land animal on the planet, a living machine designed for a single task: the sprint. Its claws are semi-retractable to act like running spikes. Its spine is incredibly flexible, acting like a spring for every stride. Its tail is long and heavy, serving as a rudder for high-speed turns. 
 
@@ -8,7 +8,7 @@ In the game of the savanna, the Cheetah has "solved" the problem of the catch.
 
 But there is a hidden cost to being the best. 
 
-Because the Cheetah is so specialized for speed, it has had to trade away almost everything else. It is light and fragile. It has weak jaws and small teeth. It’s like a Formula 1 car—it's incredibly fast on a smooth track, but you wouldn't want to drive it through a rocky field.
+Because the Cheetah is so specialized for speed, it has had to trade away almost everything else. It is light and fragile. It has weak jaws and small teeth. It's like a Formula 1 car: incredibly fast on a smooth track, but you wouldn't want to drive it through a rocky field.
 
 Crucially, its engine runs too hot. 
 
@@ -30,7 +30,7 @@ We do this with almost every system we build.
 
 We optimize our supply chains for "Just-in-Time" efficiency, shaving every spare part and every buffer day off the logistics chain. It works perfectly... until a single ship gets stuck in the Suez Canal and the entire global economy has a stroke. We optimize our agriculture for a single type of high-yield corn. Efficient, cheap, feeds millions... until a single fungus evolves that loves that specific corn, and suddenly we're staring at a famine. We even do it to ourselves. We optimize our lives for "Maximum Productivity," scheduling every minute of the day. It works perfectly... until we get a cold or a flat tire, and the entire week collapses because we left zero slack in the system.
 
-We are all Cheetahs. We are all running as fast as we can toward a metric on a screen, ignoring the Hyenas waiting for us at the finish line. The Hyena might be your health. It might be a relationship you stopped maintaining. It might be the mental quiet you traded for one more hour of output.
+We are all Cheetahs. We are all running as fast as we can toward a metric on a screen, ignoring the Hyenas waiting for us at the finish line. The Hyena might be your health. It might be a relationship you stopped maintaining. It might be the mental quiet you traded for one more hour of scrolling through deadlines.
 
 ### The Traffic Paradox
 

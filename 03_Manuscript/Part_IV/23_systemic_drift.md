@@ -6,7 +6,7 @@ But what if the pivot point itself is moving?
 
 We tend to think of systems as static machines. We design the blueprints, we build the engine, and we turn it on. A car engine doesn't decide one day that it's bored with internal combustion and would rather be a dishwasher.
 
-But organic systems—markets, cultures, institutions—are different. They are **Living Systems**. They don't just process inputs; they adapt to them. And over time, they don't just change their strategies; they change their **Goals**.
+But organic systems (markets, cultures, institutions) are different. They are **Living Systems**. They don't just process inputs; they adapt to them. And over time, they don't just change their strategies; they change their **Goals**.
 
 This is **Systemic Drift**.
 
@@ -31,7 +31,7 @@ So, instead of a recipe, you get a 2,000-word essay about the author's childhood
 
 Why? Because the system rewards **Length** and **Keywords**. 
 
-The creators aren't evil; they are just playing the game to survive. If they posted just the recipe, the algorithm would penalize them for "thin content," and you would never find them. To survive, they *must* drift away from the user's need (simplicity) and toward the system's metric (time on page).
+The creators are playing the game to survive. If they posted just the recipe, the algorithm would penalize them for "thin content," and you would never find them. To survive, they *must* drift away from the user's need (simplicity) and toward the system's metric (time on page).
 
 The system is still "working." It is becoming increasingly efficient at producing content that ranks highly in search results. But it has **drifted**. The original intent (Utility) has been replaced by the proxy (Rank). The system has calcified around the wrong objective. 
 
@@ -61,7 +61,7 @@ Is the system broken? No. It is **highly optimized**. It is producing exactly wh
 
 ### The Venetian Trap (Optimizing for Protection)
 
-This pattern—where a successful system drifts away from what made it successful—is as old as civilization. The most haunting example is the story of Venice. 
+This pattern, where a successful system drifts away from what made it successful, is as old as civilization. The most haunting example is the story of Venice. 
 
 In the year 1000, Venice was the most innovative city on Earth. It was a "startup city-state." Because it was built on water, it had no land, which meant it couldn't be ruled by traditional knights or lords. Instead, it was ruled by merchants. 
 
@@ -73,7 +73,7 @@ It worked too well.
 
 The merchants became so wealthy and powerful that they eventually entered the "Compounder" phase. They looked at the next generation of young "Runners" and realized they were a threat to their own status. 
 
-In 1297, they triggered **La Serrata**—The Closing. 
+In 1297, they triggered **La Serrata** (The Closing). 
 
 They locked the "Golden Book," a list of who was allowed to participate in government. They banned the Commenda contract. They effectively changed the rules of the city to protect their own **Stock** (Wealth) by killing the **Flow** (Mobility). 
 

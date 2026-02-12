@@ -25,13 +25,13 @@ They repeat.
 
 The brain doesn't "know" how to walk. It discovers it by pruning away every movement that leads to a fall. Your muscle memory is a graveyard of millions of failed micro-movements, leaving only the ones that work.
 
-Everything we mastered, from walking to speaking to coding, was built on this mountain of errors. Most of it happens subconsciously. The baby doesn't "decide" to lean right; the brain just selects the outcome that didn't hurt. As adults, we try to take the wheel. We intentionally inject new variants (a different tennis grip, a new sales pitch) to see if they yield a better result. We feed the editor new material.
+Everything we mastered, from walking to speaking to coding, was built on this mountain of errors. Most of it happens subconsciously. The baby doesn't "decide" to lean right; the brain selects the outcome that didn't hurt. As adults, we try to take the wheel. We intentionally introduce new variants (a different tennis grip, a new sales pitch) to see if they yield better results. We feed the editor new material.
 
-But if you never provide the variance, if you just do the exact same thing every time, the editor has nothing to select from. The learning stops.
+But if you never provide the variance and do the same thing every time, the editor has nothing to select from. The learning stops.
 
 ### The 10,000-Hour Myth
 
-This explains why the "10,000 Hour Rule", the idea that you just need to put in the time to become world-class, is dangerously tailored advice.
+This explains why the "10,000 Hour Rule", the idea that you need to put in the time to become world-class, is dangerously tailored advice.
 
 It has become a pop-culture mantra: "Just put in the reps." But the Pattern tells us that repetition without feedback is just noise.
 
@@ -41,11 +41,11 @@ Because the environment isn't asking them to.
 
 A taxi driver isn't selected for cornering speed; they are selected for safety and reliability. Once they reach the threshold where they don't crash and they get paid, the problem is solved.
 
-Any further adaptation (like shaving seconds off a turn) doesn't result in a reward. In fact, it might result in a penalty (spilled coffee).
+Any further adaptation (such as shaving seconds off a turn) doesn't yield a reward. In fact, it might result in a penalty (spilled coffee).
 
 So, the brain stops editing. The driver isn't "stuck" or "mediocre"; they are perfectly optimized for the specific demands of their environment. Since the Selection pressure disappeared, the adaptation ceased.
 
-The recreational chess player might play for decades and never improve, because they aren't paying attention to win/loss. They are optimizing for fun, for time with friends, for a pleasant evening. And they succeed at *that*. The feedback is there; it's just filtering for something else entirely.
+A recreational chess player might play for decades and never improve because they aren't paying attention to their win-loss record. They are optimizing for fun, for time with friends, for a pleasant evening. And they succeed at *that*. The feedback is there; it's just filtering for something else entirely.
 
 We learn what we measure. If we track wins, we learn to win. If we track comfort, we learn to be comfortable. The Pattern doesn't care about our intentions. It adapts to whatever signal we are actually collecting.
 
@@ -59,9 +59,15 @@ Then she started recording herself.
 
 Every practice session, she hit record on her phone. At first, she hated listening back. It was painful to hear how stiff she sounded, how she retreated to the same safe licks over and over. But the recording was brutally honest. It showed her exactly where she hesitated, where she played it safe, where her timing dragged.
 
-The recording became her coach. An invisible judge who couldn't be charmed or fooled.
+The recording became her coach—an invisible judge who couldn't be charmed or fooled.
 
 She started noticing patterns. Every time she approached a key change, she would pause for a split second. A hesitation invisible in the moment but obvious on playback. Every time the chord progression got complex, she defaulted to the same three phrases she'd learned in music school.
+
+In the game studios where I’ve worked, I often saw this split in real-time. You’d have a group of artists drawing while listening to a podcast or an audiobook. They were "working," and they were certainly producing art. But their attention was divided. They were running a **Noisy Loop**. Because part of their brain was tracking a story, the feedback from their hand—the subtle realization that a line was slightly off or a shadow lacked depth—was muffled. They were essentially "shallow" in their iteration. 
+
+Compare that to the artist who works in silence, or with instrumental music that doesn't demand focus. They aren't just drawing; they are *monitoring* the drawing. Every stroke provides a pure signal. That 100% focus isn't a moral choice; it's a structural one. It’s about increasing the **Clarity** of the feedback so the Editor (the brain) can work faster. Real progress comes when you are 100% focused on the work, because you are paying attention to what you do. You are getting clear feedback.
+
+While gaming, I have a joke with my friends: for most of the session,ily playing and having fun, but I'm sitting lazily, I'm losing. But then, I straighten up, focus on the screen, and call "now it’s serious time". My results improve. Yes, I still lose a lot, but it's in these moments that I learn and improve in that game. That is why training or doing something automatically won't make you better at it. If you don't focus on the feedback, it won't help you improve. The pattern will break.
 
 Armed with this feedback, she began targeting her weaknesses. She would loop the same four bars, trying five different approaches, listening back, discarding four, keeping one. Then she'd loop again.
 
@@ -69,12 +75,11 @@ Within six months, something shifted. The hesitations disappeared. New phrases s
 
 The hours Sofia spent before the recording weren't wasted, but they weren't maximized either. The feedback loop was too loose. She couldn't hear her own mistakes in real-time because her brain was too busy playing. The recording tightened the loop. It turned fifteen years of casual practice into six months of rapid evolution.
 
-A musician who records themselves. A surgeon who gets instant critique from a mentor. A writer who reads their drafts aloud. A rock climber who watches replays of his body position. In this scenario, the student is strengthening the feedback he/she collects from actions and creating intention in the selection. They are not just *doing* something, they are *intentionally learning* something. The brain/muscles are forced to edit. The pattern gets stronger.
+A musician who records themselves. A surgeon who gets instant critique from a mentor. A writer who reads their drafts aloud. A rock climber who watches replays of his body position. In this scenario, the student is strengthening the feedback they collect from actions and creating intention in the selection. They are not just *doing* something, they are *intentionally learning* something. The brain/muscles are forced to edit. The pattern gets stronger.
 
 Since all of our actions elicit feedback, some instant gratification, and emotional reactions from our partners, peers, and ourselves, we are always learning. But mastery comes with strict feedback. Otherwise, often, you are just reinforcing your existing habits. You are calcifying.
 
 ### Designing the Environment
-
 
 Once you understand that learning is just a mechanical loop of Action and Feedback, you realize why some things are easy to learn, and others are impossible.
 
@@ -93,10 +98,10 @@ Total time: 4 seconds.
 Your brain gets a clear signal: "That distance was too short."
 It adjusts. You jump again.
 
-Crucially, the cost of failure is zero. You just respawn. Because it is safe to fail, you are willing to have high variance. You try crazy jumps. You experiment.
+Crucially, the cost of failure is zero. You respawn. Because it is safe to fail, you are willing to have high variance. You try crazy jumps. You experiment.
 
 Compare this to a **Stand-up Comedian**.
-A top-tier comedian doesn't write a Netflix special in one go. They go to small, divey clubs on Tuesday nights. They try ten new jokes. Nine fall flat (High Variance). One gets a laugh. They keep the one. 
+A top-tier comedian doesn't write a Netflix special in one go. They go to small, divey clubs on Tuesday nights. They try ten new jokes—nine fall flat (High Variance). One gets a laugh. They keep the one. 
 
 The club is a "Safe Environment." If they bombed on HBO, their career would end. In the club, the cost of error is just an awkward silence. They bought safety to purchase variance.
 

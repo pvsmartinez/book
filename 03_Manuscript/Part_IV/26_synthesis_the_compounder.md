@@ -57,6 +57,8 @@ The "Fragility" of our systems is just the Breakpoint of over-optimization.
 The world isn't broken. It is **Optimizing**. 
 It is doing exactly what it was designed to do, using the engine we built, guided by the judges we appointed, over more time than we can imagine.
 
+One important caveat: the framework tells you *how* the machine runs and *why* it produces the outcomes it does. It does not tell you what the machine *should* optimize for. That question (what we value, what we protect, what kind of world we want) is not a systems question. It is a human one. The Pattern is the engine. You are the compass.
+
 ### From Runner to Architect
 
 Up until now, we have been looking at the world as **Players**. 
@@ -71,7 +73,7 @@ If we can map the machine, we can change the machine.
 
 Welcome to the second half of the journey. We are done running. Now, we start building. 
 
-The Pattern is invisible, but it is not a law of physics. It was built by choices—choices about what to measure, what to value, and what to ignore. And if it was built by choices, it can be rebuilt by choices. 
+The Pattern is invisible, but it is not a law of physics. It was built by choices, choices about what to measure, what to value, and what to ignore. And if it was built by choices, it can be rebuilt by choices. 
 
 In the final part of this book, we are going to stop playing. We are going to start designing. We are going to move from being the victims of the pattern to being its architects. 
 

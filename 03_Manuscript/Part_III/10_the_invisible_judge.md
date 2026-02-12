@@ -2,7 +2,7 @@
 
 > *A note before we begin:*
 >
-> *In the coming chapters, we are going to apply the Pattern to social topics: education, media, politics, competition, and more. The goal is diagnostic. We are learning to read the system, not to declare it hopeless. Some examples will feel like simplifications, and they are. Each of these topics has layers we won't unpack here because it would kill the flow. But the simplification is deliberate: we need to see the shape of the machine before we can get into its wiring. The nuance is coming. For now, focus on the mechanics.*
+> *In the coming chapters, we are going to apply the Pattern to social topics: education, media, politics, competition, and more. The goal is diagnostic. We are learning to read the system, not to declare it hopeless. Some examples will feel like simplifications, and they are. Each of these topics has layers we won't unpack here, as it would disrupt the flow. But the simplification is deliberate: we need to see the machine's shape before we can get into its wiring. The nuance is coming. For now, focus on the mechanics.*
 >
 
 An engine can drive an ambulance to a hospital or a tank into a city. It doesn't care. It just runs.
@@ -59,7 +59,7 @@ The decision of who wins isn't based on a single factor. It is the result of thr
     Who else is racing? 
     If you can run a 6-minute mile, are you fast? In a high school gym class, yes, you are a god. In the Olympics, no, you are slow. Your value is never absolute; it is always relative to the field. As every other driver gets faster, you have to improve just to stay in the same place.
 
-These are the factors that, over time, shape the direction of adaptation. The pattern pushes adaptation in the direction these forces dictate. These forces, combined, are what I call the **Value Function**.
+These are the factors that, over time, shape the direction of adaptation. The pattern drives adaptation in the direction dictated by these forces. These forces, combined, constitute the **Value Function**.
 
 $$Value Function = The Rules x The Track x The Competitors$$
 
@@ -67,9 +67,19 @@ This isn't literal arithmetic. It's a way of seeing how these three forces *inte
 
 ### Why "Value Function"?
 
-Because it captures the mathematical precision of the process.
+Because it captures the process's mathematical precision.
 
-Softer words like "The Judge," "The Environment," or "The Market" can mislead. "The Judge" implies a conscious decision-maker who cares about justice. "The Environment" suggests a static backdrop. And simple models often ignore "The Competitors" entirely, even though in many games (like chess, poker, or war), the opponent *is* the environment.
+In Part II, we defined the Pattern as:
+
+$$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
+
+We called it "The Filter." A wall that kept the winners and discarded the rest. But now that we've taken it apart, we can see that the Filter isn't a single wall. It is a calculation with three moving parts. So let's upgrade the equation.
+
+$$Adaptation\ Rate = \frac{Value\ Function(Iteration \times Variance)}{Time}$$
+
+Where: $Value\ Function = Rules \times Track \times Competitors$.
+
+The word "Filter" was useful for building intuition, but softer words like "The Judge," "The Environment," or "The Market" can mislead from here on. "The Judge" implies a conscious decision-maker who cares about justice. "The Environment" suggests a static backdrop. And simple models often ignore "The Competitors" entirely, even though in many games (like chess, poker, or war), the opponent *is* the environment.
 
 **Value Function** removes the fuzziness. It reminds us that this is a *calculation*, not a verdict. A live equation where the **Rules**, the **Track**, and the **Competitors** multiply against each other to produce a result.
 
@@ -79,7 +89,7 @@ The value function acts, through time, like a mold. At first, competitors might 
 
 The rules, track, and competitors define what is effective and what is filtered out. Different rules can filter faster, and different tracks might prioritize certain actions. But in the end, the pattern molds the individuals, through adaptation, over and over.
 
-The environment can change over time, and competitors are always evolving. Even with the same rules (which might never change), the selected strategies may not be the same. The value function drifts, leading to different behaviors in how the pattern evolves.
+The environment can change over time, and competitors are always evolving. Even with the same rules (which might never change), the selected strategies may differ. The value function drifts, leading to different behaviors in how the pattern evolves.
 
 We will see some examples of this drift during Part III, but the effects of time and compounding changes are the main topic of Part IV. For now, we need to dive deeper into the value function and understand all of its nuances.
 
@@ -93,7 +103,7 @@ Seeing it clearly is the difference between "I am broken" and "I need to underst
 
 The Rules we write. The Tracks we miss. The Competitors who set the pace. This invisible equation shapes everything from the apps on your phone to the anxiety in your head.
 
-And once we see it clearly, we can start to figure out how to solve it.
+Once we see it clearly, we can start figuring out how to solve it.
 
 ### A Note on Luck
 

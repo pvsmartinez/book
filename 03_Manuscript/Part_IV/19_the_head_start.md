@@ -10,7 +10,7 @@ Because history accumulates, *where* you start matters almost as much as *who* y
 
 The technical term for this is the **Buffer**. In plain English, it's a head start.
 
-Imagine two people, Ana and Bruno. Both are equally talented. Both are equally hard-working. Both manage to save \$1,000 every single month from their salaries. The only difference is that Ana starts the game with a "seed"—a \$100,000 gift or inheritance. Bruno starts at zero.
+Imagine two people, Ana and Bruno. Both are equally talented. Both are equally hard-working. Both manage to save \$1,000 every single month from their salaries. The only difference is that Ana starts the game with a "seed" (a \$100,000 gift or inheritance). Bruno starts at zero.
 
 In Brazil, we have a benchmark interest rate called the **Selic**. As I write this, it sits around 10-15% per year. This is the "speed" at which money replicates in this specific environment. It is one of the track rules set by the "Judges" at the central bank.
 
@@ -24,7 +24,7 @@ If that same 15% rate continues to compound over 50 years, the difference is no 
 
 Here is the math of the gap: Ana's initial \$100,000 "seed" alone grew to \$108 million. That means her inheritance did more "work" (generated more wealth) than Bruno's entire lifetime of labor and discipline combined. 
 
-Ana is more than twice as wealthy as Bruno, not because she worked twice as hard, but because she was **in front** at the start. The system’s Value Function rewarded her "buffer" more than it rewarded their collective lifetime of effort. 
+Ana is more than twice as wealthy as Bruno. She didn't work twice as hard. She was just **in front** at the start. The system's Value Function rewarded her "buffer" more than it rewarded their collective lifetime of effort.
 
 The Selic rate isn't a law of physics like gravity. It is a decision. But once that decision is made, the math of compounding takes over and creates these structural outcomes regardless of whether the people involved are "good" or "bad." The machine doesn't care about your intent; it only cares about your momentum. 
 
@@ -32,7 +32,7 @@ The Selic rate isn't a law of physics like gravity. It is a decision. But once t
 
 This isn't just about money. Compounding applies to opportunity just as much as it applies to capital.
 
-If you look at the rosters of elite Canadian hockey teams or top-tier soccer academies in Brazil, you will find a bizarre anomaly. A huge percentage of the players—often 40% or more—are born in the first three months of the year (January, February, March). 
+If you look at the rosters of elite Canadian hockey teams or top-tier soccer academies in Brazil, you will find a bizarre anomaly. A huge percentage of the players (often 40% or more) are born in the first three months of the year (January, February, March).
 
 Why? Are Capricorns and Aquarians naturally better at sports? Of course not.
 
@@ -46,7 +46,7 @@ The coach looks at the group and thinks, "Wow, that kid has talent." They pick t
 
 And then the compounding begins. 
 
-The A-Team kid gets the best coaching. They get to play against better opponents. They get more practice time. Meanwhile, the December kid—who was just a little smaller on that one specific day—gets cut or sent to the B-team. They get discouraged. They play less. 
+The A-Team kid gets the best coaching. They get to play against better opponents. They get more practice time. Meanwhile, the December kid, who was just a little smaller on that one specific day, gets cut or sent to the B-team. They get discouraged. They play less. 
 
 Fast forward ten years. The initial "maturity gap" is gone; everyone is fully grown. But the **Skill Gap** is now enormous. The January kid has had 10,000 hours of elite training. The December kid has had 2,000. The January kid becomes the professional, and we all say, "He was born to play." 
 
@@ -56,7 +56,7 @@ We attribute his success to talent, but a huge part of it was just the **Compoun
 
 There is a concept in game design called **Perfect Imbalance**.
 
-In chess, the player with the white pieces always moves first. This single, tiny difference—being one "tempo" ahead—gives White a measurable statistical advantage. In grandmaster play, White wins significantly more often than Black.
+In chess, the player with the white pieces always moves first. This single, tiny difference (being one "tempo" ahead) gives White a measurable statistical advantage. In grandmaster play, White wins significantly more often than Black.
 
 If you were the designer, you might ask: "Why not fix this? Why not make them move simultaneously?"
 
@@ -72,16 +72,16 @@ No system is built in a vacuum. When we design a "fair" market or a "fair" elect
 
 ### The Advantage Feeds Itself
 
-The "Judge"—whether it's the market, the coach, or the algorithm—is just selecting the "fittest" option *right now*. 
+The "Judge" (whether it's the market, the coach, or the algorithm) is just selecting the "fittest" option *right now*. 
 
 They pick the kid who is bigger today. They reward the account that has more money today. But that selection gives the winner the resources to be even fitter *tomorrow*.
 
 The advantage feeds itself. 
 
-Over time, this creates a world where the winners keep winning, not because they are working harder, but because they have the most momentum. The initial signal—that small difference in skill or capital—is amplified until it drowns out everything else.
+Over time, this creates a world where the winners keep winning. They aren't necessarily working harder. They just have the most momentum. The initial signal (that small difference in skill or capital) is amplified until it drowns out everything else.
 
 The "Judge" stops measuring the runner and starts measuring the head start.
 
 How much of my "success" is talent, and how much is just the compounding of an early white-piece advantage?
 
-But the Head Start doesn't just widen the gap between winners and losers. It also changes the *winner*. When a system compounds in one direction for too long, the winner doesn't just get bigger—they get *narrower*. More specialized. More efficient. And more fragile.
+But the Head Start doesn't just widen the gap between winners and losers. It also changes the *winner*. When a system compounds in one direction for too long, the winner doesn't just get bigger, they get *narrower*. More specialized. More efficient. And more fragile.

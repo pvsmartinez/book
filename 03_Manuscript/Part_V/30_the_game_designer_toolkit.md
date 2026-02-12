@@ -12,7 +12,7 @@ In a survival game, the designer wants you to feel "Despair." They don't put a s
 
 The Game Designer is the only professional on earth who explicitly designs invisible patterns to shape how people act. And because they’ve been doing this for decades, they’ve developed a toolkit that we can steal.
 
-When you start looking at your own life—or your company, or your country—as a "game," you stop trying to "try harder." You start looking for the levers.
+When you start looking at your own life (or your company, or your country) as a "game," you stop trying to "try harder." You start looking for the levers.
 
 ### The Toolkit
 
@@ -46,12 +46,12 @@ Every system has a repetitive cycle that drives it.
 *   **The RPG Loop:** Kill Monster $\rightarrow$ Get Loot $\rightarrow$ Get Stronger $\rightarrow$ Kill Bigger Monster.
 *   **The Career Loop:** Work $\rightarrow$ Get Paid $\rightarrow$ Pay Bills $\rightarrow$ Work.
 
-If the loop is satisfying, the system is stable. If the loop is broken—if the "Loot" doesn't feel worth the "Kill"—the player quits. 
+If the loop is satisfying, the system is stable. If the loop is broken, if the "Loot" doesn't feel worth the "Kill," the player quits. 
 
 When you feel burnt out, it’s often because your **Core Loop** is broken. You are putting in "Work Effort" but the "Reward" (meaning, money, or growth) isn't hitting your "Value Function." You are running on a treadmill that isn't connected to the generator.
 
 #### 4. Balance Patching (The Small Tweaks)
-No system is perfect. Players will always find a "broken" strategy—the one gun that is too powerful, the one tax loophole that is too efficient.
+No system is perfect. Players will always find a "broken" strategy: the one gun that is too powerful, the one tax loophole that is too efficient.
 
 Instead of redesigning the whole game, Designers issue a **Balance Patch**. They don't ban the strategy; they just tweak the numbers.
 *   Increase the reload time by 0.5 seconds.
@@ -72,7 +72,7 @@ A Designer wouldn't tell you to "think positive." They would look at the tools.
 
 ### The Power of the Designer
 
-We have spent our lives as characters in games designed by others—employers, social media companies, governments. We have been reacting to their carrots and running from their sticks.
+We have spent our lives as characters in games designed by others: employers, social media companies, governments. We have been reacting to their carrots and running from their sticks.
 
 But once you see the tools, you realize that the "rules" of your life are not laws of physics. They are design choices. And if a game isn't fun, or if it’s breaking you, you don't have to keep playing it the same way.
 

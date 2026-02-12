@@ -25,9 +25,9 @@ It is not a new theory. It's a synthesis of many different topics, applied every
 
 This book isn't a textbook or a grand academic theory. It’s a pair of glasses. I want to share a lens that helped me make sense of why the world feels so loud, so fast, and so extreme right now.
 
-The pattern is not an underlying force that makes all those systems do what they do. It is closer to a mathematical lens on all these systems and on their consequences. It does not explain how or why something was optimized as it was. But it explains why, when individual actions, individuals, or attempts are filtered by a goal or external force, optimization occurs and, with it, common patterns.
+The pattern is not an underlying force that makes all those systems do what they do. It is closer to a mathematical lens on all these systems and on their consequences. It does not explain how or why something was optimized as it was. But it explains why, when a goal or external force filters individual actions, individuals, or attempts, optimization occurs and, with it, common patterns.
 
-To explain and illustrate this theory to you, I will need to use simplified models and examples across dozens of topics, ranging from biological evolution and sociology to politics and career archetypes. This book is not meant to be the truth about everything, and through these examples, I will try to be neutral and explain them as they are, without making value judgments. I'm not an expert in most of these, so please focus on the message of the pattern more than the example at hand.
+To explain and illustrate this theory to you, I will need to use simplified models and examples across dozens of topics, ranging from biological evolution and sociology to politics and career archetypes. This book is not meant to be the truth about everything, and in these examples, I will try to be neutral and present them as they are, without making value judgments. I'm not an expert in most of these, so please focus on the message of the pattern more than the example at hand.
 
 ### A Note on Context
 
