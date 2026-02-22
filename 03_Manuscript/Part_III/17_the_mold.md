@@ -1,5 +1,6 @@
 ## Chapter 17: The Mold (Synthesis)
 
+<!-- FLAG-OPENER: Abstract thesis opener. Starts with a conceptual summary rather than a hook. The water/cup metaphor a few lines down is great — consider leading with that image or a personal example of being "molded" before dropping the thesis. -->
 We often treat the Value Function as a maze we have to run through. A set of external obstacles, like the Rules, the Track, and the Competitors. We think that once we find the exit, we can walk away and be the same person we were when we entered.
 
 But if you run the same maze every day for ten years, you don't just learn the route. You physically adapt to it. Your brain optimizes for the turns. Your muscles build memory for the friction. 

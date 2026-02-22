@@ -1,6 +1,6 @@
 # Book Project Structure Proposals
 
-Based on your goal to write a "knowledge book" starting from "scattered ideas" and "connecting the dots", here are three proposed folder structures.
+Based on your goal to write a "knowledge book" starting from "scattered ideas" and "connecting the dots", here are three proposed folder structures...
 
 ## Option 1: The "Gardener" (Zettelkasten-inspired)
 **Best for:** Connecting dots, organic growth, discovering the structure as you go.

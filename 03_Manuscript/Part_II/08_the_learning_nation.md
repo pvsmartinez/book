@@ -1,5 +1,6 @@
 ## Chapter 8: The Learning Nation
 
+<!-- FLAG-OPENER: Textbook thesis opener. "A Nation is a Super-Organism" drops a definition instead of drawing the reader in. Compare to how you opened Ch 7 (economics class memory → confession → meat grinder). This needs a hook or bridge before the concept. -->
 A Nation is a Super-Organism.
 
 It has a metabolism (The Economy). A defense system (The Military). And a brain (The Government).
@@ -10,6 +11,7 @@ In doing so, a Nation chooses the Pattern: **It decides how much Variance it wan
 
 ### The Palace and the Workshop
 
+<!-- FLAG: History-essay mode starts here and runs through most of this chapter. The Palace/Workshop framework is great, but the prose sounds like a well-researched AI summary, not you talking. Needs personality injection — maybe link to something you've seen in Brazilian politics or your career? -->
 In 1589, a priest named William Lee invented a machine that could knit stockings ten times faster than a human. He arranged an audience with Queen Elizabeth I, expecting to be hailed as a hero.
 
 She rejected him.
@@ -27,7 +29,9 @@ If a citizen has a new idea that challenges the status quo, the system crushes i
 "You cannot start that business; it hurts the King's monopoly."
 "You cannot write that book; it questions the Party."
 
-Because Variance is suppressed, the cost of experimentation is infinite (Death, Prison, Exile). So the population stops iterating. The nation tries to solve the world's problems with the processing power of only a few leaders. It creates a bottleneck. This is **The Palace**.
+Because Variance is suppressed, the cost of experimentation is infinite (Death, Prison, Exile). So the population stops iterating. The nation tries to solve the world's problems with the processing power of only a few leaders. It creates a bottleneck.
+<!-- FLAG-DEFINITION: "This is **The Palace**." Same textbook stamp you fixed for Latency/Clarity in Ch 7. Weave it in: "Call it The Palace" or "That bottleneck is the Palace" or just let it emerge from the story. Same issue with "This is The Workshop" a few lines down. -->
+This is **The Palace**.
 
 **Inclusive Institutions (Democracies, Free Markets)** behave like a **Parallel Processor**.
 
@@ -74,5 +78,3 @@ A nation is not a static thing. It is a machine that can be tuned.
 A government that reduces the cost of failure (safety nets) and increases the reward for success (property rights) is effectively overclocking its own evolution.
 
 It is producing more information per second. It is learning faster.
-
-Genes, memes, markets, and nations. We have seen the Pattern run on all of them. Now let's zoom out and see the full picture.

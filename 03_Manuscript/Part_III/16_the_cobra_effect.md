@@ -29,6 +29,7 @@ Delhi ended up with more cobras than it had at the start.
 
 ### The Success of the Wrong Goal
 
+<!-- FLAG-DEFINITION: "This is the **Cobra Effect**." Glossary stamp after a well-told story. Could flow better: "They named this the Cobra Effect" or just let the story land without the textbook label. -->
 This is the **Cobra Effect**. It is the most famous example of a "Perverse Incentive," but it is also a fundamental law of System Design.
 
 The government didn't "fail." In fact, the Value Function succeeded perfectly. It requested cobra skins, and it received them in record-breaking numbers. The system didn't care that the skins were coming from a farm instead of the street. It only cared about the count.
@@ -80,6 +81,7 @@ You know that the "Exam Factory" students have a much higher chance of getting i
 
 Most parents wouldn't. They chose the "Exam Factory."
 
+<!-- FLAG-DEFINITION: "This is the **Exam Trap**." Same stamp pattern. -->
 This is the **Exam Trap**. Nobody designed it on purpose. It is the result of millions of individual, rational choices made by parents who want the best for their children.
 
 ### The Metric is the Message

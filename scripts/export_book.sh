@@ -35,10 +35,14 @@ echo "Generating $FILENAME..."
 # Create Title Page and TOC placeholder
 cat << EOM > "$TEMP_MD"
 <div class="title-page">
-    <h1>The Invisible Pattern</h1>
-    <h2>Iteration, Selection, and the Code of the World</h2>
-    <p class="author">Pedro Martinez</p>
-    <p class="version">Version $VERSION | $(date +'%B %Y')</p>
+    <div class="title-group">
+        <h1>The Shape of the Game</h1>
+        <h2>How the world was designed by accident</h2>
+    </div>
+    <div class="author-group">
+        <p class="author">Pedro Martinez</p>
+        <p class="version">Version $VERSION | $(date +'%B %Y')</p>
+    </div>
 </div>
 
 <h1 id="table-of-contents" class="no-toc-header">Table of Contents</h1>
@@ -158,7 +162,7 @@ if [ "$UPLOAD_DOCS" = true ]; then
         --to=docx \
         --toc \
         --toc-depth=2 \
-        --metadata title="The Invisible Pattern" \
+        --metadata title="The Shape of the Game" \
         --metadata author="Pedro Martinez"
     
     echo "  - $DOCX_FILE"

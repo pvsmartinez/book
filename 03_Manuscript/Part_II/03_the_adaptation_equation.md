@@ -11,12 +11,11 @@ It sounds like a conspiracy theory. It sounds like something I found carved on a
 
 But it's simpler than that.
 
-It's just an engine. A machine that doesn't have a soul, doesn't have a plan, and certainly doesn't care about you. But if you give it three specific ingredients, it will start running. And once it starts, it doesn't stop.
+It's just an engine. A machine that doesn't have a soul, doesn't have a plan, and certainly doesn't care about us. But if you give it three specific ingredients, it will start running. And once it starts, it doesn't stop.
 
 You’ve seen this engine before. You didn't know it was the same one.
 
 What is this pattern I keep talking about? What does it look like?
-What constitutes the pattern, what doesn't, and how does it work?
 
 ### The Loop of Action and Feedback
 
@@ -29,7 +28,7 @@ At that moment, the cookie is the signal. Without it, the dog is just moving ran
 
 Of course, it won't learn with just one cookie. But the next time, the dog is more likely to sit. Do it enough times, and the behavior becomes a command.
 
-If you never gave the cookie, the dog would never learn. Without the feedback, there is no learning, only guessing. This is the fundamental building block of the **Pattern**: **Iteration**.
+If you never gave the cookie, the dog would never learn. Without the feedback, there is no learning, only guessing. This is the fundamental building block of the Pattern: **Iteration**.
 
 An action without feedback cannot be considered an iteration because no learning or optimization is happening. Each action-feedback pair is a single loop of the engine.
 

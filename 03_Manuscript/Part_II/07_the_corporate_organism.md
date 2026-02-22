@@ -1,12 +1,14 @@
 ## Chapter 7: The Corporate Organism
 
-I am a builder. I've spent my life looking at spreadsheets, code, and user metrics.
+The same logic of the Pattern works for more than just ideas or individuals. It also applies to collectives of people. To corporations and products.
 
-And I have a confession: The "Invisible Hand" of the market? It’s not a hand. It’s a meat grinder.
+During economics class, we always start by learning about the famous curve of supply and demand. We learn about the "Invisible Hand" of the market. We are told how they work, but nobody really explains *why* they work.
+
+With our current lens, I think we can.
+
+And I have a confession: the Invisible Hand? It's not a hand. It's a meat grinder.
 
 We talk about supply and demand like they are lines on a graph in a quiet classroom. But in the real world, it's a million bakers, artists, and engineers scrambling to stay afloat.
-
-### The Meat Grinder
 
 Open an economics textbook, and you will see a simple graph. One line goes up (Supply), one line goes down (Demand). Where they cross, you find the **Price**. It feels like a law of gravity.
 
@@ -52,13 +54,13 @@ We've just seen that prices adapt in milliseconds, products in months, and cultu
 Think of the difference between touching a hot stove and smoking a cigarette.
 
 The stove gives instant feedback. You learn immediately: "Don't touch that."
-The cigarette gives its feedback — cancer — twenty years later. The brain cannot close the loop. You might blame genetics, or bad luck, or the environment. The signal arrived, but it arrived too late to be assigned to the cause.
+The cigarette gives its feedback twenty years later. Cancer. By then, the brain cannot close the loop. You might blame genetics, or bad luck, or the environment. The signal arrived, but it arrived too late to connect to the cause.
 
-This delay between an action and its consequence is **Latency**.
+That delay between action and consequence is what we call **Latency**. And it explains a lot.
 
-Stock prices have near-zero latency. A trade happens, and the result is visible in milliseconds. That is why they adapt so fast. Corporate culture has enormous latency. A new CEO changes the management philosophy. Did it work? Ask again in three years. By then, the market has shifted, half the team has quit, and the CEO credits the turnaround to "vision" — or blames the failure on their predecessor.
+Stock prices have near-zero latency. A trade happens, the result is visible in milliseconds. That is why they adapt so fast. Corporate culture? Enormous latency. A new CEO changes the management philosophy. Did it work? Ask again in three years. By then, the market has shifted, half the team has quit, and the CEO credits the turnaround to "vision" or blames the failure on their predecessor.
 
-Delayed feedback lets bad decisions persist. If you can't feel the consequence, you can't correct the action.
+If you can't feel the consequence, you can't correct the action.
 
 **The Purity of the Signal.**
 
@@ -68,9 +70,9 @@ Consider how a traditional company used to market a product. They spent millions
 
 Now consider a tech company running an A/B test on a digital ad. They show version A to half their users and version B to the other half. Everything else is identical. They know exactly which headline caused which click. The signal is pure.
 
-This is **Clarity** — the signal-to-noise ratio of your feedback. It's why the tech sector iterates faster than almost any other industry. It's not just culture or talent — it's the purity of their feedback loop. When you can isolate the signal from the noise, every iteration teaches you something. When you can't, you're just guessing.
+That purity is what we'll call **Clarity**: the signal-to-noise ratio of your feedback. And it's one of the reasons the tech sector iterates faster than almost any other industry. It's not just culture or talent. It's that their feedback loop is clean. When you can isolate the signal from the noise, every iteration teaches you something. When you can't, you're just guessing.
 
-Latency and clarity explain why some parts of a corporation evolve at lightning speed while others feel frozen in amber. The stock price adapts because the signal is instant and clean. The culture barely moves because the signal is delayed and muddled. Both are running the Pattern. One has a tighter loop.
+So now we have two dials: latency (how fast the signal arrives) and clarity (how clean it is when it gets there). Together they explain why some parts of a corporation evolve at lightning speed while others feel frozen in amber. The stock price adapts because the signal is instant and clean. The culture barely moves because the signal is delayed and muddled. Both are running the Pattern. One just has a much tighter loop.
 
 ### The Profit Filter
 

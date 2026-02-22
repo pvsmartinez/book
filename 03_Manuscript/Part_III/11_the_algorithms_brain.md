@@ -13,8 +13,7 @@ In the human world, we wrap rules in culture and context. AI strips all of that 
 The AI starts with completely random behavior. It’s a digital monkey hitting keys. But every time it does something that raises the score, it gets a "reward." Every time it does something that lowers the score, it gets "punished."
 
 Over millions of iterations, the AI becomes a master at maximizing that score. It doesn't "know" what it’s doing. It doesn't have a conscience. It is simply a machine that has filtered according to a particular rule.
-
-This is the **First Variable** of our equation: **The Rule Set**.
+<!-- FLAG-DEFINITION: "This is the **First Variable** of our equation: **The Rule Set**." Textbook classification label. Weave it in or drop it — the reader already understands from the explanation what role the score plays. -->This is the **First Variable** of our equation: **The Rule Set**.
 
 Think of the **Infinite Monkey Theorem**. A monkey hitting random keys will eventually write *Hamlet*, given infinite time. But if you **lock** the correct letters as they appear (Selection), the monkey writes *Hamlet* almost instantly.
 
@@ -53,6 +52,7 @@ Input: Cat. Output: "Dog."
 It repeats this millions of times.
 Eventually, the random arithmetic has been sculpted into a precise formula. The "random math" has evolved into a structure that reliably converts a cat's pixels into the word "Cat."
 
+<!-- FLAG-DEFINITION: "This is **The Pattern** in its purest form." Textbook stamp. The reader already gets it from the explanation above. Either drop it or weave: "Sound familiar? It's the Pattern, stripped to pure math." -->
 This is **The Pattern** in its purest form.
 
 $$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$

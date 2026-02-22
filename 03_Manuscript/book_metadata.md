@@ -9,20 +9,20 @@ Description: Why the world feels like it's vibrating at a higher frequency.
 
 ## Part_II
 Title: Part II: The Engine
-Description: The mechanics of iteration and variance that drive all change.
+Description: The unavoidable consequence of iteration.
 
 ## Part_III
 Title: Part III: The Filter
-Description: The invisible judge that decides the direction of evolution.
+Description: The direction that shapes the world.
 
 ## Part_IV
 Title: Part IV: The Compounder
-Description: Time and its Consequences.
+Description: The recursive power of Time.
 
 ## Part_V
 Title: Part V: The System Designer
-Description: Shifting from being a player to being an architect of systems.
+Description: The tools to shape behavior.
 
 ## Part_VI
 Title: Part VI: Final Thoughts
-Description: Connecting the dots. References, further reading, and the final synthesis of the pattern.
+Description: The call to action.

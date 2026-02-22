@@ -49,6 +49,7 @@ Those are inputs. Those are human choices. The Pattern only explains what happen
 
 ### The Creativity Myth
 
+<!-- FLAG: "This reveals a final truth" + bold definition — AI summarizing mode. The idea is great but the delivery is too polished/generic. -->
 This reveals a final truth: **Nothing is invented; everything is recycled.**
 
 We treat creativity as a magical spark. But through the lens of the Pattern, creativity is just **High-Variance Selection**. 

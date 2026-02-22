@@ -23,7 +23,7 @@
     margin-left: 0.625in; /* Outside */
     margin-right: 0.875in; /* Inside (Gutter) */
     @top-left {
-        content: "The Invisible Pattern";
+        content: "The Shape of the Game";
         font-family: "Helvetica", sans-serif;
         font-size: 8pt;
         text-transform: uppercase;
@@ -80,44 +80,71 @@ body {
 .title-page {
     page: first;
     text-align: center;
-    padding-top: 2.5in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Pushes Title Group to top, Author Group to bottom */
+    align-items: center;
     background-color: #fff;
-    border: 1px solid #eee; /* Subtle frame for the title page */
-    margin: 0.5in;
-    height: 7in;
+    margin: 0;
+    height: 100vh; /* Full viewport height */
+    padding: 1in; /* Add padding around the edges */
+    box-sizing: border-box; /* Include padding in height calculation */
+}
+
+/* Container for Title + Subtitle */
+.title-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25vh; /* Push title down to approx 1/3 of page */
+    gap: 0.3in;
+}
+
+/* Container for Author + Version */
+.author-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0.5in;
+    gap: 0.2in;
 }
 
 .title-page h1 {
-    font-family: "Helvetica", sans-serif;
-    font-size: 32pt;
-    margin-bottom: 0.1in;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 48pt; /* Big and bold */
+    line-height: 1.1;
+    margin: 0;
     text-transform: uppercase;
-    letter-spacing: 3px;
-    border: none;
-    font-weight: 900;
+    letter-spacing: 4px; /* More spacing for drama */
+    font-weight: 800;
+    color: #000;
 }
 
 .title-page h2 {
     font-family: "Georgia", serif;
     font-style: italic;
-    font-size: 16pt;
-    color: #444;
-    margin-bottom: 2.5in;
+    font-size: 20pt;
+    color: #555; /* Slightly lighter than title */
+    margin: 0;
     font-weight: normal;
+    max-width: 800px;
 }
 
 .title-page .author {
-    font-family: "Helvetica", sans-serif;
-    font-size: 14pt;
-    font-weight: bold;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16pt; /* Slightly bigger for balance */
+    font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
+    color: #444; /* Dark grey instead of pure black for elegance */
+    margin: 0;
 }
 
 .title-page .version {
+    font-family: monospace;
     font-size: 9pt;
     color: #999;
-    margin-top: 0.5in;
+    margin: 0;
 }
 
 /* Part Pages Container (Description only now) */
@@ -235,14 +262,14 @@ h1.no-toc-header {
 
 /* Blockquotes (Standard) */
 blockquote {
-    margin: 1.5em 0.5in;
+    margin: 1em 0;
     font-style: italic;
     color: #444;
     border-left: 3px solid #ddd;
-    padding: 0.8em 1.5em;
-    background-color: #fafafa;
-    font-size: 10pt;
-    line-height: 1.5;
+    padding: 0.3em 1em;
+    background-color: transparent;
+    font-size: 11pt;
+    line-height: 1.4;
 }
 
 /* Table of Contents */

@@ -10,15 +10,13 @@ Is there a secret "University of Sales" that teaches everyone to be the same?
 
 Actually... yes. There are thousands of them. There are seminars, books, courses, and mentors all teaching the same techniques: "Mirror the client's body language," "Ask open-ended questions," "Always be closing."
 
-So, is that the answer? Salespeople are charming because they were *taught* to be charming?
+So, is that the answer? Salespeople are charming because they were taught to be charming?
 
-It seems obvious. But ask yourself: **Who wrote the books?**
+It seems obvious, but ask yourself: Who wrote the books?
 
 Who decided that "Charisma" was the curriculum? Why don't the books teach us to be silent, or to look at the floor, or to argue with the customer?
 
 A central committee didn't write the books. The survivors wrote them.
-
-### The Library of Survivors
 
 Imagine the thousands of people who tried to sell something for the first time.
 
@@ -32,7 +30,7 @@ These winners didn't just make a sale; they survived to sell another day. They k
 
 "Don't frown," they’d say. "Smile. Trust me, it works."
 
-This is **Agency** in action. The salesperson is making choices, learning from immediate feedback, and adapting their behavior. Humans are intelligent problem solvers, and we are constantly A/B testing our way through life.
+This is agency in action. The salesperson is making choices, learning from immediate feedback, and adapting their behavior. Humans are intelligent problem solvers, and we are constantly A/B testing our way through life.
 
 But notice the accumulation.
 
@@ -45,8 +43,6 @@ Every new experiment is a new learning experience. A new book written, a new cou
 The "University of Sales" is not an invention of some genius dean; it is an **archive**. It is a collection of all the successful experiments run by millions of people over hundreds of years.
 
 The reason every salesperson looks the same isn't just because they read the same book. It's because the book is a record of what survived the **Filter**.
-
-### The Filter
 
 The environment (the customer with the money) is the Judge.
 

@@ -2,13 +2,13 @@
 
 **Date:** 2026-02-10  
 **Source:** Gap Analysis + Session 16 discussion  
-**Status:** Working document — ideas to evaluate, not committed changes
+**Status:** Working document — ideas to evaluate, not committed changes!
 
 ---
 
 ## 1. ITERATED GAMES & COOPERATION (Gap A) ✅ COMPLETE
 
-**Status:** Implemented as split approach.  
+**Status:** Implemented as a split approach.  
 **Math/concept:** Added "The Long Game" section to Ch 22 (The Pendulum) — Axelrod's tournament, Tit for Tat, Shadow of the Future, Copykitten, Dawkins.  
 **Design levers:** Added "The Cooperation Patch" section to Ch 32 (Patching the Code) — four design levers for encouraging cooperation (make the game repeat, make betrayal visible, make the future matter, absorb the noise).  
 **No new chapter needed.**

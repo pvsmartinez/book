@@ -26,7 +26,7 @@ It’s as if there is a ghost in the machine, something pushing everything towar
 
 This is where my obsession with systems comes in. When you spend your life balancing games and products, you realize that most "bad behavior" isn't caused by bad people. Incentives cause it.
 
-Look at YouTube. We say the algorithm is "radicalizing" us. But the code has no political agenda. It doesn't have a soul. It has only one goal: **Watch Time**. It is a machine that has been told to learn, by trial and error, what keeps you staring at the screen for one more second. If it learns that a calm, nuanced discussion makes you tune out, but a screaming fight makes you watch, it will show you the fight. Not because it wants to hurt you, but because it is a perfect student of your own psychology.
+Look at YouTube. We say the algorithm is "radicalizing" us. But the code has no political agenda. It doesn't have a soul. It has one main goal: Watch Time. It is a machine that has been told to learn, by trial and error, what keeps you staring at the screen for one more second. If it learns that a calm, nuanced discussion makes you tune out, but a screaming fight makes you watch, it will show you the fight. Not because it wants to hurt you, but because it is a perfect student of your own psychology.
 
 (The real algorithm is more complex than a single metric, but the principle holds. We'll dissect how these metrics shape behavior in Part III.)
 

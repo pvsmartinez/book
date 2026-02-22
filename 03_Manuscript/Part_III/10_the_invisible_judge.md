@@ -15,6 +15,7 @@ What decides which startups become unicorns and which go bankrupt? Which artist 
 
 We use fuzzy words for this force. "Fate." "The Market." "Natural Selection." "The Real World."
 
+<!-- FLAG: "Let's be precise. Let's meet **The Value Function**." — classic AI reveal pattern. The entire section up to "The Wrong Scoreboard" is good content but has the AI rhythm of introduce-concept-then-bold-define-it repeatedly. -->
 Let's be precise. Let's meet **The Value Function**.
 
 ### The Map and the Territory

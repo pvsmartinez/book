@@ -54,10 +54,8 @@ Strain A burns out. Strain B spreads. Not because Strain B is "smarter" or becau
 
 When we introduced vaccines, we built a wall. But the virus didn't stop. It just kept throwing random copies of itself at the wall. Most failed. But when you try a billion random keys, eventually, one of them is going to fit the lock.
 
-That's how we got Delta. That's how we got Omicron. The virus didn't "plan" a strategy to bypass the vaccines. It simply introduced sufficient random variance into the problem until one stuck.
+That's how we got Omicron and the other versions. That is how the virus waves kept returning. The virus was not doing this on purpose. It was iterating. It was adapting faster than us.
 
-It didn't outsmart us. It **out-iterated** us.
+Both the giraffe and the virus are the same story at different speeds. Natural selection can be quick of slow, it depends on iteration time, and variation amount. But it does happen. It does work. It does optimize. 
 
-The giraffe and the virus are the same story, just playing at different frame rates. One is an epic movie; the other is a TikTok on loop. But the mechanism is identical. If you iterate and there is a filter, you will optimize.
-
-This is **Optimization without Intent**, or in the world of biology, Natural Selection.
+No intent is needed.

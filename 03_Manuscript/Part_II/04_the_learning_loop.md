@@ -106,8 +106,4 @@ This is why a teenager can master *Fortnite* in a weekend, while a 50-year-old d
 
 Education is also an attempt to hack this loop. If a school only had one big exam at the end of the year, the feedback would be too slow to be useful. Homework and quizzes are not "extra work"; they are artificial feedback loops designed to let you fail early and often, while the "cost" of failure is low.
 
-How the loop is organized shapes its effectiveness. And this adaptation will happen, intentionally or not.
-
-But what happens when there is no brain involved? Does the Pattern still work if you take away the intelligence?
-
-Let's look at nature.
+How the loop is organized shapes its effectiveness. Clearer and quicker feedback will make the patter faster and stronger. 
