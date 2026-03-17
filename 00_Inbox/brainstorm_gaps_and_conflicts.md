@@ -4,7 +4,7 @@
 **Source:** Gap Analysis + Session 16 discussion  
 **Status:** Working document — ideas to evaluate, not committed changes!
 
----
+---CU
 
 ## 1. ITERATED GAMES & COOPERATION (Gap A) ✅ COMPLETE
 

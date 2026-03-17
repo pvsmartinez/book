@@ -17,3 +17,4 @@ __pycache__/
 
 credentials.jsonscripts/token.pickle
 *.pickle
+.cafezin/
