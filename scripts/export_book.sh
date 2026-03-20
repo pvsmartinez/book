@@ -1,30 +1,56 @@
 #!/bin/bash
+# ============================================================================
+# export_book.sh — Generate the full manuscript PDF with WeasyPrint
+#
+# Integrates with Cafezin's export system:
+#   - CAFEZIN_PROGRESS: reports step-by-step progress to the UI progress bar
+#   - CAFEZIN_ARTIFACT: declares the generated PDF so Cafezin can reveal it
+#
+# Usage:
+#   bash scripts/export_book.sh                          # default output: 07_Exports/
+#   bash scripts/export_book.sh --no-pdf                 # generate HTML only (skip PDF)
+#   OUTPUT_DIR=07_Exports bash scripts/export_book.sh    # explicit output dir
+#
+# When called by Cafezin's custom export target, OUTPUT_DIR is set automatically
+# via the {{output_dir}} placeholder in the target config.
+# ============================================================================
 
-# Directory for exports
-EXPORT_DIR="07_Exports"
+set -euo pipefail
+
+# ---------------------------------------------------------------------------
+# Paths
+# ---------------------------------------------------------------------------
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
+cd "$PROJECT_DIR"
+
+# Output dir: prefer Cafezin's OUTPUT_DIR env var, fallback to 07_Exports
+EXPORT_DIR="${OUTPUT_DIR:-07_Exports}"
 mkdir -p "$EXPORT_DIR"
 
-# Cleanup temp files on exit (success or failure)
+# Temp directory — cleaned automatically on exit
+TEMP_DIR=$(mktemp -d)
 cleanup() {
-    rm -f temp_manuscript.md temp_manuscript_mermaid.md temp_manuscript_processed.md
+    rm -rf "$TEMP_DIR"
+    rm -f "$EXPORT_DIR/_temp_render.html"
 }
 trap cleanup EXIT
 
-# Parse arguments
+# ---------------------------------------------------------------------------
+# Arguments
+# ---------------------------------------------------------------------------
 GENERATE_PDF=true
-UPLOAD_DOCS=false
 
 for arg in "$@"; do
     if [ "$arg" == "--no-pdf" ]; then
         GENERATE_PDF=false
     fi
-    if [ "$arg" == "--upload" ]; then
-        UPLOAD_DOCS=true
-    fi
 done
 
-# Determine the next version number
-LAST_VERSION=$(ls "$EXPORT_DIR" | grep -oE 'v[0-9]+' | grep -oE '[0-9]+' | sort -n | tail -1)
+# ---------------------------------------------------------------------------
+# Version number (auto-increment from existing files)
+# ---------------------------------------------------------------------------
+LAST_VERSION=$(ls "$EXPORT_DIR" 2>/dev/null | grep -oE 'manuscript_v[0-9]+' | sed 's/manuscript_v//' | sort -n | tail -1)
 if [ -z "$LAST_VERSION" ]; then
     VERSION=1
 else
@@ -32,21 +58,55 @@ else
 fi
 
 FILENAME="manuscript_v$VERSION"
-TEMP_MD="temp_manuscript.md"
+TEMP_MD="$TEMP_DIR/temp_manuscript.md"
 TEMP_HTML="$EXPORT_DIR/_temp_render.html"
-DOCX_FILE="$EXPORT_DIR/$FILENAME.docx"
 
-echo "Generating $FILENAME..."
+# ---------------------------------------------------------------------------
+# Progress reporting
+# ---------------------------------------------------------------------------
+TOTAL_STEPS=6
+CURRENT_STEP=0
 
-# Create Title Page and TOC placeholder
+progress() {
+    CURRENT_STEP=$((CURRENT_STEP + 1))
+    echo "CAFEZIN_PROGRESS ${CURRENT_STEP}/${TOTAL_STEPS} $1"
+}
+
+# ---------------------------------------------------------------------------
+# Python / tools paths
+# ---------------------------------------------------------------------------
+PYTHON_BIN="$PROJECT_DIR/.venv/bin/python"
+WEASYPRINT_BIN="$PROJECT_DIR/.venv/bin/weasyprint"
+CSS_FILE="scripts/book_style.css"
+
+# Verify dependencies exist
+if [ ! -f "$PYTHON_BIN" ]; then
+    echo "❌ Python venv not found at $PYTHON_BIN" >&2
+    echo "   Run: python3 -m venv .venv && .venv/bin/pip install weasyprint markdown" >&2
+    exit 1
+fi
+
+# ---------------------------------------------------------------------------
+# Book metadata
+# ---------------------------------------------------------------------------
+METADATA_FILE="03_Manuscript/book_metadata.md"
+BOOK_TITLE="The Shape of the Game"
+BOOK_SUBTITLE="How iteration and selection explain the world"
+BOOK_AUTHOR="Pedro Martinez"
+
+# ---------------------------------------------------------------------------
+# Step 1: Build title page + concatenate all chapters
+# ---------------------------------------------------------------------------
+progress "Concatenating chapters..."
+
 cat << EOM > "$TEMP_MD"
 <div class="title-page">
     <div class="title-group">
-        <h1>The Shape of the Game</h1>
-        <h2>How the world was designed by accident</h2>
+        <h1>${BOOK_TITLE}</h1>
+        <h2>${BOOK_SUBTITLE}</h2>
     </div>
     <div class="author-group">
-        <p class="author">Pedro Martinez</p>
+        <p class="author">${BOOK_AUTHOR}</p>
         <p class="version">Version $VERSION | $(date +'%B %Y')</p>
     </div>
 </div>
@@ -56,25 +116,16 @@ cat << EOM > "$TEMP_MD"
 
 EOM
 
-# Append all chapters in order, cleaning them up for the book format
+CHAPTER_COUNT=0
+
 for part in Part_I Part_II Part_III Part_IV Part_V Part_VI; do
-    echo "Processing $part..."
-    
-    # Add Part Page
-    # Read metadata from 03_Manuscript/book_metadata.md
-    METADATA_FILE="03_Manuscript/book_metadata.md"
-    
-    # Extract Title and Description using sed
+    # Read Part metadata (Title & Description)
     TITLE=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Title: " | sed 's/^Title: //')
     DESC=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Description: " | sed 's/^Description: //')
 
-    # Add hidden markdown header for TOC, then the HTML display
-    # We use a span with strictly specific class to maybe hide it in PDF if we only want it in TOC?
-    # Or just let it appear as a Part Header.
-    # To act as a "divisor", we want it in the TOC.
-    # We add it as a Markdown H1 so it gets picked up.
+    # Add Part header (H1 for TOC)
     echo "# $TITLE" >> "$TEMP_MD"
-    
+
     cat << EOM >> "$TEMP_MD"
 <div class="part-page">
     <p>$DESC</p>
@@ -82,98 +133,94 @@ for part in Part_I Part_II Part_III Part_IV Part_V Part_VI; do
 EOM
 
     for file in 03_Manuscript/$part/*.md; do
-        echo "Adding $(basename "$file")..."
-        
-        sed -e '/<details>/,/<\/details>/d' \
+        [ -f "$file" ] || continue
+
+        # Strip YAML frontmatter, <details> blocks, and Draft markers
+        sed -e '1{/^---$/,/^---$/d}' \
+            -e '/<details>/,/<\/details>/d' \
             -e 's/### Draft//g' \
-            -e '/^---$/d' \
             "$file" >> "$TEMP_MD"
-            
-        # Add two blank lines to ensure separation between file content and next chapter
+
         echo -e "\n\n" >> "$TEMP_MD"
+        CHAPTER_COUNT=$((CHAPTER_COUNT + 1))
     done
 done
 
-# Define Python and WeasyPrint paths
-PYTHON_BIN="/Users/pedromartinez/Dev/book/.venv/bin/python"
-WEASYPRINT_BIN="/Users/pedromartinez/Dev/book/.venv/bin/weasyprint"
-CSS_FILE="scripts/book_style.css"
+echo "   → ${CHAPTER_COUNT} chapters concatenated"
 
-# Process Mermaid Diagrams
-echo "Processing Mermaid Diagrams..."
-TEMP_MD_MERMAID="temp_manuscript_mermaid.md"
+# ---------------------------------------------------------------------------
+# Step 2: Process Mermaid diagrams
+# ---------------------------------------------------------------------------
+progress "Processing Mermaid diagrams..."
+
+TEMP_MD_MERMAID="$TEMP_DIR/temp_manuscript_mermaid.md"
 $PYTHON_BIN scripts/process_mermaid.py "$TEMP_MD" > "$TEMP_MD_MERMAID"
 
-# Process Math Formulas (LaTeX)
-echo "Processing Math Formulas..."
-TEMP_MD_PROCESSED="temp_manuscript_processed.md"
+# ---------------------------------------------------------------------------
+# Step 3: Process Math (LaTeX formulas)
+# ---------------------------------------------------------------------------
+progress "Processing math formulas..."
+
+TEMP_MD_PROCESSED="$TEMP_DIR/temp_manuscript_processed.md"
 $PYTHON_BIN scripts/process_math.py "$TEMP_MD_MERMAID" > "$TEMP_MD_PROCESSED"
 
-# Convert MD to temporary HTML for PDF generation
-echo "Converting Markdown to HTML..."
+# ---------------------------------------------------------------------------
+# Step 4: Convert Markdown → HTML
+# ---------------------------------------------------------------------------
+progress "Converting Markdown to HTML..."
 
 cat << EOM > "$TEMP_HTML"
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$FILENAME</title>
+    <title>${BOOK_TITLE}</title>
     <link rel="stylesheet" href="../$CSS_FILE">
 </head>
 <body>
 EOM
 
-$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD_PROCESSED').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '2'}}))" >> "$TEMP_HTML"
+$PYTHON_BIN -c "
+import markdown
+print(markdown.markdown(
+    open('$TEMP_MD_PROCESSED').read(),
+    extensions=['extra', 'toc'],
+    extension_configs={'toc': {'toc_depth': '2'}}
+))
+" >> "$TEMP_HTML"
 
 cat << EOM >> "$TEMP_HTML"
 </body>
 </html>
 EOM
 
-# Save the processed MD version for reference
-cp "$TEMP_MD_PROCESSED" "$EXPORT_DIR/$FILENAME.md"
-
+# ---------------------------------------------------------------------------
+# Step 5: Generate PDF with WeasyPrint
+# ---------------------------------------------------------------------------
 if [ "$GENERATE_PDF" = true ]; then
-    echo "Generating Professional PDF with WeasyPrint..."
+    progress "Generating PDF with WeasyPrint..."
     $WEASYPRINT_BIN "$TEMP_HTML" "$EXPORT_DIR/$FILENAME.pdf"
 else
-    echo "Skipping PDF generation (--no-pdf flag detected)."
+    progress "Skipping PDF generation (--no-pdf flag)"
 fi
 
-# Remove temp HTML used for rendering
-rm -f "$TEMP_HTML"
+# ---------------------------------------------------------------------------
+# Step 6: Done — report artifact
+# ---------------------------------------------------------------------------
+progress "Export complete!"
 
-# Note: temp_manuscript*.md files are cleaned by the EXIT trap
-
-echo "------------------------------------------------"
-echo "Success! Professional Book Exported to:"
-echo "  - $EXPORT_DIR/$FILENAME.md"
 if [ "$GENERATE_PDF" = true ]; then
-    echo "  - $EXPORT_DIR/$FILENAME.pdf (Best-Seller Style)"
+    echo "CAFEZIN_ARTIFACT {\"path\":\"${EXPORT_DIR}/${FILENAME}.pdf\",\"label\":\"📖 ${BOOK_TITLE} v${VERSION}\"}"
+    echo ""
+    echo "================================================"
+    echo "  ✅ ${FILENAME}.pdf exported successfully"
+    echo "  📂 ${EXPORT_DIR}/${FILENAME}.pdf"
+    echo "  📊 ${CHAPTER_COUNT} chapters | Version ${VERSION}"
+    echo "================================================"
+else
+    echo ""
+    echo "================================================"
+    echo "  ✅ HTML generated (no PDF)"
+    echo "  📂 ${TEMP_HTML}"
+    echo "================================================"
 fi
-
-if [ "$UPLOAD_DOCS" = true ]; then
-    echo "Generating DOCX for Google Docs upload..."
-    # Generate DOCX using pandoc from RAW markdown (before HTML img processing)
-    # Pandoc handles LaTeX math natively
-    pandoc "$EXPORT_DIR/$FILENAME.md" \
-        -o "$DOCX_FILE" \
-        --from=markdown \
-        --to=docx \
-        --toc \
-        --toc-depth=2 \
-        --metadata title="The Shape of the Game" \
-        --metadata author="Pedro Martinez"
-    
-    echo "  - $DOCX_FILE"
-    
-    echo "Starting Upload to Google Docs..."
-    # Check for dependencies
-    if ! $PYTHON_BIN -c "import googleapiclient" 2>/dev/null; then
-        echo "Error: Google API client not installed. Run: pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib"
-    else
-        $PYTHON_BIN scripts/upload_to_gdocs.py "$DOCX_FILE"
-    fi
-fi
-
-echo "------------------------------------------------"
