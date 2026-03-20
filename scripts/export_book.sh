@@ -4,6 +4,12 @@
 EXPORT_DIR="07_Exports"
 mkdir -p "$EXPORT_DIR"
 
+# Cleanup temp files on exit (success or failure)
+cleanup() {
+    rm -f temp_manuscript.md temp_manuscript_mermaid.md temp_manuscript_processed.md
+}
+trap cleanup EXIT
+
 # Parse arguments
 GENERATE_PDF=true
 UPLOAD_DOCS=false
@@ -27,7 +33,7 @@ fi
 
 FILENAME="manuscript_v$VERSION"
 TEMP_MD="temp_manuscript.md"
-HTML_FILE="$EXPORT_DIR/$FILENAME.html"
+TEMP_HTML="$EXPORT_DIR/_temp_render.html"
 DOCX_FILE="$EXPORT_DIR/$FILENAME.docx"
 
 echo "Generating $FILENAME..."
@@ -103,11 +109,10 @@ echo "Processing Math Formulas..."
 TEMP_MD_PROCESSED="temp_manuscript_processed.md"
 $PYTHON_BIN scripts/process_math.py "$TEMP_MD_MERMAID" > "$TEMP_MD_PROCESSED"
 
-# Convert MD to HTML body using Python's markdown library
+# Convert MD to temporary HTML for PDF generation
 echo "Converting Markdown to HTML..."
 
-# Generate the full HTML with the professional CSS linked
-cat << EOM > "$HTML_FILE"
+cat << EOM > "$TEMP_HTML"
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,36 +123,31 @@ cat << EOM > "$HTML_FILE"
 <body>
 EOM
 
-# Append Content from MD
-$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD_PROCESSED').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '2'}}))" >> "$HTML_FILE"
+$PYTHON_BIN -c "import markdown; print(markdown.markdown(open('$TEMP_MD_PROCESSED').read(), extensions=['extra', 'toc'], extension_configs={'toc': {'toc_depth': '2'}}))" >> "$TEMP_HTML"
 
-cat << EOM >> "$HTML_FILE"
+cat << EOM >> "$TEMP_HTML"
 </body>
 </html>
 EOM
 
-# Save the MD version for reference
+# Save the processed MD version for reference
 cp "$TEMP_MD_PROCESSED" "$EXPORT_DIR/$FILENAME.md"
-
-# Save raw MD (before HTML processing) for DOCX conversion
-cp "$TEMP_MD" "$EXPORT_DIR/$FILENAME.raw.md"
 
 if [ "$GENERATE_PDF" = true ]; then
     echo "Generating Professional PDF with WeasyPrint..."
-    $WEASYPRINT_BIN "$HTML_FILE" "$EXPORT_DIR/$FILENAME.pdf"
+    $WEASYPRINT_BIN "$TEMP_HTML" "$EXPORT_DIR/$FILENAME.pdf"
 else
     echo "Skipping PDF generation (--no-pdf flag detected)."
 fi
 
-# Cleanup
-rm "$TEMP_MD"
-rm "$TEMP_MD_MERMAID"
-rm "$TEMP_MD_PROCESSED"
+# Remove temp HTML used for rendering
+rm -f "$TEMP_HTML"
+
+# Note: temp_manuscript*.md files are cleaned by the EXIT trap
 
 echo "------------------------------------------------"
 echo "Success! Professional Book Exported to:"
 echo "  - $EXPORT_DIR/$FILENAME.md"
-echo "  - $EXPORT_DIR/$FILENAME.html"
 if [ "$GENERATE_PDF" = true ]; then
     echo "  - $EXPORT_DIR/$FILENAME.pdf (Best-Seller Style)"
 fi
@@ -156,7 +156,7 @@ if [ "$UPLOAD_DOCS" = true ]; then
     echo "Generating DOCX for Google Docs upload..."
     # Generate DOCX using pandoc from RAW markdown (before HTML img processing)
     # Pandoc handles LaTeX math natively
-    pandoc "$EXPORT_DIR/$FILENAME.raw.md" \
+    pandoc "$EXPORT_DIR/$FILENAME.md" \
         -o "$DOCX_FILE" \
         --from=markdown \
         --to=docx \
