@@ -2,13 +2,13 @@
 
 The same logic of the Pattern works for more than just ideas or individuals. It also applies to collectives of people. To corporations and products.
 
-During economics class, we always start by learning about the famous curve of supply and demand. We learn about the "Invisible Hand" of the market. We are told how they work, but nobody really explains *why* they work.
+During economics class, we always start by learning about the supply-and-demand curve. We learn about the "Invisible Hand" of the market. We are told how they work, but nobody really explains *why* they work.
 
 With our current lens, I think we can.
 
 And I have a confession: the Invisible Hand? It's not a hand. It's a meat grinder.
 
-We talk about supply and demand like they are lines on a graph in a quiet classroom. But in the real world, it's a million bakers, artists, and engineers scrambling to stay afloat.
+We talk about supply and demand as if they were lines on a graph in a quiet classroom. But in the real world, it's a million bakers, artists, and engineers scrambling to stay afloat.
 
 Open an economics textbook, and you will see a simple graph. One line goes up (Supply), one line goes down (Demand). Where they cross, you find the **Price**. It feels like a law of gravity.
 
@@ -39,9 +39,9 @@ In the stock market, millions of trades happen every second. High-Frequency Trad
 It takes months to launch a new iPhone or a new sneaker. The loop is longer. Apple iterates, releases, waits for sales numbers (Feedback), and then designs the next one. The adaptation happens, but on a timescale of years.
 
 **Culture** evolves the slowest.
-How a company organizes itself (its management style, its hierarchy, its values) adapts very slowly. If a Manager tries a new way of leading (Variance), it might take two years to see if it improved the team's output (Feedback).
+How a company organizes itself (its management style, its hierarchy, its values) adapts very slowly. If a Manager tries a new way of leading (Variance), it might take 2 years to see whether it improves the team's output (Feedback).
 
-But even at this slow pace, the Pattern dictates the shape. In the 1920s, the dominant management meme was **Fordism**: rigid, hierarchical, optimized for mass production. By the 1980s, markets had become too fast and complex for that structure. A new meme emerged: **Lean**. It decentralized decisions. It valued agility over obedience. The market chose the one that better solved the profit equation.
+But even at this slow pace, the Pattern dictates the shape. In the 1920s, the dominant management meme was **Fordism**: rigid, hierarchical, optimized for mass production. By the 1980s, markets had become too fast and complex for that structure. Fordism thrived because people didn't have the products, so getting one was the value. As the meme spread, products became a commodity, and differentiation and variety became more desirable. A new meme emerged: **Lean**. It decentralized decisions. It valued agility over obedience. The market chose the one that solved the profit equation better.
 
 Corporate culture is not just "vibes." It is the group's operating system. If it doesn't update to keep pace with the market, the system crashes.
 
@@ -58,7 +58,7 @@ The cigarette gives its feedback twenty years later. Cancer. By then, the brain 
 
 That delay between action and consequence is what we call **Latency**. And it explains a lot.
 
-Stock prices have near-zero latency. A trade happens, the result is visible in milliseconds. That is why they adapt so fast. Corporate culture? Enormous latency. A new CEO changes the management philosophy. Did it work? Ask again in three years. By then, the market has shifted, half the team has quit, and the CEO credits the turnaround to "vision" or blames the failure on their predecessor.
+Stock prices have near-zero latency. A trade happens, and the result is visible in milliseconds. That is why they adapt so fast. Corporate culture? Enormous latency. A new CEO changes the management philosophy. Did it work? Ask again in three years. By then, the market has shifted, half the team has quit, and the CEO credits the turnaround to "vision" or blames the failure on their predecessor.
 
 If you can't feel the consequence, you can't correct the action.
 
@@ -72,7 +72,7 @@ Now consider a tech company running an A/B test on a digital ad. They show versi
 
 That purity is what we'll call **Clarity**: the signal-to-noise ratio of your feedback. And it's one of the reasons the tech sector iterates faster than almost any other industry. It's not just culture or talent. It's that their feedback loop is clean. When you can isolate the signal from the noise, every iteration teaches you something. When you can't, you're just guessing.
 
-So now we have two dials: latency (how fast the signal arrives) and clarity (how clean it is when it gets there). Together they explain why some parts of a corporation evolve at lightning speed while others feel frozen in amber. The stock price adapts because the signal is instant and clean. The culture barely moves because the signal is delayed and muddled. Both are running the Pattern. One just has a much tighter loop.
+So now we have two dials: latency (how quickly the signal arrives) and clarity (how clean it is when it arrives). Together, they explain why some parts of a corporation evolve at lightning speed while others feel frozen in amber. The stock price adapts because the signal is instant and clean. The culture barely moves because the signal is delayed and muddled. Both are running the Pattern. One just has a much tighter loop.
 
 ### The Profit Filter
 
@@ -84,12 +84,12 @@ In business, the metric is **Profit**.
 Profit isn't a moral goal. It is an energetic constraint.
 A company can have the noblest mission in the world, but if it cannot capture enough energy (Revenue) to sustain its complexity (Cost), the environment will select it out.
 
-This is why companies naturally evolve towards efficiency. It isn't because capitalists are "greedy" (though they might be); it is because the Pattern systematically deletes any organism that wastes energy.
+This means the Pattern is constantly filtering companies. It is a mechanical process of survival, not a moral judgment on greed.
 
-This same logic explains why the Pattern can optimize a company into something no one intended. When the feedback loop rewards quarterly profit, the system learns to cut research, squeeze suppliers, and defer maintenance — because the filter rewards it. We'll see how this optimization can go catastrophically wrong in Part III.
+And here's the uncomfortable part. There will always be outliers. CEOs who invest in people, companies that genuinely try to do things differently. The variation exists, it is natural, even inevitable. But what the Pattern *propagates* across industries and decades is what passes the filter. And the filter has a bias you don't notice until you step back.
 
-Of course, companies are not mindless organisms. CEOs make choices. Boards set strategies. People inside these vehicles have agency, and sometimes they use it in ways that are clearly intentional and clearly harmful. But the Pattern explains *why* those choices cluster in a direction. The profit filter doesn't excuse the behavior. It explains why the behavior keeps appearing, even after you replace the people.
+Survival doesn't mean thriving. It means not dying. And the fastest path to not dying is cutting costs. Growing revenue is slow, uncertain, and takes years of iteration. Cutting research, cutting headcount, cutting quality, that feedback closes in weeks. The loop is fast. The lesson is clear.
 
-Millions of mechanisms (prices, products, strategies) are being tested every day. The ones that align with the market's Value Function survive. The ones that don't are composted.
+So over time, the Pattern doesn't select for *better* companies. It selects for *leaner* ones. Not because anyone chose this. The filter just rewards what survives, and efficiency outpaces growth.
 
-The Corporation is just a higher-order vehicle for the same code. But there is one vehicle even larger than the corporation. One that sets the rules for everyone else.
+The Pattern is not cruel. It is indifferent. But at scale, indifference has a direction. We will see exactly where it points in Part III.
