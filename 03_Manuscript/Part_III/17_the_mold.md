@@ -1,17 +1,16 @@
 ## Chapter 17: The Mold (Synthesis)
 
-<!-- FLAG-OPENER: Abstract thesis opener. Starts with a conceptual summary rather than a hook. The water/cup metaphor a few lines down is great — consider leading with that image or a personal example of being "molded" before dropping the thesis. -->
-We often treat the Value Function as a maze we have to run through. A set of external obstacles, like the Rules, the Track, and the Competitors. We think that once we find the exit, we can walk away and be the same person we were when we entered.
+There is a famous idea in martial arts: be like water. If you put water into a cup, it becomes the cup. If you put it into a bottle, it becomes the bottle.
 
-But if you run the same maze every day for ten years, you don't just learn the route. You physically adapt to it. Your brain optimizes for the turns. Your muscles build memory for the friction. 
+This is one of the best ways to think about the Pattern. Because Iteration + Variation, over time, creates adaptation. And that force doesn't just shape outcomes. It shapes *you*. Just like water takes the shape of its container, the Value Function molds its players.
+
+### The Maze Gets Inside You
+
+We often treat the Value Function as a maze we have to run through. A set of external obstacles: the Rules, the Track, the Competitors. We think that once we find the exit, we walk away unchanged.
+
+But if you run the same maze every day for ten years, you don't just learn the route. You physically adapt to it. Your brain optimizes for the turns. Your muscles build memory for the friction.
 
 The maze gets inside you.
-
-### The Water and the Cup
-
-There is a famous idea in martial arts: be like water. If you put water into a cup, it becomes the cup. If you put it into a bottle, it becomes the bottle. This metaphor is one of the best ways to think of the Pattern.
-
-Because Iteration + Variation, over time, creates adaptation. And that force doesn't just shape outcomes. It shapes *you*. Just like water takes the shape of its container, the Value Function molds its players.
 
 We tend to think about the pattern as something external: incentives, environment, competitors, actions, strategies.
 
@@ -50,7 +49,7 @@ Your five friends are the glue that holds your current shape in place. If you wa
 
 ### The Navigation
 
-This is the final lesson of Part III, and it is the bridge between understanding the world and changing it.
+This is the final lesson of Part III, the bridge between understanding the world and changing it.
 
 We optimize ourselves to fit the world we are in. The visible traits you have (your habits, your fears, your desires) are often adaptations to the feedback loops you live inside.
 
@@ -101,7 +100,7 @@ We often blame our "character" for these failures, but it's usually just a matte
 
 Finally, we have the third variable, the Context.
 
-You can follow the rules and master the track, but you might still lose because you are judging your performance in a vacuum. The Pattern judges you **Relatively**.
+You can follow the rules and master the track, but you might still lose because you are judging your performance in a vacuum. The Pattern judges you **relatively**.
 
 Your value often depends on scarcity.
 *   Being a "hard worker" (10 hours a day) is a huge advantage if everyone else works 8 hours.

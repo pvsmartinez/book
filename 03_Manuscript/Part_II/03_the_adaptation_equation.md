@@ -30,7 +30,7 @@ Of course, it won't learn with just one cookie. But the next time, the dog is mo
 
 If you never gave the cookie, the dog would never learn. Without the feedback, there is no learning, only guessing. This is the fundamental building block of the Pattern: **Iteration**.
 
-An action without feedback cannot be considered an iteration because no learning or optimization is happening. Each action-feedback pair is a single loop of the engine.
+An action without feedback cannot be considered an iteration, as no learning or optimization occurs. Each action-feedback pair is a single loop of the engine.
 
 And this is why the pattern is everywhere. As we have all heard from the laws of physics, every action has a reaction, which means that probably every action will have feedback. The catch? The feedback might not be on what you think it is.
 
@@ -74,7 +74,7 @@ You need to try something different. A new opening. A more aggressive style. A d
 
 Eventually, one variation will work. You'll find a pattern your opponent can't answer. Your brain registers the win not just as feedback, but as a direction: "This path is working." The losses told you where NOT to go. The win tells you where to go.
 
-In machine learning, we often run into the same problem. An AI gets "stuck." It finds a strategy that is *okay* (like running into a wall to avoid getting shot in a video game), and it keeps doing it forever. It stopped learning because it stopped trying new things.
+In machine learning, we often run into the same problem. An AI gets "stuck." It finds a strategy that is *okay* (like running into a wall to avoid being shot in a video game) and keeps doing it forever. It stopped learning because it stopped trying new things.
 
 To fix this, engineers artificially inject "noise." They force the AI to try random, seemingly dumb moves. They force it to have **Variance**. By forcing these attempts through enough iterations, the system eventually discovers the optimal path.
 
@@ -97,7 +97,7 @@ Suddenly, you don't need billions of years. You might get "To be or not to be" i
 
 With this filter, this **Selection**, we can make the monkey write Shakespeare, Aristotle, or any other book. Selection gave direction to the randomness and defined the result.
 
-This is the bridge between the random noise of the universe and the complex order of the world.
+This is the bridge between the universe's random noise and the world's complex order.
 1.  **Iteration:** Try many things.
 2.  **Variance:** Try them differently.
 3.  **Selection (The Filter):** Keep only the ones that work.
@@ -106,20 +106,3 @@ The result is **Adaptation**.
 
 $$Adaptation Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
 
-### The Engine is Built
-
-So what does this all add up to?
-
-A dog tries random movements and gets a cookie. A chess player tries new openings and gets a rating. A monkey hits keys and gets a click. Different stories. Same engine underneath.
-
-If a system iterates with variance, and a filter keeps the winners and discards the rest, that system will adapt. Not because it is "trying" to. Because the math leaves no alternative.
-
-This is the Pattern. It is not a metaphor or a philosophy. It is a mechanical consequence of the interaction between iteration and selection.
-
-How each variable is defined (how fast the iterations run, how wide the variance swings, how strict the filter selects) affects how quickly and strongly adaptation occurs. This can be a fast or slow process. It can be intentional (a scientist designing an experiment) or a consequence of physical forces (a river carving a canyon).
-
-The Pattern doesn't require intelligence. It doesn't require a plan. It just requires the loop.
-
-In the next chapters, we will see this loop at work in brains, genes, ideas, markets, and nations. The specifics change every time. The engine never does.
-
-Let's dive deeper.

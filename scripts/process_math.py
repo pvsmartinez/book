@@ -21,12 +21,20 @@ def process_math(content):
         
         return f'<img class="math-formula" src="{img_url}" alt="{latex}">'
 
+    # First, protect currency values like $3,000 from being matched as math.
+    # Replace $<digits> with a placeholder that won't match the math regex.
+    currency_placeholder = "CURRENCY_DOLLAR_SIGN"
+    content_safe = re.sub(r'\$(\d)', rf'{currency_placeholder}\1', content)
+
     # Matches:
     # 1. $$...$$ (Standard Block Math)
     # 2. $\n...\n$ (User's newline style Block Math)
     # 3. $...$ (Inline Math, no newlines)
     pattern = r'(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$\n([\s\S]+?)\n\$|(?<!\\)\$([^\$\n]+)\$'
-    result = re.sub(pattern, replace_math, content)
+    result = re.sub(pattern, replace_math, content_safe)
+
+    # Restore currency signs
+    result = result.replace(currency_placeholder, '$')
     
     # After math processing, unescape \$ to plain $ for normal currency text
     result = result.replace('\\$', '$')

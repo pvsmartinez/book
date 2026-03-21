@@ -91,5 +91,3 @@ And here's the uncomfortable part. There will always be outliers. CEOs who inves
 Survival doesn't mean thriving. It means not dying. And the fastest path to not dying is cutting costs. Growing revenue is slow, uncertain, and takes years of iteration. Cutting research, cutting headcount, cutting quality, that feedback closes in weeks. The loop is fast. The lesson is clear.
 
 So over time, the Pattern doesn't select for *better* companies. It selects for *leaner* ones. Not because anyone chose this. The filter just rewards what survives, and efficiency outpaces growth.
-
-The Pattern is not cruel. It is indifferent. But at scale, indifference has a direction. We will see exactly where it points in Part III.

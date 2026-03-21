@@ -19,7 +19,7 @@ They sat back and waited for the "Invisible Hand" to do its magic. And for a whi
 
 But there was a bug in the source code.
 
-The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle), and they looked at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to breed cobras in their basements.
+The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle) and at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to breed cobras in their basements.
 
 Suddenly, Delhi had a thriving new industry: **Cobra Farming.** 
 
@@ -29,10 +29,9 @@ Delhi ended up with more cobras than it had at the start.
 
 ### The Success of the Wrong Goal
 
-<!-- FLAG-DEFINITION: "This is the **Cobra Effect**." Glossary stamp after a well-told story. Could flow better: "They named this the Cobra Effect" or just let the story land without the textbook label. -->
-This is the **Cobra Effect**. It is the most famous example of a "Perverse Incentive," but it is also a fundamental law of System Design.
+They named it the **Cobra Effect**. It became the most famous example of a "Perverse Incentive," but it is also a fundamental law of System Design.
 
-The government didn't "fail." In fact, the Value Function succeeded perfectly. It requested cobra skins, and it received them in record-breaking numbers. The system didn't care that the skins were coming from a farm instead of the street. It only cared about the count.
+The government didn't "fail." In fact, the Value Function succeeded perfectly. It requested cobra skins and received them in record numbers. The system didn't care that the skins were coming from a farm instead of the street. It only cared about the count.
 
 This is what I call a **Successful Failure**. 
 
@@ -81,8 +80,7 @@ You know that the "Exam Factory" students have a much higher chance of getting i
 
 Most parents wouldn't. They chose the "Exam Factory."
 
-<!-- FLAG-DEFINITION: "This is the **Exam Trap**." Same stamp pattern. -->
-This is the **Exam Trap**. Nobody designed it on purpose. It is the result of millions of individual, rational choices made by parents who want the best for their children.
+Nobody designed it on purpose. But there's a name for what happened: the **Exam Trap**. The result of millions of individual, rational choices made by parents who want the best for their children.
 
 ### The Metric is the Message
 

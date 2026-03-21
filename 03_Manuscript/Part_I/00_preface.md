@@ -8,7 +8,7 @@ In the case of games and digital products, we are not just creating a passive me
 
 As we craft these systems, we slowly learn how behavior repeats itself. We see patterns emerging in places that shouldn't have anything in common.
 
-I've started seeing these behaviors, these systemic consequences, everywhere. From how the news ecosystem evolved, to which YouTubers grew, to politics, or even to the pandemic. Observing how these unrelated topics changed over time, combined with my studies in machine learning and AI simulations, led me to see an underlying pattern across them.
+I've started seeing these behaviors and these systemic consequences everywhere. From how the news ecosystem evolved, to which YouTubers grew, to politics, or even to the pandemic. Observing how these unrelated topics changed over time, combined with my studies in machine learning and AI simulations, led me to see an underlying pattern across them.
 
 Wherever there is action, feedback, and variation — optimization follows. I call this **The Pattern**.
 
@@ -26,7 +26,7 @@ This book isn't a textbook or a grand academic theory. It’s a pair of glasses.
 
 The pattern is not an underlying force that makes all those systems do what they do. It is closer to a mathematical lens on all these systems and on their consequences. It does not explain how or why something was optimized as it was. But it explains why, when a goal or external force filters individual actions, individuals, or attempts, optimization occurs and, with it, common patterns.
 
-To explain and illustrate this theory to you, I will need to use simplified models and examples across dozens of topics, ranging from biological evolution and sociology to politics and career archetypes. This book is not meant to be the truth about everything, and in these examples, I will try to be neutral and present them as they are, without making value judgments. I'm not an expert in most of these, so please focus on the message of the pattern more than the example at hand.
+To explain and illustrate this theory to you, I will need to use simplified models and examples across dozens of topics, ranging from biological evolution and sociology to politics and career archetypes. This book is not meant to be the truth about everything, and in these examples, I will try to be neutral and present them as they are, without making value judgments.
 
 You should also know where I am standing. I am writing this from my own specific vantage point: that of a Brazilian computer engineer and game designer. You will find many examples drawn from the tech industry, video games, and Brazil's complex socio-economic reality.
 

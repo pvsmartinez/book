@@ -29,7 +29,7 @@ Now, watch how the **Competitors** (the population) dictate the value of these a
 
 If you live in a world of **Pure Doves**, being a Dove is great. Everyone is polite, and you share the meat. But this world is an "Evolutionary Vacuum." If a single **Hawk** mutant appears, it becomes a god. It wins every single fight without ever getting injured (because Doves always run). The Hawk eats better, reproduces faster, and soon the population is flooded with Hawks.
 
-But a world of **Pure Hawks** is a nightmare. Everyone is constantly bleeding. The "cost of injury" is so high that the average bird is worse off than if it had no meat at all. In this bloody world, if a **Dove** mutant appears, it suddenly has the "winning" strategy. Why? Because the Dove loses every fight, but it *never gets injured*. Zero is a better score than negative. As Hawks are expected to die fighting, a player who won't die in interactions will eventually find a prize with no contestants.
+But a world of **Pure Hawks** is a nightmare. Everyone is constantly bleeding. The "cost of injury" is so high that the average bird is worse off than if it had no meat at all. In this bloody world, if a **Dove** mutant appears, it suddenly has the "winning" strategy. Why? Because the Dove loses every fight, but it *never gets injured*. Zero is a better score than a negative score. As Hawks are expected to die fighting, a player who won't die in interactions will eventually find a prize with no contestants.
 
 The Dove thrives in a world of Hawks. The Hawk thrives in a world of Doves.
 
@@ -56,7 +56,7 @@ If you ever wondered why old games were so absurdly difficult, now you know. It 
 
 ### The Home Comforts
 
-Then the Track changed. We got **Consoles** and **PCs** inside our homes.
+Then the Track changed. We have consoles and PCs in our homes.
 
 Suddenly, you didn't pay per life; you paid once for the box. Rotation no longer mattered. If you lost too much, you'd get frustrated and not buy the sequel.
 

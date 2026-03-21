@@ -37,7 +37,7 @@ In an arms race, "staying the same" is not an option. If you stay the same, you 
 
 This phenomenon, where two sides iterate furiously to maintain the status quo, has a name. It is known as the **Red Queen Effect**.
 
-It is named after the character in *Alice in Wonderland* who said: "Now, here, you see, it takes all the running you can do, to keep in the same place."
+It is named after the character in *Alice in Wonderland* who said, "Now, here, you see, it takes all the running you can do, to keep in the same place."
 
 We see this cat-and-mouse game everywhere: in pesticides and bugs, in tax codes and loopholes, in movie stars and gym memberships. The players change, the technology changes, but the arms race never ends.
 
@@ -65,7 +65,7 @@ The same pattern plays out in courtrooms and legislatures.
 
 Consider tax law. In 1913, the U.S. federal tax code was 400 pages. Today, it exceeds 70,000 pages. Did human commerce become 175 times more complex? Not really. What happened was an arms race.
 
-Every time Congress closes a loophole, an army of lawyers and accountants gets to work finding a new one. Every new regulation creates a new optimization problem. The corporations hire smarter people, develop more creative structures, and exploit the gaps that inevitably exist in any written rule.
+Every time Congress closes a loophole, an army of lawyers and accountants gets to work finding a new one. Every new regulation creates a new optimization problem. The corporations hire smarter people, develop more creative structures, and exploit the inevitable gaps in any written rule.
 
 So Congress writes more rules. More specific. More detailed. More pages.
 
@@ -85,7 +85,7 @@ Twenty years later, the standard has shifted so dramatically that Jackman's 2000
 
 What happened? An arms race.
 
-Each new blockbuster raised the bar slightly. Each actor who showed up more shredded than the last created pressure on the next one. Audiences adapted. What was once "impressive" became "normal." What was once "normal" became "out of shape."
+Each new blockbuster raised the bar slightly. Each actor who showed up more shredded than the last put pressure on the next. Audiences adapted. What was once "impressive" became "normal." What was once "normal" became "out of shape."
 
 The result is that actors today work far harder than their predecessors and get roughly the same audience reaction. They are running faster to stay in place. Meanwhile, ordinary men compare themselves to these increasingly extreme physiques and feel inadequate, not realizing they're measuring themselves against the output of an arms race rather than a reasonable human standard.
 
@@ -99,7 +99,7 @@ Today, a bachelor's degree is the bare minimum for an entry-level position. Many
 
 What changed? Everyone got degrees.
 
-When everyone has the same qualification, the qualification stops differentiating you. So candidates add more: another degree, another certification, another unpaid internship. Employers adapt by raising requirements. The bar keeps rising.
+When everyone has the same qualification, that qualification no longer differentiates you. So candidates add more: another degree, another certification, another unpaid internship. Employers adapt by raising requirements. The bar keeps rising.
 
 The cruel irony is that the actual *work* often hasn't changed. The same tasks that a high school graduate performed competently in 1970 now "require" a master's degree. The job isn't harder. The arms race inflated the entry requirements.
 
@@ -112,7 +112,7 @@ This is the third outcome: **Escalation**.
 In an arms race, the environment isn't a wall. The environment is *you*. And for you, the environment is *them*.
 
 Iteration is no longer a solo performance. It is a duet. 
-Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve *you*.
+Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve for *you*.
 
 The tragedy of the arms race is that it often produces no net benefit. The cheetah and gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. The actors train twice as hard for the same applause. The graduates study twice as long for the same jobs.
 

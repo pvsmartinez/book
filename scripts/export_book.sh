@@ -119,9 +119,17 @@ EOM
 CHAPTER_COUNT=0
 
 for part in Part_I Part_II Part_III Part_IV Part_V Part_VI; do
-    # Read Part metadata (Title & Description)
-    TITLE=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Title: " | sed 's/^Title: //')
-    DESC=$(sed -n "/^## $part$/,/^##/p" "$METADATA_FILE" | grep "^Description: " | sed 's/^Description: //')
+    # Read Part metadata (Title & Description) — awk for macOS/Linux compatibility
+    TITLE=$(awk -v p="$part" '
+        $0 == "## " p { found=1; next }
+        found && /^## / { exit }
+        found && /^Title: / { sub(/^Title: /, ""); print; exit }
+    ' "$METADATA_FILE")
+    DESC=$(awk -v p="$part" '
+        $0 == "## " p { found=1; next }
+        found && /^## / { exit }
+        found && /^Description: / { sub(/^Description: /, ""); print; exit }
+    ' "$METADATA_FILE")
 
     # Add Part header (H1 for TOC)
     echo "# $TITLE" >> "$TEMP_MD"
@@ -135,11 +143,21 @@ EOM
     for file in 03_Manuscript/$part/*.md; do
         [ -f "$file" ] || continue
 
-        # Strip YAML frontmatter, <details> blocks, and Draft markers
-        sed -e '1{/^---$/,/^---$/d}' \
-            -e '/<details>/,/<\/details>/d' \
-            -e 's/### Draft//g' \
-            "$file" >> "$TEMP_MD"
+        # Strip YAML frontmatter (between --- markers at top of file)
+        # Strip <details> blocks
+        # Strip Draft markers
+        awk '
+        BEGIN { in_front=0; in_details=0; first_line=1 }
+        first_line && /^---$/ { in_front=1; first_line=0; next }
+        in_front && /^---$/ { in_front=0; next }
+        in_front { next }
+        { first_line=0 }
+        /<details>/ { in_details=1; next }
+        /<\/details>/ { in_details=0; next }
+        in_details { next }
+        /^### Draft/ { next }
+        { print }
+        ' "$file" >> "$TEMP_MD"
 
         echo -e "\n\n" >> "$TEMP_MD"
         CHAPTER_COUNT=$((CHAPTER_COUNT + 1))

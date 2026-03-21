@@ -12,7 +12,7 @@ Remember the **Hawks** and **Doves**? Let's open the actual ledger, because the 
 
 The **Environment** writes the numbers: food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time, but nobody bleeds: **+15 each**.
 
-| You ↓ / Opponent → | **vs. Hawk** | **vs. Dove** |
+| You \ Opponent | **vs. Hawk** | **vs. Dove** |
 | :--- | :--- | :--- |
 | **Play Hawk** | **Fight:** 50% win, 50% injured.<br/>Avg: **-25** | **Victory:** Opponent runs.<br/>**+50** |
 | **Play Dove** | **Flee:** No food, no injury.<br/>**0** | **Posture & Share:**<br/>**+15** |
@@ -31,7 +31,7 @@ Imagine we move this population from a fertile forest to a harsh desert. **Scarc
 
 The Matrix rewriting itself:
 
-| You ↓ / Opponent → | **vs. Hawk** | **vs. Dove** |
+| You \ Opponent | **vs. Hawk** | **vs. Dove** |
 | :--- | :--- | :--- |
 | **Play Hawk** | **Fight:** (+500 or -100) / 2<br/>Avg: **+200 points** | **Victory:** **+500 points** |
 | **Play Dove** | **Flee:** **0 points** | **Share:** **+250 points** |
@@ -68,9 +68,9 @@ If your partner betrays, you *must* betray (5 years is better than 10 years).
 Both prisoners, acting rationally, choose to betray. The result? **Both get 5 years.**
 But look at the irony: If both had stayed silent, **both would have gotten only 1 year.**
 
-The best outcome was right there. But the **Rules** of the system made it mathematically impossible to reach. Each rational actor, acting on their incentives, drove the system into a trap.
+The best outcome was right there. But the system's Rules made it mathematically impossible to reach. Each rational actor, acting on their incentives, drove the system into a trap.
 
-Unlike the Hawk/Dove game, which finds a balance, the Prisoner's Dilemma has **no stable cooperative state**. If we both promise to be silent, I have a massive incentive to break my promise and go free. The system slides inevitably into the bottom-right corner: mutual misery.
+Unlike the Hawk/Dove game, which has a stable equilibrium, the Prisoner's Dilemma has **no stable cooperative state**. If we both promise to be silent, I have a massive incentive to break my promise and go free. The system slides inevitably into the bottom-right corner: mutual misery.
 
 ### The Meeting Dilemma
 
@@ -101,6 +101,6 @@ But there is a third type.
 A type where the trap doesn't just sit still. A type where the "Defect" move isn't just a decision, but an **escalation**.
 
 When the Prisoner's Dilemma meets the force of Evolution, it creates something much more dangerous than a long meeting.
-It creates a race that no one can win, and no one can stop.
+It creates a race that no one can win or stop.
 
 It creates the **Red Queen**.

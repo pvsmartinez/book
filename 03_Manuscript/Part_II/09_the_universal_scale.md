@@ -56,14 +56,14 @@ It's not that the slow ones aren't working. They're just on a different clock.
 
 And the speed of the loop determines how fast things adapt. A market can correct a bad signal in days. A cultural norm can take a generation to form. This is why it's so easy to be patient with fast systems and so frustrated with slow ones. The frustration is real. But so is the loop.
 
-### One Thing Left Unsaid
+### The Fractal
 
-Throughout this part of the book, we've simplified something. When we talked about companies, we said the filter was profit. When we talked about governments, we said it was electoral survival. When we talked about evolution, we said it was reproductive fitness.
+The pattern is everywhere. It does not explain how things work, but it explains where they go. It explains how they take shape over time.
 
-Those are real filters. But they're not the full story.
+They are the **Shape of the Game**.
 
-Profit in what timeframe? Survival according to whom? Fitness for an environment that might not exist tomorrow?
+No matter the individual efforts, the admiring varied attempts, the intent and effort, we might see variations, but in the long run, what is being selected defines the bodies, the behaviors, the thoughts, the mediums. The pattern is a force at every scale.
 
-The filter isn't just "there." Someone, or something, sets it. And what gets optimized depends entirely on how the filter is defined. This is the part we haven't looked at yet.
+The fractal of evolution defines the shape and is relentless, but it's not uncontrollable or unchangeable. It just means that a direction is set, and the chaotic attempts will be shaped by it.
 
-In Part III, we will.
+But the direction can be tweaked.

@@ -10,7 +10,7 @@ Is there a secret "University of Sales" that teaches everyone to be the same?
 
 Actually... yes. There are thousands of them. There are seminars, books, courses, and mentors all teaching the same techniques: "Mirror the client's body language," "Ask open-ended questions," "Always be closing."
 
-So, is that the answer? Salespeople are charming because they were taught to be charming?
+So, is that the answer? Are salespeople charming because they were taught to be charming?
 
 It seems obvious, but ask yourself: Who wrote the books?
 
@@ -20,7 +20,7 @@ A central committee didn't write the books. The survivors wrote them.
 
 Imagine the thousands of people who tried to sell something for the first time.
 
-Most of them failed. Some tried to force the sale and got rejected. Some were too timid and never closed. Some tried to be overly logical, boring the customer to death.
+Most of them failed. Some tried to force the sale and got rejected. Some were too timid to close. Some tried to be overly logical, boring the customer to death.
 
 But a few stumbled upon something that worked.
 
@@ -66,7 +66,7 @@ We will build this notion layer by layer. First, by identifying when this patter
 
 Then we will look at what shapes its own direction and how it evolves. This will add a lot of nuance and will feel a bit nihilistic. The pattern is really strong, so that things will feel unavoidable. But don’t worry.
 
-The end of the book will add the final layer: system design and how a gardener can tweak the system to change its trajectory. It might be unavoidable that a tree will grow, but how the tree grows can be directed. It might be unavoidable that the pattern optimizes, but it's possible to change its direction.
+The end of the book will add the final layer: system design and how a gardener can tweak the system to change its trajectory. It may be unavoidable that a tree will grow, but how it grows can be directed. It might be unavoidable that the pattern optimizes, but it's possible to change its direction.
 
 Once again, these lenses will come step by step, layer by layer.
 

@@ -12,9 +12,9 @@ I feel it, and I know you feel it, too. It’s a specific kind of exhaustion.
 
 By 2010, the headlines started getting a bit louder. We had the Great Recession, the sudden rise of social media, and a feeling that things were moving faster than we could process.
 
-By 2020, the volume was a deafening roar. A global pandemic, trillion-dollar companies, and political divisions that felt less like "disagreements" and more like "civil wars."
+By 2020, the volume was deafening. A global pandemic, trillion-dollar companies, and political divisions that felt less like "disagreements" and more like "civil wars."
 
-It’s easy to look at this chaos and think the world is breaking. Those things are falling apart. Politics doesn't just feel like a disagreement anymore; it feels like a war, with the soldiers being your neighbors. Wealth doesn't just feel unequal; it feels impossible, with numbers so large they stop making sense. Our attention spans have been shattered into 15-second clips, and we sit there, scrolling, feeling both overstimulated and numb at the same time.
+It’s easy to look at this chaos and think the world is breaking. Those things are falling apart. Politics doesn't just feel like a disagreement anymore; it feels like a war, with the soldiers being your neighbors. Wealth doesn't just feel unequal; it feels impossible, with numbers so large they no longer make sense. Our attention spans have been shattered into 15-second clips, and we sit there, scrolling, feeling both overstimulated and numb at the same time.
 
 But I am an optimist by nature. I spend my life building systems, designing games, and creating products, and when I look at this chaos, I don't see a broken machine. I see a machine that is working *too well*.
 

@@ -16,7 +16,7 @@ This feels right to us because it’s how *we* learn. If I practice the piano, I
 
 The reality of the giraffe is much more brutal. It wasn't about "trying"; it was about "dying."
 
-Consider a population of ancient, short-necked giraffes. Because of random genetic mutations—**Variance**—some were born with necks that were just an inch longer than the others.
+Consider a population of ancient, short-necked giraffes. Because of random genetic mutations (**Variance**), some were born with necks just an inch longer than others.
 
 Then came the **Environment**. The trees were tall. The food was high up.
 
@@ -26,7 +26,7 @@ Repeat this loop for a million years. The "design" of the giraffe didn't come fr
 
 The Pattern isn't a victory march. It’s a cemetery. We only see the winners because the losers aren't around to tell their story.
 
-Biologist Richard Dawkins reframed this in *The Selfish Gene*. The giraffe is just a survival machine, a vehicle built by the genes to ensure their own propagation. The genes provide the variance (the slightly longer neck blueprint), and the environment does the selection. The code that works gets copied; the code that fails is deleted.
+Biologist Richard Dawkins reframed this in *The Selfish Gene*. The giraffe is just a survival machine, a vehicle built by the genes to ensure their own propagation. The genes provide the variation (the slightly longer-necked blueprint), and the environment does the selection. The code that works gets copied; the code that fails is deleted.
 
 ### The Fast-Forward Engine
 
@@ -56,6 +56,6 @@ When we introduced vaccines, we built a wall. But the virus didn't stop. It just
 
 That's how we got Omicron and the other versions. That is how the virus waves kept returning. The virus was not doing this on purpose. It was iterating. It was adapting faster than us.
 
-Both the giraffe and the virus are the same story at different speeds. Natural selection can be quick of slow, it depends on iteration time, and variation amount. But it does happen. It does work. It does optimize. 
+Both the giraffe and the virus are the same story at different speeds. Natural selection can be quick or slow. But it happens and can't be stopped.
 
 No intent is needed.

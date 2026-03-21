@@ -58,7 +58,7 @@ Then came Cable (CNN, Fox, MSNBC, GloboNews). The constraints flipped.
 *   **Space:** Infinite (24 hours to fill).
 *   **Payment:** Ads (Attention).
 
-They need you to *not change the channel*.
+They need you not to change the channel*.
 "Trust" is a slow burn. But "Fear" is immediate. If I tell you "Everything is fine," you change the channel to watch a sitcom. If I tell you, "There is a threat to your children," you stay.
 The Track changed from a "Morning Briefing" to a "24-Hour Anxiety Loop." The organisms adapted. The "boring" journalist went extinct; the "alarmist" pundit thrived.
 
@@ -92,7 +92,7 @@ In the early days, YouTube's **Rule Set** was simple: **Views**.
 The system rewarded whatever got clicked. If you clicked, the creator got a point.
 
 Think about what survives in this environment. If you spend three months making a thoughtful documentary, you get one thumbnail. If you spend ten minutes filming your cat jumping into a box, you also get one thumbnail.
-Since the reward is equal, the winning strategy is **Volume**.
+Since the reward is equal, the winning strategy is to go for **Volume**.
 The "Click Era" was dominated by the "Reply Girl," misleading thumbnails with red arrows, and 10-second clips of people getting hit in the crotch.
 "Smart" content physically could not survive. Intelligence requires time, and the medium didn't sell time. It sold clicks.
 
@@ -115,18 +115,18 @@ PewDiePie didn't become the biggest star in the world by accident. He was the pe
 
 The creators didn't wake up one day and decide to become gamers. The **Track** was selected for them.
 
-Do you see the pattern? Each time the algorithm changed, the dominant species changed with it. Not because creators chose to adapt, but because the ones who didn't were replaced by the ones who did.
+Do you see the pattern? Each time the algorithm changed, the dominant species changed with it. Not because creators chose to adapt, but because those who didn't were replaced by those who did.
 
 In a sense, today's news looks more like YouTube's early days (nonsense videos, misleading clickbait) than like the newspapers where journalism was born.
 
-The Algorithm of social media is not evil. It is just counting clicks (or watch time). But because the **Track** requires immediate, high-speed engagement, the System selects for polarization. It selects for the content that infects the most hosts in the shortest time.
+The social media algorithm is not evil. It is just counting clicks (or watch time). But because the **Track** requires immediate, high-speed engagement, the System selects for polarization. It selects for the content that infects the most hosts in the shortest time.
 
 And the force is enormous. These platforms have so many creators and views that they exhibit significant variance and a staggering rate of iteration. The rate of adaptation on platforms like YouTube or TikTok rivals that of a virus. Millions of creations per day, with brutal, rapid validation. Small tweaks to the value function reshape entire ecosystems of content overnight.
 
 We are seeing this right now with the rise of **Generative AI**.
 AI is the ultimate "Volume" player. If the medium rewards output quantity above all else (The Click Era), AI will flood the zone. We are seeing a new species of content (rapid, synthetic, sometimes messy) evolving in real-time to fit the shape of the Feed.
 
-Just as "Let's Play" dominated the "Watch Time" era because it was efficient to produce, AI content is beginning to dominate because it creates infinite variance at near-zero cost. The medium of the "Feed" creates a vacuum for content, and AI is the gas that fills it.
+Just as "Let's Play" dominated the "Watch Time" era because it was efficient to produce, AI content is beginning to dominate because it can create infinite variation at near-zero cost. The medium of the "Feed" creates a vacuum for content, and AI is the gas that fills it.
 
 If you see a trend shaping up, whether it's polarization in news or "slop" in your feed, ask yourself how the **container** is shaping the liquid.
 

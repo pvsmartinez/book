@@ -1,8 +1,7 @@
 ## Chapter 10: The Invisible Judge
 
 > *A note before we begin:*
->
-> *In the coming chapters, we are going to apply the Pattern to social topics: education, media, politics, competition, and more. The goal is diagnostic. We are learning to read the system, not to declare it hopeless. Some examples will feel like simplifications, and they are. Each of these topics has layers we won't unpack here, as it would disrupt the flow. But the simplification is deliberate: we need to see the machine's shape before we can get into its wiring. The nuance is coming. For now, focus on the mechanics.*
+> In the coming chapters, we will apply the Pattern to social topics: education, media, politics, competition, and more. The goal is diagnostic. We are learning to read the system, not to declare it hopeless. Some examples will feel like simplifications, and they are. Each of these topics has layers we won't unpack here, as it would disrupt the flow. But the simplification is deliberate: we need to see the machine's shape before we can get into its wiring. The nuance is coming. For now, focus on the mechanics.*
 >
 
 An engine can drive an ambulance to a hospital or a tank into a city. It doesn't care. It just runs.
@@ -15,8 +14,7 @@ What decides which startups become unicorns and which go bankrupt? Which artist 
 
 We use fuzzy words for this force. "Fate." "The Market." "Natural Selection." "The Real World."
 
-<!-- FLAG: "Let's be precise. Let's meet **The Value Function**." — classic AI reveal pattern. The entire section up to "The Wrong Scoreboard" is good content but has the AI rhythm of introduce-concept-then-bold-define-it repeatedly. -->
-Let's be precise. Let's meet **The Value Function**.
+They are all describing the same thing. I call it the **Value Function.**
 
 ### The Map and the Territory
 
@@ -42,7 +40,7 @@ Every time the flag drops, it is an **Iteration**. Some cars are winning, others
 
 The drivers, the cars, and the pit crews themselves represent the **Variance**. They are all trying slightly different strategies, tuning their engines differently, testing new tires, braking at different moments. This is the "Engine" of change we built in Part II.
 
-An iteration means feedback. Means a timer, a finish line, a score. That is what constitutes a race. The winners of the race are the car, driver, and team that are best suited to this evaluation. 
+An iteration means feedback. Means a timer, a finish line, a score. That is what constitutes a race. The winners of the race are the car, driver, and team best suited for this evaluation. 
 
 This means that you won't know who wins just by looking at the cars.
 The decision of who wins isn't based on a single factor. It is the result of three distinct forces colliding:
@@ -54,7 +52,7 @@ The decision of who wins isn't based on a single factor. It is the result of thr
 
 2.  **The Track (Implicit):** 
     What is the environment? 
-    Is it a straight asphalt Drag Strip? Or is it a winding, muddy Rally stage? If the track is a Rally stage, the Formula 1 car (which is the pinnacle of engineering) will get stuck in the first meter. The "best" car is only the best *in this specific context*.
+    Is it a straight asphalt Drag Strip? Or is it a winding, muddy Rally stage? If the track is a Rally stage, the Formula 1 car (the pinnacle of engineering) will get stuck within the first meter. The "best" car is only the best *in this specific context*.
 
 3.  **The Competitors (Relative):** 
     Who else is racing? 
@@ -92,7 +90,7 @@ The Rules, Track, and Competitors define what is effective and what is filtered 
 
 And here's the catch: the mold itself isn't static.
 
-The environment can change over time, and competitors are always evolving. Even with the same rules (which might never change), the selected strategies may differ. The Value Function drifts, leading to different behaviors in how the pattern evolves.
+The environment can change over time, and competitors are always evolving. Even with the same rules (which might never change), the selected strategies may differ. The Value Function drifts, leading to different behaviors in the pattern's evolution.
 
 We will see examples of this drift during Part III, but the effects of time and compounding changes are the main topic of Part IV.
 
@@ -138,7 +136,7 @@ Baldness and Alzheimer's are invisible to the selection process because they hap
 
 The same applies to society. We like to think that societies evolve to maximize **Happiness**. We assume the "Arc of History" bends toward justice and well-being.
 
-But look at the Value Function of history. Societies that focus solely on leisure, art, and happiness are often conquered by societies that prioritize military production and relentless expansion. The "Judge" of history often selects for **Power**, not Happiness.
+But look at the Value Function of history. Societies that focus solely on leisure, art, and happiness are often conquered by societies that prioritize military production and relentless expansion. The "Judge" of history often selects for **Power rather than Happiness.
 
 This means we can end up living in a world that looks "successful" (high GDP, advanced technology) but is fundamentally miserable, because "Happiness" was never a variable in the equation.
 
