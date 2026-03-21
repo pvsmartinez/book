@@ -41,17 +41,15 @@ This is why real improvement requires what psychologists call **Deliberate Pract
 
 ### Serious Time
 
-Consider Sofia, a jazz pianist.
-
-Sofia was good. She could play weddings and cocktail lounges. But her solos sounded mechanical. Safe. predictable.
+Consider a jazz pianist who could play weddings and cocktail lounges. Good enough to get hired. But her solos sounded mechanical. Safe. Predictable.
 
 Then she started recording herself.
 
 At first, she hated listening back. It was painful to hear how stiff she sounded, how she retreated to the same safe licks over and over. But the recording was brutally honest. It showed her exactly where she hesitated, where she played it safe, where her timing dragged.
 
-She started noticing patterns. Every time she approached a key change, she would pause for a split second. A hesitation invisible in the moment but obvious on playback. Every time the chord progression got complex, she defaulted to the same three phrases she'd learned in music school.
+Patterns became visible. Every time she approached a key change, a split-second hesitation — invisible in the moment, obvious on playback. Every time the chord progression got complex, the same three phrases she'd learned in music school.
 
-The recording became her coach -- an invisible judge who couldn't be charmed or fooled.
+The recording became her coach. An invisible judge who couldn't be charmed or fooled.
 
 In the game studios where I've worked, I've often seen this split in real time. You'd have a group of artists drawing while listening to a podcast. They were "working," but their attention was divided. They were running a **Noisy Loop**. Because part of their brain was tracking a story, the feedback from their hand was muffled.
 
@@ -59,7 +57,7 @@ Compare that to the artist who works in silence. Every stroke provides a pure si
 
 I have a joke with my friends when we play games: for most of the session, I'm sitting lazily, playing for fun... and I'm losing. But then, I straighten up, lean into the screen, and call "now it's serious time." My results improve instantly. Not because I got smarter, but because I'm finally paying attention to the feedback.
 
-Sofia did the same. She would loop the same four bars, try five different approaches, listen back, discard four, keep one. Within six months, her "mechanical" playing was gone. She wasn't just *playing* jazz anymore. She was *speaking* it.
+She did the same. Loop the same four bars, try five different approaches, listen back, discard four, keep one. Within six months, the "mechanical" playing was gone. She wasn't just *playing* jazz anymore. She was *speaking* it.
 
 A musician who records themselves. A surgeon who gets instant critique. A writer who reads their drafts aloud. They are all doing the same thing: they are tightening the loop. They are forcing the brain to edit.
 

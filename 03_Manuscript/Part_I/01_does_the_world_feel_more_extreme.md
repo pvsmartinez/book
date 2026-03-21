@@ -28,8 +28,6 @@ This is where my obsession with systems comes in. When you spend your life balan
 
 Look at YouTube. We say the algorithm is "radicalizing" us. But the code has no political agenda. It doesn't have a soul. It has one main goal: Watch Time. It is a machine that has been told to learn, by trial and error, what keeps you staring at the screen for one more second. If it learns that a calm, nuanced discussion makes you tune out, but a screaming fight makes you watch, it will show you the fight. Not because it wants to hurt you, but because it is a perfect student of your own psychology.
 
-(The real algorithm is more complex than a single metric, but the principle holds. We'll dissect how these metrics shape behavior in Part III.)
-
 The market is the same. It isn't "trying" to starve anyone; it is simply a massive engine optimizing for efficiency. It is doing exactly what we encoded in its rules: find the most efficient way to allocate capital.
 
 We are living in systems that are self-optimizing toward extremism.

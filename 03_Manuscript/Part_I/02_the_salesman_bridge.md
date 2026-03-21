@@ -58,16 +58,6 @@ It explains why every smartphone looks like a rectangular sheet of glass.
 
 (And if you're wondering why these things converge instead of diversifying, we will look at that when we study how optimization compounds over time in Part IV.)
 
-Every process, with agency or without, with consciousness or without, just by selection and accumulation, over time, becomes optimized and fitted to what is being truly evaluated.
+Every process, with agency or without, with consciousness or without, just by selection and accumulation over time, becomes optimized and fitted to what is truly being evaluated.
 
 **This is the Pattern.**
-
-We will build this notion layer by layer. First, by identifying when this pattern happens and why it’s so strong. It will feel a bit like a simplified version of some systems, but it will be needed for our understanding.
-
-Then we will look at what shapes its own direction and how it evolves. This will add a lot of nuance and will feel a bit nihilistic. The pattern is really strong, so that things will feel unavoidable. But don’t worry.
-
-The end of the book will add the final layer: system design and how a gardener can tweak the system to change its trajectory. It may be unavoidable that a tree will grow, but how it grows can be directed. It might be unavoidable that the pattern optimizes, but it's possible to change its direction.
-
-Once again, these lenses will come step by step, layer by layer.
-
-Shall we begin?

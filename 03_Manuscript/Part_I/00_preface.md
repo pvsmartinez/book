@@ -38,6 +38,4 @@ That said, true neutrality is a myth. My own biases will inevitably bleed throug
 
 I want to give you some theory on how this system works and some tools to dive deeper.
 
-I've been seeing so much discussion and hatred in the news, across so many topics, that I hope that, after reading this book, you can avoid being caught in the river, in the algorithm—this force that shapes us—and use this foundation to see your own field with a new perspective.
-
 At least that is my hope. Now it's up to you.

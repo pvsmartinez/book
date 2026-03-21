@@ -90,4 +90,6 @@ And here's the uncomfortable part. There will always be outliers. CEOs who inves
 
 Survival doesn't mean thriving. It means not dying. And the fastest path to not dying is cutting costs. Growing revenue is slow, uncertain, and takes years of iteration. Cutting research, cutting headcount, cutting quality, that feedback closes in weeks. The loop is fast. The lesson is clear.
 
-So over time, the Pattern doesn't select for *better* companies. It selects for *leaner* ones. Not because anyone chose this. The filter just rewards what survives, and efficiency outpaces growth.
+And this is the part nobody puts in the economics textbook. The market doesn't optimize for what you want. It optimizes for what survives. A company that cuts its research budget and survives five more years will be copied. A company that invests in its people and takes a decade to compound that bet might not see a payoff. The filter doesn't care about the long game. It only cares about the next quarter.
+
+The meat grinder keeps turning. And what comes out the other side isn't the best bread. It's the bread that didn't go stale.

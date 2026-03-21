@@ -97,5 +97,3 @@ The engine has iterated once more.
 What the Pattern shows us is this: memes do not live outside selection. They survive the same way everything else does, by entering a loop, facing a filter, and being copied when conditions allow. In biology, the body is the carrier. In culture, the mind is the carrier. Different medium, same engine.
 
 A meme that cannot reproduce dies in silence. A meme that spreads becomes part of the world.
-
-This is crucial. The power of selection, and the power of evolution, understood by the pattern, is what defines which ideas will exist in the future. It's what defines our present culture, and our future one.
