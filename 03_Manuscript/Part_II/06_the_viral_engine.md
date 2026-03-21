@@ -30,7 +30,7 @@ But the water itself is not going anywhere. Each water molecule just bobs up and
 
 Now picture a Newton's Cradle, five silver balls hanging in a row on strings. If you've never seen one, look at the image below.
 
-*(imagem: Newton's Cradle)*
+*(imagem: newtons_cradle.png | Newton's Cradle: five silver balls hanging on strings. Pull one end, the energy travels through, and the last ball swings out.)*
 
 You pull the first ball back and let it drop. *Click.*
 It hits the row and stops dead. It does not push through. It does not travel. But the energy does. It shoots silently through the middle balls, which barely move, and kicks the last ball out the other side. *Clack.*

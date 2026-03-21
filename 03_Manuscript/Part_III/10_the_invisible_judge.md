@@ -67,19 +67,9 @@ This isn't literal arithmetic. It's a way to see how these three forces interact
 
 ### Why "Value Function"?
 
-Because it captures the process's mathematical precision.
+We called the Filter "a wall that kept the winners and discarded the rest." But now that we've taken it apart, we can see it isn't a single wall. It is a calculation with three moving parts.
 
-In Part II, we defined the Pattern as:
-
-$$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
-
-We called it "The Filter." A wall that kept the winners and discarded the rest. But now that we've taken it apart, we can see that the Filter isn't a single wall. It is a calculation with three moving parts. So let's upgrade the equation.
-
-$$Adaptation\ Rate = \frac{Value\ Function(Iteration \times Variance)}{Time}$$
-
-Where: $Value\ Function = Rules \times Track \times Competitors$.
-
-The word "Filter" was useful for building intuition, but softer words like "The Judge," "The Environment," or "The Market" can mislead from here on. "The Judge" implies a conscious decision-maker who cares about justice. "The Environment" suggests a static backdrop. And simple models often ignore "The Competitors" entirely, even though in many games (like chess, poker, or war), the opponent *is* the environment.
+The softer words still floating around ("The Judge," "The Environment," "The Market") can mislead from here on. "The Judge" implies a conscious decision-maker who cares about justice. "The Environment" suggests a static backdrop. And simple models often ignore "The Competitors" entirely, even though in many games (like chess, poker, or war), the opponent *is* the environment.
 
 **Value Function** removes the fuzziness. It reminds us that this is a *calculation*, not a verdict. A live equation where the **Rules**, the **Track**, and the **Competitors** multiply against each other to produce a result.
 

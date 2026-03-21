@@ -41,13 +41,11 @@ This is why real improvement requires what psychologists call **Deliberate Pract
 
 ### Serious Time
 
-Consider a jazz pianist who could play weddings and cocktail lounges. Good enough to get hired. But her solos sounded mechanical. Safe. Predictable.
+Consider a jazz pianist playing weddings and cocktail lounges. Good enough to get hired. But her solos sounded mechanical. Safe. Predictable.
 
 Then she started recording herself.
 
-At first, she hated listening back. It was painful to hear how stiff she sounded, how she retreated to the same safe licks over and over. But the recording was brutally honest. It showed her exactly where she hesitated, where she played it safe, where her timing dragged.
-
-Patterns became visible. Every time she approached a key change, a split-second hesitation — invisible in the moment, obvious on playback. Every time the chord progression got complex, the same three phrases she'd learned in music school.
+At first, it was painful to listen back. She could hear exactly where she hesitated, where she retreated to the same safe licks. But the recording was brutally honest in a way live performance never is. Patterns became visible: every time she approached a key change, a split-second hesitation, invisible in the moment, obvious on playback. Every time the chord progression got complex, the same three phrases she'd learned in music school.
 
 The recording became her coach. An invisible judge who couldn't be charmed or fooled.
 
@@ -57,7 +55,7 @@ Compare that to the artist who works in silence. Every stroke provides a pure si
 
 I have a joke with my friends when we play games: for most of the session, I'm sitting lazily, playing for fun... and I'm losing. But then, I straighten up, lean into the screen, and call "now it's serious time." My results improve instantly. Not because I got smarter, but because I'm finally paying attention to the feedback.
 
-She did the same. Loop the same four bars, try five different approaches, listen back, discard four, keep one. Within six months, the "mechanical" playing was gone. She wasn't just *playing* jazz anymore. She was *speaking* it.
+Loop the same four bars. Try five different approaches. Listen back. Discard four. Keep one. Within six months, the "mechanical" playing was gone. Not just *playing* jazz anymore. Speaking it.
 
 A musician who records themselves. A surgeon who gets instant critique. A writer who reads their drafts aloud. They are all doing the same thing: they are tightening the loop. They are forcing the brain to edit.
 

@@ -64,7 +64,7 @@ TEMP_HTML="$EXPORT_DIR/_temp_render.html"
 # ---------------------------------------------------------------------------
 # Progress reporting
 # ---------------------------------------------------------------------------
-TOTAL_STEPS=6
+TOTAL_STEPS=7
 CURRENT_STEP=0
 
 progress() {
@@ -183,7 +183,15 @@ TEMP_MD_PROCESSED="$TEMP_DIR/temp_manuscript_processed.md"
 $PYTHON_BIN scripts/process_math.py "$TEMP_MD_MERMAID" > "$TEMP_MD_PROCESSED"
 
 # ---------------------------------------------------------------------------
-# Step 4: Convert Markdown → HTML
+# Step 4: Process inline images (*(imagem: ...)*  placeholders)
+# ---------------------------------------------------------------------------
+progress "Processing inline images..."
+
+TEMP_MD_IMAGES="$TEMP_DIR/temp_manuscript_images.md"
+$PYTHON_BIN scripts/process_images.py "$TEMP_MD_PROCESSED" > "$TEMP_MD_IMAGES"
+
+# ---------------------------------------------------------------------------
+# Step 5: Convert Markdown → HTML
 # ---------------------------------------------------------------------------
 progress "Converting Markdown to HTML..."
 
@@ -201,7 +209,7 @@ EOM
 $PYTHON_BIN -c "
 import markdown
 print(markdown.markdown(
-    open('$TEMP_MD_PROCESSED').read(),
+    open('$TEMP_MD_IMAGES').read(),
     extensions=['extra', 'toc'],
     extension_configs={'toc': {'toc_depth': '2'}}
 ))
@@ -213,7 +221,7 @@ cat << EOM >> "$TEMP_HTML"
 EOM
 
 # ---------------------------------------------------------------------------
-# Step 5: Generate PDF with WeasyPrint
+# Step 6: Generate PDF with WeasyPrint
 # ---------------------------------------------------------------------------
 if [ "$GENERATE_PDF" = true ]; then
     progress "Generating PDF with WeasyPrint..."
@@ -223,7 +231,7 @@ else
 fi
 
 # ---------------------------------------------------------------------------
-# Step 6: Done — report artifact
+# Step 7: Done — report artifact
 # ---------------------------------------------------------------------------
 progress "Export complete!"
 
