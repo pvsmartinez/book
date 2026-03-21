@@ -4,7 +4,7 @@ There is a classic comedy moment on the internet. A bird is trapped in a room. I
 
 We laugh because it looks absurd. But here is what is actually happening.
 
-The bird is not stupid. It is not broken. It is running a perfectly rational program built over millions of years of selection: *transparent surface, open sky beyond it, fly toward it.* That program has never been wrong before. There was no glass in the world at the time that program was written. The bird is not failing to escape. The bird is succeeding in following a rule that no longer matches its environment.
+The bird is not stupid. It is not broken. It is running a perfectly rational program built over millions of years of selection: *transparent surface, open sky beyond it, fly toward it.* That program has never been wrong before. There was no glass in the world when that program was written. The bird is not failing to escape. The bird is succeeding in following a rule that no longer matches its environment.
 
 It is optimizing, with full effort and total commitment, for the wrong game.
 
@@ -58,9 +58,9 @@ The Cobra Effect showed us this in its most absurd form: a government that wante
 
 Behavior flows like water. It follows the path of least resistance. The Track does not force you to do anything. It just tilts the floor.
 
-If the tools you need for focused work are buried under three clicks and notifications from your messaging app pop up in the corner of your eye every four minutes, the Track is optimized for distraction. Not because anyone decided that. Because that is the geometry of the environment you built. The bird is not weak-willed. The window is just closer.
+If the tools you need for focused work are buried under three clicks and notifications from your messaging app pop up in your peripheral vision every four minutes, the Track is optimized for distraction. Not because anyone decided that. Because that is the geometry of the environment you built. The bird is not weak-willed. The window is just closer.
 
-This is true at every scale. Cities designed around cars make driving the default and walking the exception, not because residents chose that actively, but because the geometry made it inevitable. Offices with open floor plans make interruption the default and concentration the exception. Grocery stores place the most profitable items at eye level, not the most nutritious ones. These are not conspiracies. They are tracks. And behavior follows the track far more than it follows intention.
+This is true at every scale. Cities designed around cars make driving the default and walking the exception, not because residents actively chose that, but because the geometry made it inevitable. Offices with open floor plans make interruption the default and concentration the exception. Grocery stores place the most profitable items at eye level, not the most nutritious ones. These are not conspiracies. They are tracks. And behavior follows the track far more than it follows intention.
 
 When you see the Track clearly, you stop misattributing friction to character. The question stops being "why don't I have more discipline?" and becomes "why is this environment designed to make the hard thing harder?"
 
@@ -68,9 +68,9 @@ When you see the Track clearly, you stop misattributing friction to character. T
 
 The Red Queen runs through every competitive system. Your payoff is not absolute. It is relative to what everyone else in the room is doing. Being exceptional at something is not a fixed property. It is a gap. And gaps close.
 
-The six-minute mile was once a barrier that separated serious runners from everyone else. Then it became the standard. Then it became the floor. The cheetah got faster, the gazelle got faster, and neither is gaining on the other. The bar for a competitive resume has moved so far that candidates now list skills and certifications they spent years acquiring just to reach the starting line of a conversation they might not get. The effort is real. The edge is not.
+The six-minute mile was once a barrier that separated serious runners from everyone else. Then it became the standard. Then it became the floor. The cheetah got faster, the gazelle got faster, and neither is gaining on the other. The bar for a competitive resume has risen so high that candidates now list skills and certifications they spent years acquiring, only to reach the starting line of a conversation they might not get. The effort is real. The edge is not.
 
-This does not mean competition is futile. It means the question is never just "am I improving?" It is always "improving relative to what, and in which direction?" Two people can be working equally hard and moving in completely different directions, depending on which game they are inside.
+This does not mean competition is futile. It means the question is never just "am I improving?" It is always "improving relative to what, and in which direction?" Two people can be working equally hard and moving in completely different directions, depending on which game they are in.
 
 ### The Shape You Are Becoming
 
