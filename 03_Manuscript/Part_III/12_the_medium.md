@@ -58,7 +58,7 @@ Then came Cable (CNN, Fox, MSNBC, GloboNews). The constraints flipped.
 *   **Space:** Infinite (24 hours to fill).
 *   **Payment:** Ads (Attention).
 
-They need you not to change the channel*.
+They need you not to change the channel.
 "Trust" is a slow burn. But "Fear" is immediate. If I tell you "Everything is fine," you change the channel to watch a sitcom. If I tell you, "There is a threat to your children," you stay.
 The Track changed from a "Morning Briefing" to a "24-Hour Anxiety Loop." The organisms adapted. The "boring" journalist went extinct; the "alarmist" pundit thrived.
 
@@ -121,7 +121,7 @@ In a sense, today's news looks more like YouTube's early days (nonsense videos, 
 
 The social media algorithm is not evil. It is just counting clicks (or watch time). But because the **Track** requires immediate, high-speed engagement, the System selects for polarization. It selects for the content that infects the most hosts in the shortest time.
 
-And the force is enormous. These platforms have so many creators and views that they exhibit significant variance and a staggering rate of iteration. The rate of adaptation on platforms like YouTube or TikTok rivals that of a virus. Millions of creations per day, with brutal, rapid validation. Small tweaks to the value function reshape entire ecosystems of content overnight.
+And the force is enormous. These platforms have so many creators and views that they exhibit significant variance and a staggering rate of iteration. The rate of adaptation on platforms like YouTube or TikTok rivals that of a virus. Millions of creations per day, with brutal, rapid validation. Small tweaks to the value function can reshape entire content ecosystems overnight.
 
 We are seeing this right now with the rise of **Generative AI**.
 AI is the ultimate "Volume" player. If the medium rewards output quantity above all else (The Click Era), AI will flood the zone. We are seeing a new species of content (rapid, synthetic, sometimes messy) evolving in real-time to fit the shape of the Feed.

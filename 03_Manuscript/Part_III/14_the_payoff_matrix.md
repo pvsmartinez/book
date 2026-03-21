@@ -4,13 +4,11 @@ Two coffee shops open on the same block. One drops its latte to three dollars. I
 
 This is the problem with everything we've discussed so far. Rules, Track, Competitors: in the real world, they don't exist in isolation. They collide. And the collision creates the Value Function.
 
-**Game Theory** gives us a way to formalize this collision. Despite the name, it isn't about poker or chess. It's the mathematics of choices made under pressure, when your score depends on what everyone else does. The tool it uses to capture this is the **Payoff Matrix**: a table of what you win or lose for every possible choice, given every possible choice by everyone else.
+**Game Theory** gives us a way to formalize this collision. Game Theory is the mathematics of choices made under pressure, when your score depends on what everyone else does. The tool it uses to capture this is the **Payoff Matrix**: a table of what you win or lose for every possible choice, given every possible choice by everyone else.
 
-### The Ledger of Hawks and Doves
+The story has a ledger.
 
-Remember the **Hawks** and **Doves**? Let's open the actual ledger, because the real insight isn't in the story. It's in the numbers.
-
-The **Environment** writes the numbers: food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time, but nobody bleeds: **+15 each**.
+The **Environment** writes the numbers: In our hawks and doves example, food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time, but nobody bleeds: **+15 each**.
 
 | You \ Opponent | **vs. Hawk** | **vs. Dove** |
 | :--- | :--- | :--- |
@@ -72,9 +70,7 @@ The best outcome was right there. But the system's Rules made it mathematically 
 
 Unlike the Hawk/Dove game, which has a stable equilibrium, the Prisoner's Dilemma has **no stable cooperative state**. If we both promise to be silent, I have a massive incentive to break my promise and go free. The system slides inevitably into the bottom-right corner: mutual misery.
 
-### The Meeting Dilemma
-
-We see this trap in places far more common than a police station. We see it in the office Stand-up Meeting.
+We see this trap in places far more common than a police station. We see it in the business office Stand-up Meeting.
 
 Every morning, the team gathers. The goal is efficiency.
 Here is the Payoff Matrix for the employee:

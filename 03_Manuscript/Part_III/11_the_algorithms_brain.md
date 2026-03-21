@@ -52,8 +52,6 @@ Input: Cat. Output: "Dog."
 It repeats this millions of times.
 Eventually, the random arithmetic has been sculpted into a precise formula. The "random math" has evolved into a structure that reliably converts a cat's pixels into the word "Cat."
 
-Sound familiar? It's the Pattern, stripped to pure math.
-
 $$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
 
 It is pure mathematics proving exactly what we discussed in Part II.

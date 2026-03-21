@@ -8,7 +8,7 @@ But that's a lie.
 
 You don't add knowledge. You delete mistakes.
 
-Your brain isn't a library; it's an editor.
+Your brain isn't a library.
 
 ### The Brain is an Editor
 
