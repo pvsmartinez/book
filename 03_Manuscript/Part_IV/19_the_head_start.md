@@ -34,9 +34,7 @@ We attribute his success to talent. But a huge part of it was just the recursion
 
 "May the best one win?" The best one *did* win, but only because the system decided who "the best" was before the race even started.
 
-Fiction loves this idea. Time travel stories, alternate histories. One small change in the past that ripples forward and reshapes everything. We call it the butterfly effect. But it's not science fiction. It's just what happens when a small difference enters a recursive system. The advantage doesn't stay small. It propagates. It compounds. And by the time anyone notices the gap, it's immeasurable.
-
-The hockey cutoff is one example. But compounding doesn't just shape who becomes a pro athlete. It shapes wealth, and here the numbers get brutal.
+The hockey cutoff is one example. But compounding doesn't just shape who becomes a pro athlete. It also shapes wealth.
 
 ### Ana and Bruno
 
@@ -44,7 +42,7 @@ Imagine two people, Ana and Bruno. Both are equally talented. Both are equally h
 
 In Brazil, we have a benchmark interest rate called the **Selic** (if you're not Brazilian, think of it as the base rate at which savings grow). As I write this, it sits around 10–15% per year. This is the "speed" at which money compounds in this environment, as set by the central bank's Value Function.
 
-After ten years, the gap is visible. Bruno has saved \$120,000, which has grown with interest to about \$240,000. Not bad. But Ana, because she had that \$100,000 working for her from day one, is sitting on nearly \$650,000.
+After ten years, the gap is visible. Bruno has saved \$120,000, which has grown to about \$240,000 with interest. Not bad. But Ana, because she had that \$100,000 working for her from day one, is sitting on nearly \$650,000.
 
 A \$400,000 gap hurts, but you can still look at it and think: "Maybe I can catch up if I work harder."
 
@@ -60,28 +58,6 @@ The Selic rate isn't a law of physics. It is a decision made by people in a room
 
 The machine doesn't care about your intent. It only cares about your momentum.
 
-### The ETF Loop
-
-If the Ana and Bruno example feels abstract, here's one unfolding right now, in real time. (As I write this in February 2026, this is still playing out, so the specifics may have shifted by the time you read it. But the mechanics are what matter.)
-
-Over the past decade, **ETFs** (Exchange-Traded Funds) have become the most popular form of investment in the world. If you're not familiar, an ETF is essentially a rule. You define a formula, and the fund follows it automatically. No human judgment. No gut calls. Just the rule.
-
-Here's a concrete example. One of the most common ETFs in the world tracks the top 500 companies in the U.S. stock market, weighted by market capitalization. The rule is simple: the larger the company, the more money the fund allocates to it. First place receives the largest share, second place receives the second-largest, and so on down the list. That's it. The rule runs on autopilot.
-
-ETFs have grown because they work. Or more precisely, they've grown because the Pattern made them grow: investors who used them got better returns, more investors copied the strategy, and the cycle compounded. The system adapted to what yielded greater returns, as we'd expect.
-
-But here's where it gets interesting.
-
-ETFs now represent more than 60% of all investment capital in the world. And because they've gotten so large, the feedback loop they create has gotten proportionally stronger.
-
-Think about what the rule does. When one of the top companies grows, the ETF formula says: put more money into it. Because more money flows in, the company's stock price rises. As the stock price rises, the ETF allocates an even greater amount of capital. It's a self-reinforcing cycle, a compounding loop running on autopilot.
-
-The companies that were already large *before* this phenomenon took off are being self-reinforced to grow even larger. The small companies are self-reinforcing their shrinkage. Overvalued markets are getting more inflated. Undervalued markets are getting more undervalued.
-
-I'm not here to say whether this is a bubble or when it will pop. People smarter than me are debating that right now, and nobody's sure. But what I *can* say is that this is a textbook case of the head start. The initial conditions (which companies were on top when automatic investing became dominant) are compounded by the system's recursion. The starting position is doing more work than the fundamentals.
-
-Sound familiar? It's Ana's \$100,000, but at the scale of the entire global market.
-
 ### Acknowledging the Imbalance
 
 Chess players know something about this. White always moves first. That single tempo (being one step ahead) confers a measurable statistical advantage on White. At the grandmaster level, White wins significantly more often than Black.
@@ -90,7 +66,27 @@ Does that mean chess is broken? Not exactly. But here's what's interesting: the 
 
 That's the designer's lesson. You can't always remove the imbalance. Sometimes it's baked into the system itself. And that's OK. What's *not* OK is pretending it doesn't exist. Acting as if the starting line was fair when it wasn't. Designing a competition, a market, or a policy as if everyone begins from zero, when they clearly don't.
 
-In chess, we switch sides. In the stock market, we don't. In the hockey league, nobody rotates the cutoff date. And in wealth, Ana's grandchildren will inherit the compound interest of a head start that was given, not earned, generations ago.
+In chess, we switch sides. But chess is the exception, not the rule. In the hockey league, nobody rotates the cutoff date. In wealth, Ana's grandchildren will inherit the compound interest of a head start that was given, not earned, generations ago. And in the market, the story gets even stranger.
+
+### When Nobody Switches Sides
+
+Over the past decade, **ETFs** (Exchange-Traded Funds) have become the most popular form of investment worldwide. If you're not familiar, an ETF is essentially a rule. You define a formula, and the fund follows it automatically. No human judgment. No gut calls. Just the rule.
+
+Here's a concrete example. One of the most common ETFs in the world tracks the top 500 companies in the U.S. stock market, weighted by market capitalization. The rule is simple: the larger the company, the more money the fund allocates to it. First place receives the largest share, second place receives the second-largest, and so on down the list. That's it. The rule runs on autopilot.
+
+ETFs have grown because they work. Or more precisely, they've grown because the Pattern made them grow: investors who used them got better returns, more investors copied the strategy, and the cycle compounded. The system adapted to what yielded greater returns, as we'd expect.
+
+But here's where it gets interesting.
+
+ETFs now represent more than 60% of global investment capital. And because they've gotten so large, the feedback loop they create has gotten proportionally stronger.
+
+Think about what the rule does. When one of the top companies grows, the ETF formula says: put more money into it. Because more money flows in, the company's stock price rises. As the stock price rises, the ETF allocates an even greater amount of capital. It's a self-reinforcing cycle, a compounding loop running on autopilot.
+
+The companies that were already large are now self-reinforcing, growing even larger. The small companies are self-reinforcing their shrinkage. Overvalued markets are getting more inflated. Undervalued markets are getting more undervalued.
+
+I'm not here to say whether this is a bubble or when it will pop. People smarter than me are debating that right now, and nobody's sure. But what I *can* say is that this is a textbook case of the head start. The initial conditions (which companies were on top when automatic investing became dominant) are compounded by the system's recursion. The starting position is doing more work than the fundamentals.
+
+Sound familiar? It's Ana's \$100,000, but at the scale of the entire global market. Nobody designed a rule to compensate. Nobody switches sides.
 
 ### The Advantage Feeds Itself
 
@@ -100,10 +96,8 @@ It selects the child who is larger today. It rewards the stock that is higher to
 
 The advantage feeds itself. Over time, it creates a world in which the winners keep winning, not because they necessarily work harder, but because they have greater momentum. The initial signal, that small difference in starting position, is amplified by the recursion until it drowns out everything else.
 
-The Value Function stops measuring the runner and starts measuring the head start.
-
 I catch myself wondering this sometimes: how much of my "success" is talent, and how much is just the compounding of an early advantage I didn't choose?
 
-Not every small thing compounds. A pebble thrown into the ocean doesn't cause a tsunami. But a pebble dropped into a feedback loop? That pebble becomes the landscape.
+Fiction loves this question. Time travel stories, alternate histories. One small change in the past that ripples forward, reshaping everything. We call it the butterfly effect. But it's not science fiction. It's just what happens when a small difference enters a recursive system. The advantage doesn't stay small. It propagates. It compounds. And by the time anyone notices the gap, it's immeasurable.
 
-The initial conditions of a recursive system matter more than we tend to think. We don't need to flatten every advantage or pretend differences don't exist. But we need to see the head start for what it is, understand its weight, and design with it in mind.
+The pebble that started it all is long gone. What remains is the landscape it became.

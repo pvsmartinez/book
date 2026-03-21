@@ -1,6 +1,8 @@
 ## Chapter 21: Breakpoints
 
-We love smooth curves. Compounding interest, exponential growth, steady climbs. They make the world feel predictable.
+We often think things evolve in regular intervals.
+
+Compounding interest, exponential growth, steady climbs. Smooth curves make the world feel predictable.
 
 But the world doesn't always move in curves. Sometimes it moves in jumps. And sometimes it snaps.
 
@@ -25,7 +27,7 @@ Now you find one more tiny upgrade. Just a 3-point boost. You go from 13 to 16.
 - Hit 1: 16 damage (14 left)
 - Hit 2: 16 damage (Dead)
 
-Suddenly, you only need **two hits**. That tiny 3-point shift crossed a **Breakpoint**. It cuts your time to kill by 33%.
+Suddenly, you only need **two hits**. That tiny 3-point shift crossed a **Breakpoint**. It cuts your time-to-kill by 33%.
 
 Same size upgrade. One gave you nothing. The other changed the game.
 
@@ -35,21 +37,23 @@ This is how the compounding we've been talking about actually *feels*. The recur
 
 Think about inflation. It's the clearest compounding effect in daily life: prices go up, year after year, and you can see it happening. But do you *feel* it?
 
+Here's the trap: your brain tracks the *rate*, not the *threshold*.
+
 You earn $3,000 a month. Your expenses (rent, food, transportation, insurance) total $2,700. You have $300 of breathing room. Not a lot, but enough.
 
 Now, inflation hits. Prices creep up 3% a year. That's about $80 more per month in the first year. Barely noticeable. Maybe you skip one dinner out.
 
-Year two, another 3%. Year three. Year five. Each year, the number ticks up. You notice prices rising. You adjust a little here, cut a little there. The curve is visible, but it feels manageable.
+Year two, another 3%. Year three. Year five. Each year, the number ticks up. You notice prices rising. You adjust a little here, cut a little there. The rate is visible. It feels manageable. You're watching the curve move and thinking, "I see it." I'm on top of it.
 
 Then one month, the math changes.
 
-Your expenses hit $3,010. You stare at the bills and realize you can't pay all of them. Not because anything dramatic happened this month. No job loss. No emergency. Just the same 3% that's been running for years.
+Your expenses hit $3,010. You stare at the bills and realize you can't pay them all. Not because anything dramatic happened this month. No job loss. No emergency. Just the same 3% that's been running for years.
 
 But this month, the number crossed the line.
 
 The difference between $2,990 and $3,010 isn't twenty dollars. It's the difference between "getting by" and "choosing which bill to skip." Between managing and drowning. Between the RPG character needing three hits and needing two.
 
-Inflation is interesting because you can *see* it happening. The prices on the shelf go up every month. You know the curve is moving. And still, the breakpoint surprises you because your brain tracks the *rate*, not the *threshold*.
+You watched the whole thing happen. You saw every price increase. And the breakpoint still caught you off guard. Because you were tracking the rate. The threshold was somewhere else entirely.
 
 ### The Plateau
 
@@ -75,17 +79,15 @@ The plateau wasn't stagnation. It was 13 damage piling up under the surface, wai
 
 ### The Snap
 
-In physics, they call this a **phase transition**.
+In physics, this is called a **phase transition**.
 
 Water gets hotter and hotter. 1 degree, 20 degrees, 80 degrees, 99 degrees. It behaves the same way the entire time. Still liquid. Still calm.
 
 At 100, the rules change. It becomes steam. Same molecule. Completely different behavior.
 
-Or think of a rubber band. You can stretch it 10%, 20%, 50%. The tension increases linearly. More pull, more resistance. Predictable.
+The system absorbs pressure, absorbs pressure, absorbs pressure, and gives you no signal that anything is about to change until it changes everything.
 
-But there is a specific stretch where the material fails. It doesn't stretch any further. It **snaps**. Not gradually. Not partially. Completely.
-
-These are breakpoints encoded in the world's physics. The system absorbs pressure, absorbs pressure, absorbs pressure, and gives you no signal that anything is about to change until it changes everything.
+Just like a rubber band, it snaps.
 
 ### Plateaus and Cliffs
 
@@ -99,4 +101,4 @@ Either way, the math is the same. The system absorbs, absorbs, absorbs. The 13 d
 
 We mistake the plateau for permanence. We mistake visible change for manageable change. Both are traps. The breakpoint doesn't care whether you noticed the accumulation. It fires when the number is ready.
 
-Now that you see the math, it starts showing up everywhere. In every system that runs long enough, the breakpoints are waiting. The question isn't whether the jump is coming. It's whether you'll recognize the plateau before you reach the edge.
+Now that you see the math, it starts showing up everywhere. In every system that runs long enough, the breakpoints are waiting. The question isn't whether the jump is coming. It's whether you'll be watching the threshold or just the rate.

@@ -1,9 +1,10 @@
 ## Chapter 23: The Path to Stability
 
-<!-- FLAG-OPENER: Generic abstract question opener. "Every optimizing system is moving somewhere. But where?" is functional but has no personality. The QWERTY story (which starts the first real section) would be a much stronger opener — lead with what the reader can see and feel. -->
-Every optimizing system is moving somewhere. But where?
+If everything optimizes, will we always reach extremes?
 
-Think of the Value Function as a **landscape**. Every possible configuration of a system (every body plan, every business model, every keyboard layout) is a point on a vast terrain. The Value Function assigns each point an altitude: peaks represent configurations that work. Valleys represent configurations that don't.
+Not necessarily.
+
+Think of the Value Function as a **landscape**. Every possible configuration of a system (every body plan, every business model, every keyboard layout) is a point on a vast terrain. The Value Function assigns an altitude to each point: peaks represent configurations that work. Valleys represent configurations that don't.
 
 The Pattern is a **blind climber** on this landscape. It can't see the whole terrain. It can only feel the slope under its feet. And it always walks uphill.
 
@@ -79,7 +80,7 @@ I think about this every time I see a process at work that everyone hates, but n
 
 How many of the hills you're standing on today are the ones you actually chose?
 
-The answer, for most of us, is: almost none. We inherited them. Our parents climbed them. Our culture climbed them. Our biology climbed them. And now the valley between where we are and where we might want to be looks too deep to cross.
+We inherited them. Our parents climbed them. Our culture climbed them. Our biology climbed them. And now the valley between where we are and where we might want to be looks too deep to cross.
 
 This is the shape the Pattern leaves behind. Not a single peak, but a landscape littered with local maxima, each one defended by the cost of change, most of them far below a mountain that nobody can reach because nobody can afford to go down first.
 
