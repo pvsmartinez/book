@@ -9,17 +9,21 @@ But there's one thing we haven't fully explored yet. The breakpoint fires, and t
 
 ### The Buffer
 
+In the previous chapter, we saw that some systems have a bowl around their pendulum. A structural correction mechanism that pulls the swing back toward the center. Nash Equilibria, Hawks and Doves, the Meta: all systems where the check is built into the game.
+
+But the bowl can break?
+
 Earth's climate has always oscillated. Warmer centuries, cooler centuries. Ice ages that lasted millennia, then thawing periods that brought them back. If you zoom out far enough, the temperature chart looks like a pendulum: swinging back and forth around a center, never straying too far.
 
-That pendulum wasn't accidental. It was held in place by buffers. Oceans absorbed excess heat. Forests consume carbon dioxide. Ice sheets reflected sunlight. Each acted like a shock absorber, dampening the swings and pulling the system back toward its center. The planet had a built-in correction mechanism in its physics.
+That pendulum wasn't a coincidence. It was held in place by buffers. Oceans absorbed excess heat. Forests consume carbon dioxide. Ice sheets reflected sunlight. Each acted like a shock absorber, dampening the swings and pulling the system back toward its center. The planet had a built-in correction mechanism in its physics. A bowl around the ball.
 
 But buffers have capacity. And capacity can be exceeded.
 
 Over the last two centuries, carbon dioxide emissions have been rising. Year after year, the concentration in the atmosphere ticked up. For a long time, the buffers held. The oceans absorbed more. The forests processed more. The pendulum kept swinging, and the center barely moved.
 
-Then the oceans started warming. Warmer water absorbs *less* CO2. Permafrost began thawing, releasing methane that had been locked underground for thousands of years. Ice sheets shrank, exposing darker land and water that absorb *more* heat instead of reflecting it. Each buffer that weakened accelerated the weakening of the next.
+Then the oceans started warming. Warmer water absorbs *less* CO2. Permafrost began thawing, releasing methane that had been locked underground for thousands of years. Ice sheets shrank, exposing darker land and water that absorb *more* heat rather than reflect it. Each buffer that weakened accelerated the weakening of the next.
 
-This is recursion working against the correction mechanism. The system's output (more heat) became its own input (weaker buffers), producing more heat, which further weakened the buffers. The pendulum didn't just swing wider. It started drifting away from the center. And at some point, climate scientists started using a phrase that should sound familiar by now: *the point of no return*.
+This is recursion working against the correction mechanism. The system's output (more heat) became its own input (weaker buffers), producing more heat and further weakening the buffers. The pendulum didn't just swing wider. It started drifting away from the center. And at some point, climate scientists started using a phrase that should sound familiar by now: *the point of no return*.
 
 The tipping point isn't the moment the temperature goes up. The temperature had been going up for decades. The tipping point is the moment the system loses the ability to pull itself back. The buffers are gone. The correction mechanism is broken. And the compounding runs unopposed.
 

@@ -42,23 +42,7 @@ This is what mathematicians call a **local maximum**. You're at a peak. Every st
 
 And this is what historians call **path dependence**. Where you start determines where you end up, not because the destination is best, but because the first few steps lock in the direction.
 
-### The Metric Hill
-
-In 1975, the United States passed the Metric Conversion Act. The intent was clear: join the rest of the world. Use meters, kilograms, and liters. The metric system is base-10, consistent, and simpler than the patchwork of inches, feet, yards, miles, ounces, pounds, cups, pints, quarts, and gallons that Americans use every day.
-
-Every scientist already uses metric. Every other major country had already switched. The better hill wasn't just visible. Almost the entire world was standing on it.
-
-The US tried to cross the valley. And couldn't.
-
-Every road sign in America measures distance in miles. Every speed limit is in miles per hour. Every recipe in every kitchen is in cups and tablespoons. Every mechanic owns a set of imperial wrenches. Every building plan, every manufacturing standard, every textbook. The switching cost wasn't one decision. It was three hundred million people updating every single number in their daily lives, all at once.
-
-The Act had no enforcement mechanism. It was voluntary. And voluntarily, almost nobody switched. Fifty years later, the United States remains one of three countries in the world that hasn't adopted metric as its primary system. (The other two are Myanmar and Liberia.)
-
-Nobody defends the imperial hill because they think it's better. The **depth of the valley defends the hill**. The same force that keeps QWERTY on every keyboard keeps inches on every ruler. And the cost of change compounds each year the system stays in place: more signs printed, more tools manufactured, more habits formed, more textbooks written. The hill gets harder to leave the longer you stand on it.
-
-### Why the Hill Holds
-
-The Cheetah is on the speed hill. QWERTY is on the typewriter hill. America is on the imperial hill. In every case, the system followed the slope to the nearest peak and got stuck.
+Just like the Cheetah is stuck with speed (a strategy that is hurting them), we are with QWERTY. The United States is stuck with an outdated imperial metric system. The valley's drop to the next hill is too steep, so we stay. In every case, the system followed the slope to the nearest peak and got stuck.
 
 Why? Because the Pattern can only see locally. It doesn't compare your hill to every other hill in the landscape. It just checks: is there a step that goes up from here? If not, you've peaked. You're stable. You're done.
 
@@ -76,16 +60,8 @@ But often, it's just the nearest hill.
 
 When systems optimize for too long without disruption, they calcify. They find a configuration that works *just well enough* to persist, and then they lock in. Changing the structure would require falling off the peak, and nobody volunteers for that. Not the people. Not the institutions. Not the genes.
 
-I think about this every time I see a process at work that everyone hates, but nobody changes. "That's just how we do it." That's not a reason. That's a cage. A cage built not by malice but by the accumulated weight of a thousand small optimizations, each one reasonable, that together created something nobody would have designed on purpose.
+This is the shape the Pattern leaves behind. Not a single peak, but a landscape littered with local maxima, each one defended by the cost of change, most of them far below a mountain that nobody can reach because nobody can afford to go down first.
 
 How many of the hills you're standing on today are the ones you actually chose?
 
-We inherited them. Our parents climbed them. Our culture climbed them. Our biology climbed them. And now the valley between where we are and where we might want to be looks too deep to cross.
-
-This is the shape the Pattern leaves behind. Not a single peak, but a landscape littered with local maxima, each one defended by the cost of change, most of them far below a mountain that nobody can reach because nobody can afford to go down first.
-
-For the designer, stability is both the obstacle and the clue. If you understand why a system is stuck on its hill (what holds it there, how deep the valley is), you understand what it would take to move it. Sometimes the answer is a gentle ramp. Sometimes it's accepting that the hill is too far gone and building something new on entirely different ground.
-
-But systems don't always stay caged. They drift, they lock in, they calcify, but the world around them keeps moving. Pressure builds. And when a frozen system meets a force it can't absorb, it doesn't bend.
-
-It breaks.
+We inherited them. Our parents climbed them. Our culture climbed them. Our biology climbed them. And now the valley between where we are and where we might want to be looks too deep to cross. "That's just how we do it." That's not a reason. That's a cage. A cage built not by malice but by the accumulated weight of a thousand small optimizations, each one reasonable, that together created something nobody would have designed on purpose.
