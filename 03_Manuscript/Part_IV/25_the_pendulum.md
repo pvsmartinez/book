@@ -1,4 +1,4 @@
-## Chapter 24: The Pendulum
+## Chapter 25: The Pendulum
 
 So, all systems either go to extremes or stay calcified? There is no stable configuration in the change?
 
@@ -28,7 +28,7 @@ I remember looking at my closet in 2023 and realizing every pair of jeans I owne
 
 Jeans fit, high heels sizes, colorful/muted clothes, formal/informal. They all oscillate.
 
-Thinking on the Value Function, rules didnt' change. But the environment and competitors did. And the recursive nature of the pattern means that as one strategy saturates the field. Its opposite becomes uniquely valuable. Then that strategy saturates, and the cycle starts over. 
+Thinking on the Value Function, rules didn't change. But the environment and competitors did. And the recursive nature of the pattern means that as one strategy saturates the field. Its opposite becomes uniquely valuable. Then that strategy saturates, and the cycle starts over. 
 
 ### The Credit Pendulum
 
