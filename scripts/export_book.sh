@@ -100,17 +100,6 @@ BOOK_AUTHOR="Pedro Martinez"
 progress "Concatenating chapters..."
 
 cat << EOM > "$TEMP_MD"
-<div class="title-page">
-    <div class="title-group">
-        <h1>${BOOK_TITLE}</h1>
-        <h2>${BOOK_SUBTITLE}</h2>
-    </div>
-    <div class="author-group">
-        <p class="author">${BOOK_AUTHOR}</p>
-        <p class="version">Version $VERSION | $(date +'%B %Y')</p>
-    </div>
-</div>
-
 <h1 id="table-of-contents" class="no-toc-header">Table of Contents</h1>
 [TOC]
 
@@ -216,6 +205,11 @@ print(markdown.markdown(
 " >> "$TEMP_HTML"
 
 cat << EOM >> "$TEMP_HTML"
+<div class="colophon">
+    <p><em>${BOOK_TITLE}</em></p>
+    <p>${BOOK_AUTHOR}</p>
+    <p>Version ${VERSION} &nbsp;&middot;&nbsp; $(date +'%B %Y')</p>
+</div>
 </body>
 </html>
 EOM
@@ -231,11 +225,31 @@ else
 fi
 
 # ---------------------------------------------------------------------------
-# Step 7: Done — report artifact
+# Step 7: Prepend cover page and report artifact
 # ---------------------------------------------------------------------------
 progress "Export complete!"
 
 if [ "$GENERATE_PDF" = true ]; then
+    COVER_PDF="$SCRIPT_DIR/cover.pdf"
+    FINAL_PDF="$EXPORT_DIR/$FILENAME.pdf"
+
+    if [ -f "$COVER_PDF" ]; then
+        TEMP_MANUSCRIPT_PDF="$TEMP_DIR/manuscript_nocov.pdf"
+        mv "$FINAL_PDF" "$TEMP_MANUSCRIPT_PDF"
+        if command -v pdfunite &>/dev/null; then
+            pdfunite "$COVER_PDF" "$TEMP_MANUSCRIPT_PDF" "$FINAL_PDF"
+            echo "   → Cover prepended with pdfunite"
+        elif command -v pdftk &>/dev/null; then
+            pdftk "$COVER_PDF" "$TEMP_MANUSCRIPT_PDF" cat output "$FINAL_PDF"
+            echo "   → Cover prepended with pdftk"
+        else
+            mv "$TEMP_MANUSCRIPT_PDF" "$FINAL_PDF"
+            echo "   ⚠️  Cover PDF found but pdfunite/pdftk not installed — skipping cover merge" >&2
+        fi
+    else
+        echo "   ℹ️  No cover PDF found at $COVER_PDF — skipping cover merge"
+    fi
+
     echo "CAFEZIN_ARTIFACT {\"path\":\"${EXPORT_DIR}/${FILENAME}.pdf\",\"label\":\"📖 ${BOOK_TITLE} v${VERSION}\"}"
     echo ""
     echo "================================================"

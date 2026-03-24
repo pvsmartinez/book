@@ -8,7 +8,7 @@ The first touches the trunk and says, "This creature is like a snake." The secon
 
 They are all right. And they are all wrong. 
 
-They are wrong because they are looking at the parts, not the whole. They are analyzing the *events* (the trunk moving, the ear flapping) rather than the *system* (the elephant).
+They are wrong because they are looking at the parts, not the whole. They are analyzing the *events* (the trunk moving, the ear flapping) rather than the *system* (the elephant). teste ???
 
 This is exactly how most of us look at the world. We see "Inflation" and think it’s just a greedy shopkeeper. We see "Polarization" and think it’s just a loud politician. We see "Burnout" and think it’s just a bad week at work. We treat these as isolated problems to be "defeated" one by one. 
 

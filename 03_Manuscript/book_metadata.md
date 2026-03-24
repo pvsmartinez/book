@@ -19,6 +19,12 @@ Description: The direction that shapes the world.
 Title: Part IV: The Compounder
 Description: The recursive power of Time.
 
+### Section_A
+Title: The consequences of compounding
+
+### Sections_B
+Title: The Shapes of the Pattern
+
 ## Part_V
 Title: Part V: The System Designer
 Description: The tools to shape behavior.

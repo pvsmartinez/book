@@ -2,16 +2,12 @@
 
 > *A note before we begin:*
 >
-> *This part is a diagnosis. We've seen the engine. We've met the judge. Now we zoom out and watch what happens when you let them run.*
->
-> *Small forces compound. Systems drift. Things that start invisible become irreversible. This is the shape the machine carves over time, and you need to see it clearly before Part V, where we talk about how to reshape it.*
+> *This part is a diagnosis. We've seen the engine. We've met the judge. Now we zoom out and watch what happens when you let them run. If things feel unavoidable, remember that we in Part V we will talk about how to reshape them*
 >
 
 The Competitors evolve. The Track shifts. Arms races escalate. The pattern forces the elements to change over time. 
 
 But why is it so strong?
-
-That's the question for this part.
 
 ### The Pattern is Recursive
 

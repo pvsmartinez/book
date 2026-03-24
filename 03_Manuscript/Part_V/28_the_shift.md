@@ -3,7 +3,7 @@
 > *A note before we begin:*
 >
 > *This part is going to feel different. Up until now, we've been building a way of seeing: the engine, the direction, the drift. From here on, we shift to doing. The tone becomes more technical, more practical. We'll talk about tools, levers, and design. If the first half of the book was about understanding why the world looks the way it does, this half is about what you can do with that understanding.*
->
+>da/
 
 Consider the corrupt politician.
 
@@ -59,7 +59,7 @@ Trying to be a "Good Player" in a "Bad Game" isn't just noble. It's exhausting. 
 
 When I started my first tech company in Brazil, I was idealistic. I wanted to build products that were genuinely helpful rather than addictive. I refused to use the "dark patterns" and psychological tricks that were becoming standard in the industry. I didn't want to trap my users; I wanted to serve them.
 
-But I was playing in an environment (the App Store) that used a very specific Judge: **Retention** and **Revenue per User**.
+But I was playing in an environment (the App Store) that used a very specific Set of Metrics: **Retention** and **Revenue per User**.
 
 My competitors used every trick in the book. They used gambling-style notifications, fake progress bars, and high-pressure monetization. Because they were optimized for the Judge, they made more money. Because they made more money, they could buy more ads. Because they bought more ads, they got more users.
 
@@ -69,7 +69,7 @@ You see this everywhere:
 *   **The Honest Candidate:** Refuses corporate donations. Their opponent takes the money, buys 10 times as many ads, and wins. The system filters for "The candidate most willing to trade influence for capital."
 *   **The Ethical News Site:** Refuses to use clickbait. Their traffic drops. Their revenue dries up. They go out of business, while the "Rage-Bait" sites flourish. The system filters for "The source that triggers the most dopamine/anger."
 
-When you try to fight the current, you are swimming against the gravity of the system. We claim to value honesty, ethics, and health, but we have built systems that effectively punish them.
+When you try to fight the current, you are swimming against the system's gravity. We claim to value honesty, ethics, and health, but we have built systems that effectively punish them.
 
 ### The Role of the Swimmer
 
