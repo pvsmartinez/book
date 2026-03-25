@@ -1,4 +1,4 @@
-## Chapter 12: The Medium
+## Chapter 13: The Medium
 
 Think of an ocean wave. Some waves are tall and crash against cliffs; others are long and roll gently onto the sand. Does the water "decide" to be violent or gentle? No. The water is just energy. The **Seabed ** decides the shape of the wave.
 

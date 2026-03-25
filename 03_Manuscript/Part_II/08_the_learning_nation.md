@@ -89,15 +89,7 @@ This is a recurring theme: **the same mechanism that accelerates the Pattern at 
 
 A nation is not a static thing. It is a machine that can be tuned.
 
-*Why Nations Fail*, by Daron Acemoglu and James Robinson, is probably the most rigorous modern attempt to understand how that tuning works and what happens when it goes wrong. It's dense with historical cases: the Roman Empire, the Mayan city-states, colonial Africa, and the divergence of North and South Korea. Centuries of evidence. I recommend reading it in full.
-
-But here I want to do something the book itself doesn't quite do.
-
-Acemoglu and Robinson show, through case after case, that inclusive institutions produce prosperity and extractive ones produce stagnation. The argument is convincing. The empirical record is overwhelming. Inclusive systems win. Extractive systems fail.
-
-What the book is less explicit about is *why*. Not at the level of history or political science, but at the level of mechanism. It describes the pattern of outcomes without naming the engine.
-
-This is where the Pattern fills the gap.
+Here is the mechanism.
 
 Extractive institutions suppress variance. When the cost of a wrong idea is prison, and the reward for a right idea goes to the Crown, the population stops making new attempts. The iteration rate collapses. The system runs on a single brain, optimized for stability rather than adaptation. It can grow fast in a static environment (and extractive systems often do, which is why they persist and spread). But when the environment changes, when a new technology appears, when a neighboring country shifts the competitive landscape, the extractive system has no mechanism to respond. It has been selected for control, not for learning.
 
@@ -109,6 +101,8 @@ This is not a political argument. It's a structural one.
 
 The engine doesn't care which system calls itself "free" or which one calls itself "efficient." It runs wherever the conditions are met. Variance. Iteration. Selection. If you build a society that suppresses variance, you are building a society that cannot learn. The Pattern will still run. It just won't run *for you*. It will run through whoever kept their loops open.
 
-What Acemoglu and Robinson describe, in the language of economics and political science, is the same thing this book describes in the language of the Pattern. Systems that preserve their capacity to iterate, to fail, and to learn outcompete systems that don't. In short spans of time, we might see outliers, but in the long run, the force of evolution produced by the pattern is unmatched.
+If you want the full historical record behind this argument, *Why Nations Fail* by Daron Acemoglu and James Robinson is the place to go. Centuries of evidence, dozens of civilizations, the same conclusion.
+
+What they describe, in the language of economics and political science, is the same thing this book describes in the language of the Pattern. Systems that preserve their capacity to iterate, to fail, and to learn outcompete systems that don't. In short spans of time, we might see outliers, but in the long run, the force of evolution produced by the Pattern is unmatched.
 
 That is not a coincidence. It is the same engine, observed from a different angle.

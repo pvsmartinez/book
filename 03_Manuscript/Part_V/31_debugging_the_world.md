@@ -43,7 +43,9 @@ The planners realized the error and changed the rule: "You must produce a certai
 
 The manager adapted. He stopped making tiny needles and started making a few dozen massive, heavy nails, each as big as a railroad spike. Again, they were useless for building a house, but the factory hit its weight quota perfectly.
 
-He was a rational player optimizing for the **Value Function** he was given. If the system rewards weight, you get heavy things. If it rewards counts, you get many things. 
+He was a rational player optimizing for the **Value Function** he was given. If the system rewards weight, you get heavy things. If it rewards counts, you get many things.
+
+The same logic runs in offices every morning. The daily stand-up meeting was designed for speed: each person shares what they are doing in thirty seconds, the team stays aligned, and everyone gets back to work. But watch what the incentive structure actually rewards. If you speak briefly and everyone else does the same, you look focused. If you speak briefly while everyone else speaks at length, you look like you did nothing yesterday. So each individual, protecting their own signal, adds a little more detail, a little more context. The team collectively prefers short meetings. But every individual has a rational incentive to talk slightly longer. The system trends toward the verbose equilibrium: bloated meetings that everyone hates, that nobody decided to create, and that nobody alone can stop. The bug is not laziness or bad intentions. The bug is a Value Function that rewards individual visibility over collective efficiency.
 
 If a "buggy" behavior exists and persists in your life, it isn't a glitch. It's a feature. Somewhere in the code, that behavior is being rewarded.
 

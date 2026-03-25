@@ -1,10 +1,5 @@
 ## Chapter 10: The Invisible Judge
 
-> *A note before we begin:*
->
-> In the coming chapters, we will apply the Pattern to social topics such as education, media, politics, competition, and more. The goal is diagnostic. As we go over those topics, we will do simplifications, and they are deliberate: we need to see the machine's shape before we can get into its wiring. The nuance will come later.*
->
-
 An engine can drive an ambulance to a hospital or a tank into a city. It doesn't care. It just runs.
 
 Iteration, variance, and feedback create a machine that adapts to almost anything. Ideas spread like viruses. Habits reinforce themselves like gravity. The engine is powerful.

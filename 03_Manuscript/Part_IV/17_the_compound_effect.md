@@ -1,10 +1,5 @@
 ## Chapter 18: The Compound Effect
 
-> *A note before we begin:*
->
-> *This part is a diagnosis. We've seen the engine. We've met the judge. Now we zoom out and watch what happens when you let them run. If things feel unavoidable, remember that we in Part V we will talk about how to reshape them*
->
-
 The Competitors evolve. The Track shifts. Arms races escalate. The pattern forces the elements to change over time. 
 
 But why is it so strong?

@@ -73,23 +73,9 @@ But more pages mean more complexity. More complexity means more gaps. More gaps 
 
 Lawyers aren't evil. They're cheetahs. They optimize for the environment they're given. The environment continues to select for longer claws.
 
-### The Treadmill at Home
+### The Resume Arms Race
 
-Bugs and lawyers feel distant. But the same race is happening in your living room.
-
-**The Abs Arms Race**
-
-In 2000, Hugh Jackman played Wolverine for the first time. He was fit. Lean, muscular, clearly in good shape. Audiences were impressed. He looked like a superhero.
-
-Twenty years later, the standard has shifted so dramatically that Jackman's 2000 physique would barely qualify for a supporting role. Today's leading men dehydrate themselves for days before shirtless scenes, train twice daily with elite coaches, and in some cases use performance-enhancing drugs, all to achieve a level of muscularity that would have seemed cartoonish a generation ago.
-
-What happened? An arms race.
-
-Each new blockbuster raised the bar slightly. Each actor who showed up more shredded than the last put pressure on the next. Audiences adapted. What was once "impressive" became "normal." What was once "normal" became "out of shape."
-
-The result is that actors today work far harder than their predecessors and get roughly the same audience reaction. They are running faster to stay in place. Meanwhile, ordinary men compare themselves to these increasingly extreme physiques and feel inadequate, not realizing they're measuring themselves against the output of an arms race rather than a reasonable human standard.
-
-**The Resume Arms Race**
+Bugs and lawyers feel distant. But the same race is happening closer to home.
 
 The same pattern is reshaping the job market.
 
@@ -114,16 +100,6 @@ In an arms race, the environment isn't a wall. The environment is *you*. And for
 Iteration is no longer a solo performance. It is a duet. 
 Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve for *you*.
 
-The tragedy of the arms race is that it often produces no net benefit. The cheetah and gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. The actors train twice as hard for the same applause. The graduates study twice as long for the same jobs.
+The tragedy of the arms race is that it often produces no net benefit. The cheetah and gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. The graduates study twice as long for the same jobs.
 
 Everyone is optimizing. No one is winning.
-
-And yet, no individual can stop. If you stop running, you fall behind. The only way to escape the race is to change the game entirely. Find a different track where the old competition doesn't apply.
-
-That's not a fantasy. People and societies do it. But it requires seeing the race for what it is before you can step off it. First, we must face the obvious solution.
-
-If these races are so destructive, why don't we stop them? Why don't we make a rule that says "Speed Limit: 20mph" or "No more pesticides"?
-
-We do try. Humans are the only species that tries to rewrite the Value Function.
-
-But as the British government discovered in Delhi, trying to fix a broken system often breaks it even further.

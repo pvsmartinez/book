@@ -1,10 +1,5 @@
 ## Chapter 3: The Adaptation Equation
 
-> *A note before we begin:*
->
-> *This part is about the engine. How it works, what fuels it, and why it's so hard to stop. The goal here isn't to tell you where things are going. That comes later. The goal is to show you that, if the conditions are met, the process occurs. It happens in biology, in culture, in your habits, in your business. Once you see the mechanics, you'll understand why the pattern is so powerful. And once you feel that power, the question will shift from "Is this real?" to "Where is it pointing?"*
->
-
 I keep calling it "The Pattern."
 
 It sounds like a conspiracy theory. It sounds like something I found carved on a wall in a basement.

@@ -1,4 +1,4 @@
-## Chapter 16: The Cobra Effect
+## Chapter 12: The Cobra Effect
 
 The British colonial government in Delhi once faced a serious problem: the city was crawling with cobras.
 

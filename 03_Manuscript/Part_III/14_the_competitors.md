@@ -1,4 +1,4 @@
-## Chapter 13: The Competitors
+## Chapter 14: The Competitors
 
 If you can run a six-minute mile, are you fast?
 

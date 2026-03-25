@@ -1,27 +1,30 @@
-## Chapter 14: The Payoff Matrix
+> **[COMPOST — 2025]** Capítulo aposentado como capítulo autônomo da Part III. Três elementos redistribuídos:
+> - **Hawks & Doves (floresta vs. deserto)** → inserido no Cap. 17 (The Lens), seção "What is actually being rewarded here"
+> - **Stand-up meeting** → inserido no Cap. 32 (Debugging the World), após o exemplo da Fábrica de Pregos Soviética
+> - **Dilema do Prisioneiro** → mantido aqui para referência futura
+>
+> Razão: o capítulo não tinha tese unificada; os exemplos úteis se encaixam melhor em contextos existentes.
 
-Two coffee shops open on the same block. One drops its latte to three dollars. If the other holds at five, customers flood the cheap shop, and it wins. But if both drop to three, neither gains customers, and both lose margin. The "right move" depends entirely on what the other shop does.
+---
 
-This is the problem with everything we've discussed so far. Rules, Track, Competitors: in the real world, they don't exist in isolation. They collide. And the collision creates the Value Function.
+## Chapter 16: The Payoff Matrix
+
+Rules, Track, Competitors: in the real world, they don't exist in isolation. They collide. And the collision creates the Value Function.
 
 **Game Theory** gives us a way to formalize this collision. Game Theory is the mathematics of choices made under pressure, when your score depends on what everyone else does. The tool it uses to capture this is the **Payoff Matrix**: a table of what you win or lose for every possible choice, given every possible choice by everyone else.
 
-The story has a ledger.
+Take the Hawks and Doves example. Imagine some arbitrary values.
 
-The **Environment** writes the numbers: In our hawks and doves example, food is worth **+50**, serious injury costs **-100**, and posturing (Dove vs. Dove) costs time, but nobody bleeds: **+15 each**.
+Food is worth **+50**, serious injury costs **-100**, and sharing (Dove vs. Dove) : **+25 each**.
 
 | You \ Opponent | **vs. Hawk** | **vs. Dove** |
 | :--- | :--- | :--- |
 | **Play Hawk** | **Fight:** 50% win, 50% injured.<br/>Avg: **-25** | **Victory:** Opponent runs.<br/>**+50** |
-| **Play Dove** | **Flee:** No food, no injury.<br/>**0** | **Posture & Share:**<br/>**+15** |
+| **Play Dove** | **Flee:** No food, no injury.<br/>**0** | **Posture & Share:**<br/>**+25** |
 
-The best world for the species is if everyone is a Dove (+15 each, no blood). But a single Hawk mutant in a Dove forest scores +50 on every encounter. It eats better, reproduces faster, and within generations, the Hawks multiply.
+There is no single "best strategy." The system oscillates until it reaches a **Stable Equilibrium**, a specific mix where the payoff for being a Hawk equals the payoff for being a Dove. 
 
-But a pure Hawk forest is a nightmare. Every fight averages -25. In that world, a single Dove mutant scores 0 (runs every time), and zero is better than negative. The Dove thrives while the Hawks bleed each other dry.
-
-**The result:** there is no single "best strategy." The system oscillates until it reaches a **Stable Equilibrium**, a specific mix where the payoff for being a Hawk equals the payoff for being a Dove. The Pattern finds the balance and holds it there.
-
-### The Environment Rewrites the Numbers
+In this case, 50% Hanwks and 50% Doves.
 
 But what happens if we change the **Track**?
 
@@ -31,13 +34,14 @@ The Matrix rewriting itself:
 
 | You \ Opponent | **vs. Hawk** | **vs. Dove** |
 | :--- | :--- | :--- |
-| **Play Hawk** | **Fight:** (+500 or -100) / 2<br/>Avg: **+200 points** | **Victory:** **+500 points** |
+| **Play Hawk** | **Fight:** (+500 or -100) / 2<br/>Avg: **+300 points** | **Victory:** **+500 points** |
 | **Play Dove** | **Flee:** **0 points** | **Share:** **+250 points** |
 
 Look at the top-left box. In the forest, fighting a Hawk was a bad idea (-25). In the desert, fighting a Hawk is a *good* idea (+200). Even if you get injured half the time, the prize is so valuable that it's worth the risk.
 
-Suddenly, aggression is rational. The equilibrium shifts. The population becomes 80% Hawks.
-The animals didn't become "evil." They didn't decide to become violent. The **Environment** changed the numbers, the **Rules** of survival shifted, and the **Competitors** adapted to the new math.
+Suddenly, aggression is rational. The equilibrium shifts. In this extreme situation, we would have 100% Hawks.
+
+The animals didn't decide to become violent. The **Environment** changed the numbers, the **Rules** of survival shifted, and the **Competitors** adapted to the new math.
 
 The Payoff Matrix is the invisible hand moving the pieces.
 
@@ -53,7 +57,7 @@ Two suspects are arrested. The police separate them and offer each one a deal:
 
 Let's look at the matrix from your perspective:
 
-| You ↓ / Partner → | **Silent** | **Betray** |
+| You \ Partner | **Silent** | **Betray** |
 | :--- | :--- | :--- |
 | **Silent** | 1 Year | 10 Years (Sucker) |
 | **Betray** | Free | 5 Years |
@@ -75,7 +79,7 @@ We see this trap in places far more common than a police station. We see it in t
 Every morning, the team gathers. The goal is efficiency.
 Here is the Payoff Matrix for the employee:
 
-| You ↓ / History → | **Brief Culture** | **Verbose Culture** |
+| You \ History | **Brief Culture** | **Verbose Culture** |
 | :--- | :--- | :--- |
 | **Speak Briefly** | **You look:** Focused<br/>**Meeting:** 5 min | **You look:** Lazy<br/>**Meeting:** 25 min |
 | **Speak Long** | **You look:** Busy/Important<br/>**Meeting:** 15 min | **You look:** Normal<br/>**Meeting:** 45 min |
@@ -85,18 +89,6 @@ If everyone talks for 5 minutes, and you only say "I'm good," you look like you 
 
 The team collectively prefers brief meetings. But every individual has an incentive to talk a little longer to signal productivity. The system trends toward the "Verbose" equilibrium: bloated meetings that everyone hates, but no one can stop.
 
-### The Game That Eats Itself
+---
 
-This distinction matters for everything that follows.
-
-Some configurations, like the **Hawk and Dove**, are self-correcting. They find a **Local Maximum**, a stable mix where the system can persist indefinitely.
-
-Other configurations, such as the Prisoner's Dilemma, are Collapse Patterns. The incentives drive everyone toward an outcome no one wants (5 years in prison or a 45-minute meeting).
-
-But there is a third type.
-A type where the trap doesn't just sit still. A type where the "Defect" move isn't just a decision, but an **escalation**.
-
-When the Prisoner's Dilemma meets the force of Evolution, it creates something much more dangerous than a long meeting.
-It creates a race that no one can win or stop.
-
-It creates the **Red Queen**.
+The Value Function is never just one variable. The Rules set the boundaries. The Track sets the stakes. The Competitors set the pressure. It is the sum of all three that determines what gets selected, and therefore, where the Pattern moves next.
