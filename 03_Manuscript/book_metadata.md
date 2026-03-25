@@ -20,9 +20,9 @@ Title: Part IV: The Compounder
 Description: The recursive power of Time.
 
 ### Section_A
-Title: The consequences of compounding
+Title: The Consequences of Recursion
 
-### Sections_B
+### Section_B
 Title: The Shapes of the Pattern
 
 ## Part_V

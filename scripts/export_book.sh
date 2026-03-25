@@ -107,18 +107,47 @@ EOM
 
 CHAPTER_COUNT=0
 
+# ---------------------------------------------------------------------------
+# Helper: strip frontmatter/details/draft from a .md file and append to TEMP_MD
+# ---------------------------------------------------------------------------
+append_chapter() {
+    local file="$1"
+    [ -f "$file" ] || return
+    awk '
+    BEGIN { in_front=0; in_details=0; first_line=1 }
+    first_line && /^---$/ { in_front=1; first_line=0; next }
+    in_front && /^---$/ { in_front=0; next }
+    in_front { next }
+    { first_line=0 }
+    /<details>/ { in_details=1; next }
+    /<\/details>/ { in_details=0; next }
+    in_details { next }
+    /^### Draft/ { next }
+    { print }
+    ' "$file" >> "$TEMP_MD"
+    echo -e "\n\n" >> "$TEMP_MD"
+    CHAPTER_COUNT=$((CHAPTER_COUNT + 1))
+}
+
+# ---------------------------------------------------------------------------
+# Helper: read a field (Title/Description) from a metadata block in book_metadata.md
+#   read_meta "## Part_IV"  "Title"
+#   read_meta "### Section_A" "Title"   (inside Part_IV block)
+# ---------------------------------------------------------------------------
+read_meta() {
+    local header="$1"
+    local field="$2"
+    awk -v h="$header" -v f="$field" '
+        $0 == h { found=1; next }
+        found && /^## / { exit }
+        found && /^### / && h !~ /^###/ { exit }
+        found && $0 ~ "^" f ": " { sub("^" f ": ", ""); print; exit }
+    ' "$METADATA_FILE"
+}
+
 for part in Part_I Part_II Part_III Part_IV Part_V Part_VI; do
-    # Read Part metadata (Title & Description) — awk for macOS/Linux compatibility
-    TITLE=$(awk -v p="$part" '
-        $0 == "## " p { found=1; next }
-        found && /^## / { exit }
-        found && /^Title: / { sub(/^Title: /, ""); print; exit }
-    ' "$METADATA_FILE")
-    DESC=$(awk -v p="$part" '
-        $0 == "## " p { found=1; next }
-        found && /^## / { exit }
-        found && /^Description: / { sub(/^Description: /, ""); print; exit }
-    ' "$METADATA_FILE")
+    TITLE=$(read_meta "## $part" "Title")
+    DESC=$(read_meta "## $part" "Description")
 
     # Add Part header (H1 for TOC)
     echo "# $TITLE" >> "$TEMP_MD"
@@ -129,28 +158,84 @@ for part in Part_I Part_II Part_III Part_IV Part_V Part_VI; do
 </div>
 EOM
 
-    for file in 03_Manuscript/$part/*.md; do
-        [ -f "$file" ] || continue
+    # -----------------------------------------------------------------------
+    # Special handling for parts that contain sub-sections (Section_A, Section_B …)
+    # Order:
+    #   1. Loose .md files in the Part root (sorted), that sort BEFORE sections
+    #   2. Each Section_* sub-folder in alphabetical order:
+    #        - Section page (break-before: recto)
+    #        - Chapters inside the section (sorted)
+    #   3. Loose .md files in the Part root that sort AFTER sections
+    # "Before/after sections" is determined by filename vs the first/last chapter
+    # numbers found inside sections — we rely on numeric prefix in filenames.
+    # -----------------------------------------------------------------------
 
-        # Strip YAML frontmatter (between --- markers at top of file)
-        # Strip <details> blocks
-        # Strip Draft markers
-        awk '
-        BEGIN { in_front=0; in_details=0; first_line=1 }
-        first_line && /^---$/ { in_front=1; first_line=0; next }
-        in_front && /^---$/ { in_front=0; next }
-        in_front { next }
-        { first_line=0 }
-        /<details>/ { in_details=1; next }
-        /<\/details>/ { in_details=0; next }
-        in_details { next }
-        /^### Draft/ { next }
-        { print }
-        ' "$file" >> "$TEMP_MD"
-
-        echo -e "\n\n" >> "$TEMP_MD"
-        CHAPTER_COUNT=$((CHAPTER_COUNT + 1))
+    PART_DIR="03_Manuscript/$part"
+    HAS_SECTIONS=false
+    for sd in "$PART_DIR"/Section_*/; do
+        [ -d "$sd" ] && HAS_SECTIONS=true && break
     done
+
+    if [ "$HAS_SECTIONS" = true ]; then
+        # Find the lowest chapter number inside any section
+        FIRST_SECTION_NUM=9999
+        for sd in "$PART_DIR"/Section_*/; do
+            for f in "$sd"*.md; do
+                [ -f "$f" ] || continue
+                num=$(basename "$f" | grep -oE '^[0-9]+')
+                [ -n "$num" ] && [ "$num" -lt "$FIRST_SECTION_NUM" ] && FIRST_SECTION_NUM=$num
+            done
+        done
+
+        # 1. Loose files that come BEFORE the first section chapter
+        for file in $(ls "$PART_DIR"/*.md 2>/dev/null | sort); do
+            num=$(basename "$file" | grep -oE '^[0-9]+')
+            [ -n "$num" ] && [ "$num" -lt "$FIRST_SECTION_NUM" ] && append_chapter "$file"
+        done
+
+        # 2. Each section in order
+        for sd in $(ls -d "$PART_DIR"/Section_*/ 2>/dev/null | sort); do
+            # Derive section key: "Section_A" from the path
+            sec_key=$(basename "$sd")
+            SEC_TITLE=$(read_meta "### $sec_key" "Title")
+
+            # Derive human-readable label: "Section_A" → "Section A"
+            SEC_LABEL=$(echo "$sec_key" | sed 's/_/ /')
+
+            # Section page — injected as raw HTML (won't pollute TOC h2 chapters)
+            cat << EOM >> "$TEMP_MD"
+<div class="section-page">
+    <p class="section-label">$SEC_LABEL</p>
+    <h2 class="section-title">$SEC_TITLE</h2>
+</div>
+EOM
+
+            for file in $(ls "$sd"*.md 2>/dev/null | sort); do
+                append_chapter "$file"
+            done
+        done
+
+        # 3. Loose files that come AFTER the sections
+        LAST_SECTION_NUM=0
+        for sd in "$PART_DIR"/Section_*/; do
+            for f in "$sd"*.md; do
+                [ -f "$f" ] || continue
+                num=$(basename "$f" | grep -oE '^[0-9]+')
+                [ -n "$num" ] && [ "$num" -gt "$LAST_SECTION_NUM" ] && LAST_SECTION_NUM=$num
+            done
+        done
+
+        for file in $(ls "$PART_DIR"/*.md 2>/dev/null | sort); do
+            num=$(basename "$file" | grep -oE '^[0-9]+')
+            [ -n "$num" ] && [ "$num" -gt "$LAST_SECTION_NUM" ] && append_chapter "$file"
+        done
+
+    else
+        # Standard part: no sections, iterate files directly
+        for file in $(ls 03_Manuscript/$part/*.md 2>/dev/null | sort); do
+            append_chapter "$file"
+        done
+    fi
 done
 
 echo "   → ${CHAPTER_COUNT} chapters concatenated"
@@ -193,6 +278,19 @@ cat << EOM > "$TEMP_HTML"
     <link rel="stylesheet" href="../$CSS_FILE">
 </head>
 <body>
+
+<!-- Blank page (verso) before title page -->
+<div class="blank-page"></div>
+
+<!-- Title / version page (recto) -->
+<div class="title-page">
+    <p class="title-page-title">${BOOK_TITLE}</p>
+    <p class="title-page-subtitle">${BOOK_SUBTITLE}</p>
+    <div class="title-page-rule"></div>
+    <p class="title-page-author">${BOOK_AUTHOR}</p>
+    <p class="title-page-version">Version ${VERSION} &nbsp;&middot;&nbsp; $(date +'%B %Y')</p>
+</div>
+
 EOM
 
 $PYTHON_BIN -c "
@@ -204,12 +302,19 @@ print(markdown.markdown(
 ))
 " >> "$TEMP_HTML"
 
+# Inject section entries into the TOC (post-process the HTML)
+$PYTHON_BIN scripts/inject_sections_toc.py "$TEMP_HTML"
+
 cat << EOM >> "$TEMP_HTML"
 <div class="colophon">
     <p><em>${BOOK_TITLE}</em></p>
     <p>${BOOK_AUTHOR}</p>
     <p>Version ${VERSION} &nbsp;&middot;&nbsp; $(date +'%B %Y')</p>
 </div>
+
+<!-- Blank page at the end -->
+<div class="blank-page blank-page--last"></div>
+
 </body>
 </html>
 EOM

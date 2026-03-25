@@ -105,6 +105,97 @@ body {
     color: #666;
 }
 
+/* =========================================================
+   Blank Pages
+   ========================================================= */
+
+.blank-page {
+    break-before: page;
+    height: 7.375in;
+    display: block;
+}
+
+/* Suppress page number on blank pages */
+@page blank-page {
+    @bottom-center { content: none; }
+}
+
+.blank-page {
+    page: blank-page;
+}
+
+/* =========================================================
+   Title / Version Page (recto, after blank)
+   ========================================================= */
+
+.title-page {
+    break-before: recto;
+    height: 7.375in;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    box-sizing: border-box;
+    padding-right: 0.1in;
+}
+
+/* No page number on title page */
+@page title-page {
+    @bottom-center { content: none; }
+    @top-left      { content: none; }
+    @top-right     { content: none; }
+}
+
+.title-page {
+    page: title-page;
+}
+
+.title-page-title {
+    font-family: "Helvetica", sans-serif;
+    font-size: 32pt;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: right;
+    color: #111;
+    margin: 0 0 8px 0;
+}
+
+.title-page-subtitle {
+    font-family: "Baskerville", "Georgia", serif;
+    font-size: 13pt;
+    font-style: italic;
+    color: #555;
+    text-align: right;
+    margin: 0 0 20px 0;
+}
+
+.title-page-rule {
+    width: 2in;
+    border-top: 3px solid #111;
+    margin: 0 0 20px auto; /* auto left = flush right */
+}
+
+.title-page-author {
+    font-family: "Helvetica", sans-serif;
+    font-size: 12pt;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #333;
+    text-align: right;
+    margin: 0 0 8px 0;
+}
+
+.title-page-version {
+    font-family: "Helvetica", sans-serif;
+    font-size: 8pt;
+    color: #aaa;
+    text-align: right;
+    letter-spacing: 1px;
+    margin: 0;
+}
+
 /* Part Pages Container (Description only now) */
 .part-page {
     break-before: avoid; /* Do not force a break, attach to H1 */
@@ -145,6 +236,88 @@ h1 {
     color: #111;
     break-after: avoid;
     page-break-after: avoid;
+}
+
+/* =========================================================
+   Section Pages (Sub-sections within a Part, e.g. Part IV)
+   ========================================================= */
+
+/* Container that holds the section page — forces a recto (right-hand) page break */
+.section-page {
+    break-before: recto;
+    height: 7.375in;         /* 9in page - 0.75in top - 0.875in bottom margins */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* vertical center */
+    align-items: flex-end;   /* align right, matching the Part aesthetic */
+    box-sizing: border-box;
+    padding-right: 0.1in;
+    break-after: page;       /* force page after, but NOT recto — avoids blank page before chapter */
+}
+
+/* Section label: "Section A", "Section B" — sits above the title */
+.section-page .section-label {
+    font-family: "Helvetica", sans-serif;
+    font-size: 10pt;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: right;
+    color: #888;
+    margin: 0 0 10px 0;
+}
+
+/* The section title itself — sits between Part (h1) and Chapter (h2) visually */
+h2.section-title {
+    font-family: "Helvetica", sans-serif;
+    font-size: 22pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    text-align: right;
+    color: #333;
+    border-bottom: 2px solid #888;
+    padding-bottom: 14px;
+    margin: 0;
+    /* No break-before here — the .section-page container owns the break */
+    break-before: avoid;
+    break-after: avoid;
+}
+
+/* TOC section entries — injected by inject_sections_toc.py */
+li.toc-section-entry {
+    list-style: none;
+    margin-top: 14px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+    padding: 6px 0 4px 0;
+    border-top: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    font-style: normal;
+}
+
+/* "SECTION A" label */
+li.toc-section-entry .toc-section-label {
+    font-family: "Helvetica", sans-serif;
+    font-size: 7.5pt;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: #aaa;
+    display: block;
+    margin-bottom: 2px;
+}
+
+/* "The Consequences of Recursion" title */
+li.toc-section-entry .toc-section-title {
+    font-family: "Helvetica", sans-serif;
+    font-size: 10pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: #555;
+    display: block;
 }
 
 /* Chapter Titles (H2) */
