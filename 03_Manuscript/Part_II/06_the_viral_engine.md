@@ -4,9 +4,7 @@ Have you ever seen a Flat Earth video?
 
 Not once. Not twice. They keep coming back.
 
-You debunk one. Another appears.
-You argue with one. Three more show up.
-You think the idea should have died by now, but somehow it survives.
+You debunk one. Another appears. You argue with one. Three more show up. You think the idea should have died by now, but somehow it survives.
 
 Why?
 
@@ -32,17 +30,13 @@ Now picture a Newton's Cradle, five silver balls hanging in a row on strings. If
 
 *(imagem: newtons_cradle.png | Newton's Cradle: five silver balls hanging on strings. Pull one end, the energy travels through, and the last ball swings out.)*
 
-You pull the first ball back and let it drop. *Click.*
-It hits the row and stops dead. It does not push through. It does not travel. But the energy does. It shoots silently through the middle balls, which barely move, and kicks the last ball out the other side. *Clack.*
+You pull the first ball back and let it drop. *Click.* It hits the row and stops dead. It does not push through. It does not travel. But the energy does. It shoots silently through the middle balls, which barely move, and kicks the last ball out the other side. *Clack.*
 
 The energy traveled. The balls stayed put.
 
 That is the mental model.
 
-In the ocean, energy moves through water. The water stays.
-In Newton's Cradle, energy moves through the balls. The balls stay.
-In biology, genes move through bodies. The bodies stay.
-In culture, memes move through minds. The minds stay.
+In the ocean, energy moves through water. The water stays. In Newton's Cradle, energy moves through the balls. The balls stay. In biology, genes move through bodies. The bodies stay. In culture, memes move through minds. The minds stay.
 
 This is memetics. Society is the water. The idea is the wave.
 
@@ -64,7 +58,7 @@ Nobody fact-checked it. And because it was written by someone, people used it as
 
 This was, in the end, a misunderstanding that spread.
 
-Of course, the reason for a meme's spread and perpetuation can be its usefulness.
+Of course, a meme's spread and perpetuation can be due to its usefulness.
 
 Think about how people started washing their hands.
 

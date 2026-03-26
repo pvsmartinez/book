@@ -1,4 +1,4 @@
-## Chapter 20: The Dice and the Direction
+## Chapter 19: The Dice and the Direction
 
 What role does **Luck** play in the pattern?
 
@@ -6,7 +6,7 @@ Luck is one of those words that makes analytical people uncomfortable. It sounds
 
 Go back to the equation:
 
-$$Adaptation\ Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
+$$Adaptation\\ Rate = \\frac{Filter(Iteration \\times Variance)}{Time}$$
 
 Look at that word: **Variance**.
 
@@ -77,8 +77,6 @@ But over thousands of iterations and millions of individuals, the noise cancels 
 The specific giraffe that survives the drought might be lucky. But over a million years and a billion giraffes, the ones with longer necks consistently outsurvive the ones with shorter necks. Luck decides which individual survives. The Value Function decides that "long neck" becomes the norm.
 
 The specific startup that becomes a unicorn might be lucky. But across thousands of startups over decades, the ones that solve real problems consistently outperform. Luck decides which founder becomes a billionaire. The Value Function decides that "solving problems" is the winning shape.
-
-Randomness adds noise. The Value Function defines the direction. That's the dice and the direction.
 
 ### Two Lenses on the Same Winner
 

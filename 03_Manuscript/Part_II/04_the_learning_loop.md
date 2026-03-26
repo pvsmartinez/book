@@ -14,10 +14,7 @@ Your brain isn't a library.
 
 Watch a baby learn to walk.
 
-They lean left and fall. *Pain.*
-They lean right and fall. *Pain.*
-They lean forward slightly and take a step. *Success.*
-They repeat.
+They lean left and fall. *Pain*.They lean right and fall. *Pain*.They lean forward slightly and take a step. *Success*.They repeat.
 
 The brain doesn't "know" how to walk. It discovers it by pruning away every movement that leads to a fall. Your muscle memory is its own graveyard of millions of failed micro-movements, leaving only the ones that work.
 
@@ -71,9 +68,7 @@ This is the principle of **Variance Safety**.
 
 If the cost of failure is death, you don't experiment. You stick to what you know. But if the cost of failure is cheap, you try everything.
 
-This is why **Video Games** are the gold standard of learning engines. In a well-designed game, the clarity is absolute.
-You jump. You miss. You die. You respawn.
-Total time: 4 seconds.
+This is why **Video Games** are the gold standard of learning engines. In a well-designed game, the clarity is absolute. You jump. You miss. You die. You respawn. Total time: 4 seconds.
 
 Your brain gets a clear signal: "That distance was too short." It adjusts. You jump again. Because it is safe to fail, you are willing to have high variance. You try crazy jumps. You experiment.
 
@@ -81,10 +76,7 @@ A top-tier **Stand-up Comedian** works the same way. They don't write a Netflix 
 
 The club is a safe environment. If they bombed on HBO, their career would end. In the club, the cost of error is just an awkward silence. They bought safety to purchase variance.
 
-Now compare this to the **Stock Market**.
-You buy a stock today.
-Did you make a good decision?
-Maybe. Maybe not. You might not know for five years.
+Now compare this to the **Stock Market**. You buy a stock today. Did you make a good decision? Maybe. Maybe not. You might not know for five years.
 
 By the time you get the feedback (Profit or Loss), you have forgotten why you made the trade. Was it the P/E ratio? Was it the CEO? Was it just luck? Or did the whole market go up?
 

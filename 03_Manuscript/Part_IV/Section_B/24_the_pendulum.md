@@ -1,12 +1,4 @@
-## Chapter 25: The Pendulum
-
-So, all systems either go to extremes or stay calcified? There is no stable configuration in the change?
-
-Well, that's the cool part of pendulums. They oscillate, they swing, yet they are stable.
-
-So do some systems.
-
-### The Fashion Pendulum
+## Chapter 24: The Pendulum
 
 Fashion is all about self-expression. And when someone is self-expressing, they are doing two things at once.
 
@@ -28,11 +20,11 @@ I remember looking at my closet in 2023 and realizing every pair of jeans I owne
 
 Jeans fit, high heels sizes, colorful/muted clothes, formal/informal. They all oscillate.
 
-Thinking on the Value Function, rules didn't change. But the environment and competitors did. And the recursive nature of the pattern means that as one strategy saturates the field. Its opposite becomes uniquely valuable. Then that strategy saturates, and the cycle starts over. 
+Thinking on the Value Function, rules didn't change. But the environment and competitors did. And the recursive nature of the pattern means that as one strategy saturates the field. Its opposite becomes uniquely valuable. Then that strategy saturates, and the cycle starts over.
 
 ### The Credit Pendulum
 
-We see this pattern in many different places. 
+We see this pattern in many different places.
 
 Take the economy.
 

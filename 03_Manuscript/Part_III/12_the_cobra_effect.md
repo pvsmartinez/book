@@ -1,29 +1,28 @@
 ## Chapter 12: The Cobra Effect
 
-The British colonial government in Delhi once faced a serious problem: the city was crawling with cobras.
+If defining the right rules is already hard, imagine when the measurement of those rules is wrong.
 
 Humans have something nature lacks: **intent**. We don't just survive the Value Function. We try to rewrite it. Of the three levers, the **Rules** are the quickest to pull. Pass a law. Set a bounty. Create a metric. Rules have a more predictable cause-and-effect relationship, which is why they are the preferred tool for steering behavior.
 
 But there's a trap. A trap so common, so devastating, that it has its own name.
 
-The administrators in Delhi did what any "sensible" government would do. They designed a Value Function. They created an incentive structure to recruit the entire population into their safety mission. 
+The British colonial government in Delhi once faced a serious problem: the city was crawling with cobras.
+
+The administrators in Delhi did what any "sensible" government would do. They designed a Value Function. They created an incentive structure to recruit the entire population into their safety mission.
 
 The rule was simple: "Bring us a dead cobra, and we will pay you a bounty."
 
-In the minds of the administrators, the logic was foolproof. 
-Goal: Fewer snakes. 
-Variable: Dead snakes. 
-Metric: Number of skins. 
+In the minds of the administrators, the logic was foolproof. Goal: Fewer snakes. Variable: Dead snakes. Metric: Number of skins.
 
-They sat back and waited for the "Invisible Hand" to do its magic. And for a while, it worked! The number of skins entering government offices was substantial. The clerks were busy, the payments were flowing, and the "data" showed a resounding success. 
+They sat back and waited for the "Invisible Hand" to do its magic. And for a while, it worked! The number of skins entering government offices was substantial. The clerks were busy, the payments were flowing, and the "data" showed a resounding success.
 
 But there was a bug in the source code.
 
 The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle) and at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to breed cobras in their basements.
 
-Suddenly, Delhi had a thriving new industry: **Cobra Farming.** 
+Suddenly, Delhi had a thriving new industry: **Cobra Farming.**
 
-The government was paying for the very thing it was trying to eliminate. When the officials finally realized they were being gamed and canceled the bounty, the breeders did the only logical thing with their now-worthless inventory: they opened the cages and released the snakes. 
+The government was paying for the very thing it was trying to eliminate. When the officials finally realized they were being gamed and canceled the bounty, the breeders did the only logical thing with their now-worthless inventory: they opened the cages and released the snakes.
 
 Delhi ended up with more cobras than it had at the start.
 
@@ -33,15 +32,15 @@ They named it the **Cobra Effect**. It became the most famous example of a "Perv
 
 The government didn't "fail." In fact, the Value Function succeeded perfectly. It requested cobra skins and received them in record numbers. The system didn't care that the skins were coming from a farm instead of the street. It only cared about the count.
 
-This is what I call a **Successful Failure**. 
+This is what I call a **Successful Failure**.
 
 ### Scaling the Failure
 
-We see this everywhere once we start looking. 
+We see this everywhere once we start looking.
 
-*   **In Hanoi**, the French colonial government paid for rat tails to stop a plague. People began breeding rats, tailing them, and releasing them to breed more. Success (more tails) = Failure (more rats).
-*   **In Corporations**, we tell managers to "Maximize Shareholder Value this Quarter." The managers fire the research team and sell the factory equipment. The stock price goes up (Success!), but the company has no future (Failure).
-*   **In Social Media**, we tell the algorithm to "Maximize Engagement." The algorithm finds that anger and division keep people on the site longer than peace and nuance. The engagement numbers are at an all-time high (Success!), but the social fabric is tearing (Failure).
+- **In Hanoi**, the French colonial government paid for rat tails to stop a plague. People began breeding rats, tailing them, and releasing them to breed more. Success (more tails) = Failure (more rats).
+- **In Corporations**, we tell managers to "Maximize Shareholder Value this Quarter." The managers fire the research team and sell the factory equipment. The stock price goes up (Success!), but the company has no future (Failure).
+- **On social media**, we tell the algorithm to "Maximize Engagement." The algorithm finds that anger and division keep people on the site longer than peace and nuance. The engagement numbers are at an all-time high (Success!), but the social fabric is tearing (Failure).
 
 ### The Broken Scale
 
@@ -57,10 +56,11 @@ Intent does not directly affect the pattern. The engine runs on what is *measure
 
 That is the danger of the **Proxy**.
 
-A Proxy is a visible number that stands in for an invisible outcome. 
-*   **Goal:** Economic Well-being. **Proxy:** GDP.
-*   **Goal:** Knowledge. **Proxy:** GPA.
-*   **Goal:** Social Stability. **Proxy:** The Inflation Rate.
+A Proxy is a visible number that stands in for an invisible outcome.
+
+- **Goal:** Economic Well-being. **Proxy:** GDP.
+- **Goal:** Knowledge. **Proxy:** GPA.
+- **Goal:** Social Stability. **Proxy:** The Inflation Rate.
 
 On paper, this makes sense. If you improve the number, you should improve the reality. However, because the system is driven by iteration and competition, something anomalous occurs. The system learns that it is much easier to "game" the number than to achieve the goal.
 
@@ -98,14 +98,15 @@ We end up with a system that creates graduates who are "High Proxy" (Great at te
 
 ### Goodhart’s Law
 
-There is a name for this phenomenon. It’s called **Goodhart’s Law**: 
+There is a name for this phenomenon. It’s called **Goodhart’s Law**:
+
 > "When a measure becomes a target, it ceases to be a good measure."
 
 The moment we decide that a number (the proxy) is the point of the game, the competitors will find a way to hit that number without actually doing the work.
 
-*   If you reward a cobra hunter for bringing in dead cobras, he will start **breeding cobras** to kill them.
-*   If you reward a programmer for the number of lines of code they write, they will write the **longest, messiest code** possible.
-*   If you reward a CEO for the quarterly stock price, they will **fire half the staff** to make the numbers look good today, even if it kills the company tomorrow.
+- If you reward a cobra hunter for bringing in dead cobras, he will start **breeding cobras** to kill them.
+- If you reward a programmer for the number of lines of code they write, they will write the **longest, messiest code** possible.
+- If you reward a CEO for the quarterly stock price, they will **fire half the staff** to make the numbers look good today, even if it kills the company tomorrow.
 
 The Proxy is a shortcut. And in a world of fast iteration, the shortcut becomes the destination.
 

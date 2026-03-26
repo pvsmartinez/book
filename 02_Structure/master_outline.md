@@ -33,12 +33,12 @@
 
 *   **10_the_invisible_judge.md**: Chapter 10 — The Invisible Judge
 *   **11_the_algorithms_brain.md**: Chapter 11 — The Algorithm's Brain
-*   **12_the_medium.md**: Chapter 12 — The Medium
-*   **13_the_competitors.md**: Chapter 13 — The Competitors
-*   **14_the_payoff_matrix.md**: Chapter 14 — The Payoff Matrix
+*   **12_the_cobra_effect.md**: Chapter 12 — The Cobra Effect
+*   **13_the_medium.md**: Chapter 13 — The Medium
+*   **14_the_competitors.md**: Chapter 14 — The Competitors
 *   **15_the_red_queen.md**: Chapter 15 — The Red Queen
-*   **16_the_cobra_effect.md**: Chapter 16 — The Cobra Effect (The Successful Failure)
-*   **17_the_mold.md**: Chapter 17 — The Mold (Synthesis)
+*   **16_the_local_maximum.md**: Chapter 16 — The Local Maximum *(novo — Nash Equilibrium, Prisoner's Dilemma, local vs. global optimum)*
+*   **17_the_lens.md**: Chapter 17 — The Lens (Synthesis)
 
 ---
 

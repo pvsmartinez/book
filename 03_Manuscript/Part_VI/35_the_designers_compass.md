@@ -1,16 +1,14 @@
 ## Chapter 36: The Designer's Compass
 
-<!-- FLAG-OPENER: Abstract philosophical opener. "Systemic nihilism" is a great idea but it's stated as a thesis, not shown. Consider opening with a moment where you felt it yourself — the vertigo of seeing everything as loops — before naming it. -->
-Once you start seeing the patterns (the Engine, the Judge, the Compounder) it is easy to fall into a kind of systemic nihilism. 
+&lt;!-- FLAG-OPENER: Abstract philosophical opener. "Systemic nihilism" is a great idea, but it's stated as a thesis rather than demonstrated. Consider opening with a moment where you felt it yourself — the vertigo of seeing everything as loops — before naming it. --&gt; Once you start seeing the patterns (the Engine, the Judge, the Compounder), it is easy to fall into a kind of systemic nihilism.
 
 If everything is just a loop optimizing itself, does choice even exist? If the metric always wins, why bother having values? If the algorithm already knows what I’m going to buy, watch, and vote for, am I even the "Player" anymore?
 
-This is the wrong conclusion. Understanding gravity doesn’t make you stop walking; it’s what allows you to build a plane. 
+This is the wrong conclusion. Understanding gravity doesn’t make you stop walking; it’s what allows you to build a plane.
 
 To navigate a world governed by these invisible mechanics, you don’t need a map. Maps assume the terrain is static, but our world is a living, shifting ocean of feedback. To survive, you need a compass.
 
-<!-- FLAG: The four cardinal directions framework (North/East/South/West) is too clean and symmetric — it feels like AI organizing principles into a neat package. Each direction has the same structure: statement → school/company example → one-liner. Consider making this messier/more personal, or at least breaking the repetitive pattern between sections. -->
-Here are the four cardinal directions for the System Designer. These are the heuristics that separate the architects from the pieces on the board.
+&lt;!-- FLAG: The four cardinal directions framework (North/East/South/West) is too clean and symmetric — it feels like AI organizing principles into a neat package. Each direction has the same structure: statement → school/company example → one-liner. Consider making this messier/more personal, or at least breaking the repetitive pattern between sections. --&gt; Here are the four cardinal directions for the System Designer. These are the heuristics that separate the architects from the pieces on the board.
 
 ### North: Behavior is the Only Truth
 
@@ -20,7 +18,7 @@ The Designer ignores the slogans and looks at the scoreboard.
 
 **If the output of a system consistently contradicts its stated intent, the system is not broken. It is working perfectly.**
 
-Recall the **Exam Trap**. We claimed we wanted educated children, but we built a Judge, the standardized test, that rewarded memorization. The system wasn't "failing" to teach; it was *succeeding* at filtering for compliance. 
+Recall the **Exam Trap**. We claimed we wanted educated children, but we built a standardized test, the Judge, that rewarded memorization. The system wasn't "failing" to teach; it was *succeeding* at filtering for compliance.
 
 Don't ask "Why is this broken?" Ask "What is this optimizing for?" The answer is always right in front of you, in the "Winners' Circle." Look at who gets promoted, who gets the bonus, and who gets the attention. That is the true Value Function. Everything else is just noise.
 
@@ -44,9 +42,9 @@ But often, friction is the only thing protecting the system from a collapse.
 
 **Efficiency looks like progress until it looks like a disaster.**
 
-Recall **Chesterton’s Fence**. You see a fence blocking a road and your instinct is to tear it down to make the path "more efficient." But unless you know *why* the fence was put there (perhaps to stop a bull from charging the highway) you must not touch it.
+Recall **Chesterton’s Fence**. You see a fence blocking a road, and your instinct is to tear it down to make the path "more efficient." But unless you know *why* the fence was put there (perhaps to stop a bull from charging the highway), you must not touch it.
 
-We removed the friction of editing from news to make it faster, and we got an ecosystem that optimizes for rage. We removed the friction of boredom, and we destroyed our attention spans. Sometimes, a slow process is what keeps the whole thing from falling apart. Democracy is designed to be slow. Science is designed to be slow. Meaningful relationships are built on the friction of time. Before you optimize, ask what the inefficiency is protecting.
+We removed the friction of editing in news to make it faster, and we ended up with an ecosystem that optimizes for rage. We removed the friction of boredom, and we destroyed our attention spans. Sometimes, a slow process is what keeps the whole thing from falling apart. Democracy is designed to be slow. Science is designed to be slow. Meaningful relationships are built on the friction of time. Before you optimize, ask what the inefficiency is protecting.
 
 Speed is power when the direction is right. Friction is safety when the direction is uncertain. The Designer's job is knowing which one they're facing.
 
@@ -58,14 +56,14 @@ But the mean is where unique value goes to die.
 
 **Survival requires fitting in. Success requires standing out.**
 
-The system is designed to prune variance. It wants you to be a predictable component: a reliable worker, a consistent consumer, a categorized voter. If you do exactly what the algorithm expects, you will be safe, but you will be replaceable. 
+The system is designed to prune variance. It wants you to be a predictable component: a reliable worker, a consistent consumer, a categorized voter. If you do exactly what the algorithm expects, you will be safe, but you will be replaceable.
 
 The "Head Start" always comes from the anomaly. The Designer does not just plant rows of identical, efficient crops; they leave space for the wild seeds in the corner. Most will fail, but the one that survives will define the future.
 
-***
+---
 
 The compass doesn't tell you the destination. That part is still up to you. But it tells you where you are standing.
 
-You are not a victim of the patterns. You are a participant in them. You can adjust the Judge, you can speed up your Engine, and you can respect the Compounder. You can choose, in small but vital moments, to be the error in the code that writes a better program.
+You are not a victim of the patterns. You are a participant in them. You can adjust the Judge, speed up your Engine, and respect the Compounder. You can choose, in small but vital moments, to be the error in the code that writes a better program.
 
 You have seen the code. Now, there is only one question left.

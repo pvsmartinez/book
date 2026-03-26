@@ -1,4 +1,4 @@
-## Chapter 22: The Cheetah's Dilemma
+## Chapter 21: The Cheetah's Dilemma
 
 Zero to ninety-seven kilometers per hour in under three seconds.
 
@@ -32,11 +32,11 @@ The Pattern didn't do this *to* the Cheetah. The Cheetah *is* what the Pattern d
 
 ### The Quiet Accumulation
 
-This isn't unique to nature.
+The hyena didn't cause the problem. It just revealed it. The same thing happens when environments shift anywhere the Pattern has been optimizing long enough.
 
 Think about global supply chains. For decades, the optimization was ruthless and logical: Just-in-Time manufacturing. Cut the warehouse. Cut the inventory buffer. Cut the spare parts on the shelf. Every item arrives exactly when needed, no earlier. Each step reduced waste. Each step cut costs. Each step was celebrated.
 
-But each round of optimization quietly removed something. 
+But each round of optimization quietly removed something.
 
 Then COVID arrived.
 
@@ -48,7 +48,7 @@ Nobody designed a system meant to break. They designed one meant to be efficient
 
 ### The Optimization Paradox
 
-Sometimes the consequence doesn't just emerge quietly. It actively creates the problem the optimization was meant to solve.
+Sometimes the consequence doesn't wait for an external shock. It actively creates the problem the optimization was meant to solve.
 
 Take the car.
 

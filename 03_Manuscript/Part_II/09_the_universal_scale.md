@@ -32,7 +32,7 @@ Think of it as a lens, not a map.
 
 A map tells you how a place is built: every street, every building, every underground pipe. The Pattern doesn't do that. Immunologists have spent careers mapping how the immune system actually works. Economists have built entire fields around the mechanics of markets. Historians have written libraries about how governments rise and fall. None of that work is wrong, and none of it is replaced by what you're reading.
 
-What the Pattern gives you is something different: the direction of travel. Not how a system is built, but where it is going. Not the mechanics of selection, but the fact that selection is happening, and that over time, it shapes everything. The immune system works in ways I couldn't fully explain. But I can tell you with certainty that whatever survives inside it, survives because it worked. That pressure is the Pattern. And it is the strongest force in the room.
+What the Pattern gives you is something different: the direction of travel. Not how a system is built, but where it is going. Not the mechanics of selection, but the fact that selection is happening, and that over time, it shapes everything. The immune system works in ways I couldn't fully explain. But I can tell you with certainty that whatever survives inside it survives because it worked. That pressure is the Pattern. And it is the strongest force in the room.
 
 Not the smartest plan. Not the most powerful institution. Not the best intentions. The thing that keeps adapting wins. Over and over, at every scale, across every domain we've looked at, that's what happened.
 
@@ -44,7 +44,7 @@ Here's something worth pausing on. I said, "The same loop, all today." But they 
 
 Recall the Adaptation Equation from earlier:
 
-$$Adaptation Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
+$$Adaptation Rate = \\frac{Filter(Iteration \\times Variance)}{Time}$$
 
 Time is a key variable here, as it dictates pace.
 
@@ -62,7 +62,7 @@ And the speed of the loop determines how fast things adapt. A market can correct
 
 Look back at what Part II just did.
 
-It started inside a single body. A cell dividing. An immune system filtering. Then it moved up: a mind learning, a company pivoting, a market selecting, a nation adapting. Each chapter, a different scale. Each chapter, a different vocabulary. Mutation, pivot, meme, policy. Different words. Same structure.
+It started inside a single body. A cell is dividing. An immune system filters. Then it moved up: a mind learning, a company pivoting, a market selecting, a nation adapting. Each chapter, a different scale. Each chapter has a different vocabulary. Mutation, pivot, meme, policy. Different words. Same structure.
 
 You were reading about biology, then economics, then culture, then governance. But the shape underneath never changed. That was intentional. The Pattern isn't an analogy that stretches across domains. It's the same process, running simultaneously, at every level of the world you live in.
 
@@ -70,7 +70,7 @@ That is what a fractal actually means. Not a pretty picture. A rule that generat
 
 The Pattern is that rule.
 
-And it is not neutral. No matter the individual effort, the varied attempts, the intentions, in the long run what gets selected defines the outcome. The bodies. The behaviors. The ideas. The institutions. The direction is set by the filter, not by the participants.
+And it is not neutral. No matter the individual effort, the varied attempts, the intentions, in the long run, what gets selected defines the outcome. The bodies. The behaviors. The ideas. The institutions. The direction is set by the filter, not by the participants.
 
 But here is the thing about a direction: it can be changed. Not easily. Not quickly. But it can be changed. Because the filter is not a law of physics. It is a structure. And structures can be redesigned.
 

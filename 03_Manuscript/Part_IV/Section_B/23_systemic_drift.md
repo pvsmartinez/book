@@ -1,4 +1,4 @@
-## Chapter 24: Systemic Drift
+## Chapter 23: Systemic Drift
 
 What if the very peak of the local maximum moves?
 
@@ -12,7 +12,7 @@ So the next round of "hunters" adapted. Within a few cycles, the most successful
 
 The system initially created to kill cobras ended up breeding them.
 
-This is recursion doing what recursion does. Each round of results reshapes the next round of strategies. The proxy decoupled from the purpose not in a single leap, but through the slow, compounding logic of adaptation. 
+This is recursion doing what recursion does. Each round of results reshapes the next round of strategies. The proxy decoupled from the purpose not in a single leap, but through the slow, compounding logic of adaptation.
 
 If a local maximum can halt change, system drift can move it to the wrong place.
 
@@ -59,6 +59,7 @@ The pattern is selected accordingly. Founders who were world-class at fundraisin
 The loop closed on itself. Early investors didn't need the company to ever make money. They just needed a later investor to buy their shares at a higher price. The entire chain could sustain itself as long as the narrative held and new capital continued to flow.
 
 The system traveled from:
+
 1. "Build something people want."
 2. "Get as many users as possible."
 3. "Raise the next round at a higher valuation."
@@ -85,9 +86,9 @@ This was Venice's version of venture capital. And like venture capital, it was b
 
 The Commenda did something radical for its time: it separated talent from wealth. A poor kid from the dockyards could become one of the richest people in the city within a few years, purely on ability and nerve. Economists would later call this kind of arrangement an **inclusive institution**: a set of rules designed to keep the playing field open, reward risk-taking, and let new entrants compete on merit.
 
-In Venice, merchants could thrive regardless of birth. This naturally brought a lot of competition. And, as discussed in Chapter 8, inclusive institutions introduce variance into the Pattern, accelerating it and enabling it to adapt faster. 
+In Venice, merchants could thrive regardless of birth. This naturally brought a lot of competition. And, as discussed in Chapter 8, inclusive institutions introduce variance into the Pattern, accelerating it and enabling it to adapt faster.
 
-And so, Venice thrived. 
+And so, Venice thrived.
 
 By the thirteenth century, it was the richest city in Europe.
 
@@ -97,11 +98,11 @@ But the Pattern never stops. The winners compounded.
 
 The successful merchants became wealthy. The wealthy entered politics. The politically powerful viewed the next generation of ambitious young traders not as the future of Venice but as a threat to their own position.
 
-In fear of losing their positions, they created **La Serrata** ("The Closing"). 
+In fear of losing their positions, they created **La Serrata** ("The Closing").
 
 They locked the **Golden Book**, the registry of families allowed to participate in government. They restricted and eventually banned the Commenda. They enacted laws that made it more difficult for new families to enter trade. Step by step, they rewrote the rules of the system that had made them rich.
 
-The institutions that had been inclusive became **extractive**: closed to outsiders, designed to protect insiders, structured to preserve inherited advantage. The rules no longer rewarded the best traders. They rewarded the best-connected families. 
+The institutions that had been inclusive became **extractive**: closed to outsiders, designed to protect insiders, structured to preserve inherited advantage. The rules no longer rewarded the best traders. They rewarded the best-connected families.
 
 Intense Competition created winners who became oligarchs who, in turn, closed the market. Reduced the very own variance that built the wealth of Venice.
 
@@ -113,17 +114,17 @@ Systemic drift is why markets need maintenance. Not because the mechanism is bro
 
 ### Systems Drift
 
-The venture capitalists built their careers around the valuation game. The Venetian aristocrats built their identities around the Golden Book. 
+The venture capitalists built their careers around the valuation game. The Venetian aristocrats built their identities around the Golden Book.
 
 Each player is rational; it's optimizing to win their own game. And the Value Function is rewarding them. The original intention is a ghost that no one remembers, and even if they did, returning to it would entail dismantling the structures on which everyone now depends.
 
-Every system can drift. 
+Every system can drift.
 
 It happens with companies. Spotify was born to empower musicians, but it commoditized it. Vaping was meant to help people stop smoking, but it became a new type of vice on its own. OpenAI started as a nonprofit organization of scientists, but it's now a for-profit company and the US military's main partner.
 
 In political parties and candidates. In Brazil, once PT and PSDB were the main political opponents. Now, both are a coalition in president and vice president. New parties in Brazil that appeared to fight the system, refusing private donations, later started accepting them and changed their very nature.
 
-In nations. The Soviet Union began as a people's revolution but quickly became a dictatorship. Countries that were once the home of immigrants now fight against it.
+In nations. The Soviet Union began as a people's revolution but quickly became a dictatorship. Countries that were once home to immigrants now fight against immigration.
 
 It happens in our very own goals and lives.
 

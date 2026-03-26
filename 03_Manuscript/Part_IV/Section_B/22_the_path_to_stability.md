@@ -1,4 +1,4 @@
-## Chapter 23: The Path to Stability
+## Chapter 22: The Path to Stability
 
 If everything optimizes, will we always reach extremes?
 
@@ -18,7 +18,7 @@ Look at your keyboard.
 
 The QWERTY layout was designed in the 1870s by Christopher Latham Sholes for one of the first commercial typewriters. And it was designed to address a very specific problem.
 
-Mechanical typewriters worked by swinging small metal arms (called "typebars") up toward the paper. Each key was connected to its own typebar, which carried a letter. Press a key, the arm swings up, stamps the letter through an inked ribbon.
+Mechanical typewriters worked by swinging small metal arms (called "typebars") up toward the paper. Each key was connected to its own typebar, which carried a letter. Press a key; the arm swings up and stamps the letter through an inked ribbon.
 
 The problem was speed. If you typed two letters in quick succession and their typebars were near each other on the mechanism, they'd collide mid-swing. They'd tangle, jam, and you'd have to stop typing to pry them apart. On early models, this could even bend or break the arms.
 

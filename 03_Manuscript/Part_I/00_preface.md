@@ -14,13 +14,13 @@ Wherever there is action, feedback, and variation — optimization follows. I ca
 
 It is not a new theory. It's a synthesis of many topics, applied everywhere at once. The Pattern already exists under many names:
 
-* Natural Selection (Biology)
-* Reinforcement Learning (Computer Science)
-* The Invisible Hand (Economics)
-* Complex Adaptive Systems (Complexity Science)
-* Goodhart’s Law (Metrics)
-* The Red Queen Effect (Evolutionary Biology)
-* Memetics (Richard Dawkins)
+- Natural Selection (Biology)
+- Reinforcement Learning (Computer Science)
+- The Invisible Hand (Economics)
+- Complex Adaptive Systems (Complexity Science)
+- Goodhart’s Law (Metrics)
+- The Red Queen Effect (Evolutionary Biology)
+- Memetics (Richard Dawkins)
 
 This book isn't a textbook or a grand academic theory. It’s a pair of glasses. I want to share a lens that helped me make sense of why the world feels so loud, so fast, and so extreme right now.
 

@@ -32,14 +32,11 @@ The "Market Price" is not a decision. It is the result of millions of micro-expe
 
 This lens explains why specific parts of the economy evolve at different speeds.
 
-**Price** evolves at the speed of light.
-In the stock market, millions of trades happen every second. High-Frequency Trading algorithms inject variance (bids) and get feedback (trades) in microseconds. The Loop is essentially instant. This is why stock prices react to news before you can even finish reading the headline. The system has processed the variance instantly.
+**Price** evolves at the speed of light. In the stock market, millions of trades happen every second. High-Frequency Trading algorithms inject variance (bids) and get feedback (trades) in microseconds. The Loop is essentially instant. This is why stock prices react to news before you can even finish reading the headline. The system has processed the variance instantly.
 
-**Products** evolve more slowly.
-It takes months to launch a new iPhone or a new sneaker. The loop is longer. Apple iterates, releases, waits for sales numbers (Feedback), and then designs the next one. The adaptation happens, but on a timescale of years.
+**Products** evolve more slowly. It takes months to launch a new iPhone or a new sneaker. The loop is longer. Apple iterates, releases, waits for sales numbers (Feedback), and then designs the next one. The adaptation happens, but on a timescale of years.
 
-**Culture** evolves the slowest.
-How a company organizes itself (its management style, its hierarchy, its values) adapts very slowly. If a Manager tries a new way of leading (Variance), it might take 2 years to see whether it improves the team's output (Feedback).
+**Culture** evolves the slowest. How a company organizes itself (its management style, its hierarchy, its values) adapts very slowly. If a Manager tries a new way of leading (Variance), it might take 2 years to see whether it improves the team's output (Feedback).
 
 But even at this slow pace, the Pattern dictates the shape. In the 1920s, the dominant management meme was **Fordism**: rigid, hierarchical, optimized for mass production. By the 1980s, markets had become too fast and complex for that structure. Fordism thrived because people didn't have the products, so getting one was the value. As the meme spread, products became a commodity, and differentiation and variety became more desirable. A new meme emerged: **Lean**. It decentralized decisions. It valued agility over obedience. The market chose the one that solved the profit equation better.
 
@@ -53,8 +50,7 @@ We've just seen that prices adapt in milliseconds, products in months, and cultu
 
 Think of the difference between touching a hot stove and smoking a cigarette.
 
-The stove gives instant feedback. You learn immediately: "Don't touch that."
-The cigarette gives its feedback twenty years later. Cancer. By then, the brain cannot close the loop. You might blame genetics, or bad luck, or the environment. The signal arrived, but it arrived too late to connect to the cause.
+The stove gives instant feedback. You learn immediately: "Don't touch that." The cigarette gives its feedback twenty years later. Cancer. By then, the brain cannot close the loop. You might blame genetics, or bad luck, or the environment. The signal arrived, but it arrived too late to connect to the cause.
 
 That delay between action and consequence is what we call **Latency**. And it explains a lot.
 
@@ -78,11 +74,9 @@ So now we have two dials: latency (how quickly the signal arrives) and clarity (
 
 Ultimately, the Corporate Organism is subject to the same binary selection as the virus.
 
-In biology, the metric is **Energy**. If a lion spends more calories catching a gazelle than it gets from eating it, the lion dies.
-In business, the metric is **Profit**.
+In biology, the metric is **Energy**. If a lion spends more calories catching a gazelle than it gets from eating it, the lion dies. In business, the metric is **Profit**.
 
-Profit isn't a moral goal. It is an energetic constraint.
-A company can have the noblest mission in the world, but if it cannot capture enough energy (Revenue) to sustain its complexity (Cost), the environment will select it out.
+Profit isn't a moral goal. It is an energetic constraint. A company can have the noblest mission in the world, but if it cannot capture enough energy (Revenue) to sustain its complexity (Cost), the environment will select it out.
 
 This means the Pattern is constantly filtering companies. It is a mechanical process of survival, not a moral judgment on greed.
 

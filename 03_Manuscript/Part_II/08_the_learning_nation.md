@@ -28,7 +28,7 @@ For now, there's one domain where the Pattern produces something worth examining
 
 The economy.
 
-### The Safety of new Ideas
+### The Safety of New Ideas
 
 In 1589, a priest named William Lee invented a machine that could knit stockings ten times faster than a human. He arranged an audience with Queen Elizabeth I, expecting to be hailed as a hero.
 
@@ -42,8 +42,7 @@ This is the Pattern with a gatekeeper.
 
 **Extractive institutions** (dictatorships, monopolies, corrupt systems) concentrate decisions at the top. One brain (The Queen, The Dictator, The Party) decides what gets built, what gets funded, what gets allowed. The system is designed for stability, which means it suppresses variance. If a citizen has an idea that challenges the status quo, the system crushes it.
 
-"You cannot start that business; it hurts the King's monopoly."
-"You cannot write that book; it questions the Party."
+"You cannot start that business; it hurts the King's monopoly." "You cannot write that book; it questions the Party."
 
 Because variance is suppressed, the cost of experimentation becomes huge: death, prison, exile. So the population stops iterating. The nation tries to solve the world's problems with the processing power of a few leaders. One brain, deciding everything for everyone.
 
@@ -99,7 +98,7 @@ The result isn't guaranteed prosperity. It's a dramatically higher rate of adapt
 
 This is not a political argument. It's a structural one.
 
-The engine doesn't care which system calls itself "free" or which one calls itself "efficient." It runs wherever the conditions are met. Variance. Iteration. Selection. If you build a society that suppresses variance, you are building a society that cannot learn. The Pattern will still run. It just won't run *for you*. It will run through whoever kept their loops open.
+The engine doesn't care which system calls itself "free" or "efficient." It runs wherever the conditions are met. Variance. Iteration. Selection. If you build a society that suppresses variance, you are building a society that cannot learn. The Pattern will still run. It just won't run *for you*. It will run through whoever kept their loops open.
 
 If you want the full historical record behind this argument, *Why Nations Fail* by Daron Acemoglu and James Robinson is the place to go. Centuries of evidence, dozens of civilizations, the same conclusion.
 

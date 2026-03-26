@@ -1,4 +1,4 @@
-## Chapter 19: The Head Start
+## Chapter 18: The Head Start
 
 "May the best one win."
 
@@ -38,19 +38,19 @@ The hockey cutoff is one example. But compounding doesn't just shape who becomes
 
 ### Ana and Bruno
 
-Imagine two people, Ana and Bruno. Both are equally talented. Both are equally hard-working. Both manage to save \$1,000 every single month from their salaries. The only difference is that Ana starts the game with a "seed" (a \$100,000 gift or inheritance). Bruno starts at zero.
+Imagine two people, Ana and Bruno. Both are equally talented. Both are equally hard-working. Both manage to save $1,000 every single month from their salaries. The only difference is that Ana starts the game with a "seed" (a $100,000 gift or inheritance). Bruno starts at zero.
 
 In Brazil, we have a benchmark interest rate called the **Selic** (if you're not Brazilian, think of it as the base rate at which savings grow). As I write this, it sits around 10–15% per year. This is the "speed" at which money compounds in this environment, as set by the central bank's Value Function.
 
-After ten years, the gap is visible. Bruno has saved \$120,000, which has grown to about \$240,000 with interest. Not bad. But Ana, because she had that \$100,000 working for her from day one, is sitting on nearly \$650,000.
+After ten years, the gap is visible. Bruno has saved $120,000, which has grown to about $240,000 with interest. Not bad. But Ana, because she had that $100,000 working for her from day one, is sitting on nearly $650,000.
 
-A \$400,000 gap hurts, but you can still look at it and think: "Maybe I can catch up if I work harder."
+A $400,000 gap hurts, but you can still look at it and think: "Maybe I can catch up if I work harder."
 
 Now look at the next generation.
 
-If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno's disciplined savings have grown to a respectable \$86 million. But Ana's "seed," because it had those extra decades to compound, has turned her fortune into nearly \$195 million.
+If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno's disciplined savings have grown to a respectable $86 million. But Ana's "seed," because it had those extra decades to compound, has grown into nearly $195 million.
 
-Here is the math of the gap: Ana's initial \$100,000 "seed" alone grew to \$108 million. That means her inheritance did more "work" (generated more wealth) than Bruno's entire lifetime of labor and discipline combined.
+Here is the math of the gap: Ana's initial $100,000 "seed" alone grew to $108 million. That means her inheritance did more "work" (generated more wealth) than Bruno's entire lifetime of labor and discipline combined.
 
 Ana is more than twice as wealthy as Bruno. She didn't work twice as hard. She was just **in front** at the start. The Value Function rewarded her starting position more than it rewarded their collective lifetime of effort.
 
@@ -80,13 +80,13 @@ But here's where it gets interesting.
 
 ETFs now represent more than 60% of global investment capital. And because they've gotten so large, the feedback loop they create has gotten proportionally stronger.
 
-Think about what the rule does. When one of the top companies grows, the ETF formula says: put more money into it. Because more money flows in, the company's stock price rises. As the stock price rises, the ETF allocates an even greater amount of capital. It's a self-reinforcing cycle, a compounding loop running on autopilot.
+Think about what the rule does. When one of the top companies grows, the ETF formula says: put more money into it. Because more money flows in, the company's stock price rises. As the stock price rises, the ETF allocates even more capital. It's a self-reinforcing cycle, a compounding loop running on autopilot.
 
 The companies that were already large are now self-reinforcing, growing even larger. The small companies are self-reinforcing their shrinkage. Overvalued markets are getting more inflated. Undervalued markets are getting more undervalued.
 
 I'm not here to say whether this is a bubble or when it will pop. People smarter than me are debating that right now, and nobody's sure. But what I *can* say is that this is a textbook case of the head start. The initial conditions (which companies were on top when automatic investing became dominant) are compounded by the system's recursion. The starting position is doing more work than the fundamentals.
 
-Sound familiar? It's Ana's \$100,000, but at the scale of the entire global market. Nobody designed a rule to compensate. Nobody switches sides.
+Sound familiar? It's Ana's $100,000, but on the scale of the entire global market. Nobody designed a rule to compensate. Nobody switches sides.
 
 ### The Advantage Feeds Itself
 

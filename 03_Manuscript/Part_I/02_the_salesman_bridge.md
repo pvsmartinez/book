@@ -52,9 +52,7 @@ We think we are learning skills, but really, we are downloading the patch notes 
 
 Each salesperson just wanted to survive and profit. And as they learned, succeeded, and failed, this knowledge was passed down through generations. Nobody planned it, but this behavior was selected. This behavior was optimized.
 
-This explains why the world feels the way it does.
-It explains why every modern movie trailer looks the same.
-It explains why every smartphone looks like a rectangular sheet of glass.
+This explains why the world feels the way it does. It explains why every modern movie trailer looks the same. It explains why every smartphone looks like a rectangular sheet of glass.
 
 (And if you're wondering why these things converge instead of diversifying, we will look at that when we study how optimization compounds over time in Part IV.)
 

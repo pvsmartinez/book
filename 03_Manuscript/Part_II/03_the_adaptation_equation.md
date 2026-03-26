@@ -14,8 +14,7 @@ What is this pattern I keep talking about? What does it look like?
 
 ### The Loop of Action and Feedback
 
-To train a dog, you say "Sit."
-The dog looks at you. It barks. It jumps. It spins. It has no idea what you want; it is just pressing random buttons on the controller.
+To train a dog, you say "Sit." The dog looks at you. It barks. It jumps. It spins. It has no idea what you want; it is just pressing random buttons on the controller.
 
 Eventually, by random chance, the dog's butt hits the floor. You immediately give it a cookie.
 
@@ -83,21 +82,18 @@ The Infinite Monkey Theorem: given enough time, the monkey will type the complet
 
 But let’s add one rule. Let’s add a filter.
 
-Imagine that every time the monkey types a correct letter, that letter "locks" into place.
-The monkey types "Q". Nothing happens.
-The monkey types "T". *Click.* The "T" is locked.
-The monkey types "O". *Click.* The "O" is locked.
+Imagine that every time the monkey types a correct letter, that letter "locks" into place. The monkey types "Q". Nothing happens. The monkey types "T". *Click.* The "T" is locked. The monkey types "O". *Click.* The "O" is locked.
 
 Suddenly, you don't need billions of years. You might get "To be or not to be" in a few weeks. It is like brute-forcing a password, but with the system telling you when you get each character right.
 
 With this filter, this **Selection**, we can make the monkey write Shakespeare, Aristotle, or any other book. Selection gave direction to the randomness and defined the result.
 
 This is the bridge between the universe's random noise and the world's complex order.
-1.  **Iteration:** Try many things.
-2.  **Variance:** Try them differently.
-3.  **Selection (The Filter):** Keep only the ones that work.
+
+1. **Iteration:** Try many things.
+2. **Variance:** Try them differently.
+3. **Selection (The Filter):** Keep only the ones that work.
 
 The result is **Adaptation**.
 
-$$Adaptation Rate = \frac{Filter(Iteration \times Variance)}{Time}$$
-
+$$Adaptation Rate = \\frac{Filter(Iteration \\times Variance)}{Time}$$

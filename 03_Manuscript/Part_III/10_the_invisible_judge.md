@@ -36,23 +36,15 @@ Every time the flag drops, it is an **Iteration**. Some cars are winning, others
 
 The drivers, the cars, and the pit crews themselves represent the **Variance**. They are all trying slightly different strategies, tuning their engines differently, testing new tires, braking at different moments. This is the "Engine" of change we built in Part II.
 
-An iteration means feedback. Means a timer, a finish line, a score. That is what constitutes a race. The winners of the race are the car, driver, and team best suited for this evaluation. 
+An iteration means feedback. Means a timer, a finish line, a score. That is what constitutes a race. The winners of the race are the car, driver, and team best suited for this evaluation.
 
-This means that you won't know who wins just by looking at the cars.
-The decision of who wins isn't based on a single factor. It is the result of three distinct forces colliding:
+This means that you won't know who wins just by looking at the cars. The decision of who wins isn't based on a single factor. It is the result of three distinct forces colliding:
 
-1.  **The Rules (Explicit):** 
-    What is the win condition? 
-    Is it a 10-second sprint, or is it the 24 Hours of Le Mans? Changing this creates a completely different filter. A sprint favors reaction time and raw power; Le Mans favors fuel efficiency and reliability.
-    Is it a "Spec Series" where everyone drives the same car, or an "Open Engineering" class? One tests the driver; the other tests the engineers.
+1. **The Rules (Explicit):** What is the win condition? Is it a 10-second sprint, or is it the 24 Hours of Le Mans? Changing this creates a completely different filter. A sprint favors reaction time and raw power; Le Mans favors fuel efficiency and reliability. Is it a "Spec Series" where everyone drives the same car, or an "Open Engineering" class? One tests the driver; the other tests the engineers.
 
-2.  **The Track (Implicit):** 
-    What is the environment? 
-    Is it a straight asphalt Drag Strip? Or is it a winding, muddy Rally stage? If the track is a Rally stage, the Formula 1 car (the pinnacle of engineering) will get stuck within the first meter. The "best" car is only the best *in this specific context*.
+2. **The Track (Implicit):** What is the environment? Is it a straight asphalt Drag Strip? Or is it a winding, muddy Rally stage? If the track is a Rally stage, the Formula 1 car (the pinnacle of engineering) will get stuck within the first meter. The "best" car is only the best *in this specific context*.
 
-3.  **The Competitors (Relative):** 
-    Who else is racing? 
-    You might be the fastest car on the grid today. But if every other team upgrades its engine next season, your speed becomes the new baseline. Your value is never absolute; it is always relative to the field. As every other driver gets faster, you have to improve to stay in the same place.
+3. **The Competitors (Relative):** Who else is racing? You might be the fastest car on the grid today. But if every other team upgrades its engine next season, your speed becomes the new baseline. Your value is never absolute; it is always relative to the field. As every other driver gets faster, you have to improve to stay in the same place.
 
 These are the factors that, over time, shape the direction of adaptation. Combined, they constitute the **Value Function**.
 
@@ -70,19 +62,7 @@ The softer words still floating around ("The Judge," "The Environment," "The Mar
 
 It defines the "Fit."
 
-Think of it like a mold. At first, competitors might have several different shapes, but over time, some shapes become more common because they are more successful. The Salesman becomes a great communicator. Giraffes get long necks. The mold didn't plan either outcome. It just filtered, over and over, until the shape emerged.
-
-The Rules, Track, and Competitors define what is effective and what is filtered out. Different rules filter faster, and different tracks prioritize certain actions. But the result is always the same: the pattern molds the individuals, through adaptation, over and over.
-
-And here's the catch: the mold itself isn't static.
-
-The environment can change over time, and competitors are always evolving. Even with the same rules (which might never change), the selected strategies may differ. The Value Function drifts, leading to different behaviors in the pattern's evolution.
-
-We will see examples of this drift during Part III, but the effects of time and compounding changes are the main topic of Part IV.
-
-For now, let's understand the Value Function and its nuances.
-
-The **Rules** usually take the spotlight because they are visible, leading players to the wrong conclusions.
+The Rules usually take the spotlight because they are visible, leading players to the wrong conclusions.
 
 What happened to the Millennials is a perfect example. The Rules didn't change much from the Boomer generation (Study, Work, Save, Invest), but the Track (economy) and the Competitors (global workforce/automation) changed completely. This shifted what was actually effective for a stable life, leaving many "stuck" using an outdated map.
 
@@ -91,29 +71,3 @@ This invisible judge shapes everything from the apps on your phone to the anxiet
 We get it wrong all the time.
 
 Seeing it clearly is the difference between "I am broken" and "I need to understand the game."
-
-### The Wrong Scoreboard
-
-The Value Function doesn't predict the winner of a single race. It predicts what the winners, across a thousand races, will look like. Luck picks the individual. The Judge shapes the type.
-
-We misunderstand luck, but we also misunderstand *what* the Judge is actually looking for.
-
-We often assume that evolution (or "The Market") selects for "Good" things. We think natural selection optimizes for health, or that the free market optimizes for quality.
-
-But the equation is strictly mathematical. It optimizes for the Win Condition. Nothing else.
-
-Consider the puzzles of biology. Why do humans go bald? Why do we get Alzheimer's?
-
-These traits seem like design failures. We might wonder why natural selection, after millions of years of optimization, hasn't "fixed" these bugs.
-
-The reason lies in the timing. For most of human history, we reproduced *before* we went bald or got Alzheimer's. The "Win Condition" of biology is "Survive long enough to pass on your genes." Once you cross that finish line, the Judge stops watching.
-
-Baldness and Alzheimer's are invisible to the selection process because they happen outside the optimized window. They are byproducts.
-
-The same applies to society. We like to think that societies evolve to maximize **Happiness**. We assume the "Arc of History" bends toward justice and well-being.
-
-But look at the Value Function of history. Societies that focus solely on leisure, art, and happiness are often conquered by societies that prioritize military production and relentless expansion. The "Judge" of history often selects for **Power rather than Happiness.
-
-This means we can end up living in a world that looks "successful" (high GDP, advanced technology) but is fundamentally miserable, because "Happiness" was never a variable in the equation.
-
-This is why seeing the Value Function clearly matters. Not to feel clever about the system. But to stop blaming yourself for losing a game you didn't know you were playing.

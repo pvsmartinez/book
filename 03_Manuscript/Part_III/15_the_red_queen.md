@@ -10,8 +10,7 @@ How can an animal this optimized still lose most of the time? Because the gazell
 
 Consider the cheetah and the gazelle.
 
-The ideal world would be for both species to agree to run at 20mph. They would save massive amounts of energy, suffer fewer injuries, and still catch the slow gazelles.
-But they are trapped.
+The ideal world would be for both species to agree to run at 20mph. They would save massive amounts of energy, suffer fewer injuries, and still catch the slow gazelles. But they are trapped.
 
 If a cheetah decides to "disarm" and run slowly to save energy, the fast gazelle runs away. The pacifist cheetah starves. The system aggressively excludes anyone who attempts to exit the race.
 
@@ -97,8 +96,7 @@ This is the third outcome: **Escalation**.
 
 In an arms race, the environment isn't a wall. The environment is *you*. And for you, the environment is *them*.
 
-Iteration is no longer a solo performance. It is a duet. 
-Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve for *you*.
+Iteration is no longer a solo performance. It is a duet. Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve for *you*.
 
 The tragedy of the arms race is that it often produces no net benefit. The cheetah and gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. The graduates study twice as long for the same jobs.
 

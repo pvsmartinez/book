@@ -1,6 +1,6 @@
-## Chapter 18: The Compound Effect
+## Chapter 17: The Compound Effect
 
-The Competitors evolve. The Track shifts. Arms races escalate. The pattern forces the elements to change over time. 
+The Competitors evolve. The Track shifts. Arms races escalate. The pattern forces the elements to change over time.
 
 But why is it so strong?
 
@@ -80,7 +80,7 @@ The Meta is a window into something deeper.
 
 Remember the equation from Part III:
 
-$$Value Function = Rules \times Track \times Competitors$$
+$$Value Function = Rules \\times Track \\times Competitors$$
 
 We've already seen each of these variables move. The Red Queen showed us competitors escalating. The Cobweb Effect showed us how rules are gamed. Hawks and Doves showed us strategies shifting as the population changes. We saw *that* these things change. Recursion is *why* they change.
 

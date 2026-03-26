@@ -54,7 +54,7 @@ Look at who advances. Look at what numbers go up. Look at which behaviors repeat
 
 The Cobra Effect showed us this in its most absurd form: a government that wanted fewer cobras created a system that bred more of them. The stated goal and the actual reward diverged completely, and the pattern optimized for the reward rather than the goal. Then the same thing happened with rats in Hanoi, with standardized test scores, with social media engagement. In every case, someone defined a metric to represent a goal, and the system optimized the metric so aggressively that the goal disappeared. The number went up. The thing the number was supposed to measure got worse. And because the reward mechanism was the metric, not the goal, the Pattern had no way to notice the difference.
 
-The same mechanism operates at the level of populations. Game Theory gives us a way to make this concrete. In a fertile forest, a population of animals fighting over food reaches a stable mix: roughly half aggressive (Hawks) and half non-confrontational (Doves), because at that ratio the payoff for each strategy is equal. Now move the same population to a desert where food is scarce and starvation is imminent. The value of winning a meal jumps from +50 to +500. The cost of injury stays the same. Suddenly, fighting is worth it even when you lose half the time. The animals did not decide to become violent. The environment rewrote the numbers. The numbers rewrote the equilibrium. The same logic applies everywhere: the mold shifts, the math shifts, and the behavior follows, whether it is bacteria, executives, or voters.
+The same mechanism operates at the population level. Change one number in the environment, and the equilibrium shifts. The animals did not decide to become more aggressive or more peaceful. The mold shifted. The math shifted. The behavior followed.
 
 **2. What does this environment make easy?**
 
@@ -73,6 +73,14 @@ The Red Queen runs through every competitive system. Your payoff is not absolute
 The six-minute mile was once a barrier that separated serious runners from everyone else. Then it became the standard. Then it became the floor. The cheetah got faster, the gazelle got faster, and neither is gaining on the other. The bar for a competitive resume has risen so high that candidates now list skills and certifications they spent years acquiring, only to reach the starting line of a conversation they might not get. The effort is real. The edge is not.
 
 This does not mean competition is futile. It means the question is never just "am I improving?" It is always "improving relative to what, and in which direction?" Two people can be working equally hard and moving in completely different directions, depending on which game they are in.
+
+But even when you understand the Rules, the Track, and the Competitors, there is a deeper trap: the equation can be optimizing for the wrong thing entirely.
+
+Consider the puzzles of biology. Why do humans go bald? Why do we get Alzheimer's? These traits seem like design failures. We might wonder why natural selection, after millions of years of optimization, hasn't "fixed" these bugs. The reason lies in timing. For most of human history, we reproduced *before* we went bald or got Alzheimer's. The Win Condition of biology is "Survive long enough to pass on your genes." Once you cross that finish line, the Judge stops watching. Baldness and Alzheimer's happen outside the optimized window. They are not bugs. They are byproducts of a system that simply was not watching that far ahead.
+
+The same applies at the level of societies. We like to think that civilizations evolve to maximize happiness. But look at the Value Function of history. Societies that prioritize leisure and art are routinely outcompeted by societies that prioritize military production and expansion. The Judge of history has often favored Power over Happiness. The result is a world that looks "successful" by the metrics it optimized for (GDP, technological output, territorial control) and is, for many people, quietly miserable, because happiness was never a variable in the equation.
+
+This is the sharpest edge of the lens. Not just "what is being rewarded" but "is the thing being rewarded the thing that was supposed to matter?" The Cobra Effect showed us a government breeding the animal it was trying to eliminate. Biology shows us a species accumulating suffering that selection was never designed to prevent. The metric and the goal had quietly separated, and nobody noticed because the numbers kept going up.
 
 ### The Shape You Are Becoming
 

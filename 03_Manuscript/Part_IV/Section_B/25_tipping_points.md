@@ -1,6 +1,6 @@
-## Chapter 26: Tipping Points
+## Chapter 25: Tipping Points
 
-Earth's climate has always oscillated. 
+Earth's climate has always oscillated.
 
 Warmer centuries, cooler centuries. Ice ages that lasted millennia, then thawing periods that brought them back. If you zoom out far enough, the temperature chart looks like a pendulum: swinging back and forth around a center, never straying too far.
 
@@ -14,11 +14,11 @@ Then the oceans started warming. Warmer water absorbs *less* CO2. Permafrost beg
 
 This is recursion working against the correction mechanism. The system's output (more heat) became its own input (weaker buffers), producing more heat and further weakening the buffers. The pendulum didn't just swing wider. It started drifting away from the center. And at some point, climate scientists started using a phrase that should sound familiar by now: *the point of no return*.
 
-The tipping point isn't the moment the temperature goes up. The temperature had been going up for decades. 
+The tipping point isn't the moment the temperature goes up. The temperature had been going up for decades.
 
 The tipping point is the moment the system loses the ability to pull itself back. The buffers are gone. The correction mechanism is broken.
 
-Just like with breakpoints, tipping points are major changes that at first seem to come from nowhere. The system was working. So why doesnt it work now?
+Just like breakpoints, tipping points are major changes that at first seem to come out of nowhere. The system was working. So why doesn't it work now?
 
 History is full of tipping points that nobody saw coming, and a few that everybody saw coming and couldn't stop anyway.
 
@@ -50,21 +50,21 @@ The archduke was just the last iteration.
 
 Let's see another, even more extreme, tipping-point process.
 
-Following the fall of Rome, the world got dangerous. Roads were no longer safe. Trade halted and people started pledging vassalage. Feudalism was born.
+Following the fall of Rome, the world got dangerous. Roads were no longer safe. Trade halted, and people started pledging vassalage. Feudalism was born.
 
-And, similar to how we've seen small companies grow into oligarchies, small feuds grew into kingdoms, empires.
+And, as we've seen small companies grow into oligarchies, small feuds grew into kingdoms and empires.
 
-Russia spent thousand years compounding this logic.
+Russia spent a thousand years compounding this logic.
 
 Which means it was one of the most calcified systems in human history.
 
-The Value Function that built the Russian Empire made total sense for its environment. Territory as power. Military loyalty as currency. The needed stability for an era of wars and danger. 
+The Value Function that built the Russian Empire made total sense for its environment. Territory as power. Military loyalty as currency. The stability needed for an era of war and danger.
 
 That system produced Catherine the Great, Peter the Great, and centuries of expansion and cultural output. It was, by the metrics of its era, extraordinarily successful.
 
 But the environment was changing. The Industrial Revolution wasn't just a new technology. It was a new set of rules. The competitors were changing, too. The metric for what made a nation powerful was being rewritten beneath Russia's feet.
 
-The system didn't adapt. It couldn't. A thousand years of compounding doesn't bend easily. The Russian empire model was outdated, but didn't bent. 
+The system didn't adapt. It couldn't. A thousand years of compounding doesn't bend easily. The Russian empire model was outdated, but it didn't bend.
 
 The first signal came in 1896, at the coronation of Tsar Nicholas II. To celebrate, the court organized a public festival at Khodynka Field outside Moscow. Food, beer, commemorative cups, gifts for the people. Word spread that there wouldn't be enough for everyone. The crowd, already hundreds of thousands strong, surged forward. In the stampede, over a thousand people were crushed to death.
 
@@ -76,20 +76,19 @@ The buffer held. Barely.
 
 Then came World War I.
 
-Russia entered the war with one of the largest armies on the continent. It also entered with horses, outdated rifles, and supply chains that broke down in the first winter. Germany showed up with machine guns and modern artillery. 
+Russia entered the war with one of the largest armies on the continent. It also entered with horses, outdated rifles, and supply chains that broke down in the first winter. Germany showed up with machine guns and modern artillery.
 
 It was a massacre.
 
 Defeat after defeat. Soldiers died at the front. Families starved at home. The economy collapsed under the war.
 
-At some point, the math flipped. The cost of enduring the system exceeded the cost of overthrowing it. In February 1917, 
-the soviet revolution came to be. An entire new political order emerged, and a thousand years of compounding were gone.
+At some point, the math flipped. The cost of enduring the system exceeded the cost of overthrowing it. In February 1917, the soviet revolution came to be. An entire new political order emerged, and a thousand years of compounding were gone.
 
-Karl Marx had published *The Communist Manifesto* 69 years earlier. But his ideas didnt change UK or France. They were debated there. They were debated in russia as well. For multiple generations.
+Karl Marx had published *The Communist Manifesto* 69 years earlier. But his ideas didn't change the UK or France. They were debated there. They were debated in Russia as well. For multiple generations.
 
-The famine had been real for centuries. It wasnt something new.
+The famine had been real for centuries. It wasn't something new.
 
-The revolution needed the war to finally tip. The system was so calcified, so deeply compounded into its own structure, that it took a catastrophic external shock to push the cost over the threshold.
+The revolution needed the war to finally tip the scales. The system was so calcified, so deeply compounded into its own structure, that it took a catastrophic external shock to push the cost over the threshold.
 
 ### Predicting the fall
 
@@ -103,17 +102,17 @@ Then came Cuba. In October 1962, the Soviet Union placed nuclear missiles ninety
 
 And it didn't snap.
 
-The world nearly entered WWIII, and with nukes. Decades of pressure building up, but they didn't tip.
+The world nearly entered WWIII, and with nukes. Decades of pressure were building up, but they didn't tip.
 
 Through back-channel negotiations, through individual decisions made under impossible pressure, the leaders found a way to de-escalate. Locally first (removing the missiles), then globally (establishing communication channels to prevent it from happening again). The pressure that had been compounding for fifteen years was, carefully, slowly, released without the system breaking.
 
 In hindsight, we can tell the story neatly. We can say: “The pressure was high, but cooler heads prevailed." But *at the time*, nobody knew. Nobody could know. The plateau before a snap and the plateau before a release look the same from the inside.
 
-This is the uncomfortable truth about tipping points. 
+This is the uncomfortable truth about tipping points.
 
 They are not predictable.
 
-Think of Stock market bubbles. 
+Think of Stock market bubbles.
 
 The dot-com boom of the late 1990s: internet companies with no revenue, no profit, sometimes no product, valued at billions of dollars. Everyone could see the pressure building. Skeptics warned it was a bubble. Investors argued it was a new paradigm. The pressure compounded, and compounded, and in March 2000, it snapped. The NASDAQ lost nearly 80% of its value. Trillions of dollars evaporated.
 
@@ -127,6 +126,6 @@ In hindsight, every tipping point looks obvious.
 
 In foresight, they're almost impossible to call.
 
-That's not a failure of intelligence. The people watching the dot-com bubble weren't stupid. Neither were the diplomats in 1912, or the Russian generals in 1916. They were operating in a system that looked stable right up until it wasn't. Because that's what systems do: they absorb, and absorb, and absorb, and then they don't.
+That's not a failure of intelligence. The people watching the dot-com bubble weren't stupid. Neither were the diplomats in 1912, nor the Russian generals in 1916. They were operating in a system that looked stable right up until it wasn't. Because that's what systems do: they absorb, and absorb, and absorb, and then they don't.
 
 The pressure was always there. The buffers were always thinning. The only question is what the last iteration will be.
