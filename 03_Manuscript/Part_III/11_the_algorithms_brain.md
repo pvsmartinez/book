@@ -76,8 +76,6 @@ Imagine we take the same random machine and swap the Judge.
 - **Judge C:** "I will reward you if the image **scares** the user."
   - *Result:* The machine becomes a nightmare generator.
 
-The starting brain was the same. The inputs were the same. But because we changed the Value Function, we ended up with three completely different "Personalities."
-
 The AI didn't *choose* to be funny or scary. It was carved into that shape by the scoring system. The Value Function is the system's destiny.
 
 ### The Overfitting Trap (The Blind Judge)
@@ -90,7 +88,7 @@ The Monkey becomes a "God of Cats." It is 100% accurate.
 
 But then, we release the Monkey into the real world. Real world shows it as a Dog. The Monkey says, "Cat." (Startled, it says, "Weird Cat.") The Monkey is confused. It optimized so perfectly for the Training Room that it never learned the general concept.
 
-The AI is only as good as the breadth of its Judge. This is why early Image Generators were amazing at art but couldn't write text. They were never judged on text. They were never punished for spelling "Spaghetti" as "Spghet." Therefore, they learned that "Spaghetti" is just a squiggly yellow shape.
+The AI is only as good as the breadth of its Judge. This is why early Image Generators were amazing at art but couldn't write text. They were never judged on text, so they never learned that "Spaghetti" is anything more than a squiggly yellow shape.
 
 If the Rule Set is narrow, the result is narrow. If you only test for memorization, you get a student who can't think. If you only test for short-term profit, you get a company that can't survive a recession.
 
@@ -167,9 +165,7 @@ What does the rational student do? **They guess.** They don't guess because they
 
 ### The Alignment Problem
 
-The Rule Set is the immense power of **Definition**. The definition of the rules has immense power over how the pattern will adapt. AI is just one example of this happening.
-
-If you define "Success" as "High Stock Price," the company will fire its R&D department to boost short-term profits. If you define "Education" as "Test Scores," the school will stop teaching critical thinking.
+The **Rule Set** is the power of **Definition**. Define "Success" wrong, and the pattern adapts to the wrong thing. If you define "Success" as "High Stock Price," the company will fire its R&D department to boost short-term profits. If you define "Education" as "Test Scores," the school will stop teaching critical thinking.
 
 So you better be damn sure that what you asked for is what you actually wanted.
 

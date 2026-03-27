@@ -55,15 +55,11 @@ Suddenly, you didn't pay per life; you paid once for the box. Rotation no longer
 
 The Value Function shifted toward **Engagement** and **Narrative**. Games got easier. They added "Saves." They added long stories.
 
-This transition was slow. Because it took years to develop, manufacture, and ship a physical cartridge, the "feedback" from the market was noisy and delayed. Designers slowly realized that easier, more accessible games reached larger audiences, but the shift took a decade, not a week.
-
 In this era, the "Competitors" were fighting for shelf space at retail stores. The "Meta" was about branding and box art.
 
 Then came the Internet and the **Mobile Revolution**. And this is where the Pattern went into overdrive.
 
-The obvious answer is technology: phones got faster. But a Nintendo Switch is technically weaker than a modern iPhone, and its games look nothing like mobile. The hardware isn't the variable.
-
-The answer isn't the device's power, but the **Collective Behavior** of the competitors.
+The answer isn't the device's power. It's the **Collective Behavior** of the competitors.
 
 At first, the early digital world was a wild frontier. If you posted a game on Facebook in 2009, the platform allowed you to send messages to all your friends or post on their walls for "free." You could reach millions of people with zero marketing budget. In this low-friction environment, simple, artistic experiments could survive because they didn't need to pay for eyes.
 
@@ -107,7 +103,7 @@ The competitors define "The Meta." They find the loopholes. They push the edges.
 
 On platforms like **Steam**, the Track evolved differently, and the timing matters. The PC market matured before free-to-play mechanics and digital advertising existed. By the time those tools arrived, the audience was already formed: niche, paying, and skeptical of anything that smelled like mobile. That history made the environment resistant. User reviews punish predatory design publicly. Refund policies raise the cost of shipping low-quality releases. The consumer base expects to pay upfront and to get their money's worth.
 
-The developers aren't morally superior. They inherited a Track shaped by a different era of competition. Mobile found a massive, casual, global audience before the market had a chance to form expectations. Steam found a smaller, self-selecting audience that had already decided what it valued. Same tools, same internet, two very different equilibria, because the environments were built at different moments, with different people.
+The developers aren't morally superior. They inherited a Track shaped by a different era. Mobile found a massive, casual audience before expectations formed. Steam found a smaller, self-selecting audience that already knew what it valued. Same tools, same internet, two very different equilibria.
 
 But in any system where competition is fierce, and feedback is fast (digital marketing, high-frequency trading, professional sports), competitors will eventually optimize out all slack.
 

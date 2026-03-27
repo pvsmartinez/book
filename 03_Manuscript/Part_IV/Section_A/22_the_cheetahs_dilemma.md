@@ -38,7 +38,7 @@ Then COVID arrived.
 
 The system that had been optimized for smooth conditions encountered a disruption it had never been tested against. Factories across Asia closed. Shipping containers were piled up in the wrong ports. Hospitals couldn't get masks. Car manufacturers couldn't get microchips. The global supply chain, this marvel built over decades of fine-tuning, seized up.
 
-This isn't a story about one bad decision. It's the story of a thousand good ones, each making perfect sense in isolation, each shaving a thin layer of resilience that nobody noticed losing. The invisible bill came due all at once, the same way the Cheetah's thinning bones only matter when there's a fight.
+This isn't a story about one bad decision. It's a thousand good ones, each making perfect sense in isolation, each shaving a thin layer of resilience that nobody noticed losing.
 
 Sometimes the consequence doesn't wait for an external shock. It actively creates the problem the optimization was meant to solve.
 
@@ -50,8 +50,6 @@ The Pattern iterated. More people bought cars. Cities redesigned around the auto
 
 I grew up in São Paulo. I've sat in that traffic. The average speed during rush hour is often slower than that of a horse-drawn carriage from a century ago. The tool, designed for speed and optimized over decades, produced its own negation.
 
-Same mechanism. The Value Function (individual mobility) never measured what it removed: walkable neighborhoods, public transit, clean air, and community space. Each car sold, each highway built, each bus line cut was a perfectly logical selection. The Pattern did what it does. And the consequence compounded until the solution became the problem.
+The Value Function (individual mobility) never measured what it removed: walkable neighborhoods, public transit, and clean air. Each car sold, each highway built, each bus line cut was a perfectly logical selection. The consequence compounded until the solution became the problem.
 
-The car didn't fail. The optimization succeeded. That's the paradox.
-
-The Pattern doesn't reverse. It doesn't apologize. It keeps climbing the hill it started on, even when the hill leads somewhere nobody wanted to go.
+The Pattern doesn't reverse. It doesn't apologize. It keeps climbing the hill it started on, even when the hill leads somewhere no one wants to go.

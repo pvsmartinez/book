@@ -2,7 +2,7 @@
 
 Change is not the surprising part. Everything changes. The surprising part is the direction.
 
-Small advantages don't just accumulate. They multiply. Each cycle starts from where the last one ended, which means the gap between a 1% edge and no edge at all doesn't grow arithmetically. It compounds. And a system that compounds doesn't just move. It accelerates.
+Small advantages don't just accumulate. They multiply. Each cycle starts where the last one ended, so the gap between a 1% edge and no edge at all doesn't grow arithmetically. It compounds. And a compounding system doesn't just move. It accelerates.
 
 ### The Pattern is Recursive
 
@@ -18,8 +18,6 @@ This is a loop. The system's output becomes its own input. The result of one cyc
 
 This is what we mean by **Recursion**: a process that feeds back into itself, remembering where it's been. Each cycle doesn't start from scratch. It starts from wherever the last cycle left it.
 
-You might not have heard the word "recursion" before, but you've lived inside it your entire life. It's the reason small things become big things.
-
 Remember the Salesman from Chapter 2? He ran a hundred cold calls a day. Each call was an iteration: he tried a pitch, got feedback, and adjusted. Over the weeks, he became sharper. But *he* wasn't the only one learning.
 
 Other salespeople were watching. The tricks that worked for the best callers spread. The team copied them. Competitors copied the team. Suddenly, the entire industry was using the same opener, the same objection-handling script, the same closing technique.
@@ -28,9 +26,7 @@ But now that *everyone* was using those tricks, they were no longer effective. C
 
 Each cycle didn't reset the game. It started from where the last one ended, and the bar kept rising. The Salesman of 2025 isn't playing the same game as the Salesman of 1995. The entire landscape evolved because the system remembers.
 
-This is what makes the Pattern so powerful. It's not just that things change. It's that each change *changes the conditions for the next change*. The winners of Round 1 become the competitors of Round 2. The strategies that worked yesterday get copied today, altering the environment for tomorrow. Everything is always building on top of itself.
-
-And because it builds on itself, the effects don't just add up. They **compound**.
+Each change *changes the conditions for the next change*. The winners of Round 1 become the competitors of Round 2. The strategies that worked yesterday get copied today, altering the environment for tomorrow. And because it builds on itself, the effects don't just add up. They **compound**.
 
 ### The Wolf and the Pug
 
@@ -88,6 +84,6 @@ This is the key insight: the recursion doesn't just change the players. It chang
 
 The river shows us the same thing. The water erodes the dirt, reshaping the Track, the physical terrain. But the force driving the water (gravity) never changes. Water always flows to the lowest gravitational energy. The recursion reshapes the landscape, but the compass is fixed.
 
-We know the compass. We know it points the same direction every time: toward whatever the current Value Function rewards.
+We know the compass. We know it points in the same direction every time: toward whatever the current Value Function rewards.
 
 What changes is the terrain. And the terrain is always a product of the last cycle. Which means every answer the system finds becomes the next question it has to solve.

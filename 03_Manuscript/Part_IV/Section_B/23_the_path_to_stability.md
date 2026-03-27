@@ -32,7 +32,7 @@ Computers have no typebars. No metal arms. No risk of jamming. The entire reason
 
 So why hasn't the world switched?
 
-Because QWERTY is on the hill, billions of people know it. Every operating system defaults to it. Every school teaches it. Every keyboard is printed with it. Switching would mean re-learning to type, weeks of crashed productivity, and an entire ecosystem of habits, devices, and muscle memory thrown away.
+Because billions of people know QWERTY. Every operating system defaults to it. Every school teaches it. Switching would mean weeks of crashed productivity and an entire ecosystem of muscle memory thrown away.
 
 The valley between QWERTY and Dvorak is too deep. Not because Dvorak is uncertain. Everyone agrees it's probably better. But the cost of crossing isn't paid by the destination. The journey pays for it.
 
@@ -40,9 +40,7 @@ So we stay on a hill that was designed for a machine that no longer exists.
 
 This is what mathematicians call a **local maximum**. You're at a peak. Every step leads down. But it's not the highest peak in the landscape. The better one is visible across the valley. You can't afford to descend.
 
-And this is what historians call **path dependence**. Where you start determines where you end up, not because the destination is best, but because the first few steps lock in the direction.
-
-Just like the Cheetah, we are stuck with QWERTY. The United States is stuck with an outdated imperial measurement system. The valley's drop to the next hill is too steep, so we stay.
+This is what historians call **path dependence**. Where you start determines where you end up, not because the destination is best, but because the first few steps lock in the direction. We are stuck with QWERTY. The United States is stuck with an imperial measurement system. The valley's drop to the next hill is too steep.
 
 Because the Pattern can only see locally. It doesn't compare your hill to every other hill in the landscape. It just checks: is there a step that goes up from here? If not, you've peaked. You're stable. You're done.
 

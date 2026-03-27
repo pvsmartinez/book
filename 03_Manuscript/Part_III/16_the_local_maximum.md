@@ -22,7 +22,7 @@ This balance is called a **Nash Equilibrium**: the point where no individual pla
 
 You can actually calculate where that balance lands. Let *p* be the fraction of Hawks in the population. A Hawk's average score is: *p × (−25) + (1−p) × (+50)*. A Dove's average score is: *p × (0) + (1−p) × (+25)*. At equilibrium, both strategies must pay equally; one would take over. Set them equal and solve: −25p + 50(1−p) = 25(1−p). This gives *p = 5/8*, or about **58% Hawks, 42% Doves**.
 
-Now notice what that number is not. If everyone were a Dove, every interaction would score +25 for both players. The total points flowing through the system would be maximized. But that world cannot hold, because the moment Doves dominate, being a Hawk becomes the most profitable move available. The equilibrium the system finds is not the best outcome for the group. It is simply the point where no individual has a reason to defect.
+Notice what that number is not. If everyone were a Dove, every interaction scores +25 for both players. But that world cannot hold: the moment Doves dominate, being a Hawk becomes the most profitable move. The equilibrium the system finds is not the best outcome for the group. It is simply the point where no individual has a reason to defect.
 
 Mathematicians have a name for this kind of point: a **local maximum**. A place that is higher than everything immediately around it, but not the highest place in the landscape. Every individual step looks rational. The collective destination was never chosen.
 
@@ -52,11 +52,9 @@ Both prisoners reason the same way. Both betray. Both get 5 years.
 
 The better outcome was right there: both silent, 1 year each. Total cost to the system: 2 years. Total cost at the Nash Equilibrium: 10 years. Five times worse. And mathematically unavoidable, because any individual who unilaterally chose silence would get 10 years, while the other walked free.
 
-This is the **Prisoner's Dilemma**: not a failure of intelligence or goodwill, but a system where the individually rational move produces the collectively worst result.
+This is the **Prisoner's Dilemma**: not a failure of intelligence or goodwill, but a system where the individually rational move produces the collectively worst result. Instead of settling on a suboptimal outcome, the system locks into the worst collective outcome available and makes it mathematically impossible to escape unilaterally.
 
-This pattern appears wherever individual incentives and collective outcomes come apart. It is the same local maximum, but worse: instead of settling on a suboptimal outcome, the system locks into the worst collective outcome available and makes it mathematically impossible to escape unilaterally.
-
-Arms races, overfished oceans, price wars. Every country would prefer to spend on hospitals instead of weapons, every fishing boat would prefer a recovered population, and every company would prefer a world without a race to the bottom. The logic is always the same: the individually rational move makes collective sense impossible.
+Arms races, overfished oceans, price wars. Every country would prefer to spend on hospitals instead of weapons, and every company would prefer a world without a race to the bottom. The logic is always the same: the individually rational move makes collective sense impossible.
 
 The system does not care about intentions. It does not optimize for the global good. It selects for what is individually stable. The local maximum is not a bug. It is the destination the math was always pointing toward. The Value Function is working as designed.
 

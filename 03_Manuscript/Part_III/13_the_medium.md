@@ -26,9 +26,7 @@ Suddenly, *Breaking Bad* and *Game of Thrones* became possible. Writers could cr
 
 The writers didn't just "get smarter." The **Track** changed from a "Hop-on Hop-off Bus" to a "High-Speed Train." The nature of the art changed because the physics of delivery changed.
 
-Writers tried all types of shows in both eras. This was the **Variance**. As each show was released, the audience (The Judge) filtered it by Medium. During the linear TV era, serialized shows (like *Twin Peaks*) struggled because the medium punished them. In the streaming era, they flourished. The players didn't change. The Rules didn't change. The **Track** changed, and it selected for a completely different species of story.
-
-Today, this might seem obvious. But this knowledge was bought at the expense of the failure of thousands of shows that tried to fight the medium.
+The players didn't change. The Rules didn't change. The **Track** changed, and it selected for a completely different species of story.
 
 ### The Geometry of Truth
 
@@ -46,7 +44,7 @@ Truth is often boring. Truth is often "It's complicated." But "It's complicated"
 
 As we saw in Part II, news works as memetics. It spreads, it "survives" through the strongest emotions, and the medium has shaped it.
 
-Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes which players survive. Change the players without changing the track, and you get the same result.
+Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes which players survive.
 
 Sometimes the medium shifts because the technology changes. But sometimes the shift is quieter, hidden inside the software itself.
 
@@ -71,8 +69,6 @@ Look at the economics of a "Let's Play" video. Creating a 30-minute animation ta
 The algorithm didn't "love" Minecraft. It didn't care about blocks or zombies. It just wanted cheap, infinite minutes. And *Minecraft* was the most efficient fuel for that engine. PewDiePie didn't become the biggest star in the world by accident. He was the perfect organism for the "Watch Time" era.
 
 The creators didn't wake up one day and decide to become gamers. The **Track** was selected for them.
-
-Do you see the pattern? Each time the algorithm changed, the dominant species changed with it. Not because creators chose to adapt, but because those who didn't were replaced by those who did.
 
 Today's news looks more like YouTube's early days (nonsense videos, misleading clickbait) than like the newspapers where journalism was born.
 

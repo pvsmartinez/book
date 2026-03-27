@@ -18,7 +18,7 @@ It just iterates.
 
 This chapter is an exercise. A pause before the final act. I want to take what we've built and point it at the world, all at once, and see what we see.
 
-Not an absolute map, but enough to feel how the gears connect.
+Not a complete map. Enough to feel how the gears connect.
 
 ---
 
@@ -62,9 +62,10 @@ But the digital world changed the physics of scale.
 
 Online, a product can reach a billion users without adding a single employee. The relationship between a business's size and its reach has decoupled completely. A platform that hits critical mass first captures the network because everyone else is already there. The local maximum locks in. And when players grow large enough, the most efficient survival strategy shifts: instead of building a better product, it becomes easier to prevent competition through acquisitions, regulatory capture, or sheer gravitational pull.
 
+
 This produced something historically unusual. A handful of companies now account for a share of global market value that would have been unimaginable a generation ago. Structurally untouchable in ways that Venice, Standard Oil, or the East India Company never quite achieved, because the scale at which digital networks operate has no real precedent. The concentration is real, the debt underpinning it is real, and the wealth gap that compounds alongside it is real.
 
-Is this a tipping point? Hard to say from inside the plateau. What is clear: the Track is moving fast, and a new technology rewriting what the market rewards can rearrange the landscape before the old players have time to react. The pressure is building. Nobody can measure from here how close the edge is.
+Is this a tipping point? Hard to say from inside the plateau. The Track is moving fast, and a new technology rewriting what the market rewards can rearrange the landscape before the old players have time to react.
 
 #### Politics
 
@@ -86,7 +87,7 @@ Look at the results. In Brazil, the last two presidents were arrested. Not one. 
 
 The Pattern is everywhere. The drift has been accumulating for a long time.
 
-And it may be reaching a breakpoint. But the distance between what democratic institutions were designed to do and what they actually do today has grown so large that it is clear. Corruption is not an aberration. Populism is not a phase. They are the outputs of a system whose selection pressure has drifted from its original purpose, and that drift has been running for a very long time.
+Corruption is not an aberration. Populism is not a phase. They are the outputs of a system whose selection pressure has drifted from its original purpose, and that drift has been running for a long time.
 
 #### Education
 
@@ -104,9 +105,9 @@ Lifespans changed, too. When people lived to fifty, it made sense to specialize 
 
 And then came the labor market rewriting itself in real time. Entire categories of work are disappearing. New ones are emerging that didn't exist five years ago. The degree that was a reliable signal a generation ago is now a commodity. The system produced so many graduates, so reliably, that the credential itself stopped differentiating. It became the floor, not the ceiling.
 
-There are innovations happening inside. Teachers experimenting, schools trying new models, technology creating new pathways. But the core architecture resists. The institutions are too large, too interconnected, and too embedded in policy, funding, and parental expectations to pivot at the speed at which the world is moving.
+There are innovations happening inside. Teachers experimenting, schools trying new models, technology creating new pathways. But the core architecture resists: too large, too interconnected, too embedded in policy, funding, and parental expectations to pivot at the speed the world is moving.
 
-This isn't drift. The system is not sliding slowly toward something else. It stopped moving. It calcified on a local maximum that matched the world of the industrial era, and it has not found a way down the hill. Something will eventually break the lock: a new technology, a shift in what employers actually need, a generation that refuses the bargain. But from inside the plateau, it is genuinely unclear what that breakthrough looks like, or when it arrives.
+The system is not sliding slowly toward something else. It stopped. It calcified on a local maximum that matched the industrial era and has not found a way down the hill. Something will eventually break the lock. But from inside the plateau, it's genuinely unclear what that looks like, or when.
 
 #### Culture and the Information Ecosystem
 
@@ -118,7 +119,7 @@ On the other side, loneliness, depression, and anxiety are at epidemic levels. L
 
 And the medium through which all of this is experienced has transformed entirely. The Feed selects for contagion, not truth. Ideas compete the way viruses compete: the one that triggers outrage replicates faster than the one that requires patience. With no gatekeepers left, nuance gets selected out.
 
-But the same medium that amplifies conflict also amplifies *visibility*. Voices that were invisible for centuries now reach millions. Stories that would have died in a local meeting room become global movements. The same algorithm that feeds you rage feeds someone, somewhere, a story that changed how they see a person they'd never met. Both outputs come from the same engine. The question is which one compounds faster.
+But the same medium that amplifies conflict also amplifies *visibility*. Voices that were invisible for centuries now reach millions. Stories that would have died in a local meeting room become global movements. The same algorithm that feeds you rage feeds someone, somewhere, a story that changed how they see a person they'd never met. The question is which one compounds faster.
 
 #### Health
 

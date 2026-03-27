@@ -32,11 +32,11 @@ When credit flows, spending rises. My spending is your income. Your income rises
 
 But credit is not free money. It's borrowed from your future self. At some point, the debt gets heavy. People spend less because they're paying off what they owe. Less spending means less income for everyone else. Confidence drops. Banks tighten. Credit dries up.
 
-This is the contraction. The economy shrinks not because people became lazy or a disaster struck, but because the mechanism that drove the growth (borrowing) created the conditions for the decline (repayment). The boom plants the seeds of the bust inside itself. The bust clears the ground for the next boom.
+This is the contraction. The economy shrinks not because people became lazy or a disaster struck, but because the mechanism that drove the growth created the conditions for the decline. The boom plants the seeds of the bust inside itself.
 
 Ray Dalio calls this the **short-term debt cycle**: roughly 5 to 8 years, peak-to-peak. Growth, overshoot, contraction, recovery, growth again.
 
-What makes this pendulum different from fashion is the source of the swing. In fashion, other players saturate the environment and flip the reward. In credit, the system accumulates its own weight. The Rules don't change from cycle to cycle. The Competitors barely shift: same banks, same businesses, same families. What changes is the state of the system itself. How much debt has accumulated? How much confidence remains? How much slack is left? The system's own history drives the pendulum.
+What makes this pendulum different from fashion is the source of the swing. In fashion, other players saturate the environment and flip the reward. In credit, the system accumulates its own weight. The Rules don't change from cycle to cycle. The Competitors barely shift. What changes is the state of the system itself: how much debt has accumulated, how much confidence remains, how much slack is left.
 
 I've watched this from Brazil, where the Selic rate swings between 2% and 14% as the central bank chases the same ghost, cycle after cycle. The names on the news change. The mechanism doesn't.
 

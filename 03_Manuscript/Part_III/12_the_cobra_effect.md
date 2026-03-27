@@ -82,7 +82,7 @@ There's a name for what happened: the **Exam Trap**. The result of millions of i
 
 In the world of education, the "Judge" is the standardized test. It is the "Lap Counter" that determines which schools are "good" and which students are "successful."
 
-The problem isn't that testing is inherently evil. We need a way to measure progress. **But as we know, measurement changes behavior.** The problem is that the Engine (the combination of Iteration and Selection) is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
+**Measurement changes behavior.** The Engine is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
 
 If the test measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does.
 
@@ -97,8 +97,6 @@ We end up with a system that creates graduates who are "High Proxy" (Great at te
 There is a name for this phenomenon. It’s called **Goodhart’s Law**:
 
 > "When a measure becomes a target, it ceases to be a good measure."
-
-The moment we decide that a number (the proxy) is the point of the game, the competitors will find a way to hit that number without actually doing the work.
 
 - If you reward a cobra hunter for bringing in dead cobras, he will start **breeding cobras** to kill them.
 - If you reward a programmer for the number of lines of code they write, they will write the **longest, messiest code** possible.

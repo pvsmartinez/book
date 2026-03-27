@@ -20,7 +20,7 @@ But often, especially in biology and complex systems, variance is blind. A rando
 
 This blind variance is what we call luck.
 
-The Pattern doesn't care whether the variance was planned or accidental. A mutation that helps you survive gets selected for, whether it was intended or not. The universe doesn't check your receipts. Luck isn't some force opposing the Pattern. Luck is feeding it.
+The Pattern doesn't care whether the variance was planned or accidental. The universe doesn't check your receipts. Luck isn't some force opposing the Pattern. Luck is feeding it.
 
 ### The Dice Roll
 
@@ -68,9 +68,9 @@ In a single iteration, noise dominates. The best candidate doesn't always get th
 
 But over thousands of iterations and millions of individuals, the noise cancels out.
 
-The specific giraffe that survives the drought might be lucky. But over a million years and a billion giraffes, the ones with longer necks consistently outsurvive the ones with shorter necks. Luck decides which individual survives. The Value Function decides that "long neck" becomes the norm.
+The specific giraffe that survives the drought might be lucky. But over a million years and a billion giraffes, the ones with longer necks consistently outsurvive. Luck decides which individual survives. The Value Function decides which shape becomes the norm.
 
-The specific startup that becomes a unicorn might be lucky. But across thousands of startups over decades, the ones that solve real problems consistently outperform. Luck decides which founder becomes a billionaire. The Value Function decides that "solving problems" is the winning shape.
+The specific startup that becomes a unicorn might be lucky. But across thousands of startups over decades, the ones that solve real problems consistently outperform. Luck decides which founder becomes a billionaire. The Value Function decides the winning shape.
 
 ### Two Lenses on the Same Winner
 

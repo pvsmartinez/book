@@ -29,7 +29,7 @@ Suddenly, you only need **two hits**. That tiny 3-point shift crossed a **Breakp
 
 Same size upgrade. One gave you nothing. The other changed the game.
 
-This is how the compounding we've been talking about actually *feels*. The recursion doesn't always produce visible change. It accumulates quietly, doing nothing, nothing, nothing, until it crosses a line. And then everything shifts at once.
+The recursion doesn't always produce visible change. It accumulates quietly, doing nothing, nothing, nothing, until it crosses a line. And then everything shifts at once.
 
 ### The Grocery List
 
@@ -51,7 +51,7 @@ But this month, the number crossed the line.
 
 The difference between $2,990 and $3,010 isn't twenty dollars. It's the difference between "getting by" and "choosing which bill to skip." Between managing and drowning. Between the RPG character needing three hits and needing two.
 
-You watched the whole thing happen. You saw every price increase. And the breakpoint still caught you off guard. Because you were tracking the rate. The threshold was somewhere else.
+You watched the whole thing happen. And the breakpoint still caught you off guard. Because you were tracking the rate. The threshold was somewhere else.
 
 ### The Plateau
 

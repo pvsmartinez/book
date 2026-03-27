@@ -18,9 +18,7 @@ The result is that the next generation of cheetahs is faster because they are th
 
 There is a hidden cost here.
 
-When the first cheetah started optimizing for speed, it was just one of many possible strategies. It could have evolved to be stealthy like a leopard, strong like a lion, or cooperative like a wolf. But once the "Speed" path was chosen, the door to those other strategies began to close.
-
-As the cheetah became faster, its body changed. It lost muscle mass to become lighter. Its claws became non-retractable for traction. It became a specialized machine. Now, millions of years later, even if "Stealth" were a better strategy, the cheetah cannot switch to it. It is locked in. It has climbed a specific hill (Speed) and cannot descend to climb another.
+When speed became the winning strategy, the door to others began to close. The cheetah lost muscle mass to become lighter. Its claws became non-retractable for traction. Now, even if "Stealth" were a better strategy, the cheetah cannot switch. It has climbed a specific hill and cannot descend to climb another.
 
 This is where the trap closes. The "fast" cheetah from the previous generation (the one that was a top-tier predator yesterday) is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s **absolute** speed increased, but its **relative** advantage vanished.
 
@@ -50,9 +48,7 @@ In any population of millions, there's always variance. A tiny fraction (maybe o
 
 The 99.99% died. The 0.01% survived, reproduced, and passed their resistance to the next generation. Within a few years, farmers observed the insects returning. So they sprayed more DDT. The resistant insects thrived. The sensitive ones were already gone.
 
-By the 1960s, farmers were using ten times as much pesticide as in the 1940s and achieving worse results. The insects had evolved. The "miracle poison" was now just expensive water.
-
-Thus, chemical companies developed new toxins. The insects evolved again. Stronger poison, stronger bugs. This cycle has a name: the **Pesticide Treadmill**.
+By the 1960s, farmers were using ten times as much pesticide as in the 1940s and achieving worse results. The miracle poison was now just expensive water. Chemical companies developed new toxins. The insects evolved again. This cycle has a name: the **Pesticide Treadmill**.
 
 Today, we have insects resistant to every major class of pesticide. Farmers are running faster than ever, spending more than ever, to stay in the same place. The bugs aren't "winning," but neither are we. We are both locked in a race that neither side can exit.
 
@@ -68,7 +64,7 @@ So Congress writes more rules. More specific. More detailed. More pages.
 
 But more pages mean more complexity. More complexity means more gaps. More gaps mean more loopholes. The law grows because the arms race demands it.
 
-Lawyers aren't evil. They're cheetahs. They optimize for the environment they're given. The environment continues to select for longer claws.
+Lawyers aren't evil. They're cheetahs. The environment selects for longer claws.
 
 ### The Resume Arms Race
 

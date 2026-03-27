@@ -54,7 +54,7 @@ With that crowding, the **rules** shifted.
 
 With so many investors competing, valuations inflated. And founders noticed something critical: you didn't need to please the *customer* to survive. You needed to please the *investor*. Show the right growth charts. Master the pitch deck. Raise the next round at a higher valuation.
 
-The pattern is selected accordingly. Founders who were world-class at fundraising raised the most money. Founders who were world-class at building products often couldn't compete for attention. The system began producing companies that had never turned a profit but were valued at billions, because each round of investors only needed to convince the next that the story was getting better.
+Founders who were world-class at fundraising raised the most money. Founders who were world-class at building products often couldn't compete for attention. The system began producing companies that had never turned a profit but were valued at billions, because each round of investors only needed to convince the next that the story was getting better.
 
 The loop closed on itself. Early investors didn't need the company to ever make money. They just needed a later investor to buy their shares at a higher price. The entire chain could sustain itself as long as the narrative held and new capital continued to flow.
 
@@ -62,7 +62,7 @@ The system traveled from "build something people want" to "get as many users as 
 
 Each step made sense from inside the system. Each step was a rational response to the selection pressures of its moment. Nobody voted for the drift. Everyone participated in it.
 
-Does venture capital still fund breakthroughs? Absolutely. Some of the most important technologies of the last decade emerged from venture-backed companies. But the system also produces billion-dollar valuations attached to little more than a narrative and a pitch deck. It still generates innovation, but perhaps not sustainable innovation, because the feedback loop no longer requires profit. The drift doesn't make the system better or worse in an absolute sense. It makes it *different*. Pointed somewhere new. And that's the nature of systemic drift: not a failure, but a quiet migration that nobody voted for and everyone participated in.
+The drift doesn't make the system better or worse in an absolute sense. It makes it *different*. Pointed somewhere new. And that's the nature of systemic drift: not a failure, but a quiet migration that nobody voted for and everyone participated in.
 
 ### From Competition to Consolidation
 
@@ -100,9 +100,7 @@ They locked the **Golden Book**, the registry of families allowed to participate
 
 The institutions that had been inclusive became **extractive**: closed to outsiders, designed to protect insiders, structured to preserve inherited advantage. The rules no longer rewarded the best traders. They rewarded the best-connected families.
 
-Competition created winners. Winners became oligarchs. Oligarchs closed the market and killed the very variance that had built their wealth.
-
-Venice didn't collapse because of a war, a plague, or a stronger rival. It drifted. From generation to generation, the rules shifted until the engine of global commerce became a beautiful, frozen artifact.
+Competition created winners. Winners became oligarchs. Oligarchs closed the market and killed the very variance that had built their wealth. The engine of global commerce became a beautiful, frozen artifact.
 
 This is the drift that the invisible hand, on its own, cannot correct. In a young market with many small players, the Pattern drives competition, and competition drives quality. But as winners compound, they gain the power to rewrite the rules in their favor. The market matures from open to a consolidated state. The institutions shift from inclusive to extractive.
 

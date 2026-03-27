@@ -122,10 +122,8 @@ And now, as of this writing, there's a lively debate about whether artificial in
 
 Nobody knows. That's the point.
 
-In hindsight, every tipping point looks obvious.
+In hindsight, every tipping point looks obvious. In foresight, they're almost impossible to call.
 
-In foresight, they're almost impossible to call.
-
-That's not a failure of intelligence. The people watching the dot-com bubble weren't stupid. Neither were the diplomats in 1912, nor the Russian generals in 1916. They were operating in a system that looked stable right up until it wasn't. Because that's what systems do: they absorb, and absorb, and absorb, and then they don't.
+The people watching the dot-com bubble weren't stupid. Neither were the diplomats in 1912, nor the Russian generals in 1916. They were operating in a system that looked stable right up until it wasn't. Because that's what systems do: they absorb, and absorb, and absorb, and then they don't.
 
 The pressure was always there. The buffers were always thinning. The only question is what the last iteration will be.

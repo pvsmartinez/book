@@ -50,9 +50,9 @@ Not what the system says it rewards. What it actually rewards. Every environment
 
 Look at who advances. Look at what numbers go up. Look at which behaviors repeatedly survive the filter over time. That is the real Rule. And it is often not the one on the poster.
 
-The Cobra Effect showed us this in its most absurd form: a government that wanted fewer cobras created a system that bred more of them. The stated goal and the actual reward diverged completely, and the pattern optimized for the reward rather than the goal. Then the same thing happened with rats in Hanoi, with standardized test scores, with social media engagement. In every case, someone defined a metric to represent a goal, and the system optimized the metric so aggressively that the goal disappeared. The number went up. The thing the number was supposed to measure got worse. And because the reward mechanism was the metric, not the goal, the Pattern had no way to notice the difference.
+The Cobra Effect showed us this in its most absurd form: a government that wanted fewer cobras created a system that bred more of them. The same thing happened with rats in Hanoi, with standardized test scores, with social media engagement. In every case, someone defined a metric to represent a goal, and the system optimized the metric so aggressively that the goal disappeared. The number went up. The thing the number was supposed to measure got worse.
 
-The same mechanism operates at the population level. Change one number in the environment, and the equilibrium shifts. The animals did not decide to become more aggressive or more peaceful. The mold shifted. The math shifted. The behavior followed.
+Change one number in the environment, and the equilibrium shifts. The animals did not decide to become more aggressive or more peaceful. The mold shifted. The math shifted. The behavior followed.
 
 **What does this environment make easy?**
 
@@ -60,7 +60,7 @@ Behavior flows like water. It follows the path of least resistance. The Track do
 
 If the tools you need for focused work are buried under three clicks and notifications from your messaging app pop up in your peripheral vision every four minutes, the Track is optimized for distraction. Not because anyone decided that. Because that is the geometry of the environment you built. The bird is not weak-willed. The window is just closer.
 
-This is true at every scale. Cities designed around cars make driving the default and walking the exception, not because residents actively chose that, but because the geometry made it inevitable. Offices with open floor plans make interruption the default and concentration the exception. Grocery stores place the most profitable items at eye level, not the most nutritious ones. These are not conspiracies. They are tracks. Behavior follows the geometry, not the intention.
+Cities designed around cars make driving the default. Offices with open floor plans make interruption the default. Grocery stores place the most profitable items at eye level. These are not conspiracies. They are tracks. Behavior follows the geometry, not the intention.
 
 When you see the Track clearly, you stop misattributing friction to character. The question stops being "why don't I have more discipline?" and becomes "why is this environment designed to make the hard thing harder?"
 

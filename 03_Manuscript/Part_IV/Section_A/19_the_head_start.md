@@ -40,7 +40,7 @@ In Brazil, we have a benchmark interest rate called the **Selic** (if you're not
 
 After ten years, the gap is visible. Bruno has saved $120,000, which has grown to about $240,000 with interest. Ana, because she had that $100,000 working from day one, is sitting on nearly $650,000.
 
-A $400,000 gap hurts. But you can still tell yourself: maybe I can catch up if I work harder.
+A $400,000 gap hurts. But you can still tell yourself, "Maybe I can catch up if I work harder."
 
 Now look at fifty years.
 
@@ -84,11 +84,9 @@ Sound familiar? It's Ana's $100,000, but on the scale of the entire global marke
 
 ### The Advantage Feeds Itself
 
-The Value Function (whether it's the market, the coach, the ETF formula, or the algorithm) is just selecting the "fittest" option *right now*.
+The Value Function is just selecting the "fittest" option *right now*. But that selection gives the winner the resources to be even fitter *tomorrow*.
 
-It selects the child who is larger today. It rewards the stock that is higher today. It funnels money into the account that already has more. But that selection gives the winner the resources to be even fitter *tomorrow*.
-
-The advantage feeds itself. Over time, it creates a world in which the winners keep winning, not because they necessarily work harder, but because they have greater momentum. The initial signal, that small difference in starting position, is amplified by the recursion until it drowns out everything else.
+The advantage feeds itself. The initial signal, that small difference in starting position, is amplified by the recursion until it drowns out everything else.
 
 I catch myself wondering this sometimes: how much of my "success" is talent, and how much is just the compounding of an early advantage I didn't choose?
 
