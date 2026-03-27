@@ -44,7 +44,7 @@ The mold is always running. The question is whether you can see it.
 
 A lens is a way of seeing that, once you have it, you cannot unsee. You start noticing the same structure in places that once looked completely unrelated.
 
-**1. What is actually being rewarded here**
+**What is actually being rewarded here**
 
 Not what the system says it rewards. What it actually rewards. Every environment has a public-facing story about its values. Companies talk about innovation. Schools talk about curiosity. Social platforms talk about connection. But the Pattern does not respond to stated values. It responds to the actual reward mechanism.
 
@@ -54,7 +54,7 @@ The Cobra Effect showed us this in its most absurd form: a government that wante
 
 The same mechanism operates at the population level. Change one number in the environment, and the equilibrium shifts. The animals did not decide to become more aggressive or more peaceful. The mold shifted. The math shifted. The behavior followed.
 
-**2. What does this environment make easy?**
+**What does this environment make easy?**
 
 Behavior flows like water. It follows the path of least resistance. The Track does not force you to do anything. It just tilts the floor.
 
@@ -64,15 +64,13 @@ This is true at every scale. Cities designed around cars make driving the defaul
 
 When you see the Track clearly, you stop misattributing friction to character. The question stops being "why don't I have more discipline?" and becomes "why is this environment designed to make the hard thing harder?"
 
-**3. Who else is playing this game?**
+**Who else is playing this game?**
 
 The Red Queen runs through every competitive system. Your payoff is not absolute. It is relative to what everyone else in the room is doing. Being exceptional at something is not a fixed property. It is a gap. And gaps close.
 
 The six-minute mile was once a barrier that separated serious runners from everyone else. Then it became the standard. Then it became the floor. The cheetah got faster, the gazelle got faster, and neither is gaining on the other. The bar for a competitive resume has risen so high that candidates now list skills and certifications they spent years acquiring, only to reach the starting line of a conversation they might not get. The effort is real. The edge is not.
 
-This does not mean competition is futile. It means the question is never just "am I improving?" It is always "improving relative to what, and in which direction?" Two people can be working equally hard and moving in completely different directions, depending on which game they are in.
-
-But even when you understand the Rules, the Track, and the Competitors, there is a deeper trap: the equation can be optimizing for the wrong thing entirely.
+This does not mean competition is futile. It means the question is never just "am I improving?" It is always "improving relative to what, and in which direction?" Two people can be working equally hard and moving in completely different directions, depending on which game they are in. And sometimes the game itself is optimizing for the wrong thing entirely.
 
 Consider the puzzles of biology. Why do humans go bald? Why do we get Alzheimer's? These traits seem like design failures. We might wonder why natural selection, after millions of years of optimization, hasn't "fixed" these bugs. The reason lies in timing. For most of human history, we reproduced *before* we went bald or got Alzheimer's. The Win Condition of biology is "Survive long enough to pass on your genes." Once you cross that finish line, the Judge stops watching. Baldness and Alzheimer's happen outside the optimized window. They are not bugs. They are byproducts of a system that simply was not watching that far ahead.
 

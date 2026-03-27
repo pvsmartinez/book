@@ -64,8 +64,6 @@ It defines the "Fit."
 
 The Rules usually take the spotlight because they are visible, leading players to the wrong conclusions.
 
-What happened to the Millennials is a perfect example. The Rules didn't change much from the Boomer generation (Study, Work, Save, Invest), but the Track (economy) and the Competitors (global workforce/automation) changed completely. This shifted what was actually effective for a stable life, leaving many "stuck" using an outdated map.
+What happened to the Millennials is a perfect example. The Rules didn't change much: Study, Work, Save, Invest. But the Track and the Competitors changed completely. A different economy. A global workforce. Automation is arriving faster than any generation had planned for. The map stayed the same. The terrain did not.
 
-This invisible judge shapes everything from the apps on your phone to the anxiety in your head. And it is easy to get wrong.
-
-We get it wrong all the time. Seeing it clearly is the difference between "I am broken" and "I need to understand the game."
+This invisible judge shapes everything from the apps on your phone to the anxiety in your head. Seeing it clearly is the difference between "I am broken" and "I need to understand the game."

@@ -1,8 +1,8 @@
 ## Chapter 18: The Compound Effect
 
-The Competitors evolve. The Track shifts. Arms races escalate. The pattern forces the elements to change over time.
+Change is not the surprising part. Everything changes. The surprising part is the direction.
 
-But why is it so strong?
+Small advantages don't just accumulate. They multiply. Each cycle starts from where the last one ended, which means the gap between a 1% edge and no edge at all doesn't grow arithmetically. It compounds. And a system that compounds doesn't just move. It accelerates.
 
 ### The Pattern is Recursive
 
@@ -88,4 +88,6 @@ This is the key insight: the recursion doesn't just change the players. It chang
 
 The river shows us the same thing. The water erodes the dirt, reshaping the Track, the physical terrain. But the force driving the water (gravity) never changes. Water always flows to the lowest gravitational energy. The recursion reshapes the landscape, but the compass is fixed.
 
-We know the compass. What we don't yet know is the terrain it creates.
+We know the compass. We know it points the same direction every time: toward whatever the current Value Function rewards.
+
+What changes is the terrain. And the terrain is always a product of the last cycle. Which means every answer the system finds becomes the next question it has to solve.

@@ -1,5 +1,7 @@
 ## Chapter 11: The Algorithm's Brain
 
+Every system has a Judge. But not every Judge is easy to see.
+
 Of the three forces shaping the Value Function, The Rules are the most visible. And AI is the cleanest laboratory we have ever built to study them.
 
 When we train an AI, we don't give it a brain. We give it a number.
@@ -170,3 +172,5 @@ The Rule Set is the immense power of **Definition**. The definition of the rules
 If you define "Success" as "High Stock Price," the company will fire its R&D department to boost short-term profits. If you define "Education" as "Test Scores," the school will stop teaching critical thinking.
 
 So you better be damn sure that what you asked for is what you actually wanted.
+
+Because the machine will give it to you. Exactly as written.

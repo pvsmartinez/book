@@ -1,12 +1,10 @@
 ## Chapter 12: The Cobra Effect
 
-If defining the right rules is already hard, imagine when the measurement of those rules is wrong.
+The British colonial government in Delhi had a problem. The city was full of cobras.
 
 Humans have something nature lacks: **intent**. We don't just survive the Value Function. We try to rewrite it. Of the three levers, the **Rules** are the quickest to pull. Pass a law. Set a bounty. Create a metric. Rules have a more predictable cause-and-effect relationship, which is why they are the preferred tool for steering behavior.
 
 But there's a trap. A trap so common, so devastating, that it has its own name.
-
-The British colonial government in Delhi once faced a serious problem: the city was crawling with cobras.
 
 The administrators in Delhi did what any "sensible" government would do: they designed a Value Function to recruit the entire population into their safety mission.
 

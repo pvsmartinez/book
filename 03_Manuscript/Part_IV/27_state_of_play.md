@@ -114,9 +114,9 @@ Humans have changed dramatically in just a few generations. We live far longer. 
 
 In some directions, the progress is extraordinary. Human rights protections that didn't exist a generation ago are now the law. Visibility for communities that were invisible for centuries has expanded at a pace that would have been unimaginable fifty years ago. The floor of what societies consider acceptable treatment of people has risen, measurably and meaningfully.
 
-On the other side, loneliness, depression, and anxiety are at epidemic levels. Longer lives with fewer deep connections. More options with less clarity. The optimization of individual choice has produced a generation with everything available and struggling to know what to choose.
+On the other side, loneliness, depression, and anxiety are at epidemic levels. Longer lives with fewer deep connections. More options with less clarity. The optimization of individual choice has produced a generation with everything available and no idea what to choose.
 
-And the medium through which all of this is experienced has transformed entirely. The Feed selects for contagion, not truth. Ideas compete the way viruses compete: the one that triggers outrage replicates faster than the one that requires patience. With no gatekeepers left, the nuance gets selected out way too slowly.
+And the medium through which all of this is experienced has transformed entirely. The Feed selects for contagion, not truth. Ideas compete the way viruses compete: the one that triggers outrage replicates faster than the one that requires patience. With no gatekeepers left, nuance gets selected out.
 
 But the same medium that amplifies conflict also amplifies *visibility*. Voices that were invisible for centuries now reach millions. Stories that would have died in a local meeting room become global movements. The same algorithm that feeds you rage feeds someone, somewhere, a story that changed how they see a person they'd never met. Both outputs come from the same engine. The question is which one compounds faster.
 
@@ -166,7 +166,7 @@ Politics, economy, health, and education. Different directions. Different speeds
 
 And none of them are broken. Every single one is doing exactly what the Pattern predicts. The shapes we studied aren't abstract concepts. They are the architecture of the world you live in, running in parallel, all at once.
 
-This is what we've been building toward: a way of seeing why things move the way they move. The speed. The direction. The forces that shape the players.
+This is what we've been building toward: a way of seeing why things move as they do. The speed. The direction. The forces that shape the players.
 
 It was never about the players.
 
@@ -175,7 +175,5 @@ It is the game itself that needs tweaking. The rules. The track. What gets measu
 Chapter 1 asked: Does the world feel more extreme? We said yes. Now we know why. Not because people got worse. Not because something broke. Because the machine is working relentlessly, at every scale, and we've been watching the players instead of reading the scoreboard.
 
 If we've reached this far, we have the diagnosis. We can see the shape. We can name the forces.
-
-We have the diagnosis. We can see the shape. We can name the forces.
 
 The question now is whether we can use them.

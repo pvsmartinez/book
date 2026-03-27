@@ -1,12 +1,12 @@
 ## Chapter 32: The Levers
 
-You have the map. You know what the system is actually selecting for. You know which equilibrium the game theory points toward. You know where the buffers are and which reinforcing loops are running.
+Diagnosis is not enough. At some point, you have to touch the machine.
 
-Now comes the harder question: what do you actually do about it?
+You know what the system is actually selecting for. You know which equilibrium the game theory points toward. You know where the buffers are and which reinforcing loops are running. Now comes the harder question: what do you actually do about it?
 
 The instinct is to reach for the most obvious tool. More consequences. Better incentives. A stricter rule. And sometimes that works. But the mistake most designers make, whether they are designing a game, a policy, or a company culture, is reaching for the most visible lever when the actual problem lies elsewhere entirely.
 
-The tools for changing a system are not of the same kind. They operate at different levels. And the most common failure in system design is not that the tool is bad. It is possible that someone pulled the right tool at the wrong level.
+The tools for changing a system are not of the same kind. They operate at different levels. And the most common failure in system design is not that the tool is bad. It is that someone pulled the right tool at the wrong level.
 
 ---
 

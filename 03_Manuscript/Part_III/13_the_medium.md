@@ -36,30 +36,11 @@ The same logic applies to something more serious: the news.
 
 We often ask: "Why has the news become so angry? Why is it so polarized?" We assume the "Players" (Journalists) have lost their integrity. We blame their morals. But if we look at the Geometry of their Track, the answer is simpler. They are just trying to survive on a new map.
 
-**1. The Newspaper (The Subscription Track**)The physical newspaper in the 90s had some physical constraints:
+The physical newspaper in the 90s had real constraints. A fixed number of pages. One publication per day. Payment upfront, by subscription. That Track selected for **Trust**. If the paper lies to you on Tuesday, you cancel on Wednesday. Since they already had your money, they didn't need to scream every five minutes. They could afford to be boring. They could afford to say "We don't know yet." They would still protect their readership, still omit inconvenient views. But the incentive to panic you didn't exist.
 
-- **Space:** You only have a certain number of pages.
-- **Time:** You publish once every 24 hours.
-- **Payment:** You pay Upfront (Subscription).
+Then came Cable. CNN, Fox, MSNBC. Infinite airtime to fill, paid by ads, measured in attention. They couldn't afford for you to change the channel. "Trust" is a slow burn. "Fear" is immediate. If I tell you "Everything is fine," you go watch a sitcom. If I tell you "There is a threat to your children," you stay. The Track changed from a Morning Briefing to a 24-Hour Anxiety Loop. The organisms adapted. The boring journalist went extinct. The alarmist pundit thrived.
 
-This Track selects for **Trust**. If the paper lies to you on Tuesday, you cancel on Wednesday. Since they already have your money, they don't need to scream at you every 5 minutes. They can afford to be boring. They can afford to say "We don't know yet."
-
-A newspaper would still omit inconvenient views to protect its readership. That hasn't changed.
-
-**2. Cable News (The Loop Track**)Then came Cable (CNN, Fox, MSNBC, GloboNews). The constraints flipped.
-
-- **Space:** Infinite (24 hours to fill).
-- **Payment:** Ads (Attention).
-
-They need you not to change the channel. "Trust" is a slow burn. But "Fear" is immediate. If I tell you "Everything is fine," you change the channel to watch a sitcom. If I tell you, "There is a threat to your children," you stay. The Track changed from a "Morning Briefing" to a "24-Hour Anxiety Loop." The organisms adapted. The "boring" journalist went extinct; the "alarmist" pundit thrived.
-
-**3. Social Media (The Scroll Track**)Now we have the Feed. The constraints are even tighter.
-
-- **Space:** The size of a phone screen.
-- **Speed:** A thumb-flick (milliseconds).
-- **Payment:** Number of views (Times ads shown).
-
-In this environment, "Nuance" is practically impossible. You cannot explain a complex tax policy in a space that is scrolled past in 0.5 seconds. The strongest brake for the thumb is **High Arousal Emotion**. Anger, shock, outrage, or "The Dunk."
+Then came the Feed. Phone screen. Thumb-flick. Milliseconds. Payment by views. In this environment, nuance is practically impossible. You cannot explain a complex tax policy in a space scrolled past in half a second. The strongest brake for the thumb is **High Arousal Emotion**. Anger, shock, outrage, the dunk.
 
 Truth is often boring. Truth is often "It's complicated." But "It's complicated" has a viral coefficient of zero. "They are stealing your country" spreads like a virus. It has a high **contagion rate**.
 
@@ -106,3 +87,5 @@ Just as "Let's Play" dominated the "Watch Time" era because it was efficient to 
 If you see a trend shaping up, whether it's polarization in news or "slop" in your feed, ask yourself how the **container** is shaping the liquid.
 
 The Pattern doesn't care what you want to be. It only cares what the track will let you become.
+
+And the track is always there. Even when you can't see it.

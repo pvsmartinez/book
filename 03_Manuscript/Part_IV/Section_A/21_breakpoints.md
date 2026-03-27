@@ -1,8 +1,8 @@
 ## Chapter 21: Breakpoints
 
-We often think things evolve in regular intervals. Compounding interest, exponential growth, steady climbs. Smooth curves make the world feel predictable.
+Compounding sounds smooth. Interest accumulating, growth climbing, the curve bending upward. A gradual, legible process.
 
-But the world doesn't always move in curves. Sometimes it moves in jumps. And sometimes it snaps.
+But the world doesn't move in smooth curves. It moves in plateaus and jumps. You accumulate, accumulate, accumulate. And then, without warning, the floor shifts.
 
 ### The RPG Math
 
@@ -85,6 +85,8 @@ At 100, the rules change. It becomes steam. Same molecule. Completely different 
 
 The system absorbs pressure, absorbs pressure, absorbs pressure, and gives you no signal that anything is about to change until it changes everything.
 
+This is why breakpoints are so disorienting. It's not that the warning signs weren't there. It's that the warning signs looked exactly like normal. The boiling water looked like hot water right up until it didn't.
+
 ### Plateaus and Cliffs
 
 The Pattern does not move in a straight line. It moves in plateaus and cliffs.
@@ -95,6 +97,6 @@ Sometimes you *can't* see the change at all. That's the plateau. The sessions pi
 
 Either way, the math is the same. The system absorbs, absorbs, absorbs. The 13 damage lands. And then the number crosses the line.
 
-We mistake the plateau for permanence. We mistake visible change for manageable change. Both are traps. The breakpoint doesn't care whether you noticed the accumulation. It fires when the number is ready.
+We mistake the plateau for permanence. We mistake visible change for manageable change. Both are traps.
 
-In every system that runs long enough, the breakpoints are waiting. The question isn't whether the jump is coming. It's whether you'll be watching the threshold or just the rate.
+The breakpoint doesn't care whether you noticed the accumulation. It fires when the number is ready. Not when you're ready.

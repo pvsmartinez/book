@@ -40,18 +40,14 @@ Because the environment has changed, the bugs in the code (polarization, populis
 
 Our values haven't failed. The specific mechanisms we use to run society just haven't been patched. We are trying to run a 21st-century simulation on 300-year-old hardware.
 
-The fan is spinning. The CPU is overheating. That heat you feel?
+The fan is spinning. The CPU is overheating.
 
-That is your exhaustion.
+That heat you feel? That is your exhaustion.
 
 ### The Opportunity
 
-This sounds like a prophecy of doom, but it is actually the first step toward a solution.
+As long as we thought the problem was "Bad People," we were helpless. We could only hope for "Better People" to rescue us from the pattern.
 
-As long as we thought the problem was "Bad People," we were helpless. We could only hope for "Better People" to save us, an outlier to rescue us from the pattern.
-
-But once you see that the problem is system design, the world becomes something you can work with. The mismatch, the compounding, the feedback loops outrunning the institutions meant to contain them — those are things we can fix.
-
----
+But once you see that the problem is system design, the world becomes something you can work with. The mismatch, the compounding, the feedback loops outrunning the institutions meant to contain them: those are things we can fix. Not by finding better players. By redesigning the game.
 
 One system remains unmapped: the one looking through your eyes right now.

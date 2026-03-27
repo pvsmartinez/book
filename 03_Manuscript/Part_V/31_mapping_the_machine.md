@@ -6,7 +6,7 @@ The first touches the trunk and says, "This creature is like a snake." The secon
 
 They are all right. And they are all catastrophically wrong.
 
-Each man has perfect information about his piece of the elephant. Each man's conclusion is internally consistent. And yet, none of them would survive if they had to navigate around the animal. They don't disagree because one is smarter than the others. They disagree because they are looking at events rather than the system. They are touching outputs, not mapping the machine.
+Each man has perfect information about his piece of the elephant. Each man's conclusion is internally consistent. And yet, none of them would survive if they had to navigate around the animal. They don't disagree because one is smarter than the others. They disagree because they are looking at events rather than the system. They are touching outputs. They are not mapping the machine.
 
 This is how most political debates work. This is how most corporate strategy sessions work. This is how most arguments between partners work. Each person has a real piece of the elephant. Each person is defending something true. And yet, the whole room is blind.
 
@@ -118,11 +118,11 @@ These dynamics appear in every system you will map.
 
 Once you have mapped the buffers and the loops, you have enough to run a real diagnosis. Three questions, in order:
 
-**1. What is the noise?** What are the symptoms, the screams, the recurring failures? This is what the system is showing you. Do not fix it yet. Write it down.
+**What is the noise?** What are the symptoms, the screams, the recurring failures? This is what the system is showing you. Do not fix it yet. Write it down.
 
-**2. What behavior is actually being rewarded?** Ignore what people say they want. Ignore the mission statement. Look at what gets people paid, what earns them status, what keeps them safe from consequences. That is the real Value Function.
+**What behavior is actually being rewarded?** Ignore what people say they want. Ignore the mission statement. Look at what gets people paid, what earns them status, what keeps them safe from consequences. That is the real Value Function.
 
-**3. What is the feedback loop?** If a player does more of the "bad" behavior today, does it become easier or harder to stop tomorrow? Is the loop reinforcing the problem or resisting it?
+**What is the feedback loop?** If a player does more of the "bad" behavior today, does it become easier or harder to stop tomorrow? Is the loop reinforcing the problem or resisting it?
 
 Consider a relationship where conflict is constant. Both people say they want peace. But if the only reliable way to get attention in that relationship is through a fight, then conflict is the rewarded behavior. The argument is not the bug. It is the crank that makes the engine of connection turn. Fix the loop, and the behavior changes. Treat the symptom, and the fighting simply finds a new form.
 
@@ -130,8 +130,8 @@ The three questions work at any scale. A toxic meeting culture, a failing school
 
 ### The Map Before the Fix
 
-The map reveals why systems behave the way they do. The payoff matrix is misaligned. The players are behaving rationally. The equilibrium is stable. The outcomes are terrible.
+The map reveals something uncomfortable: the payoff matrix is misaligned, the players are behaving rationally, the equilibrium is stable, and the outcomes are terrible.
 
-The problem is not the players. The problem is the game.
+Nobody planned this. The game just ran.
 
 And games can be redesigned.

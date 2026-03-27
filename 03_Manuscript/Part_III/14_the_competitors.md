@@ -37,8 +37,6 @@ The Value Function isn't tied to the meat; it's tied to the **Population**. The 
 
 Because the "Competitors" aren't just in other people's stories. You are a competitor in every system you participate in. And the forces we just saw in this thought experiment play out in markets, careers, and industries every day.
 
-### The Pay-Per-Life Era
-
 The history of video games is a perfect laboratory for watching how competitors sculpt a value function.
 
 In the beginning, games lived in **Arcades**. This was the Track. The machines were in public places, bars, and malls. There were more players than machines.
@@ -51,9 +49,7 @@ The competitors (the developers) weren't trying to make you "happy" any less tha
 
 If you ever wondered why old games were so absurdly difficult, now you know. It wasn't sadism. It was the Value Function of the arcade.
 
-### The Home Comforts
-
-Then the Track changed. We have consoles and PCs in our homes.
+Then the Track changed. Consoles and PCs arrived in our homes.
 
 Suddenly, you didn't pay per life; you paid once for the box. Rotation no longer mattered. If you lost too much, you'd get frustrated and not buy the sequel.
 
@@ -62,8 +58,6 @@ The Value Function shifted toward **Engagement** and **Narrative**. Games got ea
 This transition was slow. Because it took years to develop, manufacture, and ship a physical cartridge, the "feedback" from the market was noisy and delayed. Designers slowly realized that easier, more accessible games reached larger audiences, but the shift took a decade, not a week.
 
 In this era, the "Competitors" were fighting for shelf space at retail stores. The "Meta" was about branding and box art.
-
-### The Marketing Arms Race
 
 Then came the Internet and the **Mobile Revolution**. And this is where the Pattern went into overdrive.
 
@@ -119,4 +113,6 @@ But in any system where competition is fierce, and feedback is fast (digital mar
 
 They will force the system toward the most extreme version of its Value Function. This isn't a conspiracy. It's the collective behavior of millions of actors, all trying to survive the same Pattern.
 
-We are both the players and the environment. We turn the wheel that grinds us. But you can't redesign a machine you haven't diagnosed.
+We are both the players and the environment. We turn the wheel that grinds us.
+
+You can't redesign a machine you haven't diagnosed.

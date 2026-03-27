@@ -42,7 +42,9 @@ This is the Pattern with a gatekeeper.
 
 **Extractive institutions** (dictatorships, monopolies, corrupt systems) concentrate decisions at the top. One brain (The Queen, The Dictator, The Party) decides what gets built, what gets funded, what gets allowed. The system is designed for stability, which means it suppresses variance. If a citizen has an idea that challenges the status quo, the system crushes it.
 
-"You cannot start that business; it hurts the King's monopoly." "You cannot write that book; it questions the Party."
+"You cannot start that business; it hurts the King's monopoly."
+
+"You cannot write that book; it questions the Party."
 
 Because variance is suppressed, the cost of experimentation becomes huge: death, prison, exile. So the population stops iterating. The nation tries to solve the world's problems with the processing power of a few leaders. One brain, deciding everything for everyone.
 

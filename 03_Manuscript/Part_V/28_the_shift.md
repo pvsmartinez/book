@@ -59,10 +59,7 @@ My competitors used every trick in the book. They used gambling-style notificati
 
 The system was filtering for "The most addictive version of the product." By refusing to be addictive, I was essentially "mutating" into a form that the environment was designed to kill.
 
-You see this everywhere:
-
-- **The Honest Candidate:** Refuses corporate donations. Their opponent takes the money, buys 10 times as many ads, and wins. The system filters for "The candidate most willing to trade influence for capital."
-- **The Ethical News Site:** Refuses to use clickbait. Their traffic drops. Their revenue dries up. They go out of business, while the "Rage-Bait" sites flourish. The system filters for "The source that triggers the most dopamine/anger."
+You see this everywhere. The honest candidate refuses corporate donations. Their opponent takes the money, buys ten times as many ads, and wins. The ethical news site refuses clickbait. Their traffic drops, their revenue dries up, and they go out of business while the rage-bait sites flourish. The system filters for whoever is most willing to play the game it was designed for.
 
 When you try to fight the current, you are swimming against the system's gravity. We claim to value honesty, ethics, and health, but we have built systems that effectively punish them.
 
@@ -88,37 +85,13 @@ We cannot wait for a "Good Player" to save us. We have to become the **Architect
 
 A System Designer doesn't look at the world as a collection of good and bad people. They look at it as a collection of patterns. When a Designer looks at a broken system, they don't get angry. They get curious. They open their toolkit and start asking four specific questions.
 
-#### 1. Check the Value Function (The Judge)
+**First, look at the Value Function.** Ignore what people *say* they are doing. Look at what they are *rewarded* for doing. A school claims to value learning, but only measures test scores. A company claims to value innovation, but promotes tenure and risk avoidance. The result, in both cases, is a culture that produces exactly what the Judge rewards, and nothing else.
 
-First, look at the incentives. Ignore what people *say* they are doing. Look at what they are *rewarded* for doing.
+**Second, look at the iteration speed.** Evolution happens when things try, fail, and are replaced. The faster the loop, the faster the optimization. Startups beat giant corporations not because they are smarter, but because they can spin the loop fifty-two times for every one turn of the giant. Online scammers evolve faster than regulators for the same reason: fraud can be tested and redeployed in hours. The regulation that would stop it takes months to enact. By the time it arrives, the scam has already mutated.
 
-- *Question:* What are the Sticks and Carrots? What behavior is actually being selected for?
-- *Example:* A school claims to value "Learning" (Stated Goal), but the system only rewards "High Test Scores" (Real Value Function). The result is students who memorize but don't understand.
-- *Example:* A company claims to value "Innovation," but the promotion system rewards "Tenure" and "Risk Avoidance." The result is a culture of safe bets disguised as bold initiatives.
+**Third, look at the boundaries.** No system exists in a vacuum. Map what flows in and what flows out. You cannot fix a crime problem without looking at the housing system that feeds desperate people into it. A hospital that rushes patients out to hit its hourly targets will keep seeing the same patients return. The outflow is feeding back into the inflow.
 
-#### 2. Check the Iterations (The Engine)
-
-Second, look at the cycle speed. Evolution happens when things try, fail, and die. The faster the loop, the faster the optimization.
-
-- *Question:* How fast is the loop spinning? Who is surviving?
-- *Example:* Why do startups often beat giant corporations? They iterate faster. A startup can change its entire strategy in a week. A corporation takes a year. The startup spins the loop 52 times for every 1 turn of the giant.
-- *Example:* Online scammers evolve faster than regulators because fraud can be tested, tweaked, and redeployed in hours. The regulation that would stop them takes months to enact. By the time it arrives, the scam has already mutated.
-
-#### 3. Check the Boundaries (The Map)
-
-Third, look at the inputs and outputs. No system exists in a vacuum. You need to map the flow.
-
-- *Question:* What is feeding this system? What is leaking out?
-- *Example:* You cannot fix the "Crime System" without looking at the "Housing System" that feeds into it. If the Housing System outputs desperate people, the Crime System will always have inputs.
-- *Example:* A hospital that tracks "patients treated per hour" looks efficient. But if discharged patients keep coming back because they were rushed out, the real boundary is being breached. The "Outflow" is feeding back into the "Inflow."
-
-#### 4. Check the Compounding (The History)
-
-Finally, look for what is invisible because of time. Most of the "evil" we see today is not a sudden conspiracy; it is the result of a small error that has compounded for decades.
-
-- *Question:* Where did this system come from? What advantage has been accumulating over time?
-- *Example:* Is the monopoly powerful because it is evil, or because it had a 1% efficiency advantage that compounded for 50 years?
-- *Example:* Why is one neighborhood wealthy and the adjacent one struggling? Often, a zoning decision made in the 1960s gave one area better schools, which attracted wealthier families, who in turn funded even better schools. Sixty years later, the gap looks like "culture." It's compounding.
+**Fourth, look at the compounding.** Most of the problems that seem intractable today are not conspiracies. They are small errors that have been running for decades. Is the monopoly powerful because it is evil, or because it had a 1% efficiency advantage that compounded for fifty years? Why is one neighborhood wealthy and the one next to it struggling? Often, a zoning decision made in the 1960s gave one area better schools. Better schools attracted wealthier families. Wealthier families funded even better schools. Sixty years later, the gap looks like culture. It is compounding.
 
 ### The New Map
 

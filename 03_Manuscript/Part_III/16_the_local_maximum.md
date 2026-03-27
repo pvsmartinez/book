@@ -1,12 +1,10 @@
 ## Chapter 16: The Local Maximum
 
-You now have all three pieces of the Value Function. The Rules, the Track, the Competitors. Put them together, and a pattern comes into focus: systems do not optimize for the best outcome.
+Systems do not optimize for the best outcome.
 
 They optimize for the most stable one. And those two things are rarely the same.
 
 ---
-
-### The Math of the Situation
 
 Take the Hawks and Doves scenario. A population of animals competing for food. Two possible strategies: fight for every resource (Hawk), or display and retreat if challenged (Dove).
 
@@ -38,7 +36,7 @@ The population does not stabilize at 58% Hawks. It collapses to 100%.
 
 The animals did not decide to become violent. The Track changed. One number shifted. And the system followed the math.
 
-### The Trap
+---
 
 Imagine two suspects are arrested and separated. Each faces the same choice:
 

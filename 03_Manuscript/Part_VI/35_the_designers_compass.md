@@ -44,7 +44,7 @@ But often, friction is the only thing protecting the system from a collapse.
 
 Recall **Chesterton’s Fence**. You see a fence blocking a road, and your instinct is to tear it down to make the path "more efficient." But unless you know *why* the fence was put there (perhaps to stop a bull from charging the highway), you must not touch it.
 
-We removed the friction of editing in news to make it faster, and we ended up with an ecosystem that optimizes for rage. We removed the friction of boredom, and we destroyed our attention spans. Sometimes, a slow process is what keeps the whole thing from falling apart. Democracy is designed to be slow. Science is designed to be slow. Meaningful relationships are built on the friction of time. Before you optimize, ask what the inefficiency is protecting.
+We removed the friction of editing in news to make it faster. The result was an ecosystem that optimizes for rage. We removed the friction of boredom. The result was shattered attention spans. Sometimes, a slow process is what keeps the whole thing from falling apart. Democracy is designed to be slow. Science is designed to be slow. Meaningful relationships are built on the friction of time. Before you optimize, ask what the inefficiency is protecting.
 
 Speed is power when the direction is right. Friction is safety when the direction is uncertain. The Designer's job is knowing which one they're facing.
 
@@ -56,7 +56,7 @@ But the mean is where unique value goes to die.
 
 **Survival requires fitting in. Success requires standing out.**
 
-The system is designed to prune variance. It wants you to be a predictable component: a reliable worker, a consistent consumer, a categorized voter. If you do exactly what the algorithm expects, you will be safe, but you will be replaceable.
+The system is designed to prune variance. It wants you to be a predictable component: a reliable worker, a consistent consumer, a categorized voter. If you do exactly what the algorithm expects, you will be safe. You will also be replaceable.
 
 The "Head Start" always comes from the anomaly. The Designer does not just plant rows of identical, efficient crops; they leave space for the wild seeds in the corner. Most will fail, but the one that survives will define the future.
 

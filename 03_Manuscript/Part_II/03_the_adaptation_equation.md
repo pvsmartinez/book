@@ -97,3 +97,5 @@ This is the bridge between the universe's random noise and the world's complex o
 The result is **Adaptation**.
 
 $$Adaptation Rate = \\frac{Filter(Iteration \\times Variance)}{Time}$$
+
+That's the engine. And everything resolves around that.

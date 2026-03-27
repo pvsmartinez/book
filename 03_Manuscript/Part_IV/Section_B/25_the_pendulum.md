@@ -18,13 +18,11 @@ Not because the new clothes are objectively better. Because the environment beca
 
 I remember looking at my closet in 2023 and realizing every pair of jeans I owned was suddenly the wrong shape. Nothing about the denim had changed. The Competitors had.
 
-Jeans fit, high heels sizes, colorful/muted clothes, formal/informal. They all oscillate.
+Jeans, heel heights, color palettes, formality. They all oscillate.
 
 The Rules didn't change. But the environment and the Competitors did. As one strategy saturates the field, its opposite becomes uniquely valuable. Then that strategy saturates, and the cycle starts over.
 
 ### The Credit Pendulum
-
-We see this pattern in many different places.
 
 Take the economy.
 
@@ -38,7 +36,7 @@ This is the contraction. The economy shrinks not because people became lazy or a
 
 Ray Dalio calls this the **short-term debt cycle**: roughly 5 to 8 years, peak-to-peak. Growth, overshoot, contraction, recovery, growth again.
 
-What makes this pendulum different from fashion is the source of the swing. In fashion, *other players* saturate the environment and flip the reward. In credit, the system accumulates its own weight. The Rules don't change from cycle to cycle. The Competitors barely shift, same banks, same businesses, same families. What changes is the **state of the system itself**: how much debt has accumulated, how much confidence remains, how much slack is left. The system's own history drives the pendulum.
+What makes this pendulum different from fashion is the source of the swing. In fashion, other players saturate the environment and flip the reward. In credit, the system accumulates its own weight. The Rules don't change from cycle to cycle. The Competitors barely shift: same banks, same businesses, same families. What changes is the state of the system itself. How much debt has accumulated? How much confidence remains? How much slack is left? The system's own history drives the pendulum.
 
 I've watched this from Brazil, where the Selic rate swings between 2% and 14% as the central bank chases the same ghost, cycle after cycle. The names on the news change. The mechanism doesn't.
 

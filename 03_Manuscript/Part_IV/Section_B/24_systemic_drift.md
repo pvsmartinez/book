@@ -58,13 +58,9 @@ The pattern is selected accordingly. Founders who were world-class at fundraisin
 
 The loop closed on itself. Early investors didn't need the company to ever make money. They just needed a later investor to buy their shares at a higher price. The entire chain could sustain itself as long as the narrative held and new capital continued to flow.
 
-The system traveled from:
+The system traveled from "build something people want" to "get as many users as possible" to "raise the next round at a higher valuation."
 
-1. "Build something people want."
-2. "Get as many users as possible."
-3. "Raise the next round at a higher valuation."
-
-Each step made sense from inside the system. Each step was a rational response to the selection pressures of its moment. But zoom out across five decades, and the original intention drifted far from what the system now optimizes for.
+Each step made sense from inside the system. Each step was a rational response to the selection pressures of its moment. Nobody voted for the drift. Everyone participated in it.
 
 Does venture capital still fund breakthroughs? Absolutely. Some of the most important technologies of the last decade emerged from venture-backed companies. But the system also produces billion-dollar valuations attached to little more than a narrative and a pitch deck. It still generates innovation, but perhaps not sustainable innovation, because the feedback loop no longer requires profit. The drift doesn't make the system better or worse in an absolute sense. It makes it *different*. Pointed somewhere new. And that's the nature of systemic drift: not a failure, but a quiet migration that nobody voted for and everyone participated in.
 
@@ -118,7 +114,7 @@ The venture capitalists built their careers around the valuation game. The Venet
 
 Each player is rational; it's optimizing to win their own game. And the Value Function is rewarding them. The original intention is a ghost that no one remembers, and even if they did, returning to it would entail dismantling the structures on which everyone now depends.
 
-Every system can drift.
+Every system can drift. And the further it drifts, the harder it becomes to remember the original direction.
 
 It happens with companies. Spotify was born to empower musicians, but it commoditized it. Vaping was meant to help people stop smoking, but it became a new type of vice on its own. OpenAI started as a nonprofit organization of scientists, but it's now a for-profit company and the US military's main partner.
 
@@ -129,3 +125,5 @@ In nations. The Soviet Union began as a people's revolution but quickly became a
 It happens in our very own goals and lives.
 
 Because by the time a system arrives at its new destination, everyone inside will swear that's where it was always headed.
+
+The drift isn't a scandal. It's the Pattern doing exactly what it does. Optimizing. Adapting. Moving toward whatever the current rules reward. The problem isn't that it drifts. The problem is that nobody was watching the compass.

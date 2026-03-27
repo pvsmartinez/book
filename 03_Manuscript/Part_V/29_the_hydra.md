@@ -34,7 +34,7 @@ But the next day, the corner is empty. The demand for drugs hasn't changed. The 
 
 We have removed the **Player**, but we haven't touched the **Game**.
 
-But there’s a second trap. If we go to the other extreme and say, "Police action doesn't work, so let's stop doing it," we face a different kind of disaster.
+But there's a second trap. If we go to the other extreme and say, "Police action doesn't work, so let's stop doing it," we face a different kind of disaster.
 
 If you leave the dealer alone, he doesn't just stay a dealer. He accumulates wealth. He accumulates power. He starts to **Compound**.
 
@@ -72,11 +72,9 @@ But you also need the **Antibiotics**. You have to change the Value Function. Yo
 
 Most of the time, we fail because we choose only one side.
 
-We try to address homelessness by building shelters (Symptom), but we don't consider the zoning laws and economic filters that make housing unaffordable (System).
+We try to address homelessness by building shelters, but we don't touch the zoning laws and economic filters that make housing unaffordable in the first place. We try to address fake news by banning accounts, but we don't touch the algorithmic Value Function that rewards outrage over truth. The heads keep growing back. The machine below keeps running.
 
-We try to address "Fake News" by banning accounts (Symptom), but we don’t consider the algorithmic Value Function that rewards outrage over truth (System).
-
-We are constantly trying to "Kill the Hydra" by chopping off its heads. But the Hydra is a creature of the Pattern. For every head you chop off, two more grow back, fueled by the same engine, guided by the same judge, and accelerated by the same time.
+We are constantly trying to kill the Hydra by chopping off its heads. But the Hydra is a creature of the Pattern. For every head you chop off, two more grow back, fueled by the same engine, guided by the same judge, and accelerated by the same time.
 
 If you want to kill the Hydra, you don't just need a bigger sword. You need to map the hidden machine that is pumping life into those heads.
 

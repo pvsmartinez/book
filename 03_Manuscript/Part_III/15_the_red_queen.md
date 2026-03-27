@@ -18,13 +18,13 @@ The result is that the next generation of cheetahs is faster because they are th
 
 There is a hidden cost here.
 
-When the first cheetah started optimizing for speed, it was just one of many possible strategies. It could have evolved to be stealthy like a leopard, or strong like a lion, or cooperative like a wolf. But once the "Speed" path was chosen, the door to those other strategies began to close.
+When the first cheetah started optimizing for speed, it was just one of many possible strategies. It could have evolved to be stealthy like a leopard, strong like a lion, or cooperative like a wolf. But once the "Speed" path was chosen, the door to those other strategies began to close.
 
 As the cheetah became faster, its body changed. It lost muscle mass to become lighter. Its claws became non-retractable for traction. It became a specialized machine. Now, millions of years later, even if "Stealth" were a better strategy, the cheetah cannot switch to it. It is locked in. It has climbed a specific hill (Speed) and cannot descend to climb another.
 
 This is where the trap closes. The "fast" cheetah from the previous generation (the one that was a top-tier predator yesterday) is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s **absolute** speed increased, but its **relative** advantage vanished.
 
-Both populations are now running at 60 miles per hour, burning massive amounts of energy, their hearts pounding, their muscles screaming. But neither is "safer" nor "more successful" than their ancestors were. They are both running as fast as they can to maintain the status quo.
+Both populations are now running at 60 miles per hour. Hearts pounding, muscles screaming, burning everything they have. And neither is safer nor more successful than their ancestors were. They are running as fast as they can just to stay in the same place.
 
 There's a line from the Italian novel *The Leopard*: **"If we want things to stay as they are, things will have to change."**
 
@@ -96,6 +96,6 @@ In an arms race, the environment isn't a wall. The environment is *you*. And for
 
 Iteration is no longer a solo performance. It is a duet. Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve for *you*.
 
-The tragedy of the arms race is that it often produces no net benefit. The cheetah and gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. The graduates study twice as long for the same jobs.
+The cheetah and the gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. Graduates study twice as long for the same jobs.
 
 Everyone is optimizing. No one is winning.

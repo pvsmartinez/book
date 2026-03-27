@@ -1,10 +1,10 @@
 ## Chapter 23: The Path to Stability
 
-If everything optimizes, will we always reach extremes?
+The Pattern is relentless. But relentless doesn't mean it goes forever.
 
-Not necessarily.
+Sometimes it stops. Not because the pressure disappears, but because there's nowhere higher to go.
 
-Think of the Value Function as a **landscape**. Every possible configuration of a system (every body plan, every business model, every keyboard layout) is a point on a vast terrain. The Value Function assigns an altitude to each point: peaks represent configurations that work. Valleys represent configurations that don't.
+Think of the Value Function as a landscape. Every possible configuration of a system, every body plan, every business model, every keyboard layout, is a point on a vast terrain. The Value Function assigns an altitude to each point: peaks represent configurations that work. Valleys represent configurations that don't.
 
 The Pattern is a **blind climber** on this landscape. It can't see the whole terrain. It can only feel the slope under its feet. And it always walks uphill.
 
@@ -28,7 +28,7 @@ And it worked. QWERTY became the standard. Every typist in the English-speaking 
 
 Then the typewriter disappeared.
 
-Computers have no typebars. No metal arms. No risk of jamming. The entire reason QWERTY exists vanished overnight. And better layouts were waiting. Dvorak, designed in the 1930s, places the most common letters on the home row where your fingers already rest. Tests show it's faster to learn and gentler on your hands.
+Computers have no typebars. No metal arms. No risk of jamming. The entire reason QWERTY exists vanished overnight. And better layouts were waiting. Dvorak, designed in the 1930s, places the most common letters on the home row where your fingers already rest. It's faster to learn. It's gentler on your hands.
 
 So why hasn't the world switched?
 

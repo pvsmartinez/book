@@ -32,7 +32,7 @@ But the engine had a problem. The world is finite. There's only so much territor
 
 Then Germany industrialized.
 
-And here's where the Pattern gets interesting. Germany didn't have to invent the Industrial Revolution from scratch. The knowledge already existed. The machines, the methods, the organizational structures — all of it was already compounded by the nations that went first. Germany could skip decades of trial and error, copy what worked, and discard what didn't. The latecomer learns faster than the pioneer. That's how the Pattern works.
+And here's where the Pattern gets interesting. Germany didn't have to invent the Industrial Revolution from scratch. The knowledge already existed. The machines, the methods, the organizational structures: all of it was already compounded by the nations that went first. Germany could skip decades of trial and error, copy what worked, and discard what didn't. The latecomer learns faster than the pioneer. That's how the Pattern works.
 
 Within a generation, Germany went from a fragmented collection of states to an industrial power that matched — then surpassed — Britain in steel output. A new player had entered a zero-sum game with no room left on the board.
 
@@ -92,7 +92,9 @@ The revolution needed the war to finally tip the scales. The system was so calci
 
 ### Predicting the fall
 
-So the pressure builds, and then it snaps. Except sometimes it doesn't.
+So the pressure builds, and then it snaps.
+
+Except sometimes it doesn't.
 
 The Cold War is a good example. For decades, the United States and the Soviet Union escalated tensions, intervention after intervention. Proxy wars in Korea, Vietnam, Afghanistan. Nuclear arsenals were growing year after year. Each side was testing the other's boundaries, each test compounding the risk.
 
@@ -112,7 +114,7 @@ They are not predictable.
 
 Think of Stock market bubbles.
 
-The dot-com boom of the late 1990s: internet companies with no revenue, no profit, sometimes no product, valued at billions of dollars. Everyone could see the pressure building. Skeptics warned it was a bubble. Investors argued it was a new paradigm. The pressure compounded, and compounded, and in March 2000, it snapped. The NASDAQ lost nearly 80% of its value. Trillions of dollars evaporated.
+The dot-com boom of the late 1990s: internet companies with no revenue, no profit, sometimes no product, valued at billions of dollars. Everyone could see the pressure building. Skeptics warned it was a bubble. Investors argued it was a new paradigm. Then in March 2000, it snapped. The NASDAQ lost nearly 80% of its value. Trillions of dollars evaporated.
 
 Eight years later, the same shape appeared in housing. Banks had been issuing mortgages to borrowers who couldn't afford them, packaging those mortgages into financial instruments, and selling them as safe investments. The pressure built, and people who pointed it out were dismissed. Then in 2008, it snapped. The global financial system nearly collapsed.
 

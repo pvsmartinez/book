@@ -1,12 +1,14 @@
 ## Chapter 37: The Field Guide
 
-This is a quick-reference summary of every major concept in the book. Think of it as a reference you can return to at any point.
+You made it through. Here is the map you built along the way.
+
+Use this as a reference. Come back to it when a concept feels slippery, or when you want to see where a chapter fits in the larger argument. The order matters: each part builds on the one before it.
 
 ---
 
 ### Part I: The Hook
 
-**Core Thesis:** The world isn't broken. It is optimizing. The chaos, the extremism, the exhaustion we feel are not signs of a malfunction. They are the output of a machine doing exactly what it was built to do.
+**The argument:** The world isn't broken. It is optimizing. The chaos, the extremism, the exhaustion we feel are not signs of a malfunction. They are the output of a machine doing exactly what it was built to do.
 
 **Key Concepts:**
 
@@ -64,7 +66,7 @@ The Engine generates options. The Judge decides which ones survive. The "Judge" 
 
 ### Part IV: The Compounder
 
-**Core Mechanic:** The Pattern is recursive. Each cycle's output becomes the next cycle's input. This recursion doesn't just add up — it compounds. Over time, recursion carves distinct shapes:
+**The mechanic:** The Pattern is recursive. Each cycle's output becomes the next cycle's input. This recursion doesn't just add up: it compounds. Over time, recursion carves distinct shapes:
 
 **The Shapes of Recursion:**
 
@@ -82,7 +84,7 @@ The Engine generates options. The Judge decides which ones survive. The "Judge" 
 
 ### Part V: The Gardener
 
-**Core Shift:** Stop being a Player. Start being a Designer. You can't stop the Pattern, but you can change what it optimizes for.
+**The shift:** Stop being a Player. Start being a Designer. You can't stop the Pattern. But you can change what it optimizes for.
 
 **Key Concepts:**
 
@@ -96,7 +98,7 @@ The Engine generates options. The Judge decides which ones survive. The "Judge" 
 
 ### Part VI: The Compass
 
-**Core Message:** The Pattern is inevitable. What we optimize for is a choice.
+**The message:** The Pattern is inevitable. What we optimize for is a choice.
 
 **Key Concepts:**
 

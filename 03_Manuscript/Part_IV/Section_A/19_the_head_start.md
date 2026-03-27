@@ -2,11 +2,11 @@
 
 "May the best one win."
 
-The sentence sounds fair. It *feels* fair. There are contexts in which it works. Sports, exams, competitions. Something is appealing about the idea that whoever tries the hardest wins.
-
-But in a system that remembers, in a system where each round builds on the last, "may the best one win" quietly assumes something that is rarely true: that everyone started from the same place.
+The sentence sounds fair. It *feels* fair. But it hides an assumption so obvious we rarely notice it: that everyone started from the same place.
 
 They didn't. They never do.
+
+In a system that remembers, in a system where each round builds on the last, the starting position isn't a footnote. It's half the result.
 
 ### The Relative Age Effect
 
@@ -38,21 +38,19 @@ Imagine two people, Ana and Bruno. Both are equally talented. Both are equally h
 
 In Brazil, we have a benchmark interest rate called the **Selic** (if you're not Brazilian, think of it as the base rate at which savings grow). As I write this, it sits around 10–15% per year. This is the "speed" at which money compounds in this environment, as set by the central bank's Value Function.
 
-After ten years, the gap is visible. Bruno has saved $120,000, which has grown to about $240,000 with interest. But Ana, because she had that $100,000 working for her from day one, is sitting on nearly $650,000.
+After ten years, the gap is visible. Bruno has saved $120,000, which has grown to about $240,000 with interest. Ana, because she had that $100,000 working from day one, is sitting on nearly $650,000.
 
-A $400,000 gap hurts, but you can still look at it and think: "Maybe I can catch up if I work harder."
+A $400,000 gap hurts. But you can still tell yourself: maybe I can catch up if I work harder.
 
-Now look at the next generation.
+Now look at fifty years.
 
-If that same 15% rate continues to compound over 50 years, the difference is no longer a gap; it is a canyon. Bruno's disciplined savings have grown to a respectable $86 million. But Ana's "seed," because it had those extra decades to compound, has grown into nearly $195 million.
+Bruno's disciplined savings have grown to a respectable $86 million. Ana is sitting on nearly $195 million. The canyon isn't the salaries. It isn't the effort. Ana's initial $100,000 seed alone grew to $108 million. Her inheritance did more work than Bruno's entire lifetime of labor combined.
 
-Here is the math of the gap: Ana's initial $100,000 "seed" alone grew to $108 million. That means her inheritance did more "work" (generated more wealth) than Bruno's entire lifetime of labor and discipline combined.
+Ana is more than twice as wealthy as Bruno. She didn't work twice as hard. She was just in front at the start.
 
-Ana is more than twice as wealthy as Bruno. She didn't work twice as hard. She was just **in front** at the start. The Value Function rewarded her starting position more than it rewarded their collective lifetime of effort.
+The Selic rate isn't a law of physics. It's a decision made by people in a room. But once that decision enters a recursive system, the math takes over. It doesn't care whether the people involved are good or bad. It doesn't care about intent.
 
-The Selic rate isn't a law of physics. It is a decision made by people in a room. But once that decision enters a recursive system, the math takes over. It creates structural outcomes regardless of whether the people involved are "good" or "bad."
-
-The machine doesn't care about your intent. It only cares about your momentum.
+It only cares about momentum.
 
 ### Acknowledging the Imbalance
 

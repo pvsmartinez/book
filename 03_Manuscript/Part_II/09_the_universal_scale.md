@@ -54,8 +54,6 @@ Same loop. Different clocks.
 
 This is why some things feel chaotic, and others feel stuck. Some loops are so fast you can barely watch them. Others are so slow that you live your entire life inside a single iteration. You might spend thirty years inside one corporate culture that was effectively decided before you arrived. You might live your whole life under a political system whose filter was set by people who died before you were born.
 
-It's not that the slow ones aren't working. They're just on a different clock.
-
 And the speed of the loop determines how fast things adapt. A market can correct a bad signal in days. A cultural norm can take a generation to form. This is why it's so easy to be patient with fast systems and so frustrated with slow ones. The frustration is real. But so is the loop.
 
 ### The Fractal

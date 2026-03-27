@@ -1,12 +1,12 @@
 ## Chapter 33: The Gardener
 
-Throughout this section, we have used the language of machines: engines, code, algorithms, loops. These are useful metaphors. They help us see the hidden logic of the world. But they are also dangerous.
+There is a limit to what the machine metaphor can do.
 
-A machine is predictable. If you turn a bolt on a car engine, it stays turned. If you replace a gear, the car runs exactly as it did before. You can "fix" a machine. You can "control" it.
+Engines, code, algorithms, loops: these are useful images. They help us see the hidden logic of the world. But a machine is predictable. If you turn a bolt, it stays turned. If you replace a gear, the car runs exactly as it did before. You can fix a machine. You can control it.
 
-But a society, a company, a family, or a human mind is not a machine. It is a living, breathing, evolving ecosystem.
+A society, a company, a family, or a human mind is none of those things. It is a living, breathing, evolving ecosystem.
 
-We started this section as game designers, building rules. We became doctors, diagnosing the patient. But if we want to live sustainably within these patterns, we must become gardeners.
+We started this section as game designers, building rules. We became doctors, diagnosing the patient. But if we want to live sustainably within these patterns, we have to become something else entirely: gardeners.
 
 ### Cultivation vs. Control
 

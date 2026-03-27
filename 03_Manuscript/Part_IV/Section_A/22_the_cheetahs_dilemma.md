@@ -28,8 +28,6 @@ Today, roughly 6,500 cheetahs survive in the wild. The Asiatic subspecies is dow
 
 The Pattern didn't do this *to* the Cheetah. The Cheetah *is* what the Pattern does.
 
-### The Quiet Accumulation
-
 The hyena didn't cause the problem. It just revealed it. The same thing happens when environments shift anywhere the Pattern has been optimizing long enough.
 
 Think about global supply chains. For decades, the optimization was ruthless and logical: Just-in-Time manufacturing. Cut the warehouse. Cut the inventory buffer. Cut the spare parts on the shelf. Every item arrives exactly when needed, no earlier. Each step reduced waste. Each step cut costs. Each step was celebrated.
@@ -41,8 +39,6 @@ Then COVID arrived.
 The system that had been optimized for smooth conditions encountered a disruption it had never been tested against. Factories across Asia closed. Shipping containers were piled up in the wrong ports. Hospitals couldn't get masks. Car manufacturers couldn't get microchips. The global supply chain, this marvel built over decades of fine-tuning, seized up.
 
 This isn't a story about one bad decision. It's the story of a thousand good ones, each making perfect sense in isolation, each shaving a thin layer of resilience that nobody noticed losing. The invisible bill came due all at once, the same way the Cheetah's thinning bones only matter when there's a fight.
-
-### The Optimization Paradox
 
 Sometimes the consequence doesn't wait for an external shock. It actively creates the problem the optimization was meant to solve.
 
@@ -57,3 +53,5 @@ I grew up in São Paulo. I've sat in that traffic. The average speed during rush
 Same mechanism. The Value Function (individual mobility) never measured what it removed: walkable neighborhoods, public transit, clean air, and community space. Each car sold, each highway built, each bus line cut was a perfectly logical selection. The Pattern did what it does. And the consequence compounded until the solution became the problem.
 
 The car didn't fail. The optimization succeeded. That's the paradox.
+
+The Pattern doesn't reverse. It doesn't apologize. It keeps climbing the hill it started on, even when the hill leads somewhere nobody wanted to go.

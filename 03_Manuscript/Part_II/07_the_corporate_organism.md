@@ -1,6 +1,6 @@
 ## Chapter 7: The Corporate Organism
 
-The same logic of the Pattern works for more than just ideas or individuals. It also applies to collectives of people. To corporations and products.
+Ideas spread through minds. But minds work inside organizations. And organizations have a life of their own.
 
 During economics class, we always start by learning about the supply-and-demand curve. We learn about the "Invisible Hand" of the market. We are told how they work, but nobody really explains *why* they work.
 

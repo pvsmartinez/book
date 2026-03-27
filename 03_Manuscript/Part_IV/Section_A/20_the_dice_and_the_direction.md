@@ -1,8 +1,8 @@
 ## Chapter 20: The Dice and the Direction
 
-What role does **Luck** play in the pattern?
+Some winners deserved it. Some were just early.
 
-Luck is one of those words that makes analytical people uncomfortable. It sounds like an excuse or a way of giving up on understanding. But inside the Pattern, luck has a very specific role.
+Luck is one of those words that makes analytical people uncomfortable. It sounds like an excuse or a way of giving up on understanding. But inside the Pattern, luck has a very specific role. And ignoring it doesn't make it go away.
 
 Go back to the equation:
 
@@ -16,13 +16,11 @@ Where does that variance come from?
 
 Sometimes it's intentional. An entrepreneur tests a new pricing strategy. A tennis player experiments with a different grip. A scientist designs an experiment to explore an idea.
 
-But often, especially in biology and complex systems, variance is **blind**. A random mutation flips a gene. A cosmic ray hits a strand of DNA. A baby is born in January instead of December. A founder happens to launch their app the same week a competitor implodes.
+But often, especially in biology and complex systems, variance is blind. A random mutation flips a gene. A cosmic ray hits a strand of DNA. A baby is born in January instead of December. A founder happens to launch their app the same week a competitor implodes.
 
-This blind variance is what we commonly call "luck."
+This blind variance is what we call luck.
 
-And the Pattern doesn't care whether the variance was planned or accidental. A mutation that helps you survive gets selected for, whether it was "intended" or not. The universe doesn't check your receipts.
-
-So luck isn't some force opposing the Pattern. Luck is feeding it. Every random event, every accident, every "right place, right time" moment is raw material entering the machine.
+The Pattern doesn't care whether the variance was planned or accidental. A mutation that helps you survive gets selected for, whether it was intended or not. The universe doesn't check your receipts. Luck isn't some force opposing the Pattern. Luck is feeding it.
 
 ### The Dice Roll
 
@@ -40,7 +38,7 @@ In 2018, physicists Pluchino, Biondo, and Rapisarda simulated this to test it. T
 
 The result was brutal: the most successful individuals were rarely the most talented. They were the ones with slightly above-average talent who happened to experience *extreme* luck. Talent spreads like a bell curve. Success spread like a power law.
 
-In competitive fields, everyone who enters is skilled. You don't get into the Olympics without being fast. You don't become a surgeon without being smart. The entry bar is high. The gap between "good" and "great" is small. But among the skilled, the winner is almost always the luckiest.
+In competitive fields, everyone who enters is skilled. You don't get into the Olympics without being fast. You don't become a surgeon without being smart. The entry bar is high. The gap between good and great is small. But among the skilled, the winner is almost always the luckiest.
 
 When I first saw these results, I felt two things at once: relieved, because every failure I'd ever had suddenly felt less like a verdict on my character, and a bit annoyed, because every success I'd ever taken credit for suddenly felt less earned.
 

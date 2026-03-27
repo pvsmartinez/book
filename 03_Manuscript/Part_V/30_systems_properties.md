@@ -98,9 +98,11 @@ Most of the interactions that matter happen between players who will meet again.
 
 In the 1980s, the political scientist Robert Axelrod ran a tournament. He invited game theorists to submit strategies for a repeated Prisoner's Dilemma. The strategies ranged from simple to elaborate. Some were aggressive. Some were forgiving. Some tried to predict the opponent's behavior.
 
-The winner was the simplest strategy submitted. Two rules. Cooperate on the first move. After that, do whatever the other player did last round.
+The winner was the simplest strategy submitted. Two rules: cooperate on the first move, then do whatever the other player did last round.
 
 Tit-for-Tat.
+
+I find this result quietly devastating. All that sophistication, all that game theory, and the answer was: be nice first, and then be honest.
 
 It cannot be exploited for long because it retaliates immediately. It is not vindictive because it forgives the moment the other player returns to cooperation. It signals from the very first move that cooperation is the default.
 
@@ -118,7 +120,7 @@ This is why anonymity erodes cooperation, and transparency enables it. Not becau
 
 A small town where everyone knows everyone tends to have lower rates of certain kinds of fraud than a city where transactions happen between strangers. Not because small-town people have better values. Because in a small town, the game is always repeated and always visible. The cost of defection includes your reputation, your relationships, and your ability to operate in that community for the next thirty years.
 
-You do not need better people. You need a structure where the game is long enough and visible enough for cooperation to become the rational choice.
+You do not need better people. You need a structure where the game is long enough and visible enough that cooperation becomes the rational choice. Most of what we call "moral decay" is just a shift in the game's shadow.
 
 ---
 
