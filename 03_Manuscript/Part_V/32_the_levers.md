@@ -1,4 +1,4 @@
-# Chapter 31: The Levers
+## Chapter 32: The Levers
 
 You have the map. You know what the system is actually selecting for. You know which equilibrium the game theory points toward. You know where the buffers are and which reinforcing loops are running.
 
@@ -16,7 +16,7 @@ This is the most intuitive tool. You want more of something, reward it. You want
 
 And it can work. Speed cameras reduce speeding. Sales commissions increase sales. Late fees reduce late returns. You attach a consequence to a behavior, and the behavior shifts. Incentives are the most direct way to move the payoff matrix without touching anything else in the system.
 
-The hard part is how you create your incentive matters a lot.
+The hard part is that how you create the incentive matters enormously.
 
 The developers of World of Warcraft learned this the hard way. Players were burning themselves out grinding for eighteen hours a day. The first instinct was a stick: play too long and your experience points get cut in half. Players hated it. They felt punished for engagement, and some stopped playing altogether. The behavior changed, but not in the direction anyone wanted.
 
@@ -28,7 +28,7 @@ Carbon Credits show both sides of this at once. The logic is sound: instead of o
 
 But under the Kyoto Protocol, one category of credit became extraordinarily valuable: destroying HFC-23, a byproduct of manufacturing a common refrigerant, earned carbon credits because HFC-23 warms the atmosphere roughly twelve thousand times more than CO2. Factories in China and India quickly did the math. They ramped up refrigerant production not to sell more refrigerant, but to generate more HFC-23 to destroy and collect the credits. The incentive was working exactly as designed. The behavior it selected for was the opposite of what anyone intended. The European Union banned these credits in 2011 after the scheme became too large to ignore.
 
-Also, as we add more and more incentives, they start competing with each other, delivering diminishing returns, complicating the system, and, without intent, creating new paths and behaviors by gamifying the incentives.
+Stack too many incentives and they start competing. Diminishing returns set in. The system grows more complicated. And players, being players, begin gaming the incentives themselves.
 
 ---
 

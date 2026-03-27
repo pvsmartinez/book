@@ -1,4 +1,4 @@
-## Chapter 18: The Head Start
+## Chapter 19: The Head Start
 
 "May the best one win."
 
@@ -12,9 +12,7 @@ They didn't. They never do.
 
 If you look at the rosters of elite Canadian hockey teams or top-tier soccer academies in Brazil, you'll find something bizarre. A large proportion of players (often 40% or more) are born in the first three months of the year.
 
-Why? Are Capricorns naturally better at sports?
-
-Of course not.
+Why? Are Capricorns naturally better at sports? Of course not.
 
 The reason is the **Cutoff Date**.
 
@@ -22,9 +20,7 @@ To keep things "fair," we group children by age. The cutoff is usually January 1
 
 At that age, a 12-month gap is massive. The January child is larger, faster, and more coordinated simply because they have lived 12% longer than the December child.
 
-The coach looks at the group and thinks, "Wow, that kid has talent." They pick the January kid for the A-Team.
-
-And then the compounding begins.
+The coach looks at the group and thinks, "Wow, that kid has talent." They pick the January kid for the A-Team. And then the compounding begins.
 
 The A-Team kid gets the best coaching. They play against better opponents. They get more practice time. Meanwhile, the December kid, who was slightly smaller that day, was cut or sent to the B team. They get discouraged. They play less.
 
@@ -42,7 +38,7 @@ Imagine two people, Ana and Bruno. Both are equally talented. Both are equally h
 
 In Brazil, we have a benchmark interest rate called the **Selic** (if you're not Brazilian, think of it as the base rate at which savings grow). As I write this, it sits around 10–15% per year. This is the "speed" at which money compounds in this environment, as set by the central bank's Value Function.
 
-After ten years, the gap is visible. Bruno has saved $120,000, which has grown to about $240,000 with interest. Not bad. But Ana, because she had that $100,000 working for her from day one, is sitting on nearly $650,000.
+After ten years, the gap is visible. Bruno has saved $120,000, which has grown to about $240,000 with interest. But Ana, because she had that $100,000 working for her from day one, is sitting on nearly $650,000.
 
 A $400,000 gap hurts, but you can still look at it and think: "Maybe I can catch up if I work harder."
 
@@ -84,7 +80,7 @@ Think about what the rule does. When one of the top companies grows, the ETF for
 
 The companies that were already large are now self-reinforcing, growing even larger. The small companies are self-reinforcing their shrinkage. Overvalued markets are getting more inflated. Undervalued markets are getting more undervalued.
 
-I'm not here to say whether this is a bubble or when it will pop. People smarter than me are debating that right now, and nobody's sure. But what I *can* say is that this is a textbook case of the head start. The initial conditions (which companies were on top when automatic investing became dominant) are compounded by the system's recursion. The starting position is doing more work than the fundamentals.
+Whether this is a bubble, and when it might pop, nobody's sure. But this is a textbook case of the head start. The initial conditions (which companies were on top when automatic investing became dominant) are compounded by the system's recursion. The starting position is doing more work than the fundamentals.
 
 Sound familiar? It's Ana's $100,000, but on the scale of the entire global market. Nobody designed a rule to compensate. Nobody switches sides.
 
@@ -98,6 +94,6 @@ The advantage feeds itself. Over time, it creates a world in which the winners k
 
 I catch myself wondering this sometimes: how much of my "success" is talent, and how much is just the compounding of an early advantage I didn't choose?
 
-Fiction loves this question. Time travel stories, alternate histories. One small change in the past that ripples forward, reshaping everything. We call it the butterfly effect. But it's not science fiction. It's just what happens when a small difference enters a recursive system. The advantage doesn't stay small. It propagates. It compounds. And by the time anyone notices the gap, it's immeasurable.
+We feel this intuitively, which is why fiction loves this question. Time travel stories, alternate histories. One small change in the past that ripples forward, reshaping everything. We call it the butterfly effect. But it's not science fiction. It's just what happens when a small difference enters a recursive system. The advantage doesn't stay small. It propagates. It compounds. And by the time anyone notices the gap, it's immeasurable.
 
 The pebble that started it all is long gone. What remains is the landscape it became.

@@ -1,4 +1,4 @@
-## Chapter 25: Tipping Points
+## Chapter 26: Tipping Points
 
 Earth's climate has always oscillated.
 
@@ -48,11 +48,11 @@ The archduke was just the last iteration.
 
 ### The Famine and the Front
 
-Let's see another, even more extreme, tipping-point process.
+The Russian Empire is an even more extreme case.
 
 Following the fall of Rome, the world got dangerous. Roads were no longer safe. Trade halted, and people started pledging vassalage. Feudalism was born.
 
-And, as we've seen small companies grow into oligarchies, small feuds grew into kingdoms and empires.
+Small feuds grew into kingdoms. Kingdoms grew into empires.
 
 Russia spent a thousand years compounding this logic.
 
@@ -82,7 +82,7 @@ It was a massacre.
 
 Defeat after defeat. Soldiers died at the front. Families starved at home. The economy collapsed under the war.
 
-At some point, the math flipped. The cost of enduring the system exceeded the cost of overthrowing it. In February 1917, the soviet revolution came to be. An entire new political order emerged, and a thousand years of compounding were gone.
+At some point, the math flipped. The cost of enduring the system exceeded the cost of overthrowing it. In February 1917, the revolution came. An entire new political order emerged, and a thousand years of compounding were gone.
 
 Karl Marx had published *The Communist Manifesto* 69 years earlier. But his ideas didn't change the UK or France. They were debated there. They were debated in Russia as well. For multiple generations.
 
@@ -92,9 +92,7 @@ The revolution needed the war to finally tip the scales. The system was so calci
 
 ### Predicting the fall
 
-So the pressure builds, and then it snaps. Easy right?
-
-Well, sometimes it doesn't.
+So the pressure builds, and then it snaps. Except sometimes it doesn't.
 
 The Cold War is a good example. For decades, the United States and the Soviet Union escalated tensions, intervention after intervention. Proxy wars in Korea, Vietnam, Afghanistan. Nuclear arsenals were growing year after year. Each side was testing the other's boundaries, each test compounding the risk.
 

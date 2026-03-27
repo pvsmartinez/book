@@ -1,6 +1,6 @@
-## Chapter 36: The Designer's Compass
+## Chapter 35: The Designer's Compass
 
-&lt;!-- FLAG-OPENER: Abstract philosophical opener. "Systemic nihilism" is a great idea, but it's stated as a thesis rather than demonstrated. Consider opening with a moment where you felt it yourself — the vertigo of seeing everything as loops — before naming it. --&gt; Once you start seeing the patterns (the Engine, the Judge, the Compounder), it is easy to fall into a kind of systemic nihilism.
+Once you start seeing the patterns, it is easy to fall into a kind of systemic nihilism.
 
 If everything is just a loop optimizing itself, does choice even exist? If the metric always wins, why bother having values? If the algorithm already knows what I’m going to buy, watch, and vote for, am I even the "Player" anymore?
 
@@ -8,7 +8,7 @@ This is the wrong conclusion. Understanding gravity doesn’t make you stop walk
 
 To navigate a world governed by these invisible mechanics, you don’t need a map. Maps assume the terrain is static, but our world is a living, shifting ocean of feedback. To survive, you need a compass.
 
-&lt;!-- FLAG: The four cardinal directions framework (North/East/South/West) is too clean and symmetric — it feels like AI organizing principles into a neat package. Each direction has the same structure: statement → school/company example → one-liner. Consider making this messier/more personal, or at least breaking the repetitive pattern between sections. --&gt; Here are the four cardinal directions for the System Designer. These are the heuristics that separate the architects from the pieces on the board.
+Four cardinal directions. Four heuristics that separate the architects from the pieces on the board.
 
 ### North: Behavior is the Only Truth
 
@@ -64,6 +64,4 @@ The "Head Start" always comes from the anomaly. The Designer does not just plant
 
 The compass doesn't tell you the destination. That part is still up to you. But it tells you where you are standing.
 
-You are not a victim of the patterns. You are a participant in them. You can adjust the Judge, speed up your Engine, and respect the Compounder. You can choose, in small but vital moments, to be the error in the code that writes a better program.
-
-You have seen the code. Now, there is only one question left.
+You are not a victim of the patterns. You are a participant in them. You can choose, in small but vital moments, to be the error in the code that writes a better program.

@@ -1,4 +1,4 @@
-## Chapter 17: The Compound Effect
+## Chapter 18: The Compound Effect
 
 The Competitors evolve. The Track shifts. Arms races escalate. The pattern forces the elements to change over time.
 
@@ -18,7 +18,7 @@ This is a loop. The system's output becomes its own input. The result of one cyc
 
 This is what we mean by **Recursion**: a process that feeds back into itself, remembering where it's been. Each cycle doesn't start from scratch. It starts from wherever the last cycle left it.
 
-You might not have heard the word "recursion" before, but you've lived inside it your entire life. It's the reason small things become big things. Let's make it concrete.
+You might not have heard the word "recursion" before, but you've lived inside it your entire life. It's the reason small things become big things.
 
 Remember the Salesman from Chapter 2? He ran a hundred cold calls a day. Each call was an iteration: he tried a pitch, got feedback, and adjusted. Over the weeks, he became sharper. But *he* wasn't the only one learning.
 
@@ -34,15 +34,13 @@ And because it builds on itself, the effects don't just add up. They **compound*
 
 ### The Wolf and the Pug
 
-If you look at a Pug, with its flat face and curly tail, it's hard to imagine it shares 99.9% of its DNA with a Gray Wolf. Nature didn't sit down and design the Pug from scratch. Humans became the new Value Function, and then the recursion did the rest.
+The Pug is the clearest example of that. If you look at a Pug, with its flat face and curly tail, it's hard to imagine it shares 99.9% of its DNA with a Gray Wolf. Nature didn't sit down and design the Pug from scratch. Humans became the new Value Function, and then the recursion did the rest.
 
 In the first generation, we selected the tamest wolves: the ones that were, say, 1% friendlier than the others. The difference was barely noticeable. But we didn't reset the game. We bred those winners together. The output of Generation 1 became the input for Generation 2.
 
 Then, from that slightly tamer pool, we selected the tamest again. Then again. Then for smaller sizes. Then for flatter faces.
 
-This is compounding. Each generation started from wherever the last one left off, so that tiny 1% edge didn't just add up. It *multiplied*. If you improve something by 1% per cycle and run it for 365 cycles, you don't end up with a 365% improvement. You end up **37 times** where you started.
-
-On paper, 1% looks like a rounding error. In a recursive system, it's a transformation.
+This is compounding. Each generation started from wherever the last one left off, so that tiny 1% edge didn't just add up. It *multiplied*. If you improve something by 1% per cycle and run it for 365 cycles, you don't end up with a 365% improvement. You end up **37 times** where you started. On paper, a rounding error. In a recursive system, a transformation.
 
 And here is the danger: the recursion is blind. We were pulling the "cuteness" lever, and the system delivered, generation after generation. But by optimizing so hard in one direction, we accidentally pulled on levers we couldn't see. Like the ability to breathe. Like the ability to survive without human help.
 
@@ -72,7 +70,7 @@ Tank beats Assassin. Assassin beats DPS. DPS beats Tank.
 
 Each strategy's dominance changes the **Competitors** (the composition of what you're up against), which shifts the Value Function, making a different strategy optimal. The Meta doesn't settle on one answer. It creates the conditions for its own counter.
 
-Not every Meta cycles like this. When the balance is off, the recursion doesn't cycle — it converges. Someone finds that one specific character is 1% more effective than the others. Other players copy it. Within a month, everyone is running the same strategy. The chaotic playground collapses into a "solved" system. If you want to win, you *have* to play the Meta. Anything else isn't just "different." It's "extinct." The compounding killed diversity, and the game flatlines.
+Not every Meta cycles like this. When the balance is off, the recursion doesn't cycle. It converges. Someone finds that one specific character is 1% more effective than the others. Other players copy it. Within a month, everyone is running the same strategy. The chaotic playground collapses into a "solved" system. If you want to win, you *have* to play the Meta. Anything else isn't just "different." It's "extinct." The compounding killed diversity, and the game flatlines.
 
 ### The Equation is Alive
 
@@ -90,4 +88,4 @@ This is the key insight: the recursion doesn't just change the players. It chang
 
 The river shows us the same thing. The water erodes the dirt, reshaping the Track, the physical terrain. But the force driving the water (gravity) never changes. Water always flows to the lowest gravitational energy. The recursion reshapes the landscape, but the compass is fixed.
 
-We understand the direction, but not how it behaves over time. That changes now.
+We know the compass. What we don't yet know is the terrain it creates.

@@ -1,4 +1,4 @@
-# Chapter 30: Mapping the Machine
+## Chapter 31: Mapping the Machine
 
 In the ancient parable, six blind men encounter an elephant for the first time.
 
@@ -64,7 +64,7 @@ Map all three. Be ruthless about the difference between the stated version and t
 
 Once you have mapped the real Value Function, you have a tool to stop guessing and start calculating: **Game Theory**.
 
-You already saw how this works in Chapter 16. Identify the strategies available to players. Assign real numbers to the payoffs, based on your Value Function map, not on intentions. Run the encounters. Find where the math stabilizes.
+The mechanics are the same as before. Identify the strategies available to players. Assign real numbers to the payoffs, based on your Value Function map, not on intentions. Run the encounters. Find where the math stabilizes.
 
 Take the stand-up meeting from Step One. Two strategies: **Perform** (optimize for visibility, speak longer, name the right projects) or **Report** (give accurate, minimal information and get back to work).
 
@@ -92,7 +92,7 @@ Think about your personal bank account. Between zero and, say, a thousand dollar
 
 The buffer is that middle range where pressure exists, but behavior has not yet changed. The edges of the buffer are the breakpoints.
 
-This is why Tipping Points (which we covered in Part IV) often feel so sudden. From the outside, nothing seemed to be happening. From the inside, the buffer was being drained, slowly, invisibly, until one day it hit zero, and behavior changed overnight.
+This is why tipping points often feel so sudden. From the outside, nothing seemed to be happening. From the inside, the buffer was being drained, slowly, invisibly, until one day it hit zero, and behavior changed overnight.
 
 Every system has buffers. Some are obvious: cash reserves, food supply, and physical health. Some are invisible: institutional trust, social cohesion, and emotional reserves in a relationship. The invisible ones are the most dangerous, because nobody tracks them until they are gone.
 
@@ -112,7 +112,7 @@ Below the lower threshold, the reverse kicks in. Debt accumulates interest. Cred
 
 Inside the buffer, in the middle zone, something different happens. Behavior adjusts to resist change. When money gets low, spending drops. When money gets comfortable, spending relaxes. The system pushes back toward equilibrium. This is a balancing loop: instead of amplifying the state, it counters it.
 
-These dynamics appear in every system you will map. Reinforcing loops amplify trends while damping loops stabilize them. Identifying in your system where each of these types of loops appears is key to understanding the shapes systems will take over time.
+These dynamics appear in every system you will map.
 
 ### The Diagnostic Questions
 
@@ -130,10 +130,8 @@ The three questions work at any scale. A toxic meeting culture, a failing school
 
 ### The Map Before the Fix
 
-The map reveals why systems are behaving the way they do. They are broken because the payoff matrix is misaligned. The players are behaving rationally. The equilibrium is stable. The outcomes are terrible.
+The map reveals why systems behave the way they do. The payoff matrix is misaligned. The players are behaving rationally. The equilibrium is stable. The outcomes are terrible.
 
-Now you are not reacting to events. You are reading the machine.
-
-That is good news. It means the problem is not the players. It means the problem is the game.
+The problem is not the players. The problem is the game.
 
 And games can be redesigned.

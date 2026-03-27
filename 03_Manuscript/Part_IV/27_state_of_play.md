@@ -1,4 +1,4 @@
-## Chapter 26: The State of Play
+## Chapter 27: The State of Play
 
 Stop.
 
@@ -104,7 +104,7 @@ Lifespans changed, too. When people lived to fifty, it made sense to specialize 
 
 And then came the labor market rewriting itself in real time. Entire categories of work are disappearing. New ones are emerging that didn't exist five years ago. The degree that was a reliable signal a generation ago is now a commodity. The system produced so many graduates, so reliably, that the credential itself stopped differentiating. It became the floor, not the ceiling.
 
-There are innovations happening inside. Teachers experimenting. Schools are trying new models. Technology is creating new pathways. But the core architecture resists. The institutions are too large, too interconnected, and too embedded in policy, funding, and parental expectations to pivot at the speed at which the world is moving.
+There are innovations happening inside. Teachers experimenting, schools trying new models, technology creating new pathways. But the core architecture resists. The institutions are too large, too interconnected, and too embedded in policy, funding, and parental expectations to pivot at the speed at which the world is moving.
 
 This isn't drift. The system is not sliding slowly toward something else. It stopped moving. It calcified on a local maximum that matched the world of the industrial era, and it has not found a way down the hill. Something will eventually break the lock: a new technology, a shift in what employers actually need, a generation that refuses the bargain. But from inside the plateau, it is genuinely unclear what that breakthrough looks like, or when it arrives.
 
@@ -166,7 +166,7 @@ Politics, economy, health, and education. Different directions. Different speeds
 
 And none of them are broken. Every single one is doing exactly what the Pattern predicts. The shapes we studied aren't abstract concepts. They are the architecture of the world you live in, running in parallel, all at once.
 
-This is what we've been building toward, chapter by chapter. A way of seeing why things move the way they move. Why do they evolve and adapt? The speed at which they change. The direction they tend to go. The forces that shape the players.
+This is what we've been building toward: a way of seeing why things move the way they move. The speed. The direction. The forces that shape the players.
 
 It was never about the players.
 
@@ -176,4 +176,6 @@ Chapter 1 asked: Does the world feel more extreme? We said yes. Now we know why.
 
 If we've reached this far, we have the diagnosis. We can see the shape. We can name the forces.
 
-The question now is what we do with it.
+We have the diagnosis. We can see the shape. We can name the forces.
+
+The question now is whether we can use them.

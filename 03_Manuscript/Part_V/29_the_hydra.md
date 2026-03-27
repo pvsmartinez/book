@@ -8,7 +8,7 @@ For most people outside of South America, a *favela* is just a "slum." But that 
 
 So, the people build it themselves. They build brick houses on land they don't own, with no sewage, no paved roads, and crucially, no state presence. In these vacuums, a new system emerges.
 
-If you look closely, you can see the exact moment where the "bug" enters the code.
+If you look closely, you can see the exact moment where it goes wrong.
 
 ### The Incentive (The Seed)
 
@@ -28,7 +28,7 @@ So, what happens when we try to "fix" this?
 
 The government sees the drug dealer and says, "This is a crime." They sent in the police. They have a shootout, they arrest the boy (or worse), and they declare victory.
 
-The "Right" side of the political spectrum cheers: "We are being tough on crime! We are cleaning up the streets!"
+The law-and-order side cheers: "We are being tough on crime! We are cleaning up the streets!"
 
 But the next day, the corner is empty. The demand for drugs hasn't changed. The money is still sitting there, waiting to be made. And the Value Function for the *next* 16-year-old boy hasn't changed. Within hours, a new dealer steps up.
 
@@ -78,12 +78,10 @@ We try to address "Fake News" by banning accounts (Symptom), but we don’t cons
 
 We are constantly trying to "Kill the Hydra" by chopping off its heads. But the Hydra is a creature of the Pattern. For every head you chop off, two more grow back, fueled by the same engine, guided by the same judge, and accelerated by the same time.
 
-If you want to kill the Hydra, you don't just need a bigger sword.
-
-You need to understand the biology of the beast. You need to map the hidden machine that is pumping life into those heads.
+If you want to kill the Hydra, you don't just need a bigger sword. You need to map the hidden machine that is pumping life into those heads.
 
 ---
 
 How do we actually see that machine? How do we find the "Code" in a world that is so messy and complex?
 
-Before we can design a "Speed Bump" or a "Patch," we need a way to look at the world and see the gears. We need to move from guessing to **Mapping**.
+Before we can design a speed bump, we need a way to look at the world and see the gears.

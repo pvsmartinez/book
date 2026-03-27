@@ -1,4 +1,4 @@
-# Chapter 29: Robust, Fragile, and Cooperative
+## Chapter 30: Robust, Fragile, and Cooperative
 
 You want to act on the system. Good.
 
@@ -26,7 +26,7 @@ That something is structure.
 
 The designers of the American Constitution understood this. They were not systems thinkers in the modern sense. But they understood one thing clearly: any system governed by humans will eventually be governed by humans who want to exploit it.
 
-Their solution was not to find better humans. It was to build a structure in which exploiting one part of the system created pressure on another part that pushed back. Congress against the executive. Courts are against both. States against the federal government. Each player optimizing for their own interest, held in check by the others.
+Their solution was not to find better humans. It was to build a structure in which exploiting one part of the system created pressure on another part that pushed back. Congress against the executive. Courts against both. States against the federal government. Each player optimizing for their own interest, held in check by the others.
 
 No single player can permanently dominate because the game's structure makes dominance self-defeating. The moment one branch accumulates too much power, the others have both the incentive and the mechanism to resist.
 
@@ -70,7 +70,7 @@ The robust system is not the one that never fails. It is the one where failure i
 
 When you look at a system, there are three properties worth designing toward.
 
-**Diversity of strategies.** When all players run the same strategy, any shock that defeats that strategy defeats everyone at once. The robust system has players running different approaches, so shocks hit them differently. Some survive. Some rebuild. This is why ecosystems with more species are more stable. Why do economies with many sectors absorb recessions better? Why do cultures that tolerate different ideas adapt faster than those that enforce consensus?
+**Diversity of strategies.** When all players run the same strategy, any shock that defeats that strategy defeats everyone at once. The robust system has players running different approaches, so shocks hit them differently. Some survive. Some rebuild. This is why ecosystems with more species are more stable, why economies with many sectors absorb recessions better, and why cultures that tolerate different ideas adapt faster than those that enforce consensus.
 
 **Local failure, global continuity.** In a fragile system, failures cascade. One bank fails, triggering runs on other banks. One species collapses, removing the food source for ten others. In a robust system, failures are contained by structure. Compartments. Firewalls. Legal separation. These feel like friction. They are. That friction is the cost of robustness.
 
@@ -138,8 +138,8 @@ That is not pessimism. That is thinking on the right time horizon.
 
 ---
 
-This is what you are striving for: a system that is robust enough to absorb shocks, and cooperative enough to sustain itself over time. Not because the players are virtuous. Because the structure makes both the rational choice.
+A system robust enough to absorb shocks, and cooperative enough to sustain itself over time. Not because the players are virtuous. Because the structure makes both the rational choice.
 
 Robustness and cooperation are not separate goals. They are two sides of the same design problem. A system that is diverse, compartmentalized, and honest about failure will absorb shocks. A system where the game is long and visible enough will generate cooperation. Together, they compound in your favor instead of against you.
 
-These are not just properties to admire in other systems. They are properties to build toward. And to build toward them, you need to know what you are actually looking at. That is where we go next.
+These are not just properties to admire in other systems. They are properties to build toward. And building toward them starts with knowing what you are actually looking at.

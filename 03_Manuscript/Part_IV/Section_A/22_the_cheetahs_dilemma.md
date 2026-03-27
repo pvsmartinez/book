@@ -1,4 +1,4 @@
-## Chapter 21: The Cheetah's Dilemma
+## Chapter 22: The Cheetah's Dilemma
 
 Zero to ninety-seven kilometers per hour in under three seconds.
 
@@ -10,9 +10,7 @@ The Value Function of the savanna is blunt: catch food, don't get eaten, reprodu
 
 So the Pattern shaved. A little bone density here. A little jaw strength there. A gram of muscle traded for a gram of flexibility. Each step was invisible. Each step made the cheetah faster. And each step removed something the species might need later.
 
-This is how the Pattern works. It doesn't look ahead. It doesn't ask, "What happens if the environment changes?" It checks three things: the rules, the competitors, and the current environment. What passes the filter gets amplified. What doesn't pass the filter gets discarded.
-
-But discarded doesn't mean gone without consequence. It means compounded in the background.
+This is how the Pattern works. It doesn't look ahead. It doesn't ask, "What happens if the environment changes?" It checks three things: the rules, the competitors, and the current environment. What passes the filter gets amplified. What doesn't pass the filter gets discarded in the background, compounding quietly.
 
 Every selection produces two outputs: what was kept and what was lost. The head start, the advantage that feeds itself, the threshold that snaps: that's the kept side compounding. But the lost side compounds too. And it's quieter.
 
@@ -22,13 +20,13 @@ And that is when the Hyenas show up.
 
 Hyenas aren't fast. They don't need to be. They are social, strong, and built for endurance. They wait for the Cheetah to do the hard work of catching the prey, and then they walk over and take it. The Cheetah, exhausted and fragile, can't fight back. It optimized so hard for the catch that it lost the ability to keep.
 
-Watch the scene play out, and you see the whole chapter in sixty seconds. Millions of years of optimization built the perfect sprinter. Millions of years of the same optimization stripped away every tool it would need to defend the result of that sprint. Speed went up. Defense went down. For a long time, that didn't matter. The Cheetah caught enough prey, fast enough, to make up the difference. The lost side was invisible.
+Watch the scene play out, and you see the whole mechanism in sixty seconds. Millions of years of optimization built the perfect sprinter. Millions of years of the same optimization stripped away every tool it would need to defend the result of that sprint. Speed went up. Defense went down. For a long time, that didn't matter. The Cheetah caught enough prey, fast enough, to make up the difference. The lost side was invisible.
 
 Until the Hyenas showed up often enough. Until the population shrank enough. Until the threshold was crossed.
 
 Today, roughly 6,500 cheetahs survive in the wild. The Asiatic subspecies is down to about a dozen individuals in Iran. The species' genetic diversity is so depleted (between 0.1 and 4 percent of what you'd expect in a healthy mammal) that a single disease can sweep through the entire population with almost no resistance. The optimization stripped more than muscle. It stripped the capacity to adapt.
 
-The Pattern didn't do this *to* the Cheetah. The Cheetah *is* what the Pattern does. Given enough time, the filter narrows. What it doesn't measure, it removes. And what it removes compounds in the background, invisible, until the day it isn't.
+The Pattern didn't do this *to* the Cheetah. The Cheetah *is* what the Pattern does.
 
 ### The Quiet Accumulation
 
@@ -42,9 +40,7 @@ Then COVID arrived.
 
 The system that had been optimized for smooth conditions encountered a disruption it had never been tested against. Factories across Asia closed. Shipping containers were piled up in the wrong ports. Hospitals couldn't get masks. Car manufacturers couldn't get microchips. The global supply chain, this marvel built over decades of fine-tuning, seized up.
 
-This isn't a story about one bad decision. It's the story of a thousand good ones, each making perfect sense in isolation, each shaving a thin layer of resilience that nobody noticed losing.
-
-Nobody designed a system meant to break. They designed one meant to be efficient. But the Pattern had been quietly stripping buffers, redundancy, and slack for so long that when the environment shifted, there was nothing left to absorb the shock. The invisible bill came due all at once, the same way the Cheetah's thinning bones only matter when there's a fight.
+This isn't a story about one bad decision. It's the story of a thousand good ones, each making perfect sense in isolation, each shaving a thin layer of resilience that nobody noticed losing. The invisible bill came due all at once, the same way the Cheetah's thinning bones only matter when there's a fight.
 
 ### The Optimization Paradox
 

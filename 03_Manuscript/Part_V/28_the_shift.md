@@ -12,13 +12,13 @@ They are people who have survived the same **Filter** that created the first pol
 
 Six months later, the "Next Guy" starts doing the same things as the "Old Guy."
 
-We are shocked. We are cynical. We blame politicians' "human nature". But we are missing the point. We didn't change the **Game**. We only changed the **Player**.
+We are shocked. We are cynical. We blame politicians' human nature. But we are missing the point. We didn't change the game. We only changed the player.
 
 If you put a "good" seed into poisoned soil, you shouldn't be surprised when the plant comes out twisted.
 
 ### The Great Misdirection
 
-The reason we fail to fix our systems, from our governments to our social media feeds, is that we spend all our energy fighting the **Player**, rather than looking at the **Filter**.
+The reason we fail to fix our systems, from governments to social media feeds, is that we spend all our energy fighting the player, rather than looking at the filter.
 
 As long as an environment rewards a specific behavior, that behavior will regenerate. It’s a law of evolution. If a market is profitable, someone will fill the void. If a political strategy wins votes, someone will use it. If an algorithm rewards outrage, someone will post it.
 
@@ -84,19 +84,9 @@ A system that requires everyone to be a saint to function is poorly designed. It
 
 We cannot wait for a "Good Player" to save us. We have to become the **Architects** of the game itself. We have to stop yelling at the cars and start designing the speed bumps.
 
----
-
-In the chapters that follow, we will learn how to do exactly that. We are going to look at how to map the "Hidden Machine" of our lives, how to identify the "Value Functions" that are driving us toward the cliff, and how to "Patch" the systems we inhabit.
-
-The goal is not to win the game. The goal is to **change what it takes to win.**
-
-We need the Hero to fight the battle (The Symptom). But we need the Designer to win the war (The System).
-
 ### The Designer's Framework
 
 A System Designer doesn't look at the world as a collection of good and bad people. They look at it as a collection of patterns. When a Designer looks at a broken system, they don't get angry. They get curious. They open their toolkit and start asking four specific questions.
-
-A note before we start: this book won't tell you which Value Function is the "right" one. That's a question for philosophy, for voters, for families sitting around the dinner table. But here's what the framework *can* do: once you and the person across the table agree on a shared goal (less violence, better health, more opportunity), the Pattern gives you a way to stop arguing about *who's to blame* and start asking *what's producing this outcome*. There is almost always a common ground. Left and right, liberal and conservative, parent and teacher, most people agree on the basics: less suffering, more opportunity, a better life for the next generation. The disagreement is rarely about the destination. It's about the route. And the route is exactly what a System Designer can map.
 
 #### 1. Check the Value Function (The Judge)
 
@@ -132,8 +122,6 @@ Finally, look for what is invisible because of time. Most of the "evil" we see t
 
 ### The New Map
 
-This is the Shift. It is the transition from moralizing to mapping.
-
-It is less satisfying than being a hero. You don't get to slay the monster and hear the applause. But it is the only way, actually, to kill the Hydra.
+This is the Shift. The transition from moralizing to mapping.
 
 You don't cut off the heads. You starve the beast.

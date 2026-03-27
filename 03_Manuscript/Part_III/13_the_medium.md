@@ -32,7 +32,7 @@ Today, this might seem obvious. But this knowledge was bought at the expense of 
 
 ### The Geometry of Truth
 
-This can be seen even with serious topics, such as The Truth and the news.
+The same logic applies to something more serious: the news.
 
 We often ask: "Why has the news become so angry? Why is it so polarized?" We assume the "Players" (Journalists) have lost their integrity. We blame their morals. But if we look at the Geometry of their Track, the answer is simpler. They are just trying to survive on a new map.
 
@@ -44,7 +44,7 @@ We often ask: "Why has the news become so angry? Why is it so polarized?" We ass
 
 This Track selects for **Trust**. If the paper lies to you on Tuesday, you cancel on Wednesday. Since they already have your money, they don't need to scream at you every 5 minutes. They can afford to be boring. They can afford to say "We don't know yet."
 
-Of course, they were not perfect. A newspaper would try to omit a different political view to avoid alienating its readers, just as a magazine or a channel does today.
+A newspaper would still omit inconvenient views to protect its readership. That hasn't changed.
 
 **2. Cable News (The Loop Track**)Then came Cable (CNN, Fox, MSNBC, GloboNews). The constraints flipped.
 
@@ -65,7 +65,7 @@ Truth is often boring. Truth is often "It's complicated." But "It's complicated"
 
 As we saw in Part II, news works as memetics. It spreads, it "survives" through the strongest emotions, and the medium has shaped it.
 
-This is not the whole story, of course. Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes which of the players survive. Changing the players without changing the track tends to produce the same results.
+Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes which players survive. Change the players without changing the track, and you get the same result.
 
 Sometimes the medium shifts because the technology changes. But sometimes the shift is quieter, hidden inside the software itself.
 
@@ -93,7 +93,7 @@ The creators didn't wake up one day and decide to become gamers. The **Track** w
 
 Do you see the pattern? Each time the algorithm changed, the dominant species changed with it. Not because creators chose to adapt, but because those who didn't were replaced by those who did.
 
-In a sense, today's news looks more like YouTube's early days (nonsense videos, misleading clickbait) than like the newspapers where journalism was born.
+Today's news looks more like YouTube's early days (nonsense videos, misleading clickbait) than like the newspapers where journalism was born.
 
 The social media algorithm is not evil. It is just counting clicks (or watch time). But because the **Track** requires immediate, high-speed engagement, the System selects for polarization. It selects for the content that infects the most hosts in the shortest time.
 
@@ -105,4 +105,4 @@ Just as "Let's Play" dominated the "Watch Time" era because it was efficient to 
 
 If you see a trend shaping up, whether it's polarization in news or "slop" in your feed, ask yourself how the **container** is shaping the liquid.
 
-The Pattern doesn't care about what you want to be. It only cares about what the track allows you to be.
+The Pattern doesn't care what you want to be. It only cares what the track will let you become.

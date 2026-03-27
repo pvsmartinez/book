@@ -1,4 +1,4 @@
-## Chapter 23: Systemic Drift
+## Chapter 24: Systemic Drift
 
 What if the very peak of the local maximum moves?
 
@@ -20,13 +20,13 @@ If a local maximum can halt change, system drift can move it to the wrong place.
 
 New ideas can generate enormous returns. A pharmaceutical breakthrough, a new kind of semiconductor, a way to connect millions of computers: these aren't incremental improvements. They're the kind of bets that, when they work, reshape entire industries. And as recent decades have shown, the returns on those bets can be staggering.
 
-But banks can't make those bets. The way banking works (taking deposits, lending conservatively, earning interest on the spread) doesn't allow funding something with a 90% chance of failure. A bank that invested its depositors' money in ten unproven startups would be irresponsible. Banks are designed for predictable returns on predictable ventures: a mortgage, a car loan, a bakery expanding to a second location.
+But banks can't make those bets. Their model runs on deposits, conservative lending, and predictable spreads. Funding something with a 90% chance of failure isn't a strategy for a bank — it's negligence. They're designed for predictable returns on predictable ventures: a mortgage, a car loan, a bakery expanding to a second location.
 
 So there was a gap. Enormous potential on one side. Capital that couldn't reach it on the other side.
 
 Venture capital filled that gap. The model was built on the mathematical reality known as the Power Law. A VC fund might invest in a hundred companies. They expect ninety to fail. Nine might return their money. But one (just one) could return a hundred times the initial investment. That single success compensates for every failure and generates profits for the entire fund.
 
-Think of it like planting a forest. You scatter a thousand seeds knowing that squirrels, drought, and shade will kill most of them. You only need one to grow into a giant oak.
+A thousand seeds scattered. Squirrels, drought, and shade will kill most of them. You only need one to grow into a giant oak.
 
 In the early days, this worked exactly as intended. In 1976, a 28-year-old venture capitalist named Robert Swanson cold-called a biochemist named Herbert Boyer. Boyer had recently co-invented a technique to splice DNA from one organism into another. Swanson thought this could become a business. They each contributed $500 and persuaded Kleiner Perkins, one of Silicon Valley's first venture firms, to back them. With that capital, they hired a small team, rented a laboratory, and began attempting to manufacture human proteins in engineered bacteria.
 
@@ -86,7 +86,7 @@ This was Venice's version of venture capital. And like venture capital, it was b
 
 The Commenda did something radical for its time: it separated talent from wealth. A poor kid from the dockyards could become one of the richest people in the city within a few years, purely on ability and nerve. Economists would later call this kind of arrangement an **inclusive institution**: a set of rules designed to keep the playing field open, reward risk-taking, and let new entrants compete on merit.
 
-In Venice, merchants could thrive regardless of birth. This naturally brought a lot of competition. And, as discussed in Chapter 8, inclusive institutions introduce variance into the Pattern, accelerating it and enabling it to adapt faster.
+In Venice, merchants could thrive regardless of birth. That openness brought competition, competition brought variance, and variance accelerated the Pattern.
 
 And so, Venice thrived.
 
@@ -104,7 +104,7 @@ They locked the **Golden Book**, the registry of families allowed to participate
 
 The institutions that had been inclusive became **extractive**: closed to outsiders, designed to protect insiders, structured to preserve inherited advantage. The rules no longer rewarded the best traders. They rewarded the best-connected families.
 
-Intense Competition created winners who became oligarchs who, in turn, closed the market. Reduced the very own variance that built the wealth of Venice.
+Competition created winners. Winners became oligarchs. Oligarchs closed the market and killed the very variance that had built their wealth.
 
 Venice didn't collapse because of a war, a plague, or a stronger rival. It drifted. From generation to generation, the rules shifted until the engine of global commerce became a beautiful, frozen artifact.
 
@@ -128,4 +128,4 @@ In nations. The Soviet Union began as a people's revolution but quickly became a
 
 It happens in our very own goals and lives.
 
-The question isn't how to prevent it. Drift is a feature of most systems, not a defect. The question is whether we have a way to notice it. Because by the time a system arrives at its new destination, everyone inside will swear that's where it was always headed.
+Because by the time a system arrives at its new destination, everyone inside will swear that's where it was always headed.

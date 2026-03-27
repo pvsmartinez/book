@@ -1,8 +1,8 @@
-# Chapter 16: The Local Maximum
+## Chapter 16: The Local Maximum
 
-You now have all three pieces of the Value Function. The Rules, the Track, the Competitors. Put them together, and something uncomfortable comes into focus.
+You now have all three pieces of the Value Function. The Rules, the Track, the Competitors. Put them together, and a pattern comes into focus: systems do not optimize for the best outcome.
 
-Systems do not optimize for the best outcome. They optimize for the most stable one. And those two things are rarely the same.
+They optimize for the most stable one. And those two things are rarely the same.
 
 ---
 
@@ -14,7 +14,7 @@ Let's give it numbers, estimations of what an outcome is worth. Food is worth **
 
 **Meets HawkMeets DovePlaying Hawk**Fight: win or lose. Average: **-25**Victory, no contest: **+50Playing Dove**Retreat, no injury: **0**Share: **+25**
 
-Read the table from each player's perspective. If you are a Hawk and you meet another Hawk, you fight. You win half the time (+50) and lose half the time (-100). The average outcome is **-25**. If you are a Hawk and you meet a Dove, you take the resource unopposed: **+50**. If you are a Dove and you meet a Hawk, you retreat before getting hurt: **0**. If you are a Dove and you meet another Dove, you share peacefully: **+25** each.
+If you are a Hawk and you meet another Hawk, you fight. You win half the time (+50) and lose half the time (-100). The average outcome is **-25**. If you are a Hawk and you meet a Dove, you take the resource unopposed: **+50**. If you are a Dove and you meet a Hawk, you retreat before getting hurt: **0**. If you are a Dove and you meet another Dove, you share peacefully: **+25** each.
 
 Now ask: Is there one strategy that is always better, regardless of what the other player does? If you could guarantee meeting only Doves, Hawk wins (+50 beats +25). If you could guarantee meeting only Hawks, Dove wins (0 beats -25). The best move depends entirely on what the other players are doing.
 
@@ -22,7 +22,7 @@ There is no single dominant strategy here. When the population is mostly Doves, 
 
 This balance is called a **Nash Equilibrium**: the point where no individual player has an incentive to switch strategies, given what everyone else is doing.
 
-You can actually calculate where that balance lands. Let *p* be the fraction of Hawks in the population. A Hawk's average score is: *p × (−25) + (1−p) × (+50)*. A Dove's average score is: *p × (0) + (1−p) × (+25)*. At equilibrium, both strategies must pay equally; one would take over. Set them equal and solve: −25p + 50(1−p) = 25(1−p). This gives *p = 5/8*, or about **58% Hawks, 42% Doves**. That is where the math stabilizes.
+You can actually calculate where that balance lands. Let *p* be the fraction of Hawks in the population. A Hawk's average score is: *p × (−25) + (1−p) × (+50)*. A Dove's average score is: *p × (0) + (1−p) × (+25)*. At equilibrium, both strategies must pay equally; one would take over. Set them equal and solve: −25p + 50(1−p) = 25(1−p). This gives *p = 5/8*, or about **58% Hawks, 42% Doves**.
 
 Now notice what that number is not. If everyone were a Dove, every interaction would score +25 for both players. The total points flowing through the system would be maximized. But that world cannot hold, because the moment Doves dominate, being a Hawk becomes the most profitable move available. The equilibrium the system finds is not the best outcome for the group. It is simply the point where no individual has a reason to defect.
 
@@ -61,8 +61,6 @@ This pattern appears wherever individual incentives and collective outcomes come
 Arms races, overfished oceans, price wars. Every country would prefer to spend on hospitals instead of weapons, every fishing boat would prefer a recovered population, and every company would prefer a world without a race to the bottom. The logic is always the same: the individually rational move makes collective sense impossible.
 
 The system does not care about intentions. It does not optimize for the global good. It selects for what is individually stable. The local maximum is not a bug. It is the destination the math was always pointing toward. The Value Function is working as designed.
-
-That is a sobering realization about the world. It is also a clarifying one.
 
 If the problem lies in the payoff matrix, then improving the outcome does not require changing human nature. It requires changing the numbers.
 

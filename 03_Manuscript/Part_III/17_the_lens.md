@@ -10,15 +10,15 @@ It is optimizing, with full effort and total commitment, for the wrong game.
 
 ---
 
-As we've seen in Part II, the Pattern is everywhere. In bacteria, in markets, in your career, in the arc of an industry. Always the same loop: iterate, get filtered, repeat. We know its power, its inevitability.
+The Pattern is everywhere. In bacteria, in markets, in your career, in the arc of an industry. Always the same loop: iterate, get filtered, repeat.
 
-During Part III, we understood the direction this pattern goes.
+In Part III, we understood the direction this pattern goes.
 
 $$Value Function = The Rules x The Track x The Competitors$$
 
 Some of those rules are invisible. Some tracks are tilted in directions nobody announced. Some competitions are arms races with no exit, where running faster only keeps you in place. And sometimes the metric being measured is not the one that was supposed to matter at all.
 
-A lot of times, we feel like the bird. It's because we are going against the Pattern. But now we have the right lens.
+Most of us feel like the bird at some point. Because we are. But now we have the right lens.
 
 A lens does not change the room. It changes what you can see inside it. And once you can see the game you are actually playing, the world looks fundamentally different. Not easier. Not suddenly solvable. But legible.
 
@@ -44,8 +44,6 @@ The mold is always running. The question is whether you can see it.
 
 A lens is a way of seeing that, once you have it, you cannot unsee. You start noticing the same structure in places that once looked completely unrelated.
 
-You start asking some essential questions that reveal what is really being filtered.
-
 **1. What is actually being rewarded here**
 
 Not what the system says it rewards. What it actually rewards. Every environment has a public-facing story about its values. Companies talk about innovation. Schools talk about curiosity. Social platforms talk about connection. But the Pattern does not respond to stated values. It responds to the actual reward mechanism.
@@ -62,7 +60,7 @@ Behavior flows like water. It follows the path of least resistance. The Track do
 
 If the tools you need for focused work are buried under three clicks and notifications from your messaging app pop up in your peripheral vision every four minutes, the Track is optimized for distraction. Not because anyone decided that. Because that is the geometry of the environment you built. The bird is not weak-willed. The window is just closer.
 
-This is true at every scale. Cities designed around cars make driving the default and walking the exception, not because residents actively chose that, but because the geometry made it inevitable. Offices with open floor plans make interruption the default and concentration the exception. Grocery stores place the most profitable items at eye level, not the most nutritious ones. These are not conspiracies. They are tracks. And behavior follows the track far more than it follows intention.
+This is true at every scale. Cities designed around cars make driving the default and walking the exception, not because residents actively chose that, but because the geometry made it inevitable. Offices with open floor plans make interruption the default and concentration the exception. Grocery stores place the most profitable items at eye level, not the most nutritious ones. These are not conspiracies. They are tracks. Behavior follows the geometry, not the intention.
 
 When you see the Track clearly, you stop misattributing friction to character. The question stops being "why don't I have more discipline?" and becomes "why is this environment designed to make the hard thing harder?"
 
@@ -90,6 +88,6 @@ Most of us are doing a version of this. We are running a program shaped by the V
 
 Unlike the bird, you can see the glass.
 
-That is not a small thing. The lens does not change the room. But it changes what you can do inside it. Once you can see what is actually being rewarded, where the floor is tilted, and who else is running, you are no longer just inside the game. You are reading it.
+The lens does not change the room. But it changes what you can do inside it. Once you can see what is actually being rewarded, where the floor is tilted, and who else is running, you are no longer just inside the game. You are reading it.
 
 And a game you can read is a game you can begin to steer.

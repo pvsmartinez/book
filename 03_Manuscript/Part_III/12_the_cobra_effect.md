@@ -8,7 +8,7 @@ But there's a trap. A trap so common, so devastating, that it has its own name.
 
 The British colonial government in Delhi once faced a serious problem: the city was crawling with cobras.
 
-The administrators in Delhi did what any "sensible" government would do. They designed a Value Function. They created an incentive structure to recruit the entire population into their safety mission.
+The administrators in Delhi did what any "sensible" government would do: they designed a Value Function to recruit the entire population into their safety mission.
 
 The rule was simple: "Bring us a dead cobra, and we will pay you a bounty."
 
@@ -16,9 +16,7 @@ In the minds of the administrators, the logic was foolproof. Goal: Fewer snakes.
 
 They sat back and waited for the "Invisible Hand" to do its magic. And for a while, it worked! The number of skins entering government offices was substantial. The clerks were busy, the payments were flowing, and the "data" showed a resounding success.
 
-But there was a bug in the source code.
-
-The people of Delhi were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle) and at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to breed cobras in their basements.
+The people of Delhi, however, were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle) and at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to breed cobras in their basements.
 
 Suddenly, Delhi had a thriving new industry: **Cobra Farming.**
 
@@ -32,7 +30,7 @@ They named it the **Cobra Effect**. It became the most famous example of a "Perv
 
 The government didn't "fail." In fact, the Value Function succeeded perfectly. It requested cobra skins and received them in record numbers. The system didn't care that the skins were coming from a farm instead of the street. It only cared about the count.
 
-This is what I call a **Successful Failure**.
+Call it a **Successful Failure**.
 
 ### Scaling the Failure
 
@@ -80,7 +78,7 @@ You know that the "Exam Factory" students have a much higher chance of getting i
 
 Most parents wouldn't. They chose the "Exam Factory."
 
-Nobody designed it on purpose. But there's a name for what happened: the **Exam Trap**. The result of millions of individual, rational choices made by parents who want the best for their children.
+There's a name for what happened: the **Exam Trap**. The result of millions of individual, rational choices made by parents who want the best for their children.
 
 ### The Metric is the Message
 
@@ -90,7 +88,7 @@ The problem isn't that testing is inherently evil. We need a way to measure prog
 
 If the test measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does.
 
-No one sat down and said, "Let's make sure our children don't know how to manage a bank account." It was an **emergent behavior**. Financial literacy wasn't on the test, so it wasn't "selected" for.
+Financial literacy wasn't on the test, so it wasn't "selected" for. It was an **emergent behavior**, not a conspiracy.
 
 Over time, the schools themselves are selected. Those that focus on the exam thrive and expand; those that focus on "Life Skills” see their enrollment decline and are forced to adapt or close. The pattern, through time, selects for *survival*, not for *education*.
 
@@ -110,4 +108,4 @@ The moment we decide that a number (the proxy) is the point of the game, the com
 
 The Proxy is a shortcut. And in a world of fast iteration, the shortcut becomes the destination.
 
-Every metric is a mirror. It reflects the system's behavior rather than the designer's intent. And the faster the system iterates, the faster the mirror cracks.
+The faster the system iterates, the faster the mirror cracks.

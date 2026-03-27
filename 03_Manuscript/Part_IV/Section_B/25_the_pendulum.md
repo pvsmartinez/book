@@ -1,8 +1,8 @@
-## Chapter 24: The Pendulum
+## Chapter 25: The Pendulum
 
 Fashion is all about self-expression. And when someone is self-expressing, they are doing two things at once.
 
-First, you want a sense of **belonging**. You dress to signal which group you're part of. You copy the people you want to be like. That's why trends spread so fast: once the early adopters of a subculture establish a look, everyone who wants to belong copies it. The memes spread quickly, reproduction of ideas in fashion is highly viral. The Pattern moves fast here.
+First, you want a sense of **belonging**. You dress to signal which group you're part of. You copy the people you want to be like. That's why trends spread so fast: once the early adopters of a subculture establish a look, everyone who wants to belong copies it. Ideas in fashion replicate fast. The Pattern moves fast here.
 
 But at the group level, fashion is about **differentiation**. Culture groups want to be unique. Each generation wants to look nothing like the one before. And this creates a pendulum.
 
@@ -20,7 +20,7 @@ I remember looking at my closet in 2023 and realizing every pair of jeans I owne
 
 Jeans fit, high heels sizes, colorful/muted clothes, formal/informal. They all oscillate.
 
-Thinking on the Value Function, rules didn't change. But the environment and competitors did. And the recursive nature of the pattern means that as one strategy saturates the field. Its opposite becomes uniquely valuable. Then that strategy saturates, and the cycle starts over.
+The Rules didn't change. But the environment and the Competitors did. As one strategy saturates the field, its opposite becomes uniquely valuable. Then that strategy saturates, and the cycle starts over.
 
 ### The Credit Pendulum
 
@@ -48,7 +48,7 @@ In both fashion and credit, a strategy succeeds; the success changes the conditi
 
 ### Hawks and Doves
 
-Remember Chapter 13. In a population of Hawks and Doves, there is a ratio where neither strategy has an advantage. Too many Hawks, and the fights get too costly. Hawks start losing to each other more than they beat Doves. The population tilts back. Too few Hawks, and Doves are easy targets. Hawks thrive, multiply, and the population tilts the other way.
+In a population of Hawks and Doves, there is a ratio where neither strategy has an advantage. Too many Hawks, and the fights get too costly. Hawks start losing to each other more than they beat Doves. The population tilts back. Too few Hawks, and Doves are easy targets. Hawks thrive, multiply, and the population tilts the other way.
 
 There is an ideal point. Call it the equilibrium ratio.
 
@@ -78,4 +78,4 @@ Think of a ball rolling inside a bowl. Gravity pulls it toward the bottom. Momen
 
 This is a **dynamic equilibrium**. The center is real. The swings are real. The oscillation is not a failure to reach the balance point. The oscillation *is* the balance.
 
-But bowls can break?
+But bowls can break. That's the next chapter.

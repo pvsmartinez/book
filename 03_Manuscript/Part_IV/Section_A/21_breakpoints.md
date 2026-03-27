@@ -1,8 +1,6 @@
-## Chapter 20: Breakpoints
+## Chapter 21: Breakpoints
 
-We often think things evolve in regular intervals.
-
-Compounding interest, exponential growth, steady climbs. Smooth curves make the world feel predictable.
+We often think things evolve in regular intervals. Compounding interest, exponential growth, steady climbs. Smooth curves make the world feel predictable.
 
 But the world doesn't always move in curves. Sometimes it moves in jumps. And sometimes it snaps.
 
@@ -20,7 +18,7 @@ But when you go back to the fight:
 - Hit 2: 13 damage (4 left)
 - Hit 3: 13 damage (Dead)
 
-It still takes you **three hits** to win. Your 30% power increase resulted in a **0% increase in results**. You're technically "better," but the outcome is identical.
+It still takes you **three hits** to win. Your 30% power increase resulted in a **0% increase in results**.
 
 Now you find one more tiny upgrade. Just a 3-point boost. You go from 13 to 16.
 
@@ -53,7 +51,7 @@ But this month, the number crossed the line.
 
 The difference between $2,990 and $3,010 isn't twenty dollars. It's the difference between "getting by" and "choosing which bill to skip." Between managing and drowning. Between the RPG character needing three hits and needing two.
 
-You watched the whole thing happen. You saw every price increase. And the breakpoint still caught you off guard. Because you were tracking the rate. The threshold was somewhere else entirely.
+You watched the whole thing happen. You saw every price increase. And the breakpoint still caught you off guard. Because you were tracking the rate. The threshold was somewhere else.
 
 ### The Plateau
 
@@ -87,8 +85,6 @@ At 100, the rules change. It becomes steam. Same molecule. Completely different 
 
 The system absorbs pressure, absorbs pressure, absorbs pressure, and gives you no signal that anything is about to change until it changes everything.
 
-Just like a rubber band, it snaps.
-
 ### Plateaus and Cliffs
 
 The Pattern does not move in a straight line. It moves in plateaus and cliffs.
@@ -101,4 +97,4 @@ Either way, the math is the same. The system absorbs, absorbs, absorbs. The 13 d
 
 We mistake the plateau for permanence. We mistake visible change for manageable change. Both are traps. The breakpoint doesn't care whether you noticed the accumulation. It fires when the number is ready.
 
-Now that you see the math, it starts showing up everywhere. In every system that runs long enough, the breakpoints are waiting. The question isn't whether the jump is coming. It's whether you'll be watching the threshold or just the rate.
+In every system that runs long enough, the breakpoints are waiting. The question isn't whether the jump is coming. It's whether you'll be watching the threshold or just the rate.

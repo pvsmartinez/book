@@ -8,8 +8,6 @@ How can an animal this optimized still lose most of the time? Because the gazell
 
 ### The Exhaustion of Winners
 
-Consider the cheetah and the gazelle.
-
 The ideal world would be for both species to agree to run at 20mph. They would save massive amounts of energy, suffer fewer injuries, and still catch the slow gazelles. But they are trapped.
 
 If a cheetah decides to "disarm" and run slowly to save energy, the fast gazelle runs away. The pacifist cheetah starves. The system aggressively excludes anyone who attempts to exit the race.
@@ -18,7 +16,7 @@ In a population of both, you have some that are slightly faster and some that ar
 
 The result is that the next generation of cheetahs is faster because they are the children of the winners. However, the next generation of gazelles is also faster for the same reason.
 
-But wait, there is a hidden cost here.
+There is a hidden cost here.
 
 When the first cheetah started optimizing for speed, it was just one of many possible strategies. It could have evolved to be stealthy like a leopard, or strong like a lion, or cooperative like a wolf. But once the "Speed" path was chosen, the door to those other strategies began to close.
 
@@ -28,7 +26,7 @@ This is where the trap closes. The "fast" cheetah from the previous generation (
 
 Both populations are now running at 60 miles per hour, burning massive amounts of energy, their hearts pounding, their muscles screaming. But neither is "safer" nor "more successful" than their ancestors were. They are both running as fast as they can to maintain the status quo.
 
-There's a line from the Italian novel *The Leopard* that captures this perfectly: **"If we want things to stay as they are, things will have to change."**
+There's a line from the Italian novel *The Leopard*: **"If we want things to stay as they are, things will have to change."**
 
 In an arms race, "staying the same" is not an option. If you stay the same, you fall behind, because everyone else is moving.
 
@@ -38,7 +36,7 @@ This phenomenon, where two sides iterate furiously to maintain the status quo, h
 
 It is named after the character in *Alice in Wonderland* who said, "Now, here, you see, it takes all the running you can do, to keep in the same place."
 
-We see this cat-and-mouse game everywhere: in pesticides and bugs, in tax codes and loopholes, in movie stars and gym memberships. The players change, the technology changes, but the arms race never ends.
+We see this cat-and-mouse game everywhere: in pesticides and bugs, in tax codes and loopholes, in credentials and job markets. The players change, the technology changes, but the arms race never ends.
 
 ### The Pesticide Treadmill
 
@@ -92,7 +90,7 @@ Students today aren't lazier than their grandparents. They're caught in a Red Qu
 
 ### The Escalation Trap
 
-This is the third outcome: **Escalation**.
+This is the **Escalation Trap**.
 
 In an arms race, the environment isn't a wall. The environment is *you*. And for you, the environment is *them*.
 

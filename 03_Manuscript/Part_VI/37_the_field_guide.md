@@ -1,6 +1,6 @@
-## The Field Guide
+## Chapter 37: The Field Guide
 
-This is a quick-reference summary of every major concept in the book. Think of it as the cheat sheet you can flip back to when you need a refresher.
+This is a quick-reference summary of every major concept in the book. Think of it as a reference you can return to at any point.
 
 ---
 
@@ -11,7 +11,7 @@ This is a quick-reference summary of every major concept in the book. Think of i
 **Key Concepts:**
 
 - **The Pattern:** Wherever there is action, feedback, and variation, optimization follows. This process already exists under many names (Natural Selection, Reinforcement Learning, The Invisible Hand, Memetics), but it is fundamentally the same engine.
-- **The Salesman Archetype:** No central authority designed the "ideal" salesperson. Millions of people tried, failed, and succeeded over centuries. The survivors wrote the books. The archetype is an archive of what the filter kept. This is the Pattern in action: optimization without a designer.
+- **The Salesman Bridge:** No central authority designed the "ideal" salesperson. Millions of people tried, failed, and succeeded over centuries. The survivors wrote the books. The archetype is an archive of what the filter kept. This is the Pattern in action: optimization without a designer.
 
 ---
 
@@ -64,19 +64,19 @@ The Engine generates options. The Judge decides which ones survive. The "Judge" 
 
 ### Part IV: The Compounder
 
-**Core Mechanic:** The Pattern is recursive. Each cycle's output becomes the next cycle's input. This recursion doesn't just add up — it **compounds**. Over time, recursion carves distinct shapes:
+**Core Mechanic:** The Pattern is recursive. Each cycle's output becomes the next cycle's input. This recursion doesn't just add up — it compounds. Over time, recursion carves distinct shapes:
 
 **The Shapes of Recursion:**
 
-- **The Compound Effect (Ch 18):** A 1% advantage doesn't add linearly. It multiplies. The Wolf becomes a Pug. The "Meta" kills diversity. Small forces, given enough time, produce transformations.
-- **The Head Start (Ch 19):** Initial conditions matter. A small buffer at the start (inheritance, birth month, first-mover advantage) compounds into a canyon. The advantage feeds itself, and the system starts measuring momentum rather than merit.
-- **The Dice and the Direction (Ch 20):** Luck is the engine's fuel (variance). In a single iteration, luck dominates. Over many iterations, the Value Function dominates. Talent is a bell curve; success is a power law. Early luck compounds harder than late luck.
-- **The Cheetah's Dilemma (Ch 22):** Optimization is a trade-off. Every gain in one direction is a loss in another. The Cheetah traded resilience for speed. Just-in-Time supply chains traded safety for efficiency. The solution can scale until it becomes the problem.
-- **The Path to Stability (Ch 23):** The Value Function creates a landscape. The Pattern is gravity on that landscape, pulling everything toward the nearest peak. The Local Maximum trap: you're on a hill, but the real mountain is across a valley you can't afford to cross. QWERTY, English spelling, the Cheetah's speed — all locked in by path dependence. Most systems end up on the nearest hill, not the highest one.
-- **The Pendulum (Ch 24):** Systems don't just move in straight lines — they swing. Success saturates the environment, making the opposite strategy fit. Fashion oscillates. Politics oscillates. Credit cycles boom and bust. Stopping the pendulum doesn't solve the problem; it stores energy for a harder swing.
-- **Systemic Drift (Ch 25):** The goal itself evolves. Recipe blogs bury recipes under SEO fluff. VC drifted from "build a product" to "raise the next round." Venice drifted from meritocracy to hereditary aristocracy. The system locks in around the drifted goal.
-- **Breakpoints (Ch 21):** Change doesn't move in smooth curves. It accumulates invisibly on plateaus, then jumps. The RPG math: a 30% upgrade can give you 0% improvement, while a tiny 3-point shift changes the game. Phase transitions, invisible cliffs, inflation creeping past the line. The plateau isn't stagnation — it's pressure building before the snap.
-- **Tipping Points (Ch 26):** Small actions alone can't cross the breakpoint. They need a catalyst — a tragedy, a crisis, an idea — powerful enough to synchronize millions of individual hits into a collective wave. WWI, the French Revolution, and *Silent Spring*: the last 1% doesn't give you a 1% change. It gives you a new world.
+- **The Compound Effect:** A 1% advantage doesn't add linearly. It multiplies. The Wolf becomes a Pug. The "Meta" kills diversity. Small forces, given enough time, produce transformations.
+- **The Head Start:** Initial conditions matter. A small buffer at the start (inheritance, birth month, first-mover advantage) compounds into a canyon. The advantage feeds itself, and the system starts measuring momentum rather than merit.
+- **The Dice and the Direction:** Luck is the engine's fuel (variance). In a single iteration, luck dominates. Over many iterations, the Value Function dominates. Talent is a bell curve; success is a power law. Early luck compounds harder than late luck.
+- **The Cheetah's Dilemma:** Optimization is a trade-off. Every gain in one direction is a loss in another. The Cheetah traded resilience for speed. Just-in-Time supply chains traded safety for efficiency. The solution can scale until it becomes the problem.
+- **The Path to Stability:** The Value Function creates a landscape. The Pattern is gravity on that landscape, pulling everything toward the nearest peak. The Local Maximum trap: you're on a hill, but the real mountain is across a valley you can't afford to cross. QWERTY, English spelling, the Cheetah's speed — all locked in by path dependence. Most systems end up on the nearest hill, not the highest one.
+- **The Pendulum:** Systems don't just move in straight lines — they swing. Success saturates the environment, making the opposite strategy fit. Fashion oscillates. Politics oscillates. Credit cycles boom and bust. Stopping the pendulum doesn't solve the problem; it stores energy for a harder swing.
+- **Systemic Drift:** The goal itself evolves. Recipe blogs bury recipes under SEO fluff. VC drifted from "build a product" to "raise the next round." Venice drifted from meritocracy to hereditary aristocracy. The system locks in around the drifted goal.
+- **Breakpoints:** Change doesn't move in smooth curves. It accumulates invisibly on plateaus, then jumps. The RPG math: a 30% upgrade can give you 0% improvement, while a tiny 3-point shift changes the game. Phase transitions, invisible cliffs, inflation creeping past the line. The plateau isn't stagnation — it's pressure building before the snap.
+- **Tipping Points:** Small actions alone can't cross the breakpoint. They need a catalyst — a tragedy, a crisis, an idea — powerful enough to synchronize millions of individual hits into a collective wave. WWI, the French Revolution, and *Silent Spring*: the last 1% doesn't give you a 1% change. It gives you a new world.
 
 ---
 
@@ -86,13 +86,11 @@ The Engine generates options. The Judge decides which ones survive. The "Judge" 
 
 **Key Concepts:**
 
-- **The Shift:** The problem isn't the players — it's the game. And since humans wrote the rules, humans can rewrite them.
-- **The Hydra:** Cutting heads doesn't work. Symptoms regrow. You must change the body that grows the heads — the underlying incentive structure.
-- **Mapping the Machine:** Before you fix a system, map it. Identify the actual Value Function, the feedback loops, and the breakpoints.
-- **The Designer's Toolkit:** Practical levers for changing systems — adjusting metrics, adding friction, changing feedback speed, redesigning incentive structures.
-- **Debugging the World:** Applying the framework to real-world problems. Finding the root cause vs. fighting symptoms.
-- **Patching the Code:** How to implement changes that stick. Working with the Pattern rather than against it.
-- **The Gardener:** The mindset of patient cultivation. You don't control the tree, but you shape its growth through the soil, the light, and the pruning.
+- **The Shift:** The problem is rarely the players. It is the game. And since humans wrote the rules, humans can rewrite them.
+- **The Hydra:** Symptoms regrow when you cut them. The target is not the head but the body that grows them: the underlying incentive structure.
+- **Mapping the Machine:** Before redesigning a system, map it. Find the actual Value Function, trace the feedback loops, locate the breakpoints.
+- **The Levers:** There are practical handles for changing systems: adjusting metrics, adding friction, changing feedback speed, redesigning incentive structures. But the lever is only as good as the diagnosis behind it.
+- **The Gardener:** The right mindset is not the engineer's or the doctor's. It is the gardener's. You don't control the tree. You shape the conditions: the soil, the light, the pruning. The Pattern does the rest.
 
 ---
 

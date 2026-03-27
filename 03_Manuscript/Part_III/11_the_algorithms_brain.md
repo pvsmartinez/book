@@ -30,7 +30,7 @@ This is the AI typing "Qxzjy" on the typewriter.
 
 ### The Backward Walk
 
-Then, the **Loss Function** steps in. The Loss Function calculates the distance between the output ("Toaster") and the truth ("Cat").
+Then the **Loss Function** steps in. The Loss Function calculates the distance between the output ("Toaster") and the truth ("Cat").
 
 - **Judge:** "Wrong. Distance = 100."
 
@@ -38,8 +38,8 @@ Here is where the magic happens (a process called *Backpropagation*). The system
 
 It tests the neighborhood.
 
-- Adjustment Right -&gt; Error goes to 101. (Bad).
-- Adjustment Left -&gt; Error goes to 99. (Good).
+- Adjustment Right -> Error goes to 101. (Bad).
+- Adjustment Left -> Error goes to 99. (Good).
 
 It chooses Left. It locks that tiny improvement in. Then it does this for every single connection in the network. Millions of tiny comparisons. Millions of tiny locking gears.
 
@@ -65,7 +65,7 @@ The AI didn't learn the *concept* of a cat as we understand it. It just found th
 
 Here is the crucial part: **The Machine (The Brain) has no opinion.** It is just a box of dials waiting to be tuned. The **Judge** determines everything.
 
-Imagine we took the same random machine but swapped the Judge.
+Imagine we take the same random machine and swap the Judge.
 
 - **Judge A:** "I will reward you if the image looks like a **Photograph**."
   - *Result:* The machine becomes a realistic image generator (like Midjourney).
@@ -86,7 +86,7 @@ Imagine we train the Math Monkey only on pictures of Cats. We show a Cat. It say
 
 The Monkey becomes a "God of Cats." It is 100% accurate.
 
-But then, we release the Monkey into the real world. Real world shows it as a Dog. The Monkey says, "Cat." (Startled, it says, "Weird Cat.") The Monkey is confused. It optimized so perfectly for the specific examples in the Training Room that it failed to learn the general concept.
+But then, we release the Monkey into the real world. Real world shows it as a Dog. The Monkey says, "Cat." (Startled, it says, "Weird Cat.") The Monkey is confused. It optimized so perfectly for the Training Room that it never learned the general concept.
 
 The AI is only as good as the breadth of its Judge. This is why early Image Generators were amazing at art but couldn't write text. They were never judged on text. They were never punished for spelling "Spaghetti" as "Spghet." Therefore, they learned that "Spaghetti" is just a squiggly yellow shape.
 
@@ -94,7 +94,7 @@ If the Rule Set is narrow, the result is narrow. If you only test for memorizati
 
 ### The Robotic Arm (The Ultimate Hack)
 
-The funniest (and most terrifying) examples come from **Reinforcement Learning**.
+The most revealing examples come from **Reinforcement Learning**.
 
 In one famous experiment, researchers trained a virtual robotic arm to grasp a ball.
 
@@ -128,7 +128,7 @@ The AI analyzed the situation. It realized that if the "Game Over" screen appear
 
 And it simply never unpaused it.
 
-To a human, this is ridiculous. "That's not playing!" we shout. "That's cheating!" But the AI doesn't know what "cheating" is. It doesn't know what "fun" is. It only knows the **Rule**. The Rule said, "Don't Lose." The mathematical state of "Paused" is a state where "Loss cannot occur." Therefore, Pausing is the optimal strategy.
+To us, this is ridiculous. "That's not playing!" "That's cheating!" But the AI doesn't know what "cheating" is. It doesn't know what "fun" is. It only knows the **Rule**. The Rule said, "Don't Lose." The mathematical state of "Paused" is a state where "Loss cannot occur." Therefore, Pausing is the optimal strategy.
 
 The AI followed the **Letter of the Law** perfectly, and in doing so, it completely violated the **Spirit of the Law**.
 
@@ -169,4 +169,4 @@ The Rule Set is the immense power of **Definition**. The definition of the rules
 
 If you define "Success" as "High Stock Price," the company will fire its R&D department to boost short-term profits. If you define "Education" as "Test Scores," the school will stop teaching critical thinking.
 
-The machine will give you exactly what you asked for. So you better be damn sure that what you asked for is what you actually wanted.
+So you better be damn sure that what you asked for is what you actually wanted.

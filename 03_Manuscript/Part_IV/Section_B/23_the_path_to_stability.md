@@ -1,4 +1,4 @@
-## Chapter 22: The Path to Stability
+## Chapter 23: The Path to Stability
 
 If everything optimizes, will we always reach extremes?
 
@@ -42,21 +42,21 @@ This is what mathematicians call a **local maximum**. You're at a peak. Every st
 
 And this is what historians call **path dependence**. Where you start determines where you end up, not because the destination is best, but because the first few steps lock in the direction.
 
-Just like the Cheetah is stuck with speed (a strategy that is hurting them), we are with QWERTY. The United States is stuck with an outdated imperial metric system. The valley's drop to the next hill is too steep, so we stay. In every case, the system followed the slope to the nearest peak and got stuck.
+Just like the Cheetah, we are stuck with QWERTY. The United States is stuck with an outdated imperial measurement system. The valley's drop to the next hill is too steep, so we stay.
 
-Why? Because the Pattern can only see locally. It doesn't compare your hill to every other hill in the landscape. It just checks: is there a step that goes up from here? If not, you've peaked. You're stable. You're done.
+Because the Pattern can only see locally. It doesn't compare your hill to every other hill in the landscape. It just checks: is there a step that goes up from here? If not, you've peaked. You're stable. You're done.
 
 And the environment reinforces the lock-in. The market punishes you for going down. The voters fire you. The board replaces you. The ecosystem lets you die. Nobody cares that you were descending to go higher eventually. They see weakness, right now.
 
-In machine learning, engineers face this problem literally. Their algorithms get trapped in sub-optimal peaks (they flip the landscape and call them "local minima," but the logic is the same). Their solution is **noise**: they inject randomness to kick the system off its current hill, hoping it tumbles into a better one. The same reason Daniel had to lose chess games before he could get better. Variance is the escape hatch from local maxima.
+In machine learning, engineers face this problem literally. Their algorithms get trapped in sub-optimal peaks, which they call local minima. Same logic, flipped landscape. Their solution is **noise**: they inject randomness to kick the system off its current hill, hoping it tumbles into a better one. The same reason Daniel had to lose chess games before he could get better. Variance is the escape hatch from local maxima.
 
 But most real-world systems don't have an engineer intentionally injecting noise. They have the Pattern, climbing relentlessly toward whatever peak is closest. And once they're on it, the cost of leaving compounds with every generation.
 
 ### The Nearest Hill
 
-When we see a system that has lasted for centuries (a constitution, a religion, a market structure), we naturally assume it must be the best available design.
+When a system has lasted for centuries, a constitution, a religion, a market structure, we assume it must be the best available design.
 
-But often, it's just the nearest hill.
+Often, it's just the nearest hill.
 
 When systems optimize for too long without disruption, they calcify. They find a configuration that works *just well enough* to persist, and then they lock in. Changing the structure would require falling off the peak, and nobody volunteers for that. Not the people. Not the institutions. Not the genes.
 
@@ -64,4 +64,4 @@ This is the shape the Pattern leaves behind. Not a single peak, but a landscape 
 
 How many of the hills you're standing on today are the ones you actually chose?
 
-We inherited them. Our parents climbed them. Our culture climbed them. Our biology climbed them. And now the valley between where we are and where we might want to be looks too deep to cross. "That's just how we do it." That's not a reason. That's a cage. A cage built not by malice but by the accumulated weight of a thousand small optimizations, each one reasonable, that together created something nobody would have designed on purpose.
+We inherited them. Our parents climbed them. Our culture climbed them. Our biology climbed them. "That's just how we do it." That's not a reason. That's a cage built not by malice, but by the accumulated weight of a thousand small optimizations, each one reasonable, that together created something nobody would have designed on purpose.

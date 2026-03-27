@@ -14,12 +14,12 @@ Competitors are different. They are **Adaptive**.
 
 They are iterating at the same time you are. They are watching your successes and copying them. They are feeling the same feedback loops and adjusting their strategies. In a system driven by The Pattern, the "best" thing to do depends entirely on what everyone else is doing.
 
-There's a thought experiment from biology that captures this perfectly: **Hawks and Doves**.
+One thought experiment from biology captures this perfectly: **Hawks and Doves**.
 
 Imagine a population fighting over food, a piece of meat on the ground. In this world, there are two strategies (not two species, just two ways to play the game):
 
 1. **The Hawk**: Aggressive and relentless. A Hawk will fight until it is either seriously injured or its opponent is dead. It never backs down.
-2. **The Dove**: Not "peaceful" in a moral sense, but a master of posturing. A Dove will puff its feathers, hiss, and try to intimidate. But the second the opponent actually attacks, the Dove retreats. It values its skin more than the meat.
+2. **The Dove**: Not peaceful in a moral sense, but a master of posturing. A Dove will puff its feathers, hiss, and try to intimidate. But the second the opponent attacks, it retreats. It values its skin more than the meat.
 
 Now, watch how the **Competitors** (the population) dictate the value of these actions:
 
@@ -29,7 +29,7 @@ Now, watch how the **Competitors** (the population) dictate the value of these a
 
 If you live in a world of **Pure Doves**, being a Dove is great. Everyone is polite, and you share the meat. But this world is an "Evolutionary Vacuum." If a single **Hawk** mutant appears, it becomes a god. It wins every single fight without ever getting injured (because Doves always run). The Hawk eats better, reproduces faster, and soon the population is flooded with Hawks.
 
-But a world of **Pure Hawks** is a nightmare. Everyone is constantly bleeding. The "cost of injury" is so high that the average bird is worse off than if it had no meat at all. In this bloody world, if a **Dove** mutant appears, it suddenly has the "winning" strategy. Why? Because the Dove loses every fight, but it *never gets injured*. Zero is a better score than a negative score. As Hawks are expected to die fighting, a player who won't die in interactions will eventually find a prize with no contestants.
+But a world of **Pure Hawks** is a nightmare. Everyone is constantly bleeding. The "cost of injury" is so high that the average bird is worse off than if it had no meat at all. In this bloody world, if a **Dove** mutant appears, it suddenly has the "winning" strategy. Why? Because the Dove loses every fight, but it *never gets injured*. Zero beats a negative score. And when the Hawks are busy bleeding each other out, the Dove inherits the prize.
 
 The Dove thrives in a world of Hawks. The Hawk thrives in a world of Doves.
 
@@ -67,7 +67,7 @@ In this era, the "Competitors" were fighting for shelf space at retail stores. T
 
 Then came the Internet and the **Mobile Revolution**. And this is where the Pattern went into overdrive.
 
-You might imagine that the biggest change was the technology, that games changed because phones got faster. But if that were true, why does a Nintendo Switch (which is technically weaker than a modern iPhone) have such different games?
+The obvious answer is technology: phones got faster. But a Nintendo Switch is technically weaker than a modern iPhone, and its games look nothing like mobile. The hardware isn't the variable.
 
 The answer isn't the device's power, but the **Collective Behavior** of the competitors.
 
@@ -119,6 +119,4 @@ But in any system where competition is fierce, and feedback is fast (digital mar
 
 They will force the system toward the most extreme version of its Value Function. This isn't a conspiracy. It's the collective behavior of millions of actors, all trying to survive the same Pattern.
 
-We are both the players and the environment. We turn the wheel that grinds us. Understanding this doesn't mean accepting it.
-
-But you can't redesign a machine you haven't diagnosed.
+We are both the players and the environment. We turn the wheel that grinds us. But you can't redesign a machine you haven't diagnosed.
