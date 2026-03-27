@@ -2,7 +2,7 @@
 
 Consider the corrupt politician.
 
-Let’s call him "The Player." He takes bribes, filters contracts for his friends, and ignores the needs of his constituents while prioritizing those of his donors. Eventually, after years of scandals and growing public outrage, the pressure becomes too much. The people rise. They protest. They vote him out in a landslide victory for "change."
+Let’s call him "The Player." He takes bribes, filters contracts for his friends, and ignores the needs of his constituents while prioritizing his donors' needs. Eventually, after years of scandals and growing public outrage, the pressure becomes too much. The people rise. They protest. They vote him out in a landslide victory for "change."
 
 There is a moment of pure, cathartic celebration. "The bad guy is gone," we say. "The system is fixed."
 
