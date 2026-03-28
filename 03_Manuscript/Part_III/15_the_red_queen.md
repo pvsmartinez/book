@@ -86,8 +86,6 @@ Students today aren't lazier than their grandparents. They're caught in a Red Qu
 
 ### The Escalation Trap
 
-This is the **Escalation Trap**.
-
 In an arms race, the environment isn't a wall. The environment is *you*. And for you, the environment is *them*.
 
 Iteration is no longer a solo performance. It is a duet. Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve for *you*.

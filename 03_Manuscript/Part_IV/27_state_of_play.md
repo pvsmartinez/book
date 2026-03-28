@@ -85,8 +85,6 @@ The internet arrived. Social media arrived. Attention became the scarce resource
 
 Look at the results. In Brazil, the last two presidents were arrested. Not one. Both are from opposite ends of the political spectrum. That's not a coincidence of ideology. That's the signature of a system that has been selecting, over decades, for a player profile that, at a certain level of power, collides with the law. In Italy, governments cycle through crises so fast that it's become predictable. In South Korea and Japan, leaders face impeachments and scandals. In France and across Europe, leaders step down under pressures that would have been unthinkable a generation ago.
 
-The Pattern is everywhere. The drift has been accumulating for a long time.
-
 Corruption is not an aberration. Populism is not a phase. They are the outputs of a system whose selection pressure has drifted from its original purpose, and that drift has been running for a long time.
 
 #### Education
@@ -172,8 +170,6 @@ This is what we've been building toward: a way of seeing why things move as they
 It was never about the players.
 
 It is the game itself that needs tweaking. The rules. The track. What gets measured. What gets ignored.
-
-Chapter 1 asked: Does the world feel more extreme? We said yes. Now we know why. Not because people got worse. Not because something broke. Because the machine is working relentlessly, at every scale, and we've been watching the players instead of reading the scoreboard.
 
 If we've reached this far, we have the diagnosis. We can see the shape. We can name the forces.
 

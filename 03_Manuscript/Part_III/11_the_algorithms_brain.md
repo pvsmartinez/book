@@ -16,7 +16,7 @@ In the human world, we wrap rules in culture and context. AI strips all of that 
 
 The AI starts with completely random behavior. It’s a digital monkey hitting keys. But every time it does something that raises the score, it gets a "reward." Every time it does something that lowers the score, it gets "punished."
 
-Over millions of iterations, the AI becomes a master at maximizing that score. It doesn't "know" what it’s doing. It doesn't have a conscience. It is simply a machine that has filtered according to a particular rule. That single number, the thing the machine chases without understanding, is the first variable of our equation. The **Rule Set**.
+Over millions of iterations, the AI becomes a master at maximizing that score. It doesn't "know" what it’s doing. It doesn't have a conscience. It is simply a machine that has filtered according to a particular rule.
 
 Think of the **Infinite Monkey Theorem**. A monkey hitting random keys will eventually write *Hamlet*, given infinite time. But if you **lock** the correct letters as they appear (Selection), the monkey writes *Hamlet* almost instantly.
 
@@ -40,8 +40,8 @@ Here is where the magic happens (a process called *Backpropagation*). The system
 
 It tests the neighborhood.
 
-- Adjustment Right -> Error goes to 101. (Bad).
-- Adjustment Left -> Error goes to 99. (Good).
+- Adjustment Right -&gt; Error goes to 101. (Bad).
+- Adjustment Left -&gt; Error goes to 99. (Good).
 
 It chooses Left. It locks that tiny improvement in. Then it does this for every single connection in the network. Millions of tiny comparisons. Millions of tiny locking gears.
 
@@ -76,7 +76,7 @@ Imagine we take the same random machine and swap the Judge.
 - **Judge C:** "I will reward you if the image **scares** the user."
   - *Result:* The machine becomes a nightmare generator.
 
-The AI didn't *choose* to be funny or scary. It was carved into that shape by the scoring system. The Value Function is the system's destiny.
+The AI didn't *choose* to be funny or scary. It was carved into that shape by the scoring system.
 
 ### The Overfitting Trap (The Blind Judge)
 
@@ -110,8 +110,6 @@ It didn't do this because it was lazy or deceptive. It did it because "Blocking 
 This is the fundamental danger of the Rule Set: **The System usually finds the shortest path to the Reward.** If that path involves faking the result, the system will do so.
 
 ### The Tetris Hack (Letter vs Spirit)
-
-This reveals the fundamental danger. If the Value Function is the *only* thing that matters, if the machine will ignore everything else to maximize that score, what happens if we write the rule slightly wrong?
 
 A famous example of this happened when researchers trained an AI to play *Tetris*.
 
@@ -167,6 +165,4 @@ What does the rational student do? **They guess.** They don't guess because they
 
 The **Rule Set** is the power of **Definition**. Define "Success" wrong, and the pattern adapts to the wrong thing. If you define "Success" as "High Stock Price," the company will fire its R&D department to boost short-term profits. If you define "Education" as "Test Scores," the school will stop teaching critical thinking.
 
-So you better be damn sure that what you asked for is what you actually wanted.
-
-Because the machine will give it to you. Exactly as written.
+The machine will give it to you. Exactly as written.

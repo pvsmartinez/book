@@ -86,8 +86,6 @@ Sound familiar? It's Ana's $100,000, but on the scale of the entire global marke
 
 The Value Function is just selecting the "fittest" option *right now*. But that selection gives the winner the resources to be even fitter *tomorrow*.
 
-The advantage feeds itself. The initial signal, that small difference in starting position, is amplified by the recursion until it drowns out everything else.
-
 I catch myself wondering this sometimes: how much of my "success" is talent, and how much is just the compounding of an early advantage I didn't choose?
 
 We feel this intuitively, which is why fiction loves this question. Time travel stories, alternate histories. One small change in the past that ripples forward, reshaping everything. We call it the butterfly effect. But it's not science fiction. It's just what happens when a small difference enters a recursive system. The advantage doesn't stay small. It propagates. It compounds. And by the time anyone notices the gap, it's immeasurable.

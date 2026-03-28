@@ -33,9 +33,9 @@ But a world of **Pure Hawks** is a nightmare. Everyone is constantly bleeding. T
 
 The Dove thrives in a world of Hawks. The Hawk thrives in a world of Doves.
 
-The Value Function isn't tied to the meat; it's tied to the **Population**. The "best" strategy is invisible until you know who else is on the field. The system naturally oscillates until it reaches a balance, an equilibrium where the number of Hawks and Doves makes them both equally "fit." Why does this matter to you?
+The Value Function isn't tied to the meat; it's tied to the **Population**. The "best" strategy is invisible until you know who else is on the field. The system naturally oscillates until it reaches a balance, an equilibrium where the number of Hawks and Doves makes them both equally "fit."
 
-Because the "Competitors" aren't just in other people's stories. You are a competitor in every system you participate in. And the forces we just saw in this thought experiment play out in markets, careers, and industries every day.
+The "Competitors" aren't just in other people's stories. You are a competitor in every system you participate in. And the forces we just saw in this thought experiment play out in markets, careers, and industries every day.
 
 The history of video games is a perfect laboratory for watching how competitors sculpt a value function.
 
@@ -57,7 +57,7 @@ The Value Function shifted toward **Engagement** and **Narrative**. Games got ea
 
 In this era, the "Competitors" were fighting for shelf space at retail stores. The "Meta" was about branding and box art.
 
-Then came the Internet and the **Mobile Revolution**. And this is where the Pattern went into overdrive.
+Then came the Internet and the **Mobile Revolution**.
 
 The answer isn't the device's power. It's the **Collective Behavior** of the competitors.
 
@@ -108,7 +108,5 @@ The developers aren't morally superior. They inherited a Track shaped by a diffe
 But in any system where competition is fierce, and feedback is fast (digital marketing, high-frequency trading, professional sports), competitors will eventually optimize out all slack.
 
 They will force the system toward the most extreme version of its Value Function. This isn't a conspiracy. It's the collective behavior of millions of actors, all trying to survive the same Pattern.
-
-We are both the players and the environment. We turn the wheel that grinds us.
 
 You can't redesign a machine you haven't diagnosed.

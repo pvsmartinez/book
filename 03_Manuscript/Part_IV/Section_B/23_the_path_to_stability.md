@@ -58,7 +58,7 @@ Often, it's just the nearest hill.
 
 When systems optimize for too long without disruption, they calcify. They find a configuration that works *just well enough* to persist, and then they lock in. Changing the structure would require falling off the peak, and nobody volunteers for that. Not the people. Not the institutions. Not the genes.
 
-This is the shape the Pattern leaves behind. Not a single peak, but a landscape littered with local maxima, each one defended by the cost of change, most of them far below a mountain that nobody can reach because nobody can afford to go down first.
+Not a single peak, but a landscape littered with local maxima, each one defended by the cost of change, most of them far below a mountain that nobody can reach because nobody can afford to go down first.
 
 How many of the hills you're standing on today are the ones you actually chose?
 

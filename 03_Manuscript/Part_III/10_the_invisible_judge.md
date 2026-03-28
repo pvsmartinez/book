@@ -54,14 +54,10 @@ This isn't literal arithmetic. Think of it as a lens: it shows you how three for
 
 ### Why "Value Function"?
 
-We called the Filter "a wall that kept the winners and discarded the rest." But now that we've taken it apart, we can see it isn't a single wall. It is a calculation with three moving parts.
-
 The softer words ("The Judge," "The Environment," "The Market") can mislead. "The Judge" implies a conscious decision-maker who cares about justice. "The Environment" suggests a static backdrop. And simple models often ignore "The Competitors" entirely, even though in many games (chess, poker, war), the opponent *is* the environment.
 
 **Value Function** removes the fuzziness. It is a live equation in which the Rules, the Track, and the Competitors interact to produce a result. It defines the "Fit."
 
-The Rules usually take the spotlight because they are visible, leading players to the wrong conclusions.
-
 What happened to the Millennials is a perfect example. The Rules didn't change much: Study, Work, Save, Invest. But the Track and the Competitors changed completely. A different economy. A global workforce. The map stayed the same. The terrain did not.
 
-This invisible judge shapes everything from the apps on your phone to the anxiety in your head. Seeing it clearly is the difference between "I am broken" and "I need to understand the game."
+Seeing it clearly is the difference between "I am broken" and "I need to understand the game."

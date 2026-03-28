@@ -22,8 +22,6 @@ Most of us feel like the bird at some point. Because we are. But now we have the
 
 A lens does not change the room. It changes what you can see inside it. And once you can see the game you are actually playing, the world looks fundamentally different. Not easier. Not suddenly solvable. But legible.
 
-That is what Part III was building toward. A lens.
-
 ### The Mold is Always Running
 
 The Pattern is actively shaping everything. It acts like a physical mold. Over time, iteration after iteration, they press on everything inside the system. Not intentionally. Mechanically. And the things that survive are the things that fit the shape of the mold.
@@ -86,6 +84,6 @@ Most of us are doing a version of this. We are running a program shaped by the V
 
 Unlike the bird, you can see the glass.
 
-The lens does not change the room. But it changes what you can do inside it. Once you can see what is actually being rewarded, where the floor is tilted, and who else is running, you are no longer just inside the game. You are reading it.
+Once you can see what is actually being rewarded, where the floor is tilted, and who else is running, you are no longer just inside the game. You are reading it.
 
 And a game you can read is a game you can begin to steer.

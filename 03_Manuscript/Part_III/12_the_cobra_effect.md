@@ -24,7 +24,7 @@ Delhi ended up with more cobras than it had at the start.
 
 ### The Success of the Wrong Goal
 
-They named it the **Cobra Effect**. It became the most famous example of a "Perverse Incentive," but it is also a fundamental law of System Design.
+They named it the **Cobra Effect**.
 
 The government didn't "fail." In fact, the Value Function succeeded perfectly. It requested cobra skins and received them in record numbers. The system didn't care that the skins were coming from a farm instead of the street. It only cared about the count.
 
@@ -82,7 +82,7 @@ There's a name for what happened: the **Exam Trap**. The result of millions of i
 
 In the world of education, the "Judge" is the standardized test. It is the "Lap Counter" that determines which schools are "good" and which students are "successful."
 
-**Measurement changes behavior.** The Engine is so efficient that it will eventually optimize for *exactly* what is being measured, and nothing else.
+**Measurement changes behavior.** The engine will optimize for *exactly* what is being measured, and nothing else.
 
 If the test measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does.
 
@@ -102,6 +102,4 @@ There is a name for this phenomenon. It’s called **Goodhart’s Law**:
 - If you reward a programmer for the number of lines of code they write, they will write the **longest, messiest code** possible.
 - If you reward a CEO for the quarterly stock price, they will **fire half the staff** to make the numbers look good today, even if it kills the company tomorrow.
 
-The Proxy is a shortcut. And in a world of fast iteration, the shortcut becomes the destination.
-
-The faster the system iterates, the faster the mirror cracks.
+The shortcut becomes the destination. The faster the system iterates, the faster the mirror cracks.

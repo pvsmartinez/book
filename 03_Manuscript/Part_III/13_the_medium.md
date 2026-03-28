@@ -42,8 +42,6 @@ Then came the Feed. Phone screen. Thumb-flick. Milliseconds. Payment by views. I
 
 Truth is often boring. Truth is often "It's complicated." But "It's complicated" has a viral coefficient of zero. "They are stealing your country" spreads like a virus. It has a high **contagion rate**.
 
-As we saw in Part II, news works as memetics. It spreads, it "survives" through the strongest emotions, and the medium has shaped it.
-
 Ownership, editorial culture, and political intent all play a role. But those are the *players*. The Track shapes which players survive.
 
 Sometimes the medium shifts because the technology changes. But sometimes the shift is quieter, hidden inside the software itself.
@@ -83,5 +81,3 @@ Just as "Let's Play" dominated the "Watch Time" era because it was efficient to 
 If you see a trend shaping up, whether it's polarization in news or "slop" in your feed, ask yourself how the **container** is shaping the liquid.
 
 The Pattern doesn't care what you want to be. It only cares what the track will let you become.
-
-And the track is always there. Even when you can't see it.

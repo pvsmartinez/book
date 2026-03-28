@@ -97,6 +97,4 @@ Sometimes you *can't* see the change at all. That's the plateau. The sessions pi
 
 Either way, the math is the same. The system absorbs, absorbs, absorbs. The 13 damage lands. And then the number crosses the line.
 
-We mistake the plateau for permanence. We mistake visible change for manageable change. Both are traps.
-
 The breakpoint doesn't care whether you noticed the accumulation. It fires when the number is ready. Not when you're ready.

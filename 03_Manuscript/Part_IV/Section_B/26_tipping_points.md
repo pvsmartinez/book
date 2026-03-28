@@ -108,11 +108,7 @@ Through back-channel negotiations, through individual decisions made under impos
 
 In hindsight, we can tell the story neatly. We can say: “The pressure was high, but cooler heads prevailed." But *at the time*, nobody knew. Nobody could know. The plateau before a snap and the plateau before a release look the same from the inside.
 
-This is the uncomfortable truth about tipping points.
-
-They are not predictable.
-
-Think of Stock market bubbles.
+Think of stock market bubbles.
 
 The dot-com boom of the late 1990s: internet companies with no revenue, no profit, sometimes no product, valued at billions of dollars. Everyone could see the pressure building. Skeptics warned it was a bubble. Investors argued it was a new paradigm. Then in March 2000, it snapped. The NASDAQ lost nearly 80% of its value. Trillions of dollars evaporated.
 

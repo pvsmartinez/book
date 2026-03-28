@@ -76,8 +76,6 @@ The specific startup that becomes a unicorn might be lucky. But across thousands
 
 This gives us a strange double vision. Any individual winner is mostly lucky. But the *shape* of all winners, taken together, is carved by the Value Function.
 
-You can look at any billionaire and say, "They were in the right place at the right time. Dice roll." And you'd be right.
-
-But you can also zoom out and say: "The system keeps producing billionaires who look roughly similar, who solved roughly similar problems, who operated in roughly similar conditions." And you'd also be right.
+The system keeps producing billionaires who look roughly similar, who solved roughly similar problems, who operated in roughly similar conditions.
 
 The dice pick the individual. The direction picks the type.

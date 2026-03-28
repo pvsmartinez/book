@@ -122,6 +122,4 @@ In nations. The Soviet Union began as a people's revolution but quickly became a
 
 It happens in our very own goals and lives.
 
-Because by the time a system arrives at its new destination, everyone inside will swear that's where it was always headed.
-
 The drift isn't a scandal. It's the Pattern doing exactly what it does. Optimizing. Adapting. Moving toward whatever the current rules reward. The problem isn't that it drifts. The problem is that nobody was watching the compass.

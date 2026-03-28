@@ -84,6 +84,4 @@ This is the key insight: the recursion doesn't just change the players. It chang
 
 The river shows us the same thing. The water erodes the dirt, reshaping the Track, the physical terrain. But the force driving the water (gravity) never changes. Water always flows to the lowest gravitational energy. The recursion reshapes the landscape, but the compass is fixed.
 
-We know the compass. We know it points in the same direction every time: toward whatever the current Value Function rewards.
-
 What changes is the terrain. And the terrain is always a product of the last cycle. Which means every answer the system finds becomes the next question it has to solve.
