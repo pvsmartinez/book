@@ -20,7 +20,7 @@ But often, especially in biology and complex systems, variance is blind. A rando
 
 This blind variance is what we call luck.
 
-The Pattern doesn't care whether the variance was planned or accidental. The universe doesn't check your receipts. Luck isn't some force opposing the Pattern. Luck is feeding it.
+The Pattern doesn't care whether the variance was planned or accidental. The universe doesn't check your receipts. Luck is feeding the Pattern.
 
 ### The Dice Roll
 
@@ -31,8 +31,6 @@ Imagine a thousand equally talented entrepreneurs. Same work ethic. Same intelli
 Who wins? The honest answer: we have no idea.
 
 In any single round, the outcome is dominated by factors that look indistinguishable from chance. One founder gets featured in a viral post. Another gets a meeting because their cousin knows an investor. A third launches the week their biggest competitor has a PR crisis.
-
-These aren't "merit." They're dice rolls.
 
 In 2018, physicists Pluchino, Biondo, and Rapisarda simulated this to test it. They created a virtual world where people had normally distributed talent (a bell curve: most people average, a few very talented, a few not) and faced random lucky or unlucky events over a 40-year career.
 

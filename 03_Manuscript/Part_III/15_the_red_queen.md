@@ -8,13 +8,11 @@ How can an animal this optimized still lose most of the time? Because the gazell
 
 ### The Exhaustion of Winners
 
-The ideal world would be for both species to agree to run at 20mph. They would save massive amounts of energy, suffer fewer injuries, and still catch the slow gazelles. But they are trapped.
+The ideal world: both species agree to run at 20mph. Save energy, suffer fewer injuries, still catch the slow gazelles. But they are trapped.
 
-If a cheetah decides to "disarm" and run slowly to save energy, the fast gazelle runs away. The pacifist cheetah starves. The system aggressively excludes anyone who attempts to exit the race.
+If a cheetah decides to disarm and run slowly, the fast gazelle escapes. The pacifist cheetah starves. The system excludes anyone who tries to exit the race.
 
-In a population of both, you have some that are slightly faster and some that are slightly slower. The fastest cheetahs catch the gazelles and eat. The slowest cheetahs miss their prey, starve, and die. The slowest gazelles are caught and eaten. The fastest gazelles escape, survive, and have babies.
-
-The result is that the next generation of cheetahs is faster because they are the children of the winners. However, the next generation of gazelles is also faster for the same reason.
+In any population, some are slightly faster, some slightly slower. The fastest cheetahs eat. The slowest starve. The slowest gazelles are caught. The fastest escape and have babies. The next generation of cheetahs is faster. So is the next generation of gazelles.
 
 There is a hidden cost here.
 
@@ -22,7 +20,7 @@ When speed became the winning strategy, the door to others began to close. The c
 
 This is where the trap closes. The "fast" cheetah from the previous generation (the one that was a top-tier predator yesterday) is suddenly the "slow" cheetah of the new generation. Because the gazelles have also improved, the cheetah’s **absolute** speed increased, but its **relative** advantage vanished.
 
-Both populations are now running at 60 miles per hour. Hearts pounding, muscles screaming, burning everything they have. And neither is safer nor more successful than their ancestors were. They are running as fast as they can just to stay in the same place.
+Both populations are now running at 60 miles per hour. Hearts pounding, burning everything they have. Neither is safer nor more successful than their ancestors were.
 
 There's a line from the Italian novel *The Leopard*: **"If we want things to stay as they are, things will have to change."**
 
@@ -40,29 +38,25 @@ We see this cat-and-mouse game everywhere: in pesticides and bugs, in tax codes 
 
 In agriculture, farmers discovered this arms race the hard way.
 
-In the 1940s, DDT seemed like a miracle. Farmers sprayed their fields, and the insects died. Crop yields exploded. The chemical companies celebrated. For a few years, it looked like humanity had won.
+In the 1940s, DDT seemed like a miracle. Farmers sprayed, insects died, yields exploded. For a few years, it looked like humanity had won.
 
 But the insects were iterating.
 
-In any population of millions, there's always variance. A tiny fraction (maybe one in ten thousand) had a random mutation that made them slightly more resistant to DDT. Before the spray, this mutation was ineffective. After the spray, it was the only thing that mattered.
+In any population of millions, there's always variance. A tiny fraction had a random mutation making them slightly resistant. Before the spray, irrelevant. After the spray, the only thing that mattered.
 
-The 99.99% died. The 0.01% survived, reproduced, and passed their resistance to the next generation. Within a few years, farmers observed the insects returning. So they sprayed more DDT. The resistant insects thrived. The sensitive ones were already gone.
+The 99.99% died. The 0.01% survived, reproduced, passed on resistance. Within a few years the insects returned. Farmers sprayed more DDT. The resistant ones thrived. The sensitive ones were already gone.
 
-By the 1960s, farmers were using ten times as much pesticide as in the 1940s and achieving worse results. The miracle poison was now just expensive water. Chemical companies developed new toxins. The insects evolved again. This cycle has a name: the **Pesticide Treadmill**.
+By the 1960s, farmers were using ten times as much pesticide for worse results. The miracle poison was expensive water. New toxins, new resistance. The **Pesticide Treadmill**.
 
-Today, we have insects resistant to every major class of pesticide. Farmers are running faster than ever, spending more than ever, to stay in the same place. The bugs aren't "winning," but neither are we. We are both locked in a race that neither side can exit.
+Today we have insects resistant to every major class of pesticide. Farmers spend more than ever to stay in the same place. Neither side is winning. Neither can exit.
 
 ### The Law and the Loophole
 
 The same pattern plays out in courtrooms and legislatures.
 
-Consider tax law. In 1913, the U.S. federal tax code was 400 pages. Today, it exceeds 70,000 pages. Did human commerce become 175 times more complex? Not really. What happened was an arms race.
+In 1913, the U.S. federal tax code was 400 pages. Today it exceeds 70,000. Did commerce become 175 times more complex? No. What happened was an arms race.
 
-Every time Congress closes a loophole, an army of lawyers and accountants gets to work finding a new one. Every new regulation creates a new optimization problem. The corporations hire smarter people, develop more creative structures, and exploit the inevitable gaps in any written rule.
-
-So Congress writes more rules. More specific. More detailed. More pages.
-
-But more pages mean more complexity. More complexity means more gaps. More gaps mean more loopholes. The law grows because the arms race demands it.
+Every time Congress closes a loophole, an army of lawyers finds a new one. Every regulation creates a new optimization problem. So Congress writes more rules. More pages. More complexity. More gaps. More loopholes. The law grows because the arms race demands it.
 
 Lawyers aren't evil. They're cheetahs. The environment selects for longer claws.
 
@@ -72,23 +66,19 @@ Bugs and lawyers feel distant. But the same race is happening closer to home.
 
 The same pattern is reshaping the job market.
 
-In 1970, a bachelor's degree was a golden ticket. It meant you were educated, capable, and ready for a professional career. Employers competed to hire you.
+In 1970, a bachelor's degree was a golden ticket. Employers competed to hire you.
 
-Today, a bachelor's degree is the bare minimum for an entry-level position. Many "starter" jobs now require a master's degree, multiple internships, proficiency in specialized software, and years of experience, for a role that pays the same (inflation-adjusted) as the 1970 job that required only a diploma.
+Today it's the bare minimum. Many entry-level roles require a master's degree, multiple internships, specialized software proficiency, and years of experience — for a job that pays the same, inflation-adjusted, as the 1970 position that needed only a diploma.
 
-What changed? Everyone got degrees.
+What changed? Everyone got degrees. When everyone has the same qualification, it stops differentiating. So candidates add more: another degree, another certification, another unpaid internship. Employers raise requirements. The bar keeps rising.
 
-When everyone has the same qualification, that qualification no longer differentiates you. So candidates add more: another degree, another certification, another unpaid internship. Employers adapt by raising requirements. The bar keeps rising.
-
-The cruel irony is that the actual *work* often hasn't changed. The same tasks that a high school graduate performed competently in 1970 now "require" a master's degree. The job isn't harder. The arms race inflated the entry requirements.
-
-Students today aren't lazier than their grandparents. They're caught in a Red Queen's Race, running harder than ever to reach the same starting line.
+The actual work often hasn't changed. The arms race just inflated the entry requirements. Students today aren't lazier than their grandparents. They're running harder to reach the same starting line.
 
 ### The Escalation Trap
 
 In an arms race, the environment isn't a wall. The environment is *you*. And for you, the environment is *them*.
 
-Iteration is no longer a solo performance. It is a duet. Every "improvement" you make forces your rival to change. You aren't just solving a problem; you are creating a new problem for someone else. And they will specifically iterate to solve for *you*.
+Iteration is no longer a solo performance. Every improvement forces your rival to change. You aren't just solving a problem — you are creating a new problem for someone else, and they will specifically iterate to solve for *you*.
 
 The cheetah and the gazelle are both exhausted. Farmers spend more on pesticides to achieve the same yields. Graduates study twice as long for the same jobs.
 

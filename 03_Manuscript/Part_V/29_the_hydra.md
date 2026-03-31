@@ -6,7 +6,7 @@ Look at the favelas of Brazil.
 
 For most people outside of South America, a *favela* is just a "slum." But that word doesn't capture the reality. A favela is a city within a city. They form on hillsides and at the edges of major metropolises such as Rio de Janeiro and São Paulo. They exist because the city needs workers (cleaners, cooks, construction laborers), yet it refuses to build affordable housing for them.
 
-So, the people build it themselves. They build brick houses on land they don't own, with no sewage, no paved roads, and crucially, no state presence. In these vacuums, a new system emerges.
+So, the people build it themselves. They build brick houses on land they don't own, with no state presence. In these vacuums, a new system emerges.
 
 If you look closely, you can see the exact moment where it goes wrong.
 
@@ -44,7 +44,7 @@ Give him ten years of "undisturbed" growth, and he isn't just a gang leader anym
 
 He has become a Mafia member.
 
-A Mafia is just a gang that was allowed to expand. It has become part of the structure itself. Removing a dealer is easy; removing the Mafia is nearly impossible. They are the government now.
+A Mafia is just a gang that was allowed to expand. Removing a dealer is easy; removing the Mafia is nearly impossible. They are the government now.
 
 ### The Dual Approach: Tylenol and Antibiotics
 
@@ -74,7 +74,7 @@ Most of the time, we fail because we choose only one side.
 
 We try to address homelessness by building shelters, but we don't touch the zoning laws and economic filters that make housing unaffordable in the first place. We try to address fake news by banning accounts, but we don't touch the algorithmic Value Function that rewards outrage over truth. The heads keep growing back. The machine below keeps running.
 
-We are constantly trying to kill the Hydra by chopping off its heads. But the Hydra is a creature of the Pattern. For every head you chop off, two more grow back, fueled by the same engine, guided by the same judge, and accelerated by the same time.
+The Hydra is a creature of the Pattern. Every head grows back fueled by the same engine, guided by the same judge, and accelerated by the same time.
 
 If you want to kill the Hydra, you don't just need a bigger sword. You need to map the hidden machine that is pumping life into those heads.
 

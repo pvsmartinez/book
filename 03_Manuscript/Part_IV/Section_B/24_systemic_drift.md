@@ -62,7 +62,7 @@ The system traveled from "build something people want" to "get as many users as 
 
 Each step made sense from inside the system. Each step was a rational response to the selection pressures of its moment. Nobody voted for the drift. Everyone participated in it.
 
-The drift doesn't make the system better or worse in an absolute sense. It makes it *different*. Pointed somewhere new. And that's the nature of systemic drift: not a failure, but a quiet migration that nobody voted for and everyone participated in.
+The drift doesn't make the system better or worse in an absolute sense. It makes it *different*. A quiet migration that nobody voted for and everyone participated in.
 
 ### From Competition to Consolidation
 
@@ -114,9 +114,9 @@ Each player is rational; it's optimizing to win their own game. And the Value Fu
 
 Every system can drift. And the further it drifts, the harder it becomes to remember the original direction.
 
-It happens with companies. Spotify was born to empower musicians, but it commoditized it. Vaping was meant to help people stop smoking, but it became a new type of vice on its own. OpenAI started as a nonprofit organization of scientists, but it's now a for-profit company and the US military's main partner.
+It happens with companies. Spotify was born to empower musicians, but commoditized them. Vaping was meant to help people stop smoking, but became a new addiction. OpenAI started as a nonprofit, but is now a for-profit and the US military's main AI partner.
 
-In political parties and candidates. In Brazil, once PT and PSDB were the main political opponents. Now, both are a coalition in president and vice president. New parties in Brazil that appeared to fight the system, refusing private donations, later started accepting them and changed their very nature.
+It happens in political parties. In Brazil, PT and PSDB were once bitter opponents. Now both sit in the same coalition. New parties that refused private donations later accepted them and changed their nature entirely.
 
 In nations. The Soviet Union began as a people's revolution but quickly became a dictatorship. Countries that were once home to immigrants now fight against immigration.
 

@@ -14,7 +14,7 @@ Because once baggy is the norm, it can no longer do either job. It doesn't signa
 
 So the next generation opens their parents' closets and does the opposite. Skinny jeans. Fitted shirts. High waists become low waists. Comfort becomes structure. The pendulum swings.
 
-Not because the new clothes are objectively better. Because the environment became saturated with one strategy, and the opposite strategy became the only way to say something new.
+Not because the new clothes are objectively better. Because the environment became saturated, and the opposite strategy became the only way to say something new.
 
 I remember looking at my closet in 2023 and realizing every pair of jeans I owned was suddenly the wrong shape. Nothing about the denim had changed. The Competitors had.
 
@@ -60,7 +60,7 @@ Game theorists have a name for what sits underneath this.
 
 John Nash proved that for any finite strategic game, at least one equilibrium point exists: a configuration where no player benefits from changing their strategy unilaterally, because the system is already adjusted around them. Game theorists call it a **Nash Equilibrium**.
 
-Go back to the Meta from Chapter 18. Tanks counter Assassins. Assassins counter DPS. DPS counters Tanks. For the non-gamers: rock-paper-scissors. When Tanks flood the game, DPS players feast. DPS flooding brings Assassins. Assassins bring Tanks back. Every strategy has a counter, and every counter becomes more powerful exactly as the strategy it counters becomes more popular.
+Go back to the Meta from Chapter 18. Tanks counter Assassins. Assassins counter DPS. DPS counters Tanks. When Tanks flood the game, DPS players feast. DPS flooding brings Assassins. Assassins bring Tanks back. Every strategy has a counter, and every counter becomes more powerful exactly as the strategy it counters becomes more popular.
 
 There is a ratio among the three classes where no single class benefits from becoming more common. If Tanks are already dominant, adding more Tanks only feeds the DPS players waiting for them. The system pushes back. Not because a designer is watching. Because the payoff structure makes overextension self-defeating.
 

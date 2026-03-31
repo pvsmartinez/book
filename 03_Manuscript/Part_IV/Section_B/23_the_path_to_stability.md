@@ -38,9 +38,9 @@ The valley between QWERTY and Dvorak is too deep. Not because Dvorak is uncertai
 
 So we stay on a hill that was designed for a machine that no longer exists.
 
-This is what mathematicians call a **local maximum**. You're at a peak. Every step leads down. But it's not the highest peak in the landscape. The better one is visible across the valley. You can't afford to descend.
+Mathematicians call this a **local maximum**. You're at a peak — every step leads down, but it's not the highest peak in the landscape. The better one is visible across the valley. You can't afford to descend.
 
-This is what historians call **path dependence**. Where you start determines where you end up, not because the destination is best, but because the first few steps lock in the direction. We are stuck with QWERTY. The United States is stuck with an imperial measurement system. The valley's drop to the next hill is too steep.
+Historians call this **path dependence**. Where you start determines where you end up, not because the destination is best, but because the first few steps lock in the direction. We are stuck with QWERTY. The United States is stuck with an imperial measurement system. The valley's drop to the next hill is too steep.
 
 Because the Pattern can only see locally. It doesn't compare your hill to every other hill in the landscape. It just checks: is there a step that goes up from here? If not, you've peaked. You're stable. You're done.
 

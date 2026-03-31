@@ -2,23 +2,21 @@
 
 The British colonial government in Delhi had a problem. The city was full of cobras.
 
-Humans have something nature lacks: **intent**. We don't just survive the Value Function. We try to rewrite it. Of the three levers, the **Rules** are the quickest to pull. Pass a law. Set a bounty. Create a metric. Rules have a more predictable cause-and-effect relationship, which is why they are the preferred tool for steering behavior.
+Humans have something nature lacks: **intent**. We don't just survive the Value Function. We try to rewrite it. Of the three levers, the **Rules** are the quickest to pull. Pass a law. Set a bounty. Create a metric.
 
-But there's a trap. A trap so common, so devastating, that it has its own name.
+But there's a trap. So common, so devastating, it has its own name.
 
-The administrators in Delhi did what any "sensible" government would do: they designed a Value Function to recruit the entire population into their safety mission.
+The administrators did what any sensible government would: design a Value Function to recruit the entire population into their safety mission.
 
-The rule was simple: "Bring us a dead cobra, and we will pay you a bounty."
+The rule was simple: bring us a dead cobra and we will pay you a bounty. Goal: fewer snakes. Metric: number of skins.
 
-In the minds of the administrators, the logic was foolproof. Goal: Fewer snakes. Variable: Dead snakes. Metric: Number of skins.
+For a while, it worked. The number of skins entering government offices was substantial. The data showed a resounding success.
 
-They sat back and waited for the "Invisible Hand" to do its magic. And for a while, it worked! The number of skins entering government offices was substantial. The clerks were busy, the payments were flowing, and the "data" showed a resounding success.
-
-The people of Delhi, however, were rational players. They looked at the **Track** (the dangerous task of hunting wild snakes in the jungle) and at the **Rule** (get paid for skins). They realized that it was significantly easier, safer, and more profitable to breed cobras in their basements.
+The people of Delhi were rational players. Hunting wild cobras in the jungle is dangerous. Breeding them in your basement is not. It was significantly easier, safer, and more profitable.
 
 Suddenly, Delhi had a thriving new industry: **Cobra Farming.**
 
-The government was paying for the very thing it was trying to eliminate. When the officials finally realized they were being gamed and canceled the bounty, the breeders did the only logical thing with their now-worthless inventory: they opened the cages and released the snakes.
+The government was paying for the very thing it was trying to eliminate. When officials cancelled the bounty, breeders did the only logical thing with their now-worthless inventory: opened the cages.
 
 Delhi ended up with more cobras than it had at the start.
 
@@ -26,9 +24,9 @@ Delhi ended up with more cobras than it had at the start.
 
 They named it the **Cobra Effect**.
 
-The government didn't "fail." In fact, the Value Function succeeded perfectly. It requested cobra skins and received them in record numbers. The system didn't care that the skins were coming from a farm instead of the street. It only cared about the count.
+The government didn't fail. The Value Function succeeded perfectly — it requested cobra skins and received them in record numbers. The system didn't care they came from a farm. It only cared about the count.
 
-Call it a **Successful Failure**.
+A **Successful Failure**.
 
 ### Scaling the Failure
 
@@ -44,11 +42,9 @@ The problem is that the things we actually want (**Intelligence, Prosperity, Saf
 
 So we use shortcuts.
 
-Remember the three forces shaping the pattern: the rules, the track, and the competitors. Notice what is *not* on that list? Intent.
+Notice what is *not* in the Value Function? Intent.
 
-Intent does not directly affect the pattern. The engine runs on what is *measured*, not on what was *meant*. This means that if the rules are not fully aligned with the intended outcome, there will be a drift between what was expected and what actually happens.
-
-(But as we'll see in Part V, while intent can't override the mechanism, it *can* redesign it.)
+The engine runs on what is *measured*, not on what was *meant*. If the rules aren't fully aligned with the intended outcome, the system drifts. (Intent can't override the mechanism — but as we'll see in Part V, it can redesign it.)
 
 That is the danger of the **Proxy**.
 
@@ -58,35 +54,29 @@ A Proxy is a visible number that stands in for an invisible outcome.
 - **Goal:** Knowledge. **Proxy:** GPA.
 - **Goal:** Social Stability. **Proxy:** The Inflation Rate.
 
-On paper, this makes sense. If you improve the number, you should improve the reality. However, because the system is driven by iteration and competition, something anomalous occurs. The system learns that it is much easier to "game" the number than to achieve the goal.
+On paper, this makes sense. But because the system is driven by iteration and competition, something predictable happens: the system learns it is far easier to game the number than to achieve the goal.
 
 ### The Exam Factory
 
 This brings us to the ultimate proxy trap, one that shapes the mind of every child: **Education.**
 
-Say you're a parent. You have two schools in your neighborhood.
+Say you're a parent with two schools nearby.
 
-The first school, "**The Academy of Life**," believes in a holistic education. They teach students to manage their finances, resolve conflicts, cook, and think critically about the world. They are building interesting, well-rounded citizens.
+"**The Academy of Life**" teaches financial literacy, conflict resolution, critical thinking. Building well-rounded citizens.
 
-The second school, "**The Exam Factory**," has a much narrower focus. They don't care about cooking or conflict resolution. They spend every hour of every day drilling students on the specific types of math and grammar problems that appear on the National University Entrance Exam.
+"**The Exam Factory**" does one thing: drill the exact problems that appear on the National University Entrance Exam.
 
-Now, ask yourself: which school would you choose for your child?
+You know Exam Factory students get into better universities. You know that matters for your child's career. Would you risk their future to prove a point?
 
-You know that the "Exam Factory" students have a much higher chance of getting into a top-tier university. You know that a degree from that university is a critical factor in your child's future career and financial stability. Even if you love the philosophy of the "Academy of Life," would you risk your child's future to prove a point?
-
-Most parents wouldn't. They chose the "Exam Factory."
-
-There's a name for what happened: the **Exam Trap**. The result of millions of individual, rational choices made by parents who want the best for their children.
+Most parents wouldn't. That's the **Exam Trap**. Not a conspiracy — just millions of rational choices, each one reasonable, producing a system nobody designed on purpose.
 
 ### The Metric is the Message
 
 In the world of education, the "Judge" is the standardized test. It is the "Lap Counter" that determines which schools are "good" and which students are "successful."
 
-**Measurement changes behavior.** The engine will optimize for *exactly* what is being measured, and nothing else.
+**Measurement changes behavior.** The engine optimizes for exactly what is measured, and nothing else.
 
-If the test measures the ability to memorize dates but not the ability to understand historical context, the system will produce students who are walking encyclopedias but have no idea why the world looks the way it does.
-
-Financial literacy wasn't on the test, so it wasn't "selected" for. It was an **emergent behavior**, not a conspiracy.
+If the test measures memorization but not historical context, the system produces walking encyclopedias with no idea why the world looks the way it does. Financial literacy wasn't on the test. It was an **emergent behavior**, not a conspiracy.
 
 Over time, the schools themselves are selected. Those that focus on the exam thrive and expand; those that focus on "Life Skills” see their enrollment decline and are forced to adapt or close. The pattern, through time, selects for *survival*, not for *education*.
 

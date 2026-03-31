@@ -14,7 +14,7 @@ A mechanic tries to force an outcome. A gardener tries to create the conditions 
 
 You cannot "make" a tomato grow. You can yell at the seed, you can pull on the sprout, you can threaten it with a performance review, but it won’t grow faster. In fact, if you pull on it too hard, you’ll kill it.
 
-But you can water the soil. You can pull the weeds that are stealing its nutrients. You can ensure it gets sunlight. You can build a stake to support it as it climbs. You are not the "creator" of the growth; you are the facilitator of it.
+But you can water the soil. You can pull the weeds that are stealing its nutrients. You can ensure it gets sunlight. You can build a stake to support it as it climbs.
 
 This is the ultimate lesson of the Pattern. The engine of iteration and variance is going to run whether you like it or not. Evolution is happening. Change is inevitable. The gardener doesn't try to stop the engine. They try to guide the growth.
 
@@ -42,7 +42,7 @@ A mechanic fixes the car, wipes their hands, and walks away. The job is finished
 
 This might sound exhausting, but it is actually liberating. It means you don't have to "save the world" once and for all. You don't have to find the "perfect" solution that fixes everything forever.
 
-You have to keep reading the soil, adapting to the season, and planting the right seeds for the conditions you are in. You are not the master of the system. You are a participant who now understands the rules well enough to shape what grows.
+You are not the master of the system. You are a participant who now understands the rules well enough to shape what grows.
 
 ---
 

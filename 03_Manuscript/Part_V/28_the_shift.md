@@ -8,7 +8,7 @@ There is a moment of pure, cathartic celebration. "The bad guy is gone," we say.
 
 But then the seat is empty. A new election is held. A dozen fresh-faced candidates step forward, all promising a new era of transparency and integrity. Who are they?
 
-They are people who have survived the same **Filter** that created the first politician. To even get on the ballot, they had to navigate the same party machines. They had to raise money from the same small group of wealthy donors. They had to survive the same media cycles and master the same "Meta" of political survival.
+They survived the same **Filter** that created the first politician. To even get on the ballot, they had to navigate the same party machines. They had to raise money from the same small group of wealthy donors. They had to survive the same media cycles and master the same "Meta" of political survival.
 
 Six months later, the "Next Guy" starts doing the same things as the "Old Guy."
 
@@ -41,7 +41,7 @@ These are **Moral Appeals**. They rely on the drivers' *intentions*. They rely o
 
 Eventually, the city gave up on the signs. They installed **Speed Bumps**.
 
-A speed bump is a physical constraint. It doesn't care if you're a "good person" or a "bad person." It doesn't care whether you're in a hurry or love children. It simply changes the "Meta" of the street. If you drive 50 mph over a speed bump, you will damage your suspension and lose more time in repairs than you ever saved by speeding.
+A speed bump is a physical constraint. It doesn't care if you're a "good person" or a "bad person." It simply changes the "Meta" of the street. If you drive 50 mph over a speed bump, you will damage your suspension and lose more time in repairs than you ever saved by speeding.
 
 The "optimal strategy" for the driver changed instantly. Before, the optimal strategy was "Speed up to save time." Now, the optimal strategy is "Slow down to save money."
 
@@ -71,7 +71,7 @@ Does this mean we should stop trying to be "good"? Does it mean the "Heroes" are
 
 We need the swimmers. We need the people who refuse the bribe, the developers who build ethical apps even when they lose money, and the people who keep pointing at the "Slow Down" sign.
 
-Why? Because in an evolutionary system, the Hero is the **Variance**.
+Because in an evolutionary system, the Hero is the **Variance**.
 
 The Hero is the mutation that proves a different way is possible. If everyone just followed the current, we would never even know that the river could be redirected. The swimmer doesn't usually win the race, but they are the only ones who can see where the track is broken.
 
@@ -94,7 +94,5 @@ A System Designer doesn't look at the world as a collection of good and bad peop
 **Fourth, look at the compounding.** Most of the problems that seem intractable today are not conspiracies. They are small errors that have been running for decades. Is the monopoly powerful because it is evil, or because it had a 1% efficiency advantage that compounded for fifty years? Why is one neighborhood wealthy and the one next to it struggling? Often, a zoning decision made in the 1960s gave one area better schools. Better schools attracted wealthier families. Wealthier families funded even better schools. Sixty years later, the gap looks like culture. It is compounding.
 
 ### The New Map
-
-This is the Shift. The transition from moralizing to mapping.
 
 You don't cut off the heads. You starve the beast.

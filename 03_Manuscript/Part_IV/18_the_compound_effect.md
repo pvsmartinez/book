@@ -76,12 +76,12 @@ Remember the equation from Part III:
 
 $$Value Function = Rules \\times Track \\times Competitors$$
 
-We've already seen each of these variables move. The Red Queen showed us competitors escalating. The Cobweb Effect showed us how rules are gamed. Hawks and Doves showed us strategies shifting as the population changes. We saw *that* these things change. Recursion is *why* they change.
+We've already seen each of these variables move. The Red Queen showed us competitors escalating. The Cobweb Effect showed us how rules are gamed. Hawks and Doves showed us strategies shifting as the population changes. Recursion is *why* they change.
 
 In the game example, the Rules never changed. Tanks still beat Assassins, Assassins still beat DPS. But as players adapted, the **Competitors** changed: different strategies rose and fell in popularity. And because the Competitors are one of the variables in the Value Function, the Value Function itself shifted. What was "optimal" yesterday stopped being optimal today, because the field you were competing against was different.
 
 This is the key insight: the recursion doesn't just change the players. It changes the *equation*. Each cycle's output rewrites part of the Value Function for the next cycle.
 
-The river shows us the same thing. The water erodes the dirt, reshaping the Track, the physical terrain. But the force driving the water (gravity) never changes. Water always flows to the lowest gravitational energy. The recursion reshapes the landscape, but the compass is fixed.
+The river shows us the same thing. The water erodes the dirt, reshaping the Track. But the force driving the water never changes — water always flows to the lowest gravitational energy. The recursion reshapes the landscape, but the compass is fixed.
 
 What changes is the terrain. And the terrain is always a product of the last cycle. Which means every answer the system finds becomes the next question it has to solve.

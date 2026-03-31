@@ -4,7 +4,7 @@ Earth's climate has always oscillated.
 
 Warmer centuries, cooler centuries. Ice ages that lasted millennia, then thawing periods that brought them back. If you zoom out far enough, the temperature chart looks like a pendulum: swinging back and forth around a center, never straying too far.
 
-That pendulum wasn't a coincidence. It was held in place by buffers. Oceans absorbed excess heat. Forests consume carbon dioxide. Ice sheets reflected sunlight. Each acted like a shock absorber, dampening the swings and pulling the system back toward its center. The planet had a built-in correction mechanism in its physics. A bowl around the ball.
+That pendulum was held in place by buffers. Oceans absorbed excess heat. Forests consume carbon dioxide. Ice sheets reflected sunlight. Each acted like a shock absorber, dampening the swings and pulling the system back toward its center. The planet had a built-in correction mechanism in its physics. A bowl around the ball.
 
 But buffers have capacity. And capacity can be exceeded.
 
@@ -17,8 +17,6 @@ This is recursion working against the correction mechanism. The system's output 
 The tipping point isn't the moment the temperature goes up. The temperature had been going up for decades.
 
 The tipping point is the moment the system loses the ability to pull itself back. The buffers are gone. The correction mechanism is broken.
-
-Just like breakpoints, tipping points are major changes that at first seem to come out of nowhere. The system was working. So why doesn't it work now?
 
 History is full of tipping points that nobody saw coming, and a few that everybody saw coming and couldn't stop anyway.
 
@@ -84,8 +82,6 @@ Defeat after defeat. Soldiers died at the front. Families starved at home. The e
 
 At some point, the math flipped. The cost of enduring the system exceeded the cost of overthrowing it. In February 1917, the revolution came. An entire new political order emerged, and a thousand years of compounding were gone.
 
-Karl Marx had published *The Communist Manifesto* 69 years earlier. But his ideas didn't change the UK or France. They were debated there. They were debated in Russia as well. For multiple generations.
-
 The famine had been real for centuries. It wasn't something new.
 
 The revolution needed the war to finally tip the scales. The system was so calcified, so deeply compounded into its own structure, that it took a catastrophic external shock to push the cost over the threshold.
@@ -98,7 +94,7 @@ Except sometimes it doesn't.
 
 The Cold War is a good example. For decades, the United States and the Soviet Union escalated tensions, intervention after intervention. Proxy wars in Korea, Vietnam, Afghanistan. Nuclear arsenals were growing year after year. Each side was testing the other's boundaries, each test compounding the risk.
 
-Then came Cuba. In October 1962, the Soviet Union placed nuclear missiles ninety miles from the American coast. The United States imposed a naval blockade. For thirteen days, the world stood at the edge of a breakpoint that would have made every other example in this chapter look small.
+Then came Cuba. In October 1962, the Soviet Union placed nuclear missiles ninety miles from the American coast. The United States imposed a naval blockade. For thirteen days, the world stood at the edge of nuclear war.
 
 And it didn't snap.
 
@@ -120,6 +116,6 @@ Nobody knows. That's the point.
 
 In hindsight, every tipping point looks obvious. In foresight, they're almost impossible to call.
 
-The people watching the dot-com bubble weren't stupid. Neither were the diplomats in 1912, nor the Russian generals in 1916. They were operating in a system that looked stable right up until it wasn't. Because that's what systems do: they absorb, and absorb, and absorb, and then they don't.
+They were operating in a system that looked stable right up until it wasn't. Because that's what systems do: they absorb, and absorb, and absorb, and then they don't.
 
 The pressure was always there. The buffers were always thinning. The only question is what the last iteration will be.

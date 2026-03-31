@@ -29,7 +29,7 @@ Suddenly, you only need **two hits**. That tiny 3-point shift crossed a **Breakp
 
 Same size upgrade. One gave you nothing. The other changed the game.
 
-The recursion doesn't always produce visible change. It accumulates quietly, doing nothing, nothing, nothing, until it crosses a line. And then everything shifts at once.
+The recursion accumulates quietly until it crosses a line. And then everything shifts at once.
 
 ### The Grocery List
 

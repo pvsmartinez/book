@@ -48,9 +48,7 @@ Bruno's disciplined savings have grown to a respectable $86 million. Ana is sitt
 
 Ana is more than twice as wealthy as Bruno. She didn't work twice as hard. She was just in front at the start.
 
-The Selic rate isn't a law of physics. It's a decision made by people in a room. But once that decision enters a recursive system, the math takes over. It doesn't care whether the people involved are good or bad. It doesn't care about intent.
-
-It only cares about momentum.
+The Selic rate isn't a law of physics. It's a decision made by people in a room. But once that decision enters a recursive system, the math takes over. It doesn't care about intent. It only cares about momentum.
 
 ### Acknowledging the Imbalance
 
@@ -88,6 +86,6 @@ The Value Function is just selecting the "fittest" option *right now*. But that 
 
 I catch myself wondering this sometimes: how much of my "success" is talent, and how much is just the compounding of an early advantage I didn't choose?
 
-We feel this intuitively, which is why fiction loves this question. Time travel stories, alternate histories. One small change in the past that ripples forward, reshaping everything. We call it the butterfly effect. But it's not science fiction. It's just what happens when a small difference enters a recursive system. The advantage doesn't stay small. It propagates. It compounds. And by the time anyone notices the gap, it's immeasurable.
+Time travel stories, alternate histories — one small change in the past that ripples forward, reshaping everything. We call it the butterfly effect. But it's not science fiction. It's just what happens when a small difference enters a recursive system. The advantage doesn't stay small. It propagates. It compounds. And by the time anyone notices the gap, it's immeasurable.
 
 The pebble that started it all is long gone. What remains is the landscape it became.

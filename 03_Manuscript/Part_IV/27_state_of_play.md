@@ -18,7 +18,7 @@ It just iterates.
 
 This chapter is an exercise. A pause before the final act. I want to take what we've built and point it at the world, all at once, and see what we see.
 
-Not a complete map. Enough to feel how the gears connect.
+Enough to feel how the gears connect.
 
 ---
 
@@ -60,8 +60,7 @@ Walk through any city, and you can see the Pattern at street level. Three barber
 
 But the digital world changed the physics of scale.
 
-Online, a product can reach a billion users without adding a single employee. The relationship between a business's size and its reach has decoupled completely. A platform that hits critical mass first captures the network because everyone else is already there. The local maximum locks in. And when players grow large enough, the most efficient survival strategy shifts: instead of building a better product, it becomes easier to prevent competition through acquisitions, regulatory capture, or sheer gravitational pull.
-
+Online, a product can reach a billion users without adding a single employee. The relationship between a business's size and its reach has decoupled completely. A platform that hits critical mass first captures the network. The local maximum locks in. And when players grow large enough, the most efficient survival strategy shifts: instead of building a better product, it becomes easier to prevent competition through acquisitions, regulatory capture, or sheer gravitational pull.
 
 This produced something historically unusual. A handful of companies now account for a share of global market value that would have been unimaginable a generation ago. Structurally untouchable in ways that Venice, Standard Oil, or the East India Company never quite achieved, because the scale at which digital networks operate has no real precedent. The concentration is real, the debt underpinning it is real, and the wealth gap that compounds alongside it is real.
 
@@ -75,13 +74,13 @@ That was the idea. And it was a good one.
 
 The mechanism for all of this is the election cycle. Every four or five years, the loop closes. And, like any form of selection pressure, it shapes the players over time.
 
-The early cycles were more ideological. Candidates argued philosophy, built coalitions around principles, and governed (or tried to). The feedback was slow and noisy, but there was at least a loose connection between winning and governing. Then the cycles compounded. Players learned what worked. What worked wasn't policy. It was a performance. Each generation of politicians inherited a more refined playbook: sharper lines, faster signals, more efficient outrage. The selection pressure was always to win the election. And over enough iterations, what winning required drifted further and further from what governing required.
+The early cycles were more ideological. Candidates argued philosophy, built coalitions around principles, and governed (or tried to). The feedback was slow and noisy, but there was at least a loose connection between winning and governing. Then the cycles compounded. Players learned what worked. What worked wasn't policy. It was a performance. Each generation of politicians inherited a more refined playbook: sharper lines, faster signals, more efficient outrage. And over enough iterations, what winning required drifted further and further from what governing required.
 
 The checks and balances were supposed to contain this. Separation of powers, independent courts, free press. They were a calibration attempt. A set of rules designed to keep the selection pressure pointed at governance rather than performance. Good rules, for the world they were written for. But they were calibrated for slower information, smaller populations, and a political class that at least shared a basic rulebook. The Meta shifted underneath them, and the calibration was never updated. Like a game where someone patched the mechanics without touching the scoring system, the rules stopped working as intended.
 
 Then the Track changed underneath all of it.
 
-The internet arrived. Social media arrived. Attention became the scarce resource, and outrage became the most efficient way to capture it. The arena changed faster than any institution could adapt. And the players who understood the new arena won. Populism didn't come from nowhere. It was selected for. The Meta shifted, and the candidates who mastered the feed beat the candidates who mastered governance.
+The internet arrived. Social media arrived. Attention became the scarce resource, and outrage became the most efficient way to capture it. The arena changed faster than any institution could adapt. And the players who understood the new arena won. Populism was selected for. The candidates who mastered the feed beat the candidates who mastered governance.
 
 Look at the results. In Brazil, the last two presidents were arrested. Not one. Both are from opposite ends of the political spectrum. That's not a coincidence of ideology. That's the signature of a system that has been selecting, over decades, for a player profile that, at a certain level of power, collides with the law. In Italy, governments cycle through crises so fast that it's become predictable. In South Korea and Japan, leaders face impeachments and scandals. In France and across Europe, leaders step down under pressures that would have been unthinkable a generation ago.
 
@@ -117,7 +116,7 @@ On the other side, loneliness, depression, and anxiety are at epidemic levels. L
 
 And the medium through which all of this is experienced has transformed entirely. The Feed selects for contagion, not truth. Ideas compete the way viruses compete: the one that triggers outrage replicates faster than the one that requires patience. With no gatekeepers left, nuance gets selected out.
 
-But the same medium that amplifies conflict also amplifies *visibility*. Voices that were invisible for centuries now reach millions. Stories that would have died in a local meeting room become global movements. The same algorithm that feeds you rage feeds someone, somewhere, a story that changed how they see a person they'd never met. The question is which one compounds faster.
+But the same medium that amplifies conflict also amplifies *visibility*. Voices that were invisible for centuries now reach millions. The same algorithm that feeds you rage feeds someone, somewhere, a story that changed how they see a person they'd never met. The question is which one compounds faster.
 
 #### Health
 
@@ -161,7 +160,7 @@ Not a complete one. Not a perfect one. If you're an economist, a political scien
 
 But the photograph is useful because it shows the game's shape.
 
-Politics, economy, health, and education. Different directions. Different speeds. The same engine.
+Politics, economy, health, and education. Different directions, different speeds. The same engine.
 
 And none of them are broken. Every single one is doing exactly what the Pattern predicts. The shapes we studied aren't abstract concepts. They are the architecture of the world you live in, running in parallel, all at once.
 
