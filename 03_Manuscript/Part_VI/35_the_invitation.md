@@ -1,6 +1,6 @@
-## Chapter 36: The Invitation
+## Chapter 35: The Invitation
 
-<!-- FLAG-DRAMATIC: Sweeping machine-rhetoric opener. "The loops are tightening. The errors are compounding. The friction is vanishing." reads like a movie trailer voiceover. The honest confession three lines down ("I don't have a magical patch for climate change") is the real voice. Consider leading with that honesty instead of the dramatic buildup. --> We are living in a hyper-adapting machine that is running too hot. The loops are tightening. The errors are compounding. The friction is vanishing.
+&lt;!-- FLAG-DRAMATIC: Sweeping machine-rhetoric opener. "The loops are tightening. The errors are compounding. The friction is vanishing." reads like a movie trailer voiceover. The honest confession three lines down ("I don't have a magical patch for climate change") is the real voice. Consider leading with that honesty instead of the dramatic buildup. --&gt; We are living in a hyper-adapting machine that is running too hot. The loops are tightening. The errors are compounding. The friction is vanishing.
 
 Looking at this acceleration, it is easy to feel small. It is easy to feel like a passenger in a car with no driver, locked into a destination you didn't choose. But you are not a passenger. You are a part of the code.
 
